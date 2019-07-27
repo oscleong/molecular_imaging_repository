@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PEHXAC
+_audit_creation_date 2006-10-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEHXAC
+_database_code_depnum_ccdc_archive 'CCDC 282874'
+_chemical_formula_sum 'C5 H7 N3 O1'
+_chemical_formula_moiety
+;
+C5 H7 N3 O1
+;
+_journal_coden_Cambridge 151
+_journal_volume 48
+_journal_year 2005
+_journal_page_first 4231
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"L.Oresmaa"
+"H.Kotikoski"
+"M.Haukka"
+"J.Salminen"
+"O.Oksala"
+"E.Pohjala"
+"E.Moilanen"
+"H.Vapaatalo"
+"P.Vainiotalo"
+"P.Aulaskari"
+_chemical_name_systematic
+;
+1-Methylimidazole-5-carbaldehyde oxime
+;
+_cell_volume   1241.428
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.339
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0368
+_refine_ls_wR_factor_gt 0.0368
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.0523(4)
+_cell_length_b 9.3550(3)
+_cell_length_c 9.5194(3)
+_cell_angle_alpha 90
+_cell_angle_beta 97.243(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.51232(8) 0.18319(13) 0.55324(12)
+H1 H 0.49830 0.10430 0.61000
+C2 C 0.60174(8) 0.25874(12) 0.59139(12)
+C3 C 0.66835(8) 0.23585(13) 0.70710(13)
+H2 H 0.66230 0.16680 0.77860
+C4 C 0.72460(8) 0.40300(14) 0.58884(13)
+H3 H 0.76560 0.47480 0.55930
+C5 C 0.59838(9) 0.43058(14) 0.38188(13)
+H4 H 0.64260 0.50260 0.35290
+H5 H 0.53680 0.47570 0.39270
+H6 H 0.58850 0.35560 0.30960
+N1 N 0.45112(7) 0.21666(11) 0.44746(11)
+N2 N 0.74495(7) 0.32614(12) 0.70561(11)
+N3 N 0.63890(7) 0.36768(10) 0.51655(10)
+O1 O 0.37198(6) 0.1241(1) 0.43879(10)
+H7 H 0.3337(15) 0.155(2) 0.351(2)
+#END

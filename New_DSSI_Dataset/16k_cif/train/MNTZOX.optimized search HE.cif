@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNTZOX
+_audit_creation_date 1979-01-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNTZOX
+_database_code_depnum_ccdc_archive 'CCDC 1212758'
+_chemical_formula_sum 'C12 H9 N3 O2'
+_chemical_formula_moiety
+;
+C12 H9 N3 O2
+;
+_journal_coden_Cambridge 207
+_journal_year 1978
+_journal_page_first 789
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"F.J.Lalor"
+"F.L.Scott"
+"G.Ferguson"
+"W.C.Marsh"
+_chemical_name_systematic
+;
+3-Methylnaphtho(1,2-e)(1,2,4)triazin-2(3H)-one 1-oxide
+;
+_cell_volume   1009.831
+_exptl_crystal_density_diffrn 1.494
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.649(1)
+_cell_length_b 17.382(3)
+_cell_length_c 7.874(1)
+_cell_angle_alpha 90
+_cell_angle_beta 105.29(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1 H 0.05000 0.06300 0.12300
+H2 H 0.94900 -0.06300 0.39400
+H3 H 0.88700 -0.07000 0.18200
+H4 H 0.82300 -0.12600 0.29500
+O1 O 0.22990 -0.02470 0.09520
+O2 O 0.51050 -0.10540 0.08450
+N1 N 0.38130 -0.00180 0.19080
+C1 C 0.53190 -0.05070 0.18200
+N2 N 0.69380 -0.02930 0.29150
+N3 N 0.72600 0.03330 0.39410
+C2 C 0.62390 0.14700 0.49650
+C3 C 0.49220 0.19640 0.49910
+C4 C 0.17260 0.23570 0.40780
+C5 C -0.00520 0.22440 0.31400
+C6 C -0.05170 0.16030 0.20800
+C7 C 0.07730 0.10710 0.19700
+C8 C 0.26030 0.11650 0.29200
+C9 C 0.40600 0.06350 0.28810
+C10 C 0.58650 0.07850 0.39040
+C11 C 0.30750 0.18320 0.39870
+C12 C 0.85460 -0.07590 0.29300
+H5 H 0.75300 0.15100 0.56300
+H6 H 0.51600 0.24300 0.57100
+H7 H 0.20400 0.28100 0.47400
+H8 H -0.09100 0.26200 0.32300
+H9 H -0.17300 0.15300 0.14100
+#END

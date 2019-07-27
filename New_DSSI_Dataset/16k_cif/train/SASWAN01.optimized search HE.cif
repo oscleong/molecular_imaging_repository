@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SASWAN01
+_audit_creation_date 2017-06-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SASWAN01
+_database_code_depnum_ccdc_archive 'CCDC 1550062'
+_chemical_formula_sum 'C19 H19 N3 O4'
+_chemical_formula_moiety
+;
+C19 H19 N3 O4
+;
+_journal_coden_Cambridge 1127
+_journal_volume 27
+_journal_year 2017
+_journal_page_first 3878
+_journal_name_full 'Bioorg.Med.Chem.Lett. '
+loop_
+_publ_author_name
+"G.A.McConkey"
+"P.T.P.Bedingfield"
+"D.R.Burrell"
+"N.C.Chambers"
+"F.Cunningham"
+"T.J.Prior"
+"C.W.G.Fishwick"
+"A.N.Boa"
+_chemical_name_systematic
+;
+ethyl 3-[(9-ethyl-9H-carbazol-3-yl)amino]-2-nitroprop-2-enoate
+;
+_cell_volume    846.566
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.386
+_exptl_special_details
+;
+inhibitor of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH)
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'Ethyl acetate'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1037
+_refine_ls_wR_factor_gt 0.1037
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.123(2)
+_cell_length_b 8.2709(17)
+_cell_length_c 13.834(3)
+_cell_angle_alpha 91.517(16)
+_cell_angle_beta 102.586(18)
+_cell_angle_gamma 110.110(18)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4044(9) 0.3717(7) 0.8594(4)
+C2 C 0.3184(9) 0.3231(8) 0.9377(4)
+H1 H 0.34708 0.24501 0.98163
+C3 C 0.1912(10) 0.3928(8) 0.9483(5)
+H2 H 0.13135 0.36103 1.00058
+C4 C 0.1465(10) 0.5088(8) 0.8850(5)
+H3 H 0.05829 0.55481 0.89473
+C5 C 0.2313(11) 0.5554(8) 0.8088(5)
+H4 H 0.19978 0.63251 0.76512
+C6 C 0.3625(10) 0.4912(7) 0.7950(4)
+C7 C 0.4804(10) 0.5180(8) 0.7279(4)
+C8 C 0.5062(12) 0.6246(8) 0.6525(5)
+H5 H 0.43409 0.69377 0.63561
+C9 C 0.6317(13) 0.6298(9) 0.6041(5)
+C10 C 0.7348(11) 0.5213(10) 0.6243(5)
+H6 H 0.81989 0.52425 0.58622
+C11 C 0.7137(10) 0.4070(9) 0.7010(5)
+H7 H 0.78250 0.33435 0.71544
+C12 C 0.5845(9) 0.4104(8) 0.7528(4)
+C13 C 0.6129(9) 0.2028(7) 0.8823(4)
+H8 H 0.62591 0.22270 0.95493
+H9 H 0.73486 0.22551 0.87124
+C14 C 0.4969(9) 0.0156(8) 0.8461(5)
+H10 H 0.55305 -0.06007 0.88208
+H11 H 0.37670 -0.00871 0.85831
+H12 H 0.48572 -0.00590 0.77458
+C15 C 0.7619(12) 0.7819(11) 0.4745(6)
+H13 H 0.82156 0.70106 0.47557
+C16 C 0.8059(10) 0.9077(8) 0.4119(5)
+C17 C 0.9406(10) 0.8984(8) 0.3578(5)
+C18 C 1.0848(10) 0.9885(9) 0.2286(5)
+H14 H 1.04784 0.86831 0.19746
+H15 H 1.20828 1.02215 0.27191
+C19 C 1.0808(10) 1.1087(9) 0.1503(5)
+H16 H 1.16399 1.10396 0.10951
+H17 H 0.95798 1.07402 0.10793
+H18 H 1.11771 1.22719 0.18205
+N1 N 0.5383(7) 0.3255(6) 0.8321(3)
+N2 N 0.6573(10) 0.7578(8) 0.5295(5)
+H19 H 0.59055 0.82280 0.52423
+N3 N 0.7390(9) 1.0469(7) 0.4063(4)
+O1 O 0.5949(9) 1.0215(6) 0.4311(4)
+O2 O 0.8247(6) 1.1864(5) 0.3796(3)
+O3 O 0.9595(6) 1.0009(5) 0.2866(3)
+O4 O 1.0210(8) 0.7986(6) 0.3765(4)
+#END

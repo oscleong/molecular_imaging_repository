@@ -1,0 +1,192 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PHNAPH02
+_audit_creation_date 2016-04-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PHNAPH02
+_database_code_depnum_ccdc_archive 'CCDC 1448442'
+_chemical_formula_sum 'C30 H16'
+_chemical_formula_moiety
+;
+C30 H16
+;
+_journal_coden_Cambridge 179
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 6041
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"T.Wombacher"
+"A.Gassmann"
+"S.Foro"
+"H.von Seggern"
+"J.J.Schneider"
+_chemical_name_systematic
+;
+Di-indeno[1,2,3-fg:1',2',3'-op]tetracene
+;
+_cell_volume   1770.541
+_exptl_crystal_colour 'dark brown'
+_exptl_crystal_density_diffrn 1.412
+_exptl_special_details
+;
+C2/c polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0517
+_refine_ls_wR_factor_gt 0.0517
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 24.802(5)
+_cell_length_b 3.8834(6)
+_cell_length_c 21.100(4)
+_cell_angle_alpha 90
+_cell_angle_beta 119.40(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.09087(11) 0.6084(7) 0.28995(11)
+H1 H 0.05600 0.69200 0.29050
+C2 C 0.08562(12) 0.4648(7) 0.22695(12)
+H2 H 0.04700 0.45290 0.18530
+C3 C 0.13671(12) 0.3400(7) 0.22534(12)
+H3 H 0.13240 0.24570 0.18260
+C4 C 0.19478(11) 0.3529(6) 0.28679(11)
+H4 H 0.22910 0.26690 0.28520
+C5 C 0.20147(10) 0.4945(6) 0.35055(11)
+C6 C 0.14820(9) 0.6267(6) 0.35189(11)
+C7 C 0.16819(9) 0.7646(6) 0.42579(10)
+C8 C 0.14123(9) 0.9261(5) 0.46342(11)
+C9 C 0.07657(10) 1.0020(6) 0.42996(12)
+H5 H 0.05110 0.94770 0.38120
+C10 C 0.05143(11) 1.1507(7) 0.46740(13)
+H6 H 0.00910 1.19290 0.44420
+C11 C 0.08839(11) 1.2425(7) 0.54087(13)
+H7 H 0.07040 1.34540 0.56580
+C12 C 0.1501(1) 1.1816(6) 0.57556(12)
+H8 H 0.17380 1.24570 0.62410
+C13 C 0.17989(9) 1.0228(5) 0.54026(11)
+C14 C 0.24400(9) 0.9547(5) 0.57612(11)
+C15 C 0.23169(9) 0.7040(6) 0.46395(10)
+C1F C 0.40913(11) 0.8916(7) 0.71005(11)
+H1F H 0.44400 0.80800 0.70950
+C2F C 0.41438(12) 1.0352(7) 0.77305(12)
+H2F H 0.45300 1.04710 0.81470
+C3F C 0.36329(12) 1.1600(7) 0.77466(12)
+H3F H 0.36760 1.25430 0.81740
+C4F C 0.30522(11) 1.1471(6) 0.71321(11)
+H4F H 0.27090 1.23310 0.71480
+C5F C 0.29853(10) 1.0055(6) 0.64945(11)
+C6F C 0.35180(9) 0.8733(6) 0.64811(11)
+C7F C 0.33181(9) 0.7354(6) 0.57421(10)
+C8F C 0.35877(9) 0.5739(5) 0.53658(11)
+C9F C 0.42343(10) 0.4980(6) 0.57004(12)
+H5F H 0.44890 0.55230 0.61880
+C10F C 0.44857(11) 0.3493(7) 0.53260(13)
+H6F H 0.49090 0.30710 0.55580
+C11F C 0.41161(11) 0.2575(7) 0.45913(13)
+H7F H 0.42960 0.15460 0.43420
+C12F C 0.3499(1) 0.3184(6) 0.42444(12)
+H8F H 0.32620 0.25430 0.37590
+C13F C 0.32011(9) 0.4772(5) 0.45974(11)
+C14F C 0.25600(9) 0.5453(5) 0.42388(11)
+C15F C 0.26831(9) 0.7960(6) 0.53605(10)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 0.929 1_555 1_555
+C2 C1 1.387 1_555 1_555
+H2 C2 0.930 1_555 1_555
+C3 C2 1.373 1_555 1_555
+H3 C3 0.930 1_555 1_555
+C4 C3 1.387 1_555 1_555
+H4 C4 0.930 1_555 1_555
+C5 C4 1.386 1_555 1_555
+C6 C1 1.382 1_555 1_555
+C7 C6 1.485 1_555 1_555
+C8 C7 1.411 1_555 1_555
+C9 C8 1.430 1_555 1_555
+H5 C9 0.929 1_555 1_555
+C10 C9 1.353 1_555 1_555
+H6 C10 0.930 1_555 1_555
+C11 C10 1.405 1_555 1_555
+H7 C11 0.931 1_555 1_555
+C12 C11 1.354 1_555 1_555
+H8 C12 0.930 1_555 1_555
+C13 C8 1.471 1_555 1_555
+C14 C13 1.410 1_555 1_555
+C15 C7 1.393 1_555 1_555
+C1F H1F 0.929 1_555 1_555
+C2F C1F 1.387 1_555 1_555
+H2F C2F 0.930 1_555 1_555
+C3F C2F 1.373 1_555 1_555
+H3F C3F 0.930 1_555 1_555
+C4F C3F 1.387 1_555 1_555
+H4F C4F 0.930 1_555 1_555
+C5F C14 1.486 1_555 1_555
+C6F C1F 1.382 1_555 1_555
+C7F C6F 1.485 1_555 1_555
+C8F C7F 1.411 1_555 1_555
+C9F C8F 1.430 1_555 1_555
+H5F C9F 0.929 1_555 1_555
+C10F C9F 1.353 1_555 1_555
+H6F C10F 0.930 1_555 1_555
+C11F C10F 1.405 1_555 1_555
+H7F C11F 0.931 1_555 1_555
+C12F C11F 1.354 1_555 1_555
+H8F C12F 0.930 1_555 1_555
+C13F C8F 1.471 1_555 1_555
+C14F C5 1.486 1_555 1_555
+C15F C14 1.400 1_555 1_555
+C5 C6 1.431 1_555 1_555
+C12 C13 1.422 1_555 1_555
+C15 C14F 1.400 1_555 1_555
+C15 C15F 1.382 1_555 1_555
+C4F C5F 1.386 1_555 1_555
+C5F C6F 1.431 1_555 1_555
+C7F C15F 1.393 1_555 1_555
+C12F C13F 1.422 1_555 1_555
+C13F C14F 1.410 1_555 1_555
+#END

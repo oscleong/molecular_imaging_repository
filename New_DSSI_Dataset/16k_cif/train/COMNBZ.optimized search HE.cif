@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_COMNBZ
+_audit_creation_date 1980-09-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD COMNBZ
+_database_code_depnum_ccdc_archive 'CCDC 1129325'
+_chemical_formula_sum 'C14 H11 N1 O5'
+_chemical_formula_moiety
+;
+C14 H11 N1 O5
+;
+_journal_coden_Cambridge 15
+_journal_volume 58
+_journal_year 1980
+_journal_page_first 658
+_journal_name_full 'Can.J.Chem. '
+loop_
+_publ_author_name
+"R.Gopal"
+"W.D.Chandler"
+"B.E.Robertson"
+_chemical_name_systematic
+;
+(4'-Carbomethoxy-2'-nitrophenoxy)-benzene
+;
+_chemical_melting_point 376.15
+_cell_volume   1288.642
+_exptl_crystal_colour 'slight yellowish'
+_exptl_crystal_density_diffrn 1.408
+_exptl_special_details
+;
+Melting point range 376.15-378.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One oxygen of the nitro-group exhibits static disorder: O51 and O52 each have 
+occupancy 0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.062
+_refine_ls_wR_factor_gt 0.062
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.880(7)
+_cell_length_b 9.792(4)
+_cell_length_c 14.820(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90.07(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.39450 0.37850 0.09870
+C2 C 0.32250 0.49920 0.11370
+C3 C 0.28560 0.54110 0.20040
+C4 C 0.32480 0.45720 0.27070
+C5 C 0.39800 0.33590 0.25780
+C6 C 0.43230 0.29600 0.17060
+C7 C 0.21880 0.43400 0.41820
+C8 C 0.12730 0.32530 0.39560
+C9 C 0.04700 0.25470 0.45990
+C10 C 0.05520 0.29240 0.55030
+C11 C 0.14420 0.40220 0.57350
+C12 C 0.22470 0.47160 0.50920
+C13 C -0.02610 0.22020 0.62360
+C14 C -0.19010 0.03840 0.66150
+N1 N 0.31530 0.58760 0.54030
+O1 O 0.29760 0.50900 0.35780
+O2 O -0.01880 0.25280 0.70150
+O3 O -0.10710 0.11510 0.59370
+O4 O 0.30350 0.62370 0.61540
+H1 H 0.42500 0.34900 0.03600
+H2 H 0.30300 0.56300 0.06400
+H3 H 0.23900 0.62800 0.21400
+H4 H 0.41800 0.28100 0.30700
+H5 H 0.48300 0.21200 0.16000
+H6 H 0.12100 0.29900 0.33600
+H7 H -0.01000 0.17500 0.44400
+H8 H 0.14400 0.43400 0.63600
+H9 H -0.25400 -0.02900 0.63000
+H10 H -0.24800 0.10100 0.69500
+H11 H -0.11600 -0.00100 0.70700
+O5 O 0.43950 0.61640 0.49900
+O6 O 0.33900 0.67910 0.48800
+#END

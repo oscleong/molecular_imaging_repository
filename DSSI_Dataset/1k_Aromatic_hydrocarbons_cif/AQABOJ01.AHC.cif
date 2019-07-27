@@ -1,0 +1,212 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AQABOJ01
+_audit_creation_date 2006-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AQABOJ01
+_database_code_depnum_ccdc_archive 'CCDC 261704'
+_chemical_formula_sum 'C28 H24'
+_chemical_formula_moiety
+;
+C28 H24
+;
+_journal_coden_Cambridge 1291
+_journal_year 2005
+_journal_page_first 4533
+_journal_name_full 'Eur.J.Org.Chem. '
+loop_
+_publ_author_name
+"T.Fujita"
+"S.Kuwahara"
+"N.Harada"
+_chemical_name_systematic
+;
+(2S*,2'S*)-(M*,M*)-(E)-(+-)-2,2'-dimethyl-2,2',3,3'-tetrahydro-1,1'-bi[1H-benz
+[e]indenylidene]
+;
+_chemical_melting_point 464.15
+_cell_volume   4015.742
+_exptl_crystal_density_diffrn 1.19
+_exptl_special_details
+;
+Melting point range 464.15-465.15K
+This study succeeded in the direct synthesis of the chiral molecular motor 
+and hence in the unambiguous determination of the absolute stereochemistry 
+which disagrees with that in the study by of Feringa's group JACS 2003, 
+125,15076 (AQABOJ)
+;
+_exptl_crystal_preparation 'MeOH'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+loop_
+_citation_database_id_CSD
+_citation_special_details
+AQABID "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 19.111(4)
+_cell_length_b 22.170(4)
+_cell_length_c 9.478(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.04849(7) 0.14645(6) -0.0308(1)
+C2 C -0.10650(7) 0.16017(6) 0.0696(1)
+C3 C -0.14844(7) 0.12311(6) 0.1589(1)
+C4 C -0.13674(8) 0.06092(7) 0.1814(2)
+C5 C -0.17728(9) 0.02817(8) 0.2726(2)
+C6 C -0.23208(9) 0.05596(9) 0.3466(2)
+C7 C -0.24458(8) 0.11580(9) 0.3290(2)
+C8 C -0.20331(7) 0.15143(7) 0.2374(2)
+C9 C -0.21406(9) 0.21447(8) 0.2250(2)
+C10 C -0.17027(9) 0.24910(8) 0.1457(2)
+C11 C -0.11561(8) 0.22205(6) 0.0706(2)
+C12 C -0.06027(9) 0.25308(7) -0.0160(2)
+C13 C -0.00396(8) 0.20359(6) -0.0305(2)
+C14 C 0.04573(9) 0.20657(9) 0.0964(2)
+C15 C -0.04655(6) 0.10247(6) -0.1293(1)
+C16 C -0.00352(7) 0.10131(6) -0.2603(2)
+C17 C 0.06801(7) 0.11584(6) -0.2879(2)
+C18 C 0.11836(8) 0.12710(7) -0.1817(2)
+C19 C 0.18636(8) 0.14012(8) -0.2145(2)
+C20 C 0.2082(1) 0.14270(8) -0.3559(2)
+C21 C 0.1619(1) 0.13015(8) -0.4606(2)
+C22 C 0.09111(9) 0.11549(6) -0.4311(2)
+C23 C 0.0442(1) 0.09886(8) -0.5394(2)
+C24 C -0.0221(1) 0.08075(8) -0.5099(2)
+C25 C -0.04569(8) 0.08130(7) -0.3693(2)
+C26 C -0.11655(8) 0.06273(8) -0.3155(2)
+C27 C -0.10351(7) 0.05525(6) -0.1556(2)
+C28 C -0.07767(8) -0.00897(7) -0.1265(2)
+H1 H -0.147(1) 0.0644(8) -0.098(2)
+H2 H 0.023(1) 0.2078(8) -0.122(2)
+H3 H 0.103(1) 0.1253(9) -0.083(2)
+H4 H -0.041(1) 0.291(1) 0.030(2)
+H5 H -0.033(1) -0.0189(9) -0.184(2)
+H6 H -0.152(1) 0.096(1) -0.336(2)
+H7 H -0.167(1) -0.016(1) 0.288(2)
+H8 H -0.096(1) 0.0414(9) 0.134(2)
+H9 H -0.055(1) 0.070(1) -0.584(2)
+H10 H -0.282(1) 0.137(1) 0.380(2)
+H11 H -0.063(1) -0.0155(9) -0.020(2)
+H12 H -0.080(1) 0.265(1) -0.114(2)
+H13 H 0.019(1) 0.208(1) 0.185(2)
+H14 H 0.177(1) 0.130(1) -0.560(2)
+H15 H -0.135(1) 0.024(1) -0.360(2)
+H16 H -0.261(1) 0.031(1) 0.412(2)
+H17 H -0.176(1) 0.293(1) 0.142(2)
+H18 H 0.221(1) 0.148(1) -0.137(2)
+H19 H 0.076(1) 0.243(1) 0.092(2)
+H20 H 0.259(1) 0.154(1) -0.375(2)
+H21 H 0.062(1) 0.101(1) -0.640(2)
+H22 H -0.114(1) -0.038(1) -0.154(2)
+H23 H 0.079(1) 0.169(1) 0.100(2)
+H24 H -0.254(1) 0.234(1) 0.278(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.492 1_555 1_555
+C2 C3 1.426 1_555 1_555
+C3 C4 1.413 1_555 1_555
+C4 C5 1.369 1_555 1_555
+C5 C6 1.403 1_555 1_555
+C6 C7 1.358 1_555 1_555
+C7 C8 1.414 1_555 1_555
+C8 C3 1.431 1_555 1_555
+C9 C8 1.417 1_555 1_555
+C10 C9 1.362 1_555 1_555
+C11 C2 1.383 1_555 1_555
+C12 C11 1.505 1_555 1_555
+C13 C1 1.526 1_555 1_555
+C14 C13 1.534 1_555 1_555
+C15 C1 1.350 1_555 1_555
+C16 C15 1.489 1_555 1_555
+C17 C16 1.429 1_555 1_555
+C18 C17 1.415 1_555 1_555
+C19 C18 1.367 1_555 1_555
+C20 C19 1.405 1_555 1_555
+C21 C20 1.358 1_555 1_555
+C22 C17 1.427 1_555 1_555
+C23 C22 1.412 1_555 1_555
+C24 C23 1.358 1_555 1_555
+C25 C16 1.383 1_555 1_555
+C26 C25 1.504 1_555 1_555
+C27 C15 1.531 1_555 1_555
+C28 C27 1.532 1_555 1_555
+H1 C27 1.015 1_555 1_555
+H2 C13 1.013 1_555 1_555
+H3 C18 0.981 1_555 1_555
+H4 C12 1.016 1_555 1_555
+H5 C28 1.036 1_555 1_555
+H6 C26 1.020 1_555 1_555
+H7 C5 1.009 1_555 1_555
+H8 C4 0.998 1_555 1_555
+H9 C24 0.972 1_555 1_555
+H10 C7 0.983 1_555 1_555
+H11 C28 1.058 1_555 1_555
+H12 C12 1.037 1_555 1_555
+H13 C14 0.983 1_555 1_555
+H14 C21 0.985 1_555 1_555
+H15 C26 1.020 1_555 1_555
+H16 C6 0.998 1_555 1_555
+H17 C10 0.980 1_555 1_555
+H18 C19 1.004 1_555 1_555
+H19 C14 0.994 1_555 1_555
+H20 C20 1.019 1_555 1_555
+H21 C23 1.013 1_555 1_555
+H22 C28 0.982 1_555 1_555
+H23 C14 1.048 1_555 1_555
+H24 C9 1.011 1_555 1_555
+C10 C11 1.399 1_555 1_555
+C12 C13 1.543 1_555 1_555
+C21 C22 1.419 1_555 1_555
+C24 C25 1.407 1_555 1_555
+C26 C27 1.545 1_555 1_555
+#END

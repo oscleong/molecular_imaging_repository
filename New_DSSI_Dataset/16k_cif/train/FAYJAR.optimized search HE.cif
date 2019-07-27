@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAYJAR
+_audit_creation_date 2005-04-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAYJAR
+_database_code_depnum_ccdc_archive 'CCDC 262496'
+_chemical_formula_sum 'C7 H10 N2 O3'
+_chemical_formula_moiety
+;
+C7 H10 N2 O3
+;
+_journal_coeditor_code "IUCr IS6029"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o198
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"S.M.M.Sony"
+"P.Charles"
+"M.N.Ponnuswamy"
+"H.S.Yathirajan"
+"M.Nethaji"
+_chemical_name_systematic
+;
+Ethyl 5-amino-3-methylisoxazole-4-carboxylate
+;
+_cell_volume   1800.508
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.256
+_exptl_crystal_description 'rectangular block'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0629
+_refine_ls_wR_factor_gt 0.0629
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.642(2)
+_cell_length_b 8.5036(14)
+_cell_length_c 16.934(3)
+_cell_angle_alpha 90
+_cell_angle_beta 98.488(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.28749(12) 0.02256(17) 0.72332(8)
+N1 N 0.34153(17) 0.1718(2) 0.72526(11)
+C1 C 0.36504(17) 0.1934(2) 0.65390(12)
+C2 C 0.33008(15) 0.0665(2) 0.60223(10)
+C3 C 0.28213(16) -0.0360(2) 0.64941(11)
+C4 C 0.33702(15) 0.0365(2) 0.51946(11)
+O2 O 0.30062(14) -0.07946(18) 0.48428(8)
+O3 O 0.38831(12) 0.14872(16) 0.48511(8)
+C5 C 0.40024(19) 0.1253(3) 0.40226(12)
+H1 H 0.33060 0.11760 0.36960
+H2 H 0.43940 0.02900 0.39620
+C6 C 0.4601(3) 0.2635(3) 0.37725(17)
+H3 H 0.46960 0.25160 0.32240
+H4 H 0.52870 0.26980 0.41000
+H5 H 0.42040 0.35780 0.38330
+N2 N 0.23454(18) -0.1727(2) 0.63567(13)
+C7 C 0.4208(2) 0.3405(3) 0.63647(14)
+H6 H 0.43370 0.40390 0.68380
+H7 H 0.37710 0.39790 0.59510
+H8 H 0.48780 0.31480 0.61920
+H9 H 0.2092(19) -0.223(3) 0.6722(15)
+H10 H 0.2342(19) -0.215(3) 0.5901(17)
+#END

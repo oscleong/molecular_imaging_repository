@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ISAMEW
+_audit_creation_date 2016-08-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ISAMEW
+_database_code_depnum_ccdc_archive 'CCDC 1063585'
+_chemical_formula_sum 'C14 H12 N2 O6'
+_chemical_formula_moiety
+;
+C14 H12 N2 O6
+;
+_journal_coeditor_code "su4066"
+_journal_coden_Cambridge 1959
+_journal_volume 1
+_journal_year 2016
+_journal_page_first x161235
+_journal_name_full 'IUCrData '
+loop_
+_publ_author_name
+"S.Bargavi"
+"P.Nataraj"
+"P.T.Perumal"
+"S.Lakshmi"
+_chemical_name_systematic
+;
+5-(2-hydroxy-5-methoxybenzoyl)-1-methyl-3-nitropyridin-2(1H)-one
+;
+_cell_volume   1359.268
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.487
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+O6A and O6B disordered over two sites with occupancies 0.6:0.4.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0409
+_refine_ls_wR_factor_gt 0.0409
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.5891(4)
+_cell_length_b 7.7739(2)
+_cell_length_c 14.1240(4)
+_cell_angle_alpha 90
+_cell_angle_beta 100.466(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.34903(10) 0.35190(18) 0.14070(9)
+H1 H 0.3954(19) 0.328(3) 0.1083(17)
+O2 O 0.52579(9) 0.72712(18) 0.46370(9)
+O3 O 0.15540(9) 0.52987(17) 0.17871(8)
+O4 O 0.00621(11) 0.1998(2) 0.53725(10)
+O5 O -0.17278(12) 0.3564(3) 0.44625(13)
+O6 O -0.1779(5) 0.4205(9) 0.2961(4)
+N1 N 0.15383(10) 0.24178(17) 0.47099(9)
+N2 N -0.12793(12) 0.3882(2) 0.37995(13)
+C1 C 0.36915(12) 0.5983(2) 0.3629(1)
+H2 H 0.32370 0.63600 0.40370
+C2 C 0.47843(12) 0.6343(2) 0.38467(11)
+C3 C 0.54549(12) 0.5717(2) 0.32474(12)
+H3 H 0.61920 0.59390 0.33940
+C4 C 0.50445(13) 0.4774(2) 0.24408(12)
+H4 H 0.55090 0.43510 0.20540
+C5 C 0.39424(12) 0.4444(2) 0.21954(11)
+C6 C 0.32676(11) 0.50583(19) 0.28016(10)
+C7 C 0.20704(11) 0.48412(19) 0.2557(1)
+C8 C 0.15132(11) 0.40964(19) 0.33026(10)
+C9 C 0.03961(12) 0.4296(2) 0.32247(11)
+H5 H 0.00050 0.48980 0.27070
+C10 C -0.01181(12) 0.3610(2) 0.39050(12)
+C11 C 0.04319(13) 0.2634(2) 0.47101(12)
+C12 C 0.20469(11) 0.31358(19) 0.40519(10)
+H6 H 0.27880 0.29750 0.41070
+C13 C 0.21453(15) 0.1356(3) 0.54895(13)
+H7 H 0.28880 0.12890 0.54170
+H8 H 0.18410 0.02200 0.54590
+H9 H 0.21020 0.18660 0.61000
+C14 C 0.45551(15) 0.7941(3) 0.52332(12)
+H10 H 0.40370 0.86960 0.48620
+H11 H 0.49700 0.85670 0.57590
+H12 H 0.41850 0.70100 0.54800
+O7? O -0.1684(7) 0.4936(10) 0.3255(5)
+#END

@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_COFDUW10
+_audit_creation_date 1990-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD COFDUW10
+_database_code_depnum_ccdc_archive 'CCDC 1128512'
+_chemical_formula_sum 'C8 H5 N1 O6'
+_chemical_formula_moiety
+;
+C8 H5 N1 O6
+;
+_journal_coden_Cambridge 1094
+_journal_volume 1
+_journal_year 1990
+_journal_page_first 107
+_journal_name_full 'Struct.Chem. '
+loop_
+_publ_author_name
+"A.Domenicano"
+"G.Schultz"
+"I.Hargittai"
+"M.Colapietro"
+"G.Portalone"
+"P.George"
+"C.W.Bock"
+_chemical_name_systematic
+;
+5-Nitroisophthalic acid
+;
+_chemical_melting_point 533
+_cell_volume   3623.195
+_exptl_crystal_density_diffrn 1.548
+_exptl_special_details
+;
+Melting point range 533-534K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The carboxylic hydrogens are disordered over two positions with occupancies 
+of 0.20, 0.80, 0.32 and 0.68 for both molecules.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0388
+_refine_ls_wR_factor_gt 0.0388
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'A 2/a'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2-x,y,-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -x,-1/2-y,-1/2-z
+7 -1/2+x,-y,z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.958(2)
+_cell_length_b 9.854(1)
+_cell_length_c 31.472(4)
+_cell_angle_alpha 90
+_cell_angle_beta 115.63(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.68310(19) 0.34580(24) 0.37363(9)
+O2 O 0.66561(19) 0.26521(25) 0.43400(8)
+O3 O 1.00235(16) -0.07156(19) 0.34114(6)
+O4 O 0.89982(16) 0.11225(20) 0.30530(6)
+O5 O 0.87649(16) -0.14119(23) 0.51250(6)
+O6 O 0.96709(20) -0.2579(2) 0.47789(7)
+N1 N 0.70293(18) 0.26154(25) 0.40452(8)
+C1 C 0.77749(18) 0.14717(24) 0.40602(7)
+C2 C 0.81816(18) 0.14040(23) 0.37210(7)
+C3 C 0.89093(18) 0.03472(22) 0.37434(6)
+C4 C 0.92155(18) -0.06178(22) 0.40989(7)
+C5 C 0.87727(18) -0.05351(23) 0.44299(6)
+C6 C 0.80464(19) 0.05159(25) 0.44124(7)
+C7 C 0.93602(19) 0.02192(24) 0.33829(7)
+C8 C 0.90780(19) -0.15813(25) 0.48066(7)
+H1 H 0.927(3) 0.091(4) 0.285(2)
+H2 H 0.983(4) -0.308(4) 0.501(2)
+H3 H 0.801(2) 0.205(3) 0.349(1)
+H4 H 0.973(2) -0.129(2) 0.412(1)
+H5 H 0.774(2) 0.057(3) 0.464(1)
+O7 O 0.79888(20) 0.33871(23) 0.21229(7)
+O8 O 0.81032(16) 0.26852(21) 0.14968(7)
+O9 O 0.45252(15) -0.05412(22) 0.23532(6)
+O10 O 0.57204(15) 0.11169(18) 0.27555(5)
+O11 O 0.54701(20) -0.08029(22) 0.05240(6)
+O12 O 0.43110(17) -0.18253(22) 0.08124(7)
+N2 N 0.77177(17) 0.26224(21) 0.17878(7)
+C9 C 0.68592(17) 0.15832(22) 0.17306(7)
+C10 C 0.65007(18) 0.14422(22) 0.20822(7)
+C11 C 0.56773(17) 0.04829(21) 0.20290(6)
+C12 C 0.52144(18) -0.03146(22) 0.16227(7)
+C13 C 0.55811(18) -0.01381(22) 0.12722(6)
+C14 C 0.64169(19) 0.08148(23) 0.13248(7)
+C15 C 0.52619(18) 0.03143(23) 0.23976(7)
+C16 C 0.50698(20) -0.09643(25) 0.08353(7)
+H6 H 0.541(3) 0.099(4) 0.295(1)
+H7 H 0.407(4) -0.226(5) 0.056(2)
+H8 H 0.681(2) 0.199(2) 0.235(1)
+H9 H 0.466(2) -0.097(2) 0.159(1)
+H10 H 0.670(2) 0.095(3) 0.111(1)
+H11? H 1.018(14) -0.052(16) 0.321(6)
+H12? H 0.891(8) -0.194(10) 0.535(3)
+H13? H 0.442(14) -0.073(17) 0.257(6)
+H14? H 0.523(9) -0.114(11) 0.035(3)
+#END

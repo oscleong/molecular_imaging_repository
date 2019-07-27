@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NTBZAM10
+_audit_creation_date 1978-03-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NTBZAM10
+_chemical_formula_sum 'C7 H6 N2 O3'
+_chemical_formula_moiety
+;
+C7 H6 N2 O3
+;
+_journal_coeditor_code "IUCr A15254"
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 3854
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"F.di Rienzo"
+"A.Domenicano"
+"E.Foresti Serantoni"
+_chemical_name_systematic
+;
+p-Nitrobenzamide
+;
+_chemical_melting_point 472.15
+_cell_volume    715.868
+_exptl_crystal_density_diffrn 1.541
+_exptl_special_details
+;
+Melting point range 472.15-473.15K
+polymorph I
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.038
+_refine_ls_wR_factor_gt 0.038
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.643(1)
+_cell_length_b 6.766(1)
+_cell_length_c 13.847(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.34(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.46088 -0.14749 0.40033
+O2 O -0.18022 -1.03132 0.22075
+O3 O -0.03792 -1.09484 0.35302
+N1 N -0.34354 -0.20423 0.54761
+N2 N -0.13223 -0.98828 0.30300
+C1 C -0.30549 -0.44829 0.41955
+C2 C -0.33761 -0.49356 0.32253
+C3 C -0.28207 -0.66973 0.28372
+C4 C -0.19168 -0.79987 0.34338
+C5 C -0.15619 -0.76024 0.43978
+C6 C -0.21414 -0.58329 0.47754
+C7 C -0.37566 -0.25539 0.45570
+H1 H -0.39710 -0.39660 0.28430
+H2 H -0.30990 -0.70440 0.21570
+H3 H -0.09400 -0.84930 0.47910
+H4 H -0.18980 -0.55950 0.54530
+H5 H -0.39490 -0.09420 0.56650
+H6 H -0.28320 -0.28190 0.58910
+#END

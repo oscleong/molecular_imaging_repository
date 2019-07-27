@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NABMUY
+_audit_creation_date 1996-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NABMUY
+_chemical_formula_sum 'C6 H10 N6 O10'
+_chemical_formula_moiety
+;
+C6 H10 N6 O10
+;
+_journal_coden_Cambridge 1078
+_journal_year 1996
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"H.Adolf"
+"A.L.Rheingold"
+"M.B.Allen"
+_chemical_name_systematic
+;
+bis(2,2-Dinitropropyl)nitroamide
+;
+_cell_volume   1243.940
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.741
+_exptl_special_details
+;
+contribution from Department of Chemistry, University of Delaware, Newark DE 
+19716, USA
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0739
+_refine_ls_wR_factor_gt 0.0739
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.791(6)
+_cell_length_b 5.963(2)
+_cell_length_c 19.689(11)
+_cell_angle_alpha 90
+_cell_angle_beta 100.93(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.00000 0.4192(8) 0.75000
+N2 N 0.00000 0.6442(9) 0.75000
+N3 N 0.1443(4) 0.5199(7) 0.8925(2)
+N4 N 0.1974(3) 0.1515(6) 0.8601(2)
+O1 O -0.0248(6) 0.7386(10) 0.7974(4)
+O2 O 0.2279(3) 0.5786(7) 0.8634(2)
+O3 O 0.1000(4) 0.6302(7) 0.9335(3)
+O4 O 0.1922(3) 0.0762(7) 0.8033(2)
+O5 O 0.2828(3) 0.1234(7) 0.9087(2)
+C1 C -0.0222(3) 0.3038(7) 0.8118(2)
+C2 C 0.0852(3) 0.2889(7) 0.8741(2)
+C3 C 0.0390(4) 0.1899(9) 0.9345(3)
+H1 H -0.09090 0.37930 0.82680
+H2 H -0.04680 0.15300 0.79850
+H3 H -0.03130 0.27560 0.94360
+H4 H 0.10570 0.19280 0.97440
+H5 H 0.01310 0.03770 0.92420
+O1A O 0.0248(6) 0.7386(10) 0.7026(4)
+C1A C 0.0222(3) 0.3038(7) 0.6882(2)
+C2A C -0.0852(3) 0.2889(7) 0.6259(2)
+N3A N -0.1443(4) 0.5199(7) 0.6075(2)
+O2A O -0.2279(3) 0.5786(7) 0.6366(2)
+O3A O -0.1000(4) 0.6302(7) 0.5665(3)
+N4A N -0.1974(3) 0.1515(6) 0.6399(2)
+O4A O -0.1922(3) 0.0762(7) 0.6967(2)
+O5A O -0.2828(3) 0.1234(7) 0.5913(2)
+C3A C -0.0390(4) 0.1899(9) 0.5655(3)
+H3A H 0.03130 0.27560 0.55640
+H4A H -0.10570 0.19280 0.52560
+H5A H -0.01310 0.03770 0.57580
+H1A H 0.09090 0.37930 0.67320
+H2A H 0.04680 0.15300 0.70150
+#END

@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAWYAR
+_audit_creation_date 2006-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAWYAR
+_database_code_depnum_ccdc_archive 'CCDC 284715'
+_chemical_formula_sum 'C15 H8 N2 O2'
+_chemical_formula_moiety
+;
+C15 H8 N2 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2005
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"W.Clegg"
+_chemical_name_systematic
+;
+2-(4-Cyanophenyl)-1-oxy-3H-indol-3-one
+;
+_chemical_name_common
+;
+2-(4-Cyanophenyl)isatogen
+;
+_cell_volume    605.230
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.362
+_exptl_special_details
+;
+contribution from School of Natural Sciences (Chemistry), University of 
+Newcastle, Newcastle upon Tyne NE1 7RU, UK
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The NO and CO groups are disordered in the ratio 0.60:0.40.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.3795(16)
+_cell_length_b 7.5864(17)
+_cell_length_c 12.395(3)
+_cell_angle_alpha 93.488(10)
+_cell_angle_beta 101.093(13)
+_cell_angle_gamma 115.725(15)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2178(4) 0.4238(4) 0.3755(2)
+C1? C 0.2178(4) 0.4238(4) 0.3755(2)
+O1 O 0.1885(4) 0.2507(3) 0.35206(18)
+C2 C 0.2478(4) 0.5300(4) 0.4780(2)
+C3 C 0.2646(4) 0.7181(4) 0.4589(2)
+N2? N 0.2646(4) 0.7181(4) 0.4589(2)
+O2 O 0.2847(3) 0.8550(3) 0.52783(17)
+C4 C 0.2668(5) 0.8782(5) 0.2813(3)
+H1 H 0.28720 1.00010 0.31560
+C5 C 0.2489(5) 0.8397(7) 0.1667(3)
+H2 H 0.25880 0.93820 0.12360
+C6 C 0.2169(5) 0.6587(7) 0.1173(3)
+H3 H 0.20420 0.63670 0.04100
+C7 C 0.2030(5) 0.5087(6) 0.1771(3)
+H4 H 0.18110 0.38590 0.14340
+C8 C 0.2231(4) 0.5499(4) 0.2896(2)
+C9 C 0.2532(4) 0.7296(4) 0.3396(2)
+C10 C 0.2555(4) 0.4559(4) 0.5836(2)
+C11 C 0.2958(4) 0.5814(4) 0.6833(2)
+H5 H 0.31630 0.71100 0.68140
+C12 C 0.3047(5) 0.5128(5) 0.7834(2)
+H6 H 0.33270 0.59700 0.84880
+C13 C 0.2728(4) 0.3212(5) 0.7880(2)
+C14 C 0.2327(4) 0.1957(5) 0.6910(3)
+H7 H 0.21100 0.06600 0.69390
+C15 C 0.2249(4) 0.2628(4) 0.5904(2)
+H8 H 0.19870 0.17770 0.52580
+C16 C 0.2818(5) 0.2508(6) 0.8942(3)
+N3 N 0.2888(6) 0.1981(6) 0.9778(3)
+#END

@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOSLIQ
+_audit_creation_date 1998-07-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOSLIQ
+_chemical_formula_sum 'C10 H10 N4 O7'
+_chemical_formula_moiety
+;
+C10 H10 N4 O7
+;
+_journal_coden_Cambridge 95
+_journal_year 1998
+_journal_page_first 478
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"A.M.Korolev"
+"L.T.Eremenko"
+"L.V.Meshikhina"
+"I.L.Eremenko"
+"S.E.Nefedov"
+_chemical_name_systematic
+;
+4,4-bis(Nitro-oxymethyl)-2-(pyrid-3-yl)-2-oxazoline
+;
+_chemical_melting_point 368.65
+_cell_volume   1250.739
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.584
+_exptl_special_details
+;
+Melting point range 368.65-369.15K
+
+;
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.622(3)
+_cell_length_b 5.315(2)
+_cell_length_c 17.051(3)
+_cell_angle_alpha 90
+_cell_angle_beta 109.29(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.87099(9) -0.39561(22) -0.00972(8)
+O2 O 0.67357(10) 0.03322(23) 0.09763(8)
+O3 O 0.59810(12) 0.2752(3) 0.15747(11)
+O4 O 0.67382(14) -0.04636(33) 0.22615(10)
+O5 O 0.63588(9) -0.51136(24) -0.09071(8)
+O6 O 0.51866(11) -0.76331(30) -0.07937(11)
+O7 O 0.57708(12) -0.80779(32) -0.17985(10)
+N1 N 0.75607(9) -0.09693(23) -0.02883(8)
+N2 N 1.01410(12) -0.01736(39) -0.14554(12)
+N3 N 0.64715(11) 0.09001(29) 0.16730(9)
+N4 N 0.57111(10) -0.71048(28) -0.11831(9)
+C1 C 0.73399(10) -0.28418(26) 0.02609(9)
+C2 C 0.81496(13) -0.48453(30) 0.04029(12)
+C3 C 0.82959(11) -0.17635(27) -0.04487(9)
+C4 C 0.87636(11) -0.05136(29) -0.09886(10)
+C5 C 0.96732(12) -0.12671(37) -0.09922(12)
+C6 C 0.96832(15) 0.17337(46) -0.19412(13)
+C7 C 0.87840(15) 0.26175(40) -0.19793(13)
+C8 C 0.83138(12) 0.14809(35) -0.14889(11)
+C9 C 0.74188(12) -0.17307(32) 0.1103(1)
+C10 C 0.63347(12) -0.39289(31) -0.01489(10)
+H1 H 0.7952(17) -0.6590(45) 0.0252(15)
+H2 H 0.8550(16) -0.503(4) 0.0975(15)
+H3 H 1.0009(17) -0.2738(49) -0.0669(15)
+H4 H 1.0052(18) 0.2489(44) -0.2285(16)
+H5 H 0.8447(20) 0.4265(59) -0.2412(19)
+H6 H 0.7730(19) 0.2054(48) -0.1514(16)
+H7 H 0.8021(16) -0.1057(43) 0.1377(14)
+H8 H 0.7211(15) -0.2925(40) 0.1447(13)
+H9 H 0.5861(15) -0.2645(39) -0.0308(13)
+H10 H 0.6169(15) -0.5139(38) 0.0218(14)
+#END

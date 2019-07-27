@@ -1,0 +1,163 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BINAPH10
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BINAPH10
+_database_code_depnum_ccdc_archive 'CCDC 1111198'
+_chemical_formula_sum 'C20 H14'
+_chemical_formula_moiety
+;
+C20 H14
+;
+_journal_coden_Cambridge 88
+_journal_year 1969
+_journal_page_first 1146
+_journal_name_full 'J.Chem.Soc.B '
+loop_
+_publ_author_name
+"K.A.Kerr"
+"J.M.Robertson"
+_chemical_name_systematic
+;
+cis-1,1'-Binaphthyl
+;
+_chemical_melting_point 418.15
+_cell_volume   1302.522
+_exptl_crystal_density_diffrn 1.297
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.085
+_refine_ls_wR_factor_gt 0.085
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BNPHTA "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 20.98
+_cell_length_b 6.35
+_cell_length_c 10.13
+_cell_angle_alpha 90
+_cell_angle_beta 105.17
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.03550 0.10597 0.25298
+C2 C 0.14702 0.25500 0.33171
+C3 C 0.06095 -0.05065 0.18985
+C4 C 0.12841 -0.06107 0.19519
+C5 C 0.17047 0.08794 0.26514
+C6 C 0.18919 0.41283 0.40531
+C7 C 0.16698 0.56895 0.47141
+C8 C 0.09975 0.57849 0.46830
+C9 C 0.05754 0.43030 0.39799
+C10 C 0.07905 0.26431 0.32733
+H1 H 0.03010 -0.15240 0.13370
+H2 H 0.14430 -0.16730 0.14940
+H3 H 0.21790 0.08270 0.26790
+H4 H 0.23200 0.40070 0.40430
+H5 H 0.19650 0.68310 0.51950
+H6 H 0.08290 0.69200 0.51670
+H7 H 0.01520 0.43220 0.39850
+C1B C -0.03550 0.10597 0.24702
+C3B C -0.06095 -0.05065 0.31015
+C10B C -0.07905 0.26431 0.17267
+C4B C -0.12841 -0.06107 0.30481
+H1B H -0.03010 -0.15240 0.36630
+C2B C -0.14702 0.25500 0.16829
+C9B C -0.05754 0.43030 0.10201
+C5B C -0.17047 0.08794 0.23486
+H2B H -0.14430 -0.16730 0.35060
+C6B C -0.18919 0.41283 0.09469
+C8B C -0.09975 0.57849 0.03170
+H7B H -0.01520 0.43220 0.10150
+H3B H -0.21790 0.08270 0.23210
+C7B C -0.16698 0.56895 0.02859
+H4B H -0.23200 0.40070 0.09570
+H6B H -0.08290 0.69200 -0.01670
+H5B H -0.19650 0.68310 -0.01950
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C3 1.365 1_555 1_555
+C2 C5 1.413 1_555 1_555
+C3 C4 1.404 1_555 1_555
+C4 C5 1.360 1_555 1_555
+C5 H3 0.989 1_555 1_555
+C6 C2 1.413 1_555 1_555
+C7 C6 1.346 1_555 1_555
+C8 C7 1.404 1_555 1_555
+C9 C8 1.359 1_555 1_555
+C10 C1 1.433 1_555 1_555
+H1 C3 0.983 1_555 1_555
+H2 C4 0.929 1_555 1_555
+H4 C6 0.904 1_555 1_555
+H5 C7 0.994 1_555 1_555
+H6 C8 0.988 1_555 1_555
+H7 C9 0.890 1_555 1_555
+C1B C1 1.475 1_555 1_555
+C3B C1B 1.365 1_555 1_555
+C10B C1B 1.433 1_555 1_555
+C4B C3B 1.404 1_555 1_555
+H1B C3B 0.983 1_555 1_555
+C2B C10B 1.416 1_555 1_555
+C9B C10B 1.413 1_555 1_555
+C5B C4B 1.360 1_555 1_555
+H2B C4B 0.929 1_555 1_555
+C6B C2B 1.413 1_555 1_555
+C8B C9B 1.359 1_555 1_555
+H7B C9B 0.890 1_555 1_555
+H3B C5B 0.989 1_555 1_555
+C7B C6B 1.346 1_555 1_555
+H4B C6B 0.904 1_555 1_555
+H6B C8B 0.988 1_555 1_555
+H5B C7B 0.994 1_555 1_555
+C2 C10 1.416 1_555 1_555
+C9 C10 1.413 1_555 1_555
+C2B C5B 1.413 1_555 1_555
+C8B C7B 1.404 1_555 1_555
+#END

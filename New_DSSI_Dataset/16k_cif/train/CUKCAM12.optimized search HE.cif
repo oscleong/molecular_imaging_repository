@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUKCAM12
+_audit_creation_date 2013-05-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUKCAM12
+_database_code_depnum_ccdc_archive 'CCDC 930129'
+_chemical_formula_sum 'C7 H4 N2 O6'
+_chemical_formula_moiety
+;
+C7 H4 N2 O6
+;
+_journal_coden_Cambridge 1147
+_journal_volume 13
+_journal_year 2013
+_journal_page_first 497
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"A.O.F.Jones"
+"N.Blagden"
+"G.J.McIntyre"
+"A.Parkin"
+"C.C.Seaton"
+"L.H.Thomas"
+"C.C.Wilson"
+_chemical_name_systematic
+;
+3,5-Dinitrobenzoic acid
+;
+_cell_volume    830.116
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.697
+_exptl_special_details
+;
+P21/c polymorph
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0423
+_refine_ls_wR_factor_gt 0.0423
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.9026(10)
+_cell_length_b 8.9085(8)
+_cell_length_c 9.4714(7)
+_cell_angle_alpha 90
+_cell_angle_beta 96.533(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1 H 0.109(2) -0.061(2) 0.604(2)
+H2 H 0.281(2) -0.271(2) 0.289(2)
+H3 H 0.394(2) 0.156(3) 0.396(2)
+H4 H 0.051(3) -0.531(4) 0.404(4)
+O1 O 0.15301(16) 0.19596(17) 0.68404(15)
+O2 O 0.03208(16) -0.32808(17) 0.57118(15)
+O3 O 0.54347(15) 0.02230(19) 0.23997(17)
+O4 O 0.10843(16) -0.43116(18) 0.37931(16)
+N1 N 0.44531(17) -0.06158(19) 0.22134(18)
+O5 O 0.42482(16) -0.14979(19) 0.12240(16)
+N2 N 0.23621(19) 0.1969(2) 0.59822(18)
+C1 C 0.17993(19) -0.1858(2) 0.44455(19)
+C2 C 0.2697(2) -0.1855(2) 0.3414(2)
+O6 O 0.3116(2) 0.3020(2) 0.5831(2)
+C3 C 0.1003(2) -0.3233(2) 0.4680(2)
+C4 C 0.3393(2) 0.0683(2) 0.4091(2)
+C5 C 0.1678(2) -0.0602(2) 0.5288(2)
+C6 C 0.2472(2) 0.0644(2) 0.50778(19)
+C7 C 0.34715(19) -0.0590(2) 0.32690(19)
+#END

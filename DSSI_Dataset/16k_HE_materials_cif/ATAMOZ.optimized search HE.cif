@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ATAMOZ
+_audit_creation_date 2016-08-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ATAMOZ
+_database_code_depnum_ccdc_archive 'CCDC 1450783'
+_chemical_formula_sum 'C13 H15 N1 O6'
+_chemical_formula_moiety
+;
+C13 H15 N1 O6
+;
+_journal_coden_Cambridge 920
+_journal_volume 11
+_journal_year 2016
+_journal_page_first 2065
+_journal_name_full 'Chem.Asian J. '
+loop_
+_publ_author_name
+"Zhi-Hua Zhou"
+"Qing-Wen Song"
+"Jia-Ning Xia"
+"Ran Ma"
+"Liang-Nian He"
+_chemical_name_systematic
+;
+2-methyl-3-oxobutan-2-yl 4-nitrobenzyl carbonate
+;
+_cell_volume    662.230
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.411
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 113.2
+_refine_special_details
+;
+C2,C3,C4,C5,C6,O3,O4 and C2A,C3A,C4A,C5A,C6A,O3A,O4A disordered over two 
+sites with occupancies 0.657:0.343.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0347
+_refine_ls_wR_factor_gt 0.0347
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.87237(19)
+_cell_length_b 9.2326(3)
+_cell_length_c 11.7291(4)
+_cell_angle_alpha 103.174(3)
+_cell_angle_beta 105.789(3)
+_cell_angle_gamma 103.375(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.32285(10) 0.36241(6) 0.65863(5)
+O2 O 0.46820(11) 0.61538(7) 0.67314(6)
+O3 O 0.11670(13) -0.42523(8) 0.38929(7)
+O4 O 0.12915(15) -0.38958(9) 0.21486(8)
+N1 N 0.13916(13) -0.34066(9) 0.32345(7)
+C1 C 0.39609(14) 0.51707(9) 0.71542(7)
+C2 C 0.31766(14) 0.31939(9) 0.53105(7)
+H1 H 0.45770 0.37190 0.52730
+H2 H 0.20870 0.35390 0.47940
+C3 C 0.26581(12) 0.14488(9) 0.48126(7)
+C4 C 0.27780(13) 0.04888(9) 0.55730(7)
+H3 H 0.31590 0.09310 0.64480
+C5 C 0.23418(13) -0.11132(9) 0.50547(7)
+H4 H 0.24090 -0.17770 0.55660
+C6 C 0.18073(12) -0.17202(9) 0.37777(7)
+C7 C 0.17094(13) -0.07949(9) 0.29989(7)
+H5 H 0.13700 -0.12380 0.21270
+C8 C 0.21210(13) 0.07965(9) 0.35275(7)
+H6 H 0.20370 0.14520 0.30100
+O5 O 0.3582(4) 0.5413(4) 0.8228(3)
+O6 O 0.6703(3) 0.93481(17) 0.91665(16)
+C9 C 0.3981(3) 0.70531(14) 0.89192(12)
+C10 C 0.6292(2) 0.79980(15) 0.91858(11)
+C11 C 0.8007(6) 0.7257(6) 0.9536(5)
+H7 H 0.79110 0.64480 0.88000
+H8 H 0.78230 0.67830 1.01820
+H9 H 0.94060 0.80590 0.98540
+C12 C 0.3674(3) 0.6959(2) 1.01504(18)
+H10 H 0.22040 0.63380 0.99830
+H11 H 0.39660 0.80170 1.06980
+H12 H 0.46550 0.64620 1.05570
+C13 C 0.2378(6) 0.7725(3) 0.8214(3)
+H13 H 0.27020 0.78750 0.74770
+H14 H 0.24690 0.87340 0.87590
+H15 H 0.09370 0.69970 0.79530
+O7? O 0.4095(9) 0.5451(9) 0.8371(6)
+O8? O 0.5971(5) 0.9462(3) 0.8753(3)
+C14? C 0.5278(5) 0.7068(3) 0.9242(2)
+C15? C 0.4640(4) 0.8288(3) 0.8651(2)
+C16? C 0.7608(14) 0.7306(13) 0.9612(11)
+H16? H 0.83830 0.83490 1.02190
+H17? H 0.80360 0.72200 0.88740
+H18? H 0.79380 0.65070 0.99870
+C17? C 0.4516(6) 0.7121(5) 1.0348(4)
+H19? H 0.29590 0.68330 1.00570
+H20? H 0.51290 0.81820 1.09410
+H21? H 0.49680 0.63810 1.07570
+C18? C 0.2347(12) 0.8076(7) 0.8083(7)
+H22? H 0.17720 0.84120 0.87400
+H23? H 0.15860 0.69680 0.76160
+H24? H 0.21650 0.87060 0.75170
+#END

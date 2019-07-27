@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ILISON
+_audit_creation_date 2016-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ILISON
+_database_code_depnum_ccdc_archive 'CCDC 1455772'
+_chemical_formula_sum 'C14 H15 N1 O3'
+_chemical_formula_moiety
+;
+C14 H15 N1 O3
+;
+_journal_coden_Cambridge 182
+_journal_volume 52
+_journal_year 2016
+_journal_page_first 7336
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"N.S.Y.Loy"
+"Subin Choi"
+"Sunggak Kim"
+"C.-M.Park"
+_chemical_name_systematic
+;
+ethyl 1-methoxy-2-phenyl-1H-pyrrole-3-carboxylate
+;
+_cell_volume   1275.897
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.277
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 103
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0607
+_refine_ls_wR_factor_gt 0.0607
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.579(3)
+_cell_length_b 9.8759(17)
+_cell_length_c 9.0753(15)
+_cell_angle_alpha 90
+_cell_angle_beta 102.459(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.91749(15) 0.2016(2) 1.1342(3)
+O1 O 0.98932(13) 0.29552(18) 1.1723(2)
+C1 C 1.0307(2) 0.3196(3) 1.0441(4)
+H1 H 1.05330 0.23380 1.01080
+H2 H 1.08350 0.38260 1.07250
+H3 H 0.98350 0.35860 0.96160
+C2 C 0.9323(2) 0.0653(3) 1.1454(3)
+H4 H 0.99030 0.02070 1.18330
+C3 C 0.84724(19) 0.0059(3) 1.0915(3)
+H5 H 0.83490 -0.08860 1.08710
+C4 C 0.78049(18) 0.1097(3) 1.0432(3)
+C5 C 0.82641(17) 0.2340(3) 1.0700(3)
+C6 C 0.68079(19) 0.0820(3) 0.9851(3)
+O2 O 0.64696(13) -0.03163(19) 0.9748(2)
+O3 O 0.62963(13) 0.19342(18) 0.9450(2)
+C7 C 0.5306(2) 0.1747(3) 0.8777(4)
+H6 H 0.49790 0.13280 0.95120
+H7 H 0.52280 0.11530 0.78800
+C8 C 0.4914(2) 0.3119(3) 0.8337(5)
+H8 H 0.50120 0.37030 0.92300
+H9 H 0.42390 0.30450 0.79010
+H10 H 0.52310 0.35110 0.75890
+C9 C 0.79457(18) 0.3767(2) 1.0491(3)
+C10 C 0.80835(18) 0.4643(3) 1.1723(3)
+H11 H 0.84030 0.43370 1.26890
+C11 C 0.7754(2) 0.5965(3) 1.1538(4)
+H12 H 0.78430 0.65580 1.23810
+C12 C 0.72939(19) 0.6420(3) 1.0128(4)
+H13 H 0.70650 0.73220 1.00030
+C13 C 0.71696(19) 0.5556(3) 0.8905(3)
+H14 H 0.68580 0.58680 0.79360
+C14 C 0.74964(18) 0.4238(3) 0.9085(3)
+H15 H 0.74110 0.36510 0.82370
+#END

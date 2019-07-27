@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAMGEM
+_audit_creation_date 2000-07-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAMGEM
+_database_code_depnum_ccdc_archive 'CCDC 143484'
+_database_code_depnum_ccdc_journal 188/218
+_chemical_formula_sum 'C14 H10 N2 O4'
+_chemical_formula_moiety
+;
+C14 H10 N2 O4
+;
+_journal_coden_Cambridge 188
+_journal_year 2000
+_journal_page_first 649
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"You-Cheng Liu"
+"Hong-Yi Wang"
+"Qing-Chuan Yang"
+"T.C.W.Mak"
+_chemical_name_systematic
+;
+1,1-Diphenyl-2,2-dinitroethylene
+;
+_cell_volume   1329.201
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.35
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0587
+_refine_ls_wR_factor_gt 0.0587
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.637(2)
+_cell_length_b 15.251(3)
+_cell_length_c 9.109(2)
+_cell_angle_alpha 90
+_cell_angle_beta 96.86(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0735(1) 0.66308(6) 0.11343(11)
+O2 O 0.16457(17) 0.60055(7) 0.31455(15)
+O3 O 0.42540(12) 0.68739(9) 0.32018(12)
+O4 O 0.36622(11) 0.76513(7) 0.49764(11)
+C1 C 0.14520(11) 0.82696(7) 0.26766(11)
+C2 C 0.20503(12) 0.74715(7) 0.29032(13)
+C3 C -0.00459(11) 0.83575(7) 0.20771(12)
+C4 C -0.04375(13) 0.89162(8) 0.08935(14)
+H1 H 0.02390 0.92380 0.04830
+C5 C -0.18313(15) 0.89955(9) 0.03225(17)
+H2 H -0.20830 0.93610 -0.04830
+C6 C -0.28341(15) 0.8540(1) 0.09379(17)
+H3 H -0.37660 0.85910 0.05450
+C7 C -0.24703(14) 0.80042(10) 0.21407(18)
+H4 H -0.31610 0.77080 0.25730
+C8 C -0.10760(13) 0.79039(8) 0.27102(15)
+H5 H -0.08330 0.75350 0.35120
+C9 C 0.22754(11) 0.90837(7) 0.30112(12)
+C10 C 0.16973(13) 0.97838(8) 0.37057(14)
+H6 H 0.07900 0.97430 0.39520
+C11 C 0.24678(15) 1.05438(8) 0.40343(16)
+H7 H 0.20880 1.10000 0.45330
+C12 C 0.37885(14) 1.06229(9) 0.36254(16)
+H8 H 0.43000 1.11330 0.38480
+C13 C 0.43607(14) 0.99477(9) 0.28840(16)
+H9 H 0.52460 1.00080 0.25870
+C14 C 0.36092(12) 0.91802(8) 0.25842(15)
+H10 H 0.39990 0.87240 0.20930
+N1 N 0.14226(12) 0.66378(7) 0.23500(13)
+N2 N 0.34195(11) 0.73214(7) 0.37595(12)
+#END

@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HELBEF
+_audit_creation_date 1995-01-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HELBEF
+_chemical_formula_sum 'C8 H9 N1 O2'
+_chemical_formula_moiety
+;
+C8 H9 N1 O2
+;
+_journal_coeditor_code "IUCr AB1131"
+_journal_coden_Cambridge 591
+_journal_volume 50
+_journal_year 1994
+_journal_page_first 1354
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.K.Maurin"
+_chemical_name_systematic
+;
+4-Hydroxyacetophenone oxime
+;
+_chemical_melting_point 420
+_cell_volume    763.421
+_exptl_crystal_colour 'Colorless'
+_exptl_crystal_density_diffrn 1.315
+_exptl_special_details
+;
+Melting point range 420-421K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The H atoms attached to C(8) are disordered over two sites with occupancies 
+of 0.6:0.4.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0374
+_refine_ls_wR_factor_gt 0.0374
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.664(1)
+_cell_length_b 16.830(4)
+_cell_length_c 7.153(2)
+_cell_angle_alpha 90
+_cell_angle_beta 107.898(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.0377(2) -0.15911(10) 0.1550(2)
+C2 C 0.1410(3) -0.19103(11) 0.1217(3)
+C3 C 0.1532(3) -0.27103(11) 0.0825(3)
+C4 C -0.0147(3) -0.3205(1) 0.0734(3)
+C5 C -0.1919(3) -0.29077(11) 0.1095(3)
+C6 C -0.2038(3) -0.21038(11) 0.1470(3)
+C7 C -0.0502(3) -0.07343(10) 0.1989(3)
+C8 C -0.2554(3) -0.03062(14) 0.1300(4)
+N1 N 0.1236(2) -0.03972(8) 0.2953(2)
+O1 O 0.0997(2) 0.04223(7) 0.3239(2)
+O2 O 0.0002(2) -0.39926(8) 0.0248(2)
+H1 H 0.2564(32) -0.1550(11) 0.1287(27)
+H2 H 0.2737(36) -0.2923(11) 0.0583(29)
+H3 H -0.3119(31) -0.3269(12) 0.1029(27)
+H4 H -0.3335(29) -0.1896(10) 0.1698(26)
+H5 H -0.3401(61) -0.0497(24) -0.0002(59)
+H6 H -0.3321(60) -0.0402(25) 0.2154(58)
+H7 H -0.2266(57) 0.0285(23) 0.1175(65)
+H8? H -0.2677(86) 0.0101(36) 0.2352(82)
+H9? H -0.2711(91) 0.0029(38) 0.0104(95)
+H10? H -0.3856(85) -0.0712(32) 0.0839(93)
+H11 H 0.2358(43) 0.0594(14) 0.3824(34)
+H12 H -0.1411(46) -0.4193(16) -0.0577(38)
+#END

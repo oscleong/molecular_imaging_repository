@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EVOPIO
+_audit_creation_date 2004-07-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EVOPIO
+_database_code_depnum_ccdc_archive 'CCDC 243593'
+_chemical_formula_sum 'C12 H13 N3 O5'
+_chemical_formula_moiety
+;
+C12 H13 N3 O5
+;
+_journal_coeditor_code "IUCr JZ1612"
+_journal_coden_Cambridge 591
+_journal_volume 60
+_journal_year 2004
+_journal_page_first o387
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"F.Seela"
+"A.M.Jawalekar"
+"H.Eickmeier"
+_chemical_name_systematic
+;
+1-(2-Deoxy-\b-D-erythro-pentofuranosyl)-4-nitro-1H-indazole
+;
+_chemical_melting_point 413
+_cell_volume   1243.472
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.492
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0375
+_refine_ls_wR_factor_gt 0.0375
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.7444(12)
+_cell_length_b 11.718(3)
+_cell_length_c 15.734(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.9447(2) 0.18593(14) 0.83683(8)
+N2 N 1.1251(2) 0.21504(15) 0.86881(10)
+C1 C 1.1294(3) 0.17546(16) 0.94771(11)
+H1 H 1.23620 0.18370 0.98460
+C2 C 0.9497(3) 0.11885(14) 0.96871(9)
+C3 C 0.8641(3) 0.06478(14) 1.03964(10)
+N3 N 0.9734(4) 0.06203(16) 1.11982(10)
+C4 C 0.6777(3) 0.01910(17) 1.03628(12)
+H2 H 0.62310 -0.01580 1.08390
+C5 C 0.5693(3) 0.02552(17) 0.95994(12)
+H3 H 0.44430 -0.00770 0.95740
+C6 C 0.6429(3) 0.07952(16) 0.88898(10)
+H4 H 0.56870 0.08490 0.83930
+C7 C 0.8342(2) 0.12618(14) 0.89431(9)
+C8 C 0.8993(3) 0.21000(16) 0.74861(9)
+H5 H 0.75920 0.19280 0.73800
+C9 C 0.9418(3) 0.33327(15) 0.72205(10)
+H6 H 0.82340 0.38000 0.72560
+H7 H 1.04490 0.36690 0.75700
+O1 O 0.8375(2) 0.31046(17) 0.57856(8)
+H8 H 0.873(5) 0.295(3) 0.5300(8)
+C10 C 1.0098(3) 0.31946(16) 0.63066(10)
+H9 H 1.09530 0.38270 0.61270
+O2 O 1.0192(2) 0.13903(11) 0.69586(8)
+C11 C 1.1237(3) 0.20682(15) 0.63477(9)
+H10 H 1.11660 0.16930 0.57920
+O3 O 1.4519(2) 0.2320(2) 0.58513(10)
+H11 H 1.563(2) 0.257(3) 0.595(2)
+C12 C 1.3408(3) 0.21996(19) 0.66008(11)
+H12 H 1.35760 0.28660 0.69590
+H13 H 1.38480 0.15330 0.69150
+O4 O 0.8909(3) 0.02714(16) 1.18367(8)
+O5 O 1.1452(4) 0.0936(3) 1.11883(13)
+#END

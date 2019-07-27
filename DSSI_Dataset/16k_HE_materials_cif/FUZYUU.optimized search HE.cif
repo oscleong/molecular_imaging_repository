@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUZYUU
+_audit_creation_date 1988-10-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUZYUU
+_chemical_formula_sum 'C3 H6 N2 O4'
+_chemical_formula_moiety
+;
+C3 H6 N2 O4
+;
+_journal_coden_Cambridge 603
+_journal_volume 7
+_journal_year 1988
+_journal_page_first 36
+_journal_name_full 'Jiegou Huaxue(Chin.)(Chin.J.Struct.Chem.) '
+loop_
+_publ_author_name
+"Wang Ruiqin"
+"Bai Chang"
+"Huang Shenghua"
+"Shi Kailiang"
+"Shi Lei"
+_chemical_name_systematic
+;
+Malonodihydroxamic acid
+;
+_cell_volume    534.248
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.667
+_exptl_special_details
+;
+for keto-enol isomer see [RIMYUH]
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.277(2)
+_cell_length_b 8.450(2)
+_cell_length_c 9.413(2)
+_cell_angle_alpha 90
+_cell_angle_beta 67.37
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8008(5) 0.0800(4) 0.9657(4)
+O2 O 1.7381(5) 0.3894(4) 0.7952(3)
+O3 O 1.1710(5) 0.1659(4) 0.7792(3)
+O4 O 1.4521(5) 0.2195(4) 1.0082(4)
+N1 N 0.9119(6) 0.1943(5) 1.0061(4)
+N2 N 1.5387(6) 0.4035(5) 0.8188(4)
+C1 C 1.0897(8) 0.2284(5) 0.9083(5)
+C2 C 1.1932(7) 0.3598(6) 0.9594(5)
+C3 C 1.4058(7) 0.3210(6) 0.9313(5)
+H1 H 0.666(9) 0.139(7) 0.971(7)
+H2 H 1.791(8) 0.332(6) 0.693(5)
+H3 H 0.858(7) 0.226(2) 1.102(5)
+H4 H 1.504(9) 0.489(7) 0.777(6)
+H5 H 1.189(7) 0.453(6) 0.894(5)
+H6 H 1.124(8) 0.382(6) 1.054(5)
+#END

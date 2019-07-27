@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIFTUA
+_audit_creation_date 2007-10-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIFTUA
+_database_code_depnum_ccdc_archive 'CCDC 634666'
+_chemical_formula_sum 'C14 H14 N2 O1'
+_chemical_formula_moiety
+;
+C14 H14 N2 O1
+;
+_journal_coden_Cambridge 1078
+_journal_year 2007
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"S.Krakert"
+"A.Terfort"
+"F.Olbrich"
+"S.Schorshusen"
+_chemical_name_systematic
+;
+(Z)-1,2-Di-p-tolyldiazene oxide
+;
+_chemical_melting_point 340.65
+_cell_volume   1186.075
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.267
+_exptl_special_details
+;
+Melting point range 340.65-341.65K
+contribution from Philipps-Universitat Marburg, Fachbereich Chemie 
+Hans-Meerwein-Strasse, D-35032 Marburg, GERMANY
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 153
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0584
+_refine_ls_wR_factor_gt 0.0584
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.640(3)
+_cell_length_b 7.252(3)
+_cell_length_c 21.494(10)
+_cell_angle_alpha 90
+_cell_angle_beta 95.149(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4747(5) 0.5768(5) 0.09874(16)
+N2 N 0.4939(4) 0.6755(4) 0.05337(15)
+O1 O 0.3321(4) 0.5013(4) 0.11528(12)
+C1 C 0.6356(5) 0.5406(5) 0.14102(18)
+C2 C 0.7971(5) 0.6068(5) 0.12695(17)
+H1 H 0.80730 0.67730 0.09020
+C3 C 0.9441(5) 0.5679(5) 0.16763(16)
+H2 H 1.05580 0.61220 0.15830
+C4 C 0.9314(5) 0.4669(5) 0.22109(16)
+C5 C 0.7668(5) 0.4029(5) 0.23306(18)
+H3 H 0.75580 0.33250 0.26980
+C6 C 0.6189(6) 0.4379(5) 0.19349(16)
+H4 H 0.50750 0.39170 0.20240
+C7 C 1.0904(4) 0.4265(5) 0.26631(16)
+H5 H 1.19520 0.48090 0.25060
+H6 H 1.10590 0.29280 0.27040
+H7 H 1.07280 0.47970 0.30720
+C8 C 0.3410(6) 0.7233(5) 0.01175(18)
+C9 C 0.1641(5) 0.6910(6) 0.01676(18)
+H8 H 0.12770 0.62440 0.05140
+C10 C 0.0411(6) 0.7562(5) -0.02884(16)
+H9 H -0.07990 0.73180 -0.02560
+C11 C 0.0899(6) 0.8564(5) -0.07920(17)
+C12 C 0.2676(6) 0.8878(5) -0.08321(19)
+H10 H 0.30430 0.95530 -0.11760
+C13 C 0.3910(6) 0.8227(5) -0.03826(18)
+H11 H 0.51200 0.84650 -0.04170
+C14 C -0.0492(5) 0.9272(5) -0.12828(16)
+H12 H -0.13960 0.83250 -0.13700
+H13 H 0.00530 0.95590 -0.16670
+H14 H -0.10310 1.03880 -0.11280
+#END

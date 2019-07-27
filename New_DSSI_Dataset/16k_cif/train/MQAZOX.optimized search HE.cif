@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MQAZOX
+_audit_creation_date 1976-03-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MQAZOX
+_database_code_depnum_ccdc_archive 'CCDC 1214333'
+_chemical_formula_sum 'C9 H8 N2 O1'
+_chemical_formula_moiety
+;
+C9 H8 N2 O1
+;
+_journal_coden_Cambridge 24
+_journal_volume 16
+_journal_year 1975
+_journal_page_first 4301
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"L.Golic"
+"V.Kaucic"
+"B.Stanovnik"
+"M.Tisler"
+_chemical_name_systematic
+;
+2-Methyl-quinazoline-3-oxide
+;
+_chemical_melting_point 443.15
+_cell_volume    380.355
+_exptl_crystal_density_diffrn 1.4
+_exptl_special_details
+;
+Melting point range 443.15-445.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 3.94(1)
+_cell_length_b 9.02(1)
+_cell_length_c 11.03(1)
+_cell_angle_alpha 79.8(1)
+_cell_angle_beta 99.6(1)
+_cell_angle_gamma 92.5(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.20080 0.01040 0.20230
+C2 C -0.18820 0.12180 0.38170
+C3 C -0.01650 0.24750 0.32460
+C4 C 0.09250 0.37340 0.38180
+C5 C 0.24190 0.49360 0.31720
+C6 C 0.29120 0.49430 0.19470
+C7 C 0.19800 0.37410 0.13780
+C8 C 0.04210 0.24770 0.20210
+C9 C -0.29760 -0.12530 0.14660
+H1 H -0.21530 -0.11640 0.06920
+H2 H -0.21140 -0.21610 0.20600
+H3 H -0.55270 -0.13780 0.13110
+H4 H -0.23920 0.11490 0.46050
+H5 H 0.06340 0.36860 0.46650
+H6 H 0.30980 0.57810 0.35060
+H7 H 0.37210 0.58180 0.15100
+H8 H 0.23630 0.37170 0.05350
+N1 N -0.05040 0.12560 0.14440
+N2 N -0.28280 0.00780 0.32250
+O1 O -0.44960 -0.11010 0.37170
+#END

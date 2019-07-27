@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IVUFUB
+_audit_creation_date 2011-09-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IVUFUB
+_database_code_depnum_ccdc_archive 'CCDC 800852'
+_chemical_formula_sum 'C20 H21 N1 O4'
+_chemical_formula_moiety
+;
+C20 H21 N1 O4
+;
+_journal_coden_Cambridge 1220
+_journal_volume 17
+_journal_year 2011
+_journal_page_first 4976
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Youqian Deng"
+"Chunling Fu"
+"Shengming Ma"
+_chemical_name_systematic
+;
+(3-Isopropyl-8-methyl-5,6-dihydro-4H-cyclohepta[c]furan-7-yl)(4-nitrophenyl)me
+thanone
+;
+_cell_volume   1815.586
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.242
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+C8,C9 and C8A,C9A disordered over two sites with occupancies 0.75:0.25.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0582
+_refine_ls_wR_factor_gt 0.0582
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.2680(3)
+_cell_length_b 10.7674(3)
+_cell_length_c 13.1049(4)
+_cell_angle_alpha 90
+_cell_angle_beta 104.125(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.23150(14) 0.06008(18) 1.11123(13)
+O2 O -0.02984(14) 0.24204(18) 0.63180(15)
+O3 O -0.4155(2) -0.2368(3) 0.5696(3)
+O4 O -0.4621(2) -0.1168(3) 0.4400(3)
+N1 N -0.4009(2) -0.1490(3) 0.5192(3)
+C1 C 0.3562(3) -0.1651(3) 1.1911(3)
+H1 H 0.33240 -0.12250 1.24520
+H2 H 0.41820 -0.21080 1.22220
+H3 H 0.30330 -0.22140 1.15500
+C2 C 0.3793(2) -0.0716(3) 1.1138(2)
+H4 H 0.41140 -0.11610 1.06460
+C3 C 0.4562(3) 0.0242(5) 1.1706(4)
+H5 H 0.47480 0.07860 1.12010
+H6 H 0.51730 -0.01690 1.21070
+H7 H 0.42530 0.07170 1.21700
+C4 C 0.28227(17) -0.0105(2) 1.05122(19)
+C5 C 0.14642(19) 0.1080(2) 1.04239(19)
+H8 H 0.09800 0.15950 1.06190
+C6 C 0.14088(16) 0.07221(19) 0.94345(17)
+C7 C 0.23020(17) -0.0063(2) 0.94975(19)
+C8 C 0.2548(3) -0.0779(3) 0.8574(3)
+H9 H 0.32460 -0.11140 0.87830
+H10 H 0.20670 -0.14670 0.83810
+C9 C 0.2457(2) 0.0081(3) 0.7636(2)
+H11 H 0.28560 -0.02660 0.71750
+H12 H 0.27640 0.08770 0.78850
+C10 C 0.1361(2) 0.0292(3) 0.7011(2)
+H13 H 0.10840 -0.05090 0.67390
+H14 H 0.13970 0.07970 0.64080
+C11 C 0.05610(16) 0.08934(18) 0.75187(17)
+C12 C 0.05746(15) 0.10864(19) 0.85272(17)
+C13 C -0.03145(18) 0.1753(2) 0.8812(2)
+H15 H -0.00800 0.25450 0.91170
+H16 H -0.05680 0.12660 0.93100
+H17 H -0.08630 0.18760 0.81900
+C14 C -0.03394(17) 0.1385(2) 0.66843(17)
+C15 C -0.12811(15) 0.05956(18) 0.62900(15)
+C16 C -0.13798(17) -0.05561(19) 0.67236(19)
+H18 H -0.08440 -0.08660 0.72590
+C17 C -0.2274(2) -0.1247(2) 0.6361(2)
+H19 H -0.23480 -0.20220 0.66470
+C18 C -0.30485(18) -0.0765(2) 0.5571(2)
+C19 C -0.2970(2) 0.0377(3) 0.5126(2)
+H20 H -0.35070 0.06790 0.45880
+C20 C -0.20877(19) 0.1057(2) 0.54900(18)
+H21 H -0.20240 0.18340 0.52030
+C21? C 0.2843(9) -0.0285(11) 0.8676(10)
+C22? C 0.2032(7) -0.0686(9) 0.7731(8)
+H22? H 0.10020 -0.01020 0.63570
+H23? H 0.18100 0.09320 0.68430
+H24? H 0.31830 0.04660 0.85270
+H25? H 0.33630 -0.09290 0.88890
+H26? H 0.15620 -0.12380 0.79730
+H27? H 0.23770 -0.11770 0.72970
+#END

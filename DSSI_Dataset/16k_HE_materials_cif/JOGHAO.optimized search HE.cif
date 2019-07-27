@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOGHAO
+_audit_creation_date 1992-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOGHAO
+_chemical_formula_sum 'C12 H14 N2 O6'
+_chemical_formula_moiety
+;
+C12 H14 N2 O6
+;
+_journal_coden_Cambridge 1086
+_journal_volume 3
+_journal_year 1991
+_journal_page_first 76
+_journal_name_full 'Chirality '
+loop_
+_publ_author_name
+"U.Palm"
+"A.Mosandl"
+"W.Bensch"
+_chemical_name_systematic
+;
+cis-2-(3',5'-Dinitrobenzyloxy)-5-methyl-tetrahydrofuran
+;
+_cell_volume   1308.683
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.432
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+loop_
+_citation_database_id_CSD
+_citation_special_details
+JOGGUH "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.609(6)
+_cell_length_b 12.143(8)
+_cell_length_c 11.320(6)
+_cell_angle_alpha 90
+_cell_angle_beta 97.78(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2683(2) 0.6191(1) 0.8299(2)
+O2 O 0.1841(2) 0.7570(2) 0.9455(2)
+O3 O -0.3078(3) 1.1765(2) 0.7699(2)
+O4 O -0.0903(3) 1.2018(2) 0.7549(3)
+O5 O -0.4291(3) 0.8795(2) 1.0208(3)
+O6 O -0.2903(3) 0.7425(2) 1.0530(3)
+N1 N -0.1852(3) 1.1473(2) 0.7841(2)
+N2 N -0.3204(3) 0.8329(2) 1.0115(2)
+C1 C 0.3026(3) 0.6937(3) 0.9237(3)
+C2 C 0.3489(5) 0.6250(3) 1.0318(4)
+C3 C 0.2480(5) 0.5299(4) 1.0103(3)
+C4 C 0.2303(3) 0.5145(2) 0.8772(3)
+C5 C 0.0870(5) 0.4814(5) 0.8185(6)
+C6 C 0.1398(4) 0.8314(3) 0.8520(3)
+C7 C 0.0064(3) 0.8876(2) 0.8740(2)
+C8 C -0.0913(3) 0.8360(2) 0.9358(2)
+C9 C -0.2174(3) 0.8885(2) 0.9464(2)
+C10 C -0.2520(3) 0.9896(2) 0.8977(2)
+C11 C -0.1530(3) 1.0394(2) 0.8383(2)
+C12 C -0.0248(3) 0.9915(2) 0.8258(2)
+H1 H 0.381(5) 0.732(4) 0.904(4)
+H2 H 0.301(4) 0.458(3) 0.855(3)
+#END

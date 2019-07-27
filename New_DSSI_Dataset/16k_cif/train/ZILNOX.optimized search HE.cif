@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZILNOX
+_audit_creation_date 1996-01-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZILNOX
+_database_code_depnum_ccdc_archive 'CCDC 131825'
+_chemical_formula_sum 'C4 H6 N4 O8'
+_chemical_formula_moiety
+;
+C4 H6 N4 O8
+;
+_journal_coeditor_code "IUCr BK0023"
+_journal_coden_Cambridge 622
+_journal_volume 51
+_journal_year 1995
+_journal_page_first 1097
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"L.L.Koh"
+"K.Y.Sim"
+"H.H.Huang"
+"Y.L.Lam"
+"E.P.Liang"
+_chemical_name_systematic
+;
+2,2,3,3-Tetranitrobutane
+;
+_cell_volume    918.521
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.722
+_exptl_special_details
+;
+gauche rotamer conformer
+monoclinic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0403
+_refine_ls_wR_factor_gt 0.0403
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.224(13)
+_cell_length_b 10.344(13)
+_cell_length_c 14.55(2)
+_cell_angle_alpha 90
+_cell_angle_beta 101.32(15)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4948(5) 0.2560(3) 0.0362(3)
+C2 C 0.7347(4) 0.2472(3) 0.0777(2)
+C3 C 0.7833(4) 0.1795(3) 0.1744(2)
+C4 C 0.7040(6) 0.0422(4) 0.1748(3)
+N1 N 0.8453(5) 0.3804(3) 0.0795(2)
+N2 N 0.8427(4) 0.1704(3) 0.0066(2)
+N3 N 1.0288(4) 0.1769(3) 0.2167(2)
+N4 N 0.6792(4) 0.2612(4) 0.2428(2)
+O1 O 1.0182(4) 0.3948(2) 0.1324(2)
+O2 O 0.7525(4) 0.4599(2) 0.0249(2)
+O3 O 0.9931(4) 0.2184(3) -0.0207(1)
+O4 O 0.7583(4) 0.0672(3) -0.0180(2)
+O5 O 1.1398(3) 0.1231(2) 0.1691(2)
+O6 O 1.0899(3) 0.2210(3) 0.2935(1)
+O7 O 0.6526(5) 0.3749(4) 0.2262(2)
+O8 O 0.6320(4) 0.2035(3) 0.3081(2)
+H1 H 0.4337(44) 0.1737(20) 0.0332(22)
+H2 H 0.4758(47) 0.2950(26) -0.0232(15)
+H3 H 0.4272(42) 0.3081(25) 0.0748(17)
+H4 H 0.7805(44) -0.0139(28) 0.1417(19)
+H5 H 0.7421(44) 0.008(3) 0.2379(15)
+H6 H 0.5523(24) 0.0348(31) 0.1521(20)
+#END

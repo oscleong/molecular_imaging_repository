@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WOMYEC
+_audit_creation_date 2001-01-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WOMYEC
+_database_code_depnum_ccdc_archive 'CCDC 149799'
+_database_code_depnum_ccdc_journal 1350/33
+_chemical_formula_sum 'C6 H7 N3 O1'
+_chemical_formula_moiety
+;
+C6 H7 N3 O1
+;
+_journal_coden_Cambridge 1350
+_journal_volume 2
+_journal_year 2000
+_journal_page_first 145
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"C.B.Aakeroy"
+"A.M.Beatty"
+"D.S.Leinen"
+_chemical_name_systematic
+;
+4-Amidooximepyridine
+;
+_chemical_melting_point 474.15
+_cell_volume    637.333
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.429
+_exptl_special_details
+;
+Melting point range 474.15-478.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0286
+_refine_ls_wR_factor_gt 0.0286
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 12.5433(6)
+_cell_length_b 8.7821(9)
+_cell_length_c 5.7857(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.13221(10) 0.10816(14) 0.0754(3)
+H1 H 0.10190 0.17420 0.16170
+N1 N 0.51427(12) 0.21302(18) -0.6312(3)
+N2 N 0.21843(11) 0.17656(17) -0.0453(3)
+N3 N 0.20352(12) -0.05398(17) -0.2465(3)
+H2 H 0.23970 -0.12210 -0.33650
+H3 H 0.16010 -0.08920 -0.15070
+C1 C 0.49832(13) 0.2777(2) -0.4231(4)
+H4 H 0.56100 0.35120 -0.37850
+C2 C 0.41411(13) 0.24036(19) -0.2789(3)
+H5 H 0.40150 0.29030 -0.14290
+C3 C 0.34147(13) 0.12941(18) -0.3505(3)
+C4 C 0.35700(13) 0.06314(19) -0.5667(3)
+H6 H 0.31970 -0.01810 -0.61720
+C5 C 0.44337(14) 0.10764(19) -0.6998(3)
+H7 H 0.46000 0.06620 -0.84350
+C6 C 0.25066(13) 0.08186(18) -0.2022(3)
+#END

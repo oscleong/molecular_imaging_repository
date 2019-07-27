@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DUNVAK
+_audit_creation_date 2010-05-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DUNVAK
+_database_code_depnum_ccdc_archive 'CCDC 759052'
+_chemical_formula_sum 'C12 H8 N2 O5'
+_chemical_formula_moiety
+;
+C12 H8 N2 O5
+;
+_journal_coeditor_code "IUCr BH2266"
+_journal_coden_Cambridge 1370
+_journal_volume 66
+_journal_year 2010
+_journal_page_first o415
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Zhen-Ting Du"
+"Yan Xu"
+"Hong-Rui Yu"
+"Yong Li"
+_chemical_name_systematic
+;
+2,4-Dinitro-1-(phenoxy)benzene
+;
+_cell_volume   1193.387
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.448
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'n-hexane/ethyl acetate'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+Two nitro O atoms are disordered by symmetry equally over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0656
+_refine_ls_wR_factor_gt 0.0656
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,-1/2+z
+8 x,-1/2-y,z
+_cell_length_a 21.012(13)
+_cell_length_b 6.917(4)
+_cell_length_c 8.211(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4600(2) 0.25000 0.9620(5)
+N2 N 0.5869(2) 0.25000 0.4695(6)
+O1 O 0.35033(13) 0.25000 0.7731(4)
+O2 O 0.4181(2) 0.3065(14) 1.0352(6)
+O3 O 0.5041(3) 0.1576(11) 1.0291(7)
+O4 O 0.63351(19) 0.25000 0.5549(6)
+O5 O 0.5895(2) 0.25000 0.3233(6)
+C1 C 0.4064(2) 0.25000 0.6926(6)
+C2 C 0.4620(2) 0.25000 0.7843(5)
+C3 C 0.5208(2) 0.25000 0.7124(6)
+H1 H 0.55770 0.25000 0.77520
+C4 C 0.5240(2) 0.25000 0.5464(6)
+C5 C 0.4704(2) 0.25000 0.4509(6)
+H2 H 0.47380 0.25000 0.33800
+C6 C 0.4115(2) 0.25000 0.5237(6)
+H3 H 0.37500 0.25000 0.45980
+C7 C 0.2935(2) 0.25000 0.6851(6)
+C8 C 0.26597(18) 0.0773(7) 0.6495(5)
+H4 H 0.28540 -0.03860 0.67810
+C9 C 0.2084(2) 0.0798(10) 0.5698(6)
+H5 H 0.18910 -0.03620 0.54100
+C10 C 0.1795(3) 0.25000 0.5328(9)
+H6 H 0.14000 0.25000 0.48200
+O2G O 0.4181(2) 0.1935(14) 1.0352(6)
+O3G O 0.5041(3) 0.3424(11) 1.0291(7)
+C8G C 0.26597(18) 0.4227(7) 0.6495(5)
+H4G H 0.28540 0.53860 0.67810
+C9G C 0.2084(2) 0.4202(10) 0.5698(6)
+H5G H 0.18910 0.53620 0.54100
+#END

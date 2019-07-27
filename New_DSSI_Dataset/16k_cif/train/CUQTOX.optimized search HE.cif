@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUQTOX
+_audit_creation_date 2000-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUQTOX
+_database_code_depnum_ccdc_archive 'CCDC 134183'
+_database_code_depnum_ccdc_journal 1003/5625
+_chemical_formula_sum 'C15 H15 N5 O7'
+_chemical_formula_moiety
+;
+C15 H15 N5 O7
+;
+_journal_coden_Cambridge 1003
+_journal_volume 29
+_journal_year 1999
+_journal_page_first 749
+_journal_name_full 'J.Chem.Cryst. '
+loop_
+_publ_author_name
+"D.J.Burkhart"
+"A.Vij"
+"N.R.Natale"
+_chemical_name_systematic
+;
+3-Ethoxycarbonyl-5-methyl-4-(1-(2,4-dinitrophenylhydrazono)ethyl)isoxazole
+;
+_chemical_name_common
+;
+3-Isoxazolecarboxylic acid 
+5-methyl-4-(1-(2,4-dinitrophenylhydrazono)ethyl)-ethyl ester
+;
+_chemical_melting_point 430.15
+_cell_volume    815.624
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.536
+_exptl_special_details
+;
+Melting point range 430.15-432.15K
+possible antagonstic activity for the AMPA receptor
+;
+_exptl_crystal_description 'Block'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 213
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0465
+_refine_ls_wR_factor_gt 0.0465
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.3363(5)
+_cell_length_b 8.4930(5)
+_cell_length_c 12.2379(7)
+_cell_angle_alpha 92.568(2)
+_cell_angle_beta 102.229(2)
+_cell_angle_gamma 104.449(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.1821(2) 0.7568(2) 0.50856(13)
+O2 O -0.3893(2) 0.5034(2) 0.76227(15)
+O3 O -0.3592(2) 0.3071(2) 0.64487(12)
+O4 O 0.4406(2) 0.1977(2) 1.07567(14)
+O5 O 0.4168(2) 0.3391(2) 0.93456(14)
+O6 O -0.0083(2) -0.0045(2) 1.25301(14)
+O7 O -0.2502(2) 0.0488(2) 1.1978(2)
+N1 N -0.3093(2) 0.6605(2) 0.5554(2)
+N2 N 0.0154(2) 0.4665(2) 0.77654(13)
+N3 N 0.1274(2) 0.4038(2) 0.84912(14)
+H1 H 0.2370(33) 0.4164(28) 0.8426(20)
+N4 N 0.3570(2) 0.2641(2) 1.00729(15)
+N5 N -0.1037(2) 0.0588(2) 1.19033(14)
+C1 C -0.0311(3) 0.7258(2) 0.5514(2)
+C2 C -0.0527(2) 0.6111(2) 0.6256(2)
+C3 C -0.2307(2) 0.5762(2) 0.6235(2)
+C4 C -0.3345(2) 0.4599(3) 0.6863(2)
+C5 C -0.4652(3) 0.1794(3) 0.6948(2)
+H2 H -0.5788(37) 0.1717(32) 0.6559(23)
+H3 H -0.4465(40) 0.2105(37) 0.7719(28)
+C6 C -0.4143(4) 0.0266(3) 0.6769(3)
+H4 H -0.2976(49) 0.0432(42) 0.7062(29)
+H5 H -0.4423(40) -0.0058(38) 0.5927(29)
+H6 H -0.4792(40) -0.0596(38) 0.7120(26)
+C7 C 0.1128(3) 0.8241(3) 0.5098(2)
+H7 H 0.1766(44) 0.7604(41) 0.4791(27)
+H8 H 0.1935(48) 0.8982(45) 0.5670(31)
+H9 H 0.0764(44) 0.8878(42) 0.455(3)
+C8 C 0.0718(2) 0.5440(2) 0.6988(2)
+C9 C 0.2489(3) 0.5682(3) 0.6829(2)
+H10 H 0.2599(40) 0.6072(38) 0.6108(28)
+H11 H 0.2812(43) 0.4628(43) 0.6814(28)
+H12 H 0.3249(41) 0.6365(38) 0.7403(27)
+C10 C 0.0747(2) 0.3215(2) 0.9329(2)
+C11 C 0.1814(2) 0.2522(2) 1.0114(2)
+C12 C 0.1241(3) 0.1687(2) 1.0963(2)
+H13 H 0.1957(31) 0.1280(28) 1.1464(20)
+C13 C -0.0423(3) 0.1497(2) 1.1029(2)
+C14 C -0.1531(3) 0.2151(3) 1.0277(2)
+H14 H -0.2682(34) 0.1996(30) 1.0319(21)
+C15 C -0.0950(3) 0.3001(3) 0.9451(2)
+H15 H -0.1712(31) 0.3492(29) 0.8938(20)
+#END

@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DNTNAP02
+_audit_creation_date 1978-05-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DNTNAP02
+_chemical_formula_sum 'C10 H6 N2 O4'
+_chemical_formula_moiety
+;
+C10 H6 N2 O4
+;
+_journal_coden_Cambridge 208
+_journal_volume 22
+_journal_year 1977
+_journal_page_first 185
+_journal_name_full 'J.Solid State Chem. '
+loop_
+_publ_author_name
+"M.Ciechanowicz-Rutkowska"
+_chemical_name_systematic
+;
+1,8-Dinitronaphthalene
+;
+_cell_volume    933.903
+_exptl_crystal_density_diffrn 1.557
+_exptl_special_details
+;
+orthorhombic polymorph
+
+;
+_diffrn_ambient_temperature 370.15
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.057
+_refine_ls_wR_factor_gt 0.057
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 11.475(1)
+_cell_length_b 15.002(1)
+_cell_length_c 5.425(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.34470 -0.25120 -0.18970
+O2 O -0.34260 -0.20870 0.19110
+O3 O -0.59080 -0.24470 -0.47570
+O4 O -0.58270 -0.22370 -0.08260
+N1 N -0.36140 -0.26390 0.03090
+N2 N -0.57770 -0.27130 -0.26620
+C1 C -0.40110 -0.35260 0.10480
+C2 C -0.34260 -0.38970 0.29870
+C3 C -0.36050 -0.48040 0.35700
+C4 C -0.43440 -0.53070 0.21500
+C5 C -0.57260 -0.54770 -0.12540
+C6 C -0.63440 -0.51290 -0.31760
+C7 C -0.63010 -0.42030 -0.36670
+C8 C -0.56140 -0.36690 -0.22480
+C9 C -0.48620 -0.40010 -0.03730
+C10 C -0.49780 -0.49300 0.01750
+H1 H -0.28300 -0.34990 0.40670
+H2 H -0.31630 -0.51000 0.51250
+H3 H -0.44440 -0.60080 0.25510
+H4 H -0.58070 -0.61760 -0.08170
+H5 H -0.68660 -0.55610 -0.43240
+H6 H -0.68080 -0.39220 -0.51520
+#END

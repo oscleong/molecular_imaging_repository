@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EDAFUL
+_audit_creation_date 2007-08-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EDAFUL
+_database_code_depnum_ccdc_archive 'CCDC 621694'
+_chemical_formula_sum 'C11 H15 N1 O5'
+_chemical_formula_moiety
+;
+C11 H15 N1 O5
+;
+_journal_coden_Cambridge 1336
+_journal_volume 9
+_journal_year 2007
+_journal_page_first 753
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"Tony K.M.Shing"
+"Wai F.Wong"
+"Hau M.Cheng"
+"Wun S.Kwok"
+"King H.So"
+_chemical_name_systematic
+;
+6,6-dimethyl-3a,4,4a,7a-tetrahydro-3H-[1,3]dioxolo[4,5]cyclopenta[1,2-c]isoxaz
+ol-4-yl acetate
+;
+_chemical_melting_point 374.15
+_cell_volume   1206.691
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.328
+_exptl_special_details
+;
+Melting point range 374.15-376.15K
+
+;
+_exptl_crystal_preparation 'diethyl ether/hexane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0487
+_refine_ls_wR_factor_gt 0.0487
+loop_
+_citation_database_id_CSD
+_citation_special_details
+XUMSED "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 8.6357(17)
+_cell_length_b 9.0665(18)
+_cell_length_c 15.412(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.70
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 1.1785(4) 0.3187(5) 0.3221(3)
+O1 O 0.8442(4) 0.4480(4) 0.2505(2)
+O2 O 0.6796(3) 0.2995(4) 0.3249(2)
+O3 O 0.7435(4) 0.0537(3) 0.4156(2)
+O4 O 0.9090(6) -0.1114(5) 0.4671(3)
+O5 O 1.2426(4) 0.2657(4) 0.4008(2)
+C1 C 0.6860(6) 0.4361(6) 0.2783(3)
+C2 C 0.6523(10) 0.5586(6) 0.3395(5)
+C3 C 0.5811(6) 0.4342(7) 0.2010(4)
+C4 C 0.9156(5) 0.3074(5) 0.2549(3)
+C5 C 0.7889(5) 0.2013(5) 0.2878(3)
+C6 C 0.8625(5) 0.1110(5) 0.3607(3)
+C7 C 0.7812(6) -0.0610(5) 0.4667(3)
+C8 C 0.6464(7) -0.1118(6) 0.5186(4)
+C9 C 0.9748(5) 0.2190(5) 0.4037(3)
+C10 C 1.0333(5) 0.2973(5) 0.3251(3)
+C11 C 1.1291(6) 0.1704(6) 0.4419(3)
+H1 H 0.72180 0.55310 0.38810
+H2 H 0.54750 0.55060 0.35970
+H3 H 0.66590 0.65130 0.31040
+H4 H 0.60770 0.35260 0.16420
+H5 H 0.59260 0.52470 0.16920
+H6 H 0.47570 0.42430 0.21990
+H7 H 0.95730 0.27660 0.19860
+H8 H 0.74480 0.13990 0.24170
+H9 H 0.92110 0.02900 0.33550
+H10 H 0.67660 -0.19390 0.55410
+H11 H 0.56440 -0.14150 0.48030
+H12 H 0.61090 -0.03280 0.55500
+H13 H 0.92030 0.28670 0.44270
+H14 H 1.12990 0.18340 0.50440
+H15 H 1.14960 0.06770 0.42870
+#END

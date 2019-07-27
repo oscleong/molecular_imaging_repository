@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ANTCEN07
+_audit_creation_date 1984-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ANTCEN07
+_database_code_depnum_ccdc_archive 'CCDC 1103067'
+_chemical_formula_sum 'C14 H10'
+_chemical_formula_moiety
+;
+C14 H10
+;
+_journal_coden_Cambridge 41
+_journal_volume 28
+_journal_year 1983
+_journal_page_first 674
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"V.I.Ponomarev"
+"G.V.Shilov"
+_chemical_name_systematic
+;
+Anthracene
+;
+_cell_volume    473.323
+_exptl_special_details
+;
+stable monoclinic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.071
+_refine_ls_wR_factor_gt 0.071
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 -x,-y,-z
+4 x,-1/2+y,-1/2-z
+_cell_length_a 11.174(4)
+_cell_length_b 8.554(4)
+_cell_length_c 6.016(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 124.60(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.36500 0.08730 0.02900
+C2 C 0.27970 0.11790 0.15560
+C3 C 0.13860 0.05920 0.08190
+C4 C 0.04730 0.08740 0.20800
+C5 C 0.08950 -0.03060 -0.13180
+C6 C 0.18330 -0.06000 -0.25800
+C7 C 0.31570 -0.00370 -0.18050
+H1 H 0.46110 0.12200 0.07440
+H2 H 0.31400 0.18310 0.29280
+H3 H 0.08380 0.15280 0.34920
+H4 H 0.14570 -0.12130 -0.40710
+H5 H 0.38090 -0.01670 -0.26320
+C5B C -0.08950 0.03060 0.13180
+C4B C -0.04730 -0.08740 -0.20800
+C3B C -0.13860 -0.05920 -0.08190
+C6B C -0.18330 0.06000 0.25800
+H3B H -0.08380 -0.15280 -0.34920
+C2B C -0.27970 -0.11790 -0.15560
+C7B C -0.31570 0.00370 0.18050
+H4B H -0.14570 0.12130 0.40710
+C1B C -0.36500 -0.08730 -0.02900
+H2B H -0.31400 -0.18310 -0.29280
+H5B H -0.38090 0.01670 0.26320
+H1B H -0.46110 -0.12200 -0.07440
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.357 1_555 1_555
+C2 C3 1.427 1_555 1_555
+C3 C4 1.398 1_555 1_555
+C4 H3 0.970 1_555 1_555
+C5 C3 1.437 1_555 1_555
+C6 C5 1.427 1_555 1_555
+C7 C1 1.418 1_555 1_555
+H1 C1 0.977 1_555 1_555
+H2 C2 0.947 1_555 1_555
+H4 C6 1.003 1_555 1_555
+H5 C7 0.940 1_555 1_555
+C5B C4 1.393 1_555 1_555
+C4B C5 1.393 1_555 1_555
+C3B C5B 1.437 1_555 1_555
+C6B C5B 1.427 1_555 1_555
+H3B C4B 0.970 1_555 1_555
+C2B C3B 1.427 1_555 1_555
+C7B C6B 1.352 1_555 1_555
+H4B C6B 1.003 1_555 1_555
+C1B C2B 1.357 1_555 1_555
+H2B C2B 0.947 1_555 1_555
+H5B C7B 0.940 1_555 1_555
+H1B C1B 0.977 1_555 1_555
+C6 C7 1.352 1_555 1_555
+C4B C3B 1.398 1_555 1_555
+C7B C1B 1.418 1_555 1_555
+#END

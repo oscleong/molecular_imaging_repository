@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KUFLUU
+_audit_creation_date 2015-04-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KUFLUU
+_database_code_depnum_ccdc_archive 'CCDC 1044084'
+_chemical_formula_sum 'C14 H12 N2 O4'
+_chemical_formula_moiety
+;
+C14 H12 N2 O4
+;
+_journal_coden_Cambridge 1350
+_journal_volume 17
+_journal_year 2015
+_journal_page_first 3509
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"A.Carletta"
+"J.Dubois"
+"A.Tilborg"
+"J.Wouters"
+_chemical_name_systematic
+;
+(E)-2-methoxy-6-((3-nitrophenyl)carbonoimidoyl)phenol
+;
+_chemical_name_common
+;
+(E)-2-methoxy-6-([(3-nitrophenyl)imino]methyl)phenol
+;
+_cell_volume   2565.100
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.41
+_exptl_special_details
+;
+polymorph I
+
+;
+_exptl_crystal_description 'plaquet'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0398
+_refine_ls_wR_factor_gt 0.0398
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 12.8418(3)
+_cell_length_b 7.5487(2)
+_cell_length_c 26.4610(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.33389(12) 0.7041(2) 0.63301(6)
+H1 H 0.30250 0.81510 0.63230
+C2 C 0.37250(11) 0.62707(19) 0.58969(5)
+C3 C 0.42001(11) 0.46361(19) 0.58884(5)
+H2 H 0.44490 0.41580 0.55880
+C4 C 0.42979(10) 0.37180(18) 0.63423(5)
+C5 C 0.39096(12) 0.4471(2) 0.67840(5)
+H3 H 0.39710 0.38630 0.70880
+C6 C 0.34362(13) 0.6103(2) 0.67755(6)
+H4 H 0.31780 0.65830 0.70740
+C7 C 0.52008(12) 0.1213(2) 0.60261(5)
+C8 C 0.57044(11) -0.04836(19) 0.60942(5)
+C9 C 0.61563(12) -0.1357(2) 0.56790(6)
+H5 H 0.61260 -0.08430 0.53600
+C10 C 0.66388(13) -0.2955(2) 0.57408(6)
+H6 H 0.69370 -0.35200 0.54640
+C11 C 0.66875(11) -0.3745(2) 0.62176(6)
+H7 H 0.70130 -0.48370 0.62560
+C12 C 0.62543(10) -0.29120(19) 0.66317(5)
+C13 C 0.57613(10) -0.12642(18) 0.65736(5)
+C14 C 0.66827(14) -0.5256(2) 0.71961(7)
+H8 H 0.63250 -0.60930 0.69860
+H9 H 0.65970 -0.55810 0.75440
+H10 H 0.74100 -0.52540 0.71130
+N1 N 0.47819(9) 0.20444(16) 0.63948(4)
+N2 N 0.36428(11) 0.7262(2) 0.54202(5)
+O1 O 0.39541(13) 0.65676(19) 0.50339(4)
+O2 O 0.32788(14) 0.8753(2) 0.54325(5)
+O3 O 0.53672(9) -0.04906(15) 0.69902(4)
+O4 O 0.62651(9) -0.35445(14) 0.71163(4)
+H11 H 0.5206(14) 0.170(3) 0.5668(8)
+H12 H 0.5077(17) 0.055(3) 0.6880(8)
+#END

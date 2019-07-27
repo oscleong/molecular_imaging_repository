@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOYJEW
+_audit_creation_date 2009-07-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOYJEW
+_database_code_depnum_ccdc_archive 'CCDC 738156'
+_chemical_formula_sum 'C11 H14 N2 O4'
+_chemical_formula_moiety
+;
+C11 H14 N2 O4
+;
+_journal_coeditor_code "IUCr TK2439"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o1233
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"S.N.Narendra Babu"
+"A.S.Abdul Rahim"
+"S.Abd Hamid"
+"S.R.Jebas"
+"H.-K.Fun"
+_chemical_name_systematic
+;
+4-(t-Butylamino)-3-nitrobenzoic acid
+;
+_cell_volume   1133.407
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.396
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0647
+_refine_ls_wR_factor_gt 0.0647
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,-y,z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 20.8125(15)
+_cell_length_b 6.7412(5)
+_cell_length_c 8.0793(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90.863(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.44372(12) 0.50000 0.3166(3)
+O2 O 0.43314(11) 0.50000 0.5919(3)
+O3 O 0.22447(11) 0.50000 0.8193(3)
+O4 O 0.13560(11) 0.50000 0.6766(3)
+N1 N 0.19540(13) 0.50000 0.6848(3)
+N2 N 0.13842(13) 0.50000 0.3497(4)
+C1 C 0.24626(16) 0.50000 0.2381(4)
+H1 H 0.22980 0.50000 0.13040
+C2 C 0.31116(16) 0.50000 0.2615(4)
+H2 H 0.33770 0.50000 0.17000
+C3 C 0.33894(15) 0.50000 0.4217(4)
+C4 C 0.29869(16) 0.50000 0.5563(4)
+H3 H 0.31630 0.50000 0.66280
+C5 C 0.23216(16) 0.50000 0.5349(4)
+C6 C 0.20244(16) 0.50000 0.3726(4)
+C7 C 0.09935(16) 0.50000 0.1929(4)
+C8 C 0.02967(16) 0.50000 0.2518(4)
+H4 H 0.00080 0.50000 0.15810
+H5 H 0.02280 0.38610 0.32060
+C9 C 0.11138(11) 0.3105(4) 0.0926(3)
+H6 H 0.15580 0.30440 0.06270
+H7 H 0.08500 0.31200 -0.00600
+H8 H 0.10080 0.19660 0.15810
+C10 C 0.40933(15) 0.50000 0.4522(4)
+H9 H 0.1189(18) 0.50000 0.435(5)
+H10 H 0.4804(19) 0.50000 0.341(5)
+H5E H 0.02280 0.61390 0.32060
+C9E C 0.11138(11) 0.6895(4) 0.0926(3)
+H6E H 0.15580 0.69560 0.06270
+H7E H 0.08500 0.68800 -0.00600
+H8E H 0.10080 0.80340 0.15810
+#END

@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MOVTUN
+_audit_creation_date 2009-09-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MOVTUN
+_database_code_depnum_ccdc_archive 'CCDC 728954'
+_chemical_formula_sum 'C7 H7 N1 O2'
+_chemical_formula_moiety
+;
+C7 H7 N1 O2
+;
+_journal_coden_Cambridge 1147
+_journal_volume 9
+_journal_year 2009
+_journal_page_first 57
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"A.A.Yakovenko"
+"M.Yu.Antipin"
+"T.V.Timofeeva"
+_chemical_name_systematic
+;
+1-Methyl-2-nitrobenzene
+;
+_chemical_melting_point 269
+_cell_volume   1336.766
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.363
+_exptl_crystal_description 'cylinder'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+One of the independent molecules is disordered over two sites with 
+occupancies 0.84:0.16.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0629
+_refine_ls_wR_factor_gt 0.0629
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.4053(4)
+_cell_length_b 10.9028(6)
+_cell_length_c 15.1685(8)
+_cell_angle_alpha 90
+_cell_angle_beta 105.917(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6825(3) 0.3576(2) 0.00804(16)
+O2 O 0.5886(4) 0.4964(2) -0.09412(18)
+N1 N 0.5915(4) 0.3912(3) -0.06589(18)
+C1 C 0.4807(5) 0.3005(3) -0.1237(2)
+C2 C 0.4167(5) 0.2037(3) -0.0851(2)
+C3 C 0.3095(5) 0.1246(3) -0.1468(2)
+H1 H 0.25970 0.05820 -0.12370
+C4 C 0.2746(5) 0.1415(3) -0.2410(2)
+H2 H 0.20230 0.08630 -0.28130
+C5 C 0.3441(5) 0.2375(4) -0.2761(2)
+H3 H 0.32080 0.24770 -0.34060
+C6 C 0.4473(5) 0.3189(3) -0.2180(2)
+H4 H 0.49470 0.38610 -0.24160
+C7 C 0.4465(6) 0.1814(4) 0.0167(2)
+H5 H 0.43930 0.25930 0.04750
+H6 H 0.55680 0.14580 0.04170
+H7 H 0.36280 0.12460 0.02660
+O3 O -0.1644(5) 0.0841(3) -0.0028(2)
+O4 O 0.0488(6) 0.1812(3) 0.0787(2)
+N2 N -0.0559(6) 0.1602(4) 0.0048(3)
+C8 C -0.0431(6) 0.2322(4) -0.0755(3)
+C9 C -0.1226(6) 0.1953(4) -0.1645(3)
+C10 C -0.0977(6) 0.2692(4) -0.2340(3)
+H8 H -0.14950 0.24730 -0.29580
+C11 C -0.0019(6) 0.3720(4) -0.2170(3)
+H9 H 0.01360 0.41890 -0.26670
+C12 C 0.0737(6) 0.4090(4) -0.1271(3)
+H10 H 0.13810 0.48180 -0.11530
+C13 C 0.0534(6) 0.3383(4) -0.0565(3)
+H11 H 0.10480 0.36130 0.00510
+C14 C -0.2268(7) 0.0815(4) -0.1893(4)
+H12 H -0.25450 0.06850 -0.25570
+H13 H -0.32890 0.09130 -0.17060
+H14 H -0.16500 0.01060 -0.15770
+C15? C -0.0775(8) 0.1916(9) -0.0838(5)
+C16? C -0.0238(11) 0.3046(9) -0.1078(6)
+C17? C -0.0577(14) 0.3349(9) -0.2005(7)
+C18? C -0.1428(17) 0.2543(12) -0.2670(5)
+C19? C -0.1958(18) 0.1420(11) -0.2425(7)
+C20? C -0.1625(15) 0.1113(9) -0.1505(8)
+C21? C 0.070(2) 0.3934(12) -0.0342(9)
+H15? H -0.02190 0.41150 -0.21790
+H16? H -0.16510 0.27590 -0.32990
+H17? H -0.25430 0.08670 -0.28840
+H18? H -0.19850 0.03450 -0.13330
+H19? H 0.06500 0.47610 -0.06020
+H20? H 0.18590 0.36740 -0.01210
+H21? H 0.01990 0.39380 0.01690
+N3? N -0.0436(13) 0.1574(9) 0.0131(6)
+O5? O -0.1261(19) 0.0748(14) 0.0340(8)
+O6? O 0.066(2) 0.2125(19) 0.0697(7)
+#END

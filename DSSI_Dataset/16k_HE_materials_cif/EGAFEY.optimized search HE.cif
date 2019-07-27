@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EGAFEY
+_audit_creation_date 2009-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EGAFEY
+_database_code_depnum_ccdc_archive 'CCDC 689192'
+_chemical_formula_sum 'C8 H11 N1 O3'
+_chemical_formula_moiety
+;
+C8 H11 N1 O3
+;
+_journal_coden_Cambridge 24
+_journal_volume 49
+_journal_year 2008
+_journal_page_first 5777
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"C.A.D.Sousa"
+"M.L.C.Vale"
+"J.E.Rodriguez-Borges"
+"X.Garcia-Mera"
+"J.Rodriguez-Otero"
+_chemical_name_systematic
+;
+(+-)-Methyl ((3-endo)-2-hydroxy-2-azabicyclo(2.2.1)hept-5-ene)-3-carboxylate
+;
+_chemical_melting_point 375.15
+_cell_volume    785.294
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.431
+_exptl_special_details
+;
+Melting point range 375.15-378.15K
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0337
+_refine_ls_wR_factor_gt 0.0337
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.2611(1)
+_cell_length_b 11.0092(2)
+_cell_length_c 11.5953(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.727(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.91412(14) 0.01995(8) 0.11367(7)
+C1 C 1.06377(17) 0.07794(9) 0.21676(9)
+H1 H 1.18240 0.13010 0.19660
+C2 C 0.90481(17) 0.14142(9) 0.28302(9)
+H2 H 0.81430 0.20370 0.23540
+H3 H 0.97650 0.17590 0.35930
+C3 C 0.78064(16) 0.02269(9) 0.29553(9)
+H4 H 0.65980 0.02790 0.34090
+C4 C 0.71495(16) -0.00924(9) 0.16306(9)
+H5 H 0.59580 0.04700 0.12680
+O1 O 0.85215(13) 0.11370(7) 0.02516(7)
+C5 C 1.13715(17) -0.0291(1) 0.29673(9)
+H6 H 1.27710 -0.06550 0.31030
+C6 C 0.96806(17) -0.06235(9) 0.34433(9)
+H7 H 0.96490 -0.12680 0.39840
+C7 C 0.63667(15) -0.13862(9) 0.13916(8)
+O2 O 0.55717(12) -0.19880(7) 0.20734(6)
+O3 O 0.65617(12) -0.17619(7) 0.03212(6)
+C8 C 0.55804(17) -0.29314(9) -0.00199(9)
+H8 H 0.63630 -0.35670 0.04800
+H9 H 0.56580 -0.30950 -0.08420
+H10 H 0.40560 -0.29220 0.00720
+H11 H 0.928(3) 0.0890(16) -0.0269(16)
+#END

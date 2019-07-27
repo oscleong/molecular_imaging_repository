@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNPHOL22
+_audit_creation_date 2006-04-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNPHOL22
+_database_code_depnum_ccdc_archive 'CCDC 296431'
+_chemical_formula_sum 'C6 H5 N1 O3'
+_chemical_formula_moiety
+;
+C6 H5 N1 O3
+;
+_journal_coden_Cambridge 1147
+_journal_volume 6
+_journal_year 2006
+_journal_page_first 274
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"G.Wojcik"
+"J.Holband"
+"J.J.Szymczak"
+"S.Roszak"
+"J.Leszczynski"
+_chemical_name_systematic
+;
+m-Nitrophenol
+;
+_chemical_name_common
+;
+3-Nitrophenol
+;
+_chemical_melting_point 370
+_cell_volume    604.900
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.528
+_exptl_special_details
+;
+orthorhombic polymorph
+phase transition at about 350 K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'benzene'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0418
+_refine_ls_wR_factor_gt 0.0418
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 8.1017(8)
+_cell_length_b 6.6777(8)
+_cell_length_c 11.181(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.42810(13) 0.0603(2) 0.60681(12)
+O2 O 0.33158(15) 0.2362(2) 0.75250(11)
+O3 O -0.27040(14) 0.21485(19) 0.71327(11)
+H1 H -0.36130 0.18020 0.68360
+N1 N 0.31187(15) 0.13207(19) 0.66364(12)
+C1 C 0.14386(16) 0.0925(2) 0.62188(13)
+C2 C 0.01461(18) 0.1719(2) 0.68776(13)
+H2 H 0.03460 0.24930 0.75750
+C3 C -0.14566(17) 0.1345(2) 0.64837(13)
+C4 C -0.17176(17) 0.0184(2) 0.54679(13)
+H3 H -0.28110 -0.00820 0.52060
+C5 C -0.03887(18) -0.0588(2) 0.48363(13)
+H4 H -0.05830 -0.13790 0.41440
+C6 C 0.12277(18) -0.0221(2) 0.52022(13)
+H5 H 0.21440 -0.07370 0.47710
+#END

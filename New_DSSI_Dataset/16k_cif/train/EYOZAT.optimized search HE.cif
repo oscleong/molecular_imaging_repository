@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EYOZAT
+_audit_creation_date 2004-10-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EYOZAT
+_database_code_depnum_ccdc_archive 'CCDC 248766'
+_chemical_formula_sum 'C10 H12 N2 O5'
+_chemical_formula_moiety
+;
+C10 H12 N2 O5
+;
+_journal_coeditor_code "IUCr DN6148"
+_journal_coden_Cambridge 1370
+_journal_volume 60
+_journal_year 2004
+_journal_page_first o1288
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"D.E.Lynch"
+"I.McClenaghan"
+_chemical_name_systematic
+;
+2-t-Butyl-4,6-dinitrophenol
+;
+_cell_volume   1121.930
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.422
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 120
+_diffrn_special_details
+;
+crystals are twinned, with nearly equal components
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0555
+_refine_ls_wR_factor_gt 0.0555
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.974(2)
+_cell_length_b 10.575(2)
+_cell_length_c 11.547(2)
+_cell_angle_alpha 90
+_cell_angle_beta 112.90(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.08422(16) 0.24756(16) 0.01103(17)
+O1 O 0.08686(12) 0.34527(12) -0.06166(12)
+H1 H 0.00590 0.37780 -0.09180
+C2 C 0.21649(17) 0.17828(16) 0.07515(17)
+C3 C 0.35876(16) 0.21422(16) 0.05852(18)
+C4 C 0.33651(18) 0.19937(18) -0.08108(18)
+H2 H 0.25820 0.25300 -0.13220
+H3 H 0.31330 0.11290 -0.10640
+H4 H 0.42420 0.22290 -0.09130
+C5 C 0.40487(19) 0.35174(18) 0.1040(2)
+H5 H 0.49390 0.37180 0.09440
+H6 H 0.41930 0.35910 0.19090
+H7 H 0.32990 0.40930 0.05470
+C6 C 0.48590(18) 0.12544(18) 0.1379(2)
+H8 H 0.46010 0.03930 0.11300
+H9 H 0.50400 0.13490 0.22540
+H10 H 0.57200 0.14740 0.12430
+C7 C 0.21111(17) 0.07892(16) 0.15038(17)
+H11 H 0.29460 0.03130 0.19150
+C8 C 0.08200(17) 0.04759(15) 0.16662(18)
+N1 N 0.08388(15) -0.05678(14) 0.25181(15)
+O2 O 0.18873(14) -0.13023(13) 0.28710(14)
+O3 O -0.02105(13) -0.06679(11) 0.28282(13)
+C9 C -0.04623(18) 0.11166(16) 0.10471(17)
+H12 H -0.13110 0.08980 0.11520
+C10 C -0.04398(16) 0.20999(15) 0.02624(17)
+N2 N -0.18396(15) 0.27369(15) -0.04410(15)
+O4 O -0.29647(11) 0.22493(13) -0.04595(12)
+O5 O -0.18238(12) 0.37669(12) -0.09758(13)
+#END

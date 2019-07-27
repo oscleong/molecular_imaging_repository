@@ -1,0 +1,96 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KIMBAM
+_audit_creation_date 2018-09-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KIMBAM
+_database_code_depnum_ccdc_archive 'CCDC 1847372'
+_chemical_formula_sum 'C6 H4 N2 O4'
+_chemical_formula_moiety
+;
+C6 H4 N2 O4
+;
+_journal_coden_Cambridge 1326
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 24192
+_journal_name_full 'Phys.Chem.Chem.Phys.(PCCP) '
+loop_
+_publ_author_name
+"E.C.Escudero-Adan"
+"A.Bauza"
+"C.Lecomte"
+"A.Frontera"
+"P.Ballester"
+_chemical_name_systematic
+;
+1,4-dinitrobenzene
+;
+_cell_volume    331.831
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.682
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0107
+_refine_ls_wR_factor_gt 0.0107
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 5.6628
+_cell_length_b 5.3723
+_cell_length_c 10.9143(1)
+_cell_angle_alpha 90
+_cell_angle_beta 92.021(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.689166(15) 0.105238(14) 0.143458(7)
+O1 O 0.56523(5) 0.01475(4) 0.22193(3)
+O2 O 0.88950(6) 0.03465(6) 0.123100(17)
+C1 C 0.590366(13) 0.310342(15) 0.068668(7)
+C2 C 0.379755(14) 0.417781(17) 0.103307(8)
+C3 C 0.712987(14) 0.387186(17) -0.032910(8)
+H1 H 0.2930(5) 0.3515(6) 0.18321(19)
+H2 H 0.8751(3) 0.2970(5) -0.0563(3)
+N1B N 0.310834(15) 0.894762(14) -0.143458(7)
+O1B O 0.43477(5) 0.98525(4) -0.22193(3)
+O2B O 0.11050(6) 0.96535(6) -0.123100(17)
+C1B C 0.409634(13) 0.689658(15) -0.068668(7)
+C2B C 0.620245(14) 0.582219(17) -0.103307(8)
+C3B C 0.287013(14) 0.612814(17) 0.032910(8)
+H1B H 0.7070(5) 0.6485(6) -0.18321(19)
+H2B H 0.1249(3) 0.7030(5) 0.0563(3)
+#END

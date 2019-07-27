@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOHSAI
+_audit_creation_date 2009-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOHSAI
+_database_code_depnum_ccdc_archive 'CCDC 677703'
+_chemical_formula_sum 'C16 H20 N2 O3'
+_chemical_formula_moiety
+;
+C16 H20 N2 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 64
+_journal_year 2008
+_journal_page_first 9953
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"M.Buchlovic"
+"S.Man"
+"M.Potacek"
+_chemical_name_systematic
+;
+(5R,7aS)-5-methoxy-6,6,7a-trimethyl-7-methylidene-1-phenyltetrahydropyrrolo[1,
+2-b][1,2,4]oxadiazol-2(1H)-one
+;
+_chemical_melting_point 393.15
+_cell_volume   1524.201
+_exptl_crystal_density_diffrn 1.256
+_exptl_special_details
+;
+Melting point range 393.15-395.15K
+Space group given as P21/c but described as orthorhombic with a beta angle of 
+90 degrees
+;
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+Long N-O bond at N1.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0554
+_refine_ls_wR_factor_gt 0.0554
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.611(14)
+_cell_length_b 7.588(14)
+_cell_length_c 20.90(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.27310(14) 0.67963(18) 0.02970(7)
+O2 O 0.49524(15) 0.68174(18) -0.03366(7)
+O3 O 0.09085(14) 0.42140(19) 0.12635(7)
+N1 N 0.21100(17) 0.6881(2) 0.10114(8)
+C1 C 0.4178(2) 0.6981(2) 0.02062(10)
+N2 N 0.44766(16) 0.7405(2) 0.07941(8)
+C2 C 0.3157(2) 0.7871(3) 0.12796(10)
+C3 C 0.3064(2) 0.7094(3) 0.19602(10)
+C4 C 0.2216(2) 0.5453(3) 0.20141(9)
+C5 C 0.21266(19) 0.5132(2) 0.12905(9)
+H1 H 0.29290 0.44170 0.11310
+C6 C 0.5895(2) 0.7764(3) 0.08571(9)
+C7 C 0.6681(2) 0.6477(3) 0.10587(10)
+H2 H 0.63020 0.53640 0.11710
+C8 C 0.8070(2) 0.6804(3) 0.10999(11)
+H3 H 0.86600 0.58890 0.12510
+C9 C 0.8669(2) 0.8393(3) 0.09348(11)
+H4 H 0.96470 0.85560 0.09640
+C10 C 0.7863(2) 0.9668(3) 0.07375(11)
+H5 H 0.82410 1.07800 0.06210
+C11 C 0.6478(2) 0.9369(3) 0.07028(10)
+H6 H 0.58860 1.02990 0.05670
+C12 C 0.2876(2) 0.9772(3) 0.12681(11)
+H7 H 0.20960 1.00380 0.15540
+H8 H 0.26390 1.01330 0.08310
+H9 H 0.37050 1.04130 0.14110
+C13 C 0.3601(3) 0.7799(4) 0.24295(12)
+H10 H 0.34820 0.72990 0.28420
+H11 H 0.41350 0.88440 0.23790
+C14 C 0.0733(2) 0.5760(3) 0.24601(10)
+H12 H 0.09860 0.59500 0.29090
+H13 H 0.01390 0.47150 0.24260
+H14 H 0.02280 0.67920 0.23000
+C15 C 0.2939(2) 0.3955(3) 0.22738(11)
+H15 H 0.37920 0.37470 0.20280
+H16 H 0.23400 0.29120 0.22480
+H17 H 0.31780 0.41840 0.27220
+C16 C 0.0921(2) 0.3512(3) 0.06238(11)
+H18 H 0.00730 0.28230 0.05520
+H19 H 0.17370 0.27510 0.05690
+H20 H 0.09630 0.44830 0.03150
+#END

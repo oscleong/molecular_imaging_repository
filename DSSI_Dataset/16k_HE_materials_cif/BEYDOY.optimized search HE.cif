@@ -1,0 +1,92 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEYDOY
+_audit_creation_date 1999-12-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEYDOY
+_chemical_formula_sum 'C6 H3 N3 O6'
+_chemical_formula_moiety
+;
+C6 H3 N3 O6
+;
+_journal_coden_Cambridge 119
+_journal_volume 445
+_journal_year 1998
+_journal_page_first 89
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"J.K.Laerdahl"
+"K.Faegri Junior"
+"C.Romming"
+"O.Swang"
+"T.Midtgard"
+"K.Schoffel"
+_chemical_name_systematic
+;
+1,2,4-Trinitrobenzene
+;
+_cell_volume    789.192
+_exptl_crystal_density_diffrn 1.793
+_diffrn_ambient_temperature 133.15
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,y,1/2+z
+4 1/2+x,-y,z
+_cell_length_a 14.065(1)
+_cell_length_b 5.670(1)
+_cell_length_c 9.896(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.81193(10) 1.03275(28) 1.34706
+O2 O 0.76244(11) 1.26460(25) 1.18661(23)
+O3 O 0.65237(9) 0.83243(29) 1.18099(22)
+O4 O 0.64373(10) 0.58028(29) 1.01712(23)
+O5 O 0.93707(12) 0.28624(27) 0.82314(22)
+O6 O 1.04180(9) 0.55813(26) 0.77896(20)
+N1 N 0.80084(10) 1.08552(26) 1.22833(20)
+N2 N 0.68728(9) 0.71764(26) 1.08881(20)
+N3 N 0.97222(10) 0.48201(26) 0.83996(20)
+C1 C 0.84216(10) 0.92413(25) 1.12669(22)
+C2 C 0.78931(10) 0.74900(28) 1.06221(22)
+C3 C 0.83198(10) 0.60026(29) 0.96867(22)
+C4 C 0.92734(10) 0.63710(27) 0.94084(19)
+C5 C 0.98112(10) 0.81236(28) 1.00143(22)
+C6 C 0.93785(10) 0.95660(27) 1.09764(22)
+#END

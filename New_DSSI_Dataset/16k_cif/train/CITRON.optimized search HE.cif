@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CITRON
+_audit_creation_date 2008-04-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CITRON
+_database_code_depnum_ccdc_archive 'CCDC 650553'
+_chemical_formula_sum 'C20 H18 N2 O3'
+_chemical_formula_moiety
+;
+C20 H18 N2 O3
+;
+_journal_coden_Cambridge 1291
+_journal_year 2007
+_journal_page_first 6003
+_journal_name_full 'Eur.J.Org.Chem. '
+loop_
+_publ_author_name
+"P.Quadrelli"
+"M.Mella"
+"S.Carosso"
+"B.Bovio"
+"P.Caramella"
+_chemical_name_systematic
+;
+syn-(1S,2R,6S,7R)-(Phenyl)(5-phenyl-3,9-dioxa-4,8-diazatricyclo(5.2.2.0^2,6^)u
+ndec-4-en-8-yl)methanone
+;
+_chemical_name_common
+;
+syn-(1S,2R,6S,7R)-8-Benzoyl-5-phenyl-3,9-dioxa-4,8-diazatricyclo(5.2.2.0$2,6!)
+undec-4-ene
+;
+_chemical_melting_point 451.15
+_cell_volume   1684.068
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.319
+_exptl_special_details
+;
+Melting point range 451.15-453.15K
+The coordinates for H23 are not given in the cif and have been calculated
+;
+_exptl_crystal_description 'prisms'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0376
+_refine_ls_wR_factor_gt 0.0376
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 9.454(1)
+_cell_length_b 20.653(3)
+_cell_length_c 9.1836(7)
+_cell_angle_alpha 90
+_cell_angle_beta 110.086
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.75783(23) 0.05822(11) 0.93063(24)
+C2 C 0.89145(26) 0.08696(11) 0.90012(28)
+O1 O 0.90306(21) 0.06102(8) 0.75775(22)
+N1 N 0.88379(23) 0.11136(9) 0.64789(24)
+C3 C 0.86620(21) 0.16508(10) 0.70792(23)
+C4 C 0.86710(21) 0.16000(9) 0.87165(23)
+C5 C 0.71723(21) 0.17775(10) 0.88916(21)
+N2 N 0.60141(17) 0.13828(7) 0.77828(18)
+O2 O 0.62364(16) 0.07033(6) 0.79853(16)
+C6 C 0.71965(30) 0.16072(12) 1.05106(25)
+C7 C 0.73966(35) 0.08704(14) 1.07322(29)
+C8 C 0.48868(21) 0.15911(9) 0.65209(21)
+O3 O 0.46474(17) 0.21708(7) 0.62931(18)
+C9 C 0.3929(2) 0.10907(9) 0.5461(2)
+C10 C 0.23870(25) 0.11178(14) 0.51128(27)
+C11 C 0.14569(29) 0.06750(16) 0.40945(30)
+C12 C 0.20417(29) 0.02356(13) 0.33645(28)
+C13 C 0.35626(28) 0.02045(11) 0.36842(27)
+C14 C 0.45113(24) 0.06273(10) 0.47545(24)
+C15 C 0.83872(22) 0.22506(9) 0.61718(22)
+C16 C 0.78816(29) 0.22319(12) 0.45595(28)
+C17 C 0.75801(32) 0.27909(13) 0.37135(30)
+C18 C 0.77693(31) 0.33785(12) 0.44282(32)
+C19 C 0.82593(30) 0.34051(13) 0.60222(33)
+C20 C 0.85642(27) 0.28436(10) 0.68898(31)
+H1 H 0.7627(22) 0.0125(10) 0.9324(22)
+H2 H 0.9757(27) 0.0777(10) 0.9849(27)
+H3 H 0.9445(23) 0.1886(9) 0.9407(23)
+H4 H 0.6891(17) 0.2202(9) 0.8580(17)
+H5 H 0.6253(32) 0.1731(12) 1.0711(30)
+H6 H 0.8022(30) 0.1845(12) 1.1215(29)
+H7 H 0.647(3) 0.0664(12) 1.0918(29)
+H8 H 0.8240(31) 0.0756(12) 1.1565(32)
+H9 H 0.2002(31) 0.1471(14) 0.5498(30)
+H10 H 0.0375(38) 0.0669(13) 0.3905(33)
+H11 H 0.1398(28) -0.0060(11) 0.262(3)
+H12 H 0.4013(31) -0.0172(13) 0.3232(29)
+H13 H 0.5589(29) 0.0613(10) 0.4974(26)
+H14 H 0.7710(28) 0.1842(12) 0.4099(29)
+H15 H 0.7165(34) 0.2762(13) 0.2508(38)
+H16 H 0.8388(26) 0.3810(12) 0.6532(29)
+H17 H 0.8911(28) 0.2859(11) 0.8019(33)
+H18 H 0.75611 0.37738 0.38208
+#END

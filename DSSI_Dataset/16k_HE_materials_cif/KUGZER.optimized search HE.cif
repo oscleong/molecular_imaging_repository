@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KUGZER
+_audit_creation_date 1993-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KUGZER
+_chemical_formula_sum 'C13 H22 N2 O2'
+_chemical_formula_moiety
+;
+C13 H22 N2 O2
+;
+_journal_coeditor_code "IUCr HU0411"
+_journal_coden_Cambridge 591
+_journal_volume 48
+_journal_year 1992
+_journal_page_first 1884
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"P.J.S.S.van Eijk"
+"W.Verboom"
+"D.N.Reinhoudt"
+"S.Harkema"
+_chemical_name_systematic
+;
+N,N-Diethyl-6-(hydroxyimino)-\a-methyl-1-cyclohexene-1-acetamide
+;
+_cell_volume   1363.934
+_exptl_crystal_density_diffrn 1.16
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One of the cyclohexene C atoms C5 and one ethyl group, C16 and C17, show 
+disorder and were refined in two positions with partial occupancies of 
+0.40,0.60 and 0.50,0.50 respectively.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.059
+_refine_ls_wR_factor_gt 0.059
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.228(3)
+_cell_length_b 20.315(8)
+_cell_length_c 11.104(6)
+_cell_angle_alpha 90
+_cell_angle_beta 103.87(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7841(3) 0.1084(1) 0.7122(2)
+N1 N 0.6532(3) 0.1057(1) 0.7993(2)
+C1 C 0.4922(4) 0.0649(1) 0.7663(2)
+C2 C 0.4515(5) 0.0238(2) 0.6521(3)
+C3 C 0.333(1) -0.0408(4) 0.6612(7)
+C4? C 0.2374(9) -0.0075(3) 0.6232(5)
+C5 C 0.1513(6) -0.0347(2) 0.7212(3)
+C6 C 0.1909(5) 0.0116(2) 0.8292(3)
+C7 C 0.3422(4) 0.0583(1) 0.8500(2)
+C8 C 0.3703(4) 0.1068(1) 0.9565(2)
+C9 C 0.2283(5) 0.0906(2) 1.0468(3)
+C10 C 0.3074(4) 0.1754(1) 0.9075(2)
+O2 O 0.1406(3) 0.18380(9) 0.8241(2)
+N2 N 0.4236(4) 0.2273(1) 0.9620(3)
+C11 C 0.3464(7) 0.2942(2) 0.9177(5)
+C12 C 0.205(1) 0.3218(3) 0.9804(7)
+C13 C 0.659(1) 0.2235(3) 1.0310(8)
+C14? C 0.585(1) 0.2230(4) 1.0881(8)
+C15 C 0.679(1) 0.2207(4) 1.1692(7)
+C16? C 0.802(1) 0.2313(5) 1.065(1)
+H1 H 0.892(5) 0.137(3) 0.764(3)
+H2 H 0.36703 0.04876 0.58483
+H3 H 0.59135 0.01363 0.63662
+H4? H 0.46397 0.05084 0.58423
+H5? H 0.56167 -0.00949 0.66450
+H6 H 0.43595 -0.07187 0.70566
+H7 H 0.27474 -0.05624 0.57913
+H8? H 0.24510 -0.04266 0.56809
+H9? H 0.13460 0.02449 0.58164
+H10 H 0.12358 -0.07712 0.75024
+H11 H 0.02432 -0.02001 0.66152
+H12? H 0.22172 -0.07550 0.74745
+H13? H -0.00324 -0.04159 0.69138
+H14 H 0.10004 0.00718 0.88635
+H15 H 0.52137 0.10393 0.99965
+H16 H 0.25289 0.12252 1.11115
+H17 H 0.07685 0.09109 1.00367
+H18 H 0.26607 0.04821 1.08155
+H19 H 0.27392 0.29180 0.83219
+H20 H 0.46983 0.32293 0.92850
+H21 H 0.16087 0.36427 0.94785
+H22 H 0.07864 0.29423 0.96988
+H23 H 0.27455 0.32537 1.06619
+H24 H 0.73641 0.26050 1.01092
+H25 H 0.72043 0.18429 1.00707
+H26? H 0.57856 0.18144 1.12635
+H27? H 0.55838 0.25694 1.14149
+H28 H 0.82828 0.21774 1.21465
+H29 H 0.61466 0.25993 1.19151
+H30 H 0.59869 0.18372 1.18766
+H31? H 0.91315 0.22962 1.14043
+H32? H 0.82696 0.19726 1.01132
+H33? H 0.80677 0.27276 1.02646
+#END

@@ -1,0 +1,159 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CEJHUV
+_audit_creation_date 1987-11-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CEJHUV
+_chemical_formula_sum 'C22 H36 N2 O4'
+_chemical_formula_moiety
+;
+C22 H36 N2 O4
+;
+_journal_coden_Cambridge 41
+_journal_volume 31
+_journal_year 1986
+_journal_page_first 926
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"R.P.Shibaeva"
+"R.M.Lobkovskaya"
+"M.A.Simonov"
+"A.B.Shapiro"
+_chemical_name_systematic
+;
+1,1,3,3,4,2',2',5',6',6'-Decamethyl-1,2,3,4,7,8-hexahydro-pyrano(3,2c)pyridine
+-spiro(6,3')-4'-piperidone-2,1'-dioxide
+;
+_cell_volume   4588.168
+_exptl_crystal_density_diffrn 1.14
+_exptl_special_details
+;
+a is given as 21.581 in the abstract and 25.581 in the paper; the former is 
+correct. Described as the 1' form
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+loop_
+_citation_database_id_CSD
+_citation_special_details
+CEJHUU "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a b'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,y,1/2+z
+3 1/2+x,1/2-y,z
+4 -x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-y,-1/2-z
+7 -1/2-x,-1/2+y,-z
+8 x,-1/2+y,-1/2-z
+_cell_length_a 21.581(4)
+_cell_length_b 20.872(8)
+_cell_length_c 10.186(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1747(1) 0.5230(1) 0.8127(2)
+O2 O 0.0209(1) 0.1796(1) 0.3727(2)
+O3 O 0.0859(1) 0.3372(1) 0.4983(2)
+O4 O 0.2055(1) 0.3131(1) 0.2748(2)
+N1 N 0.1489(1) 0.4844(1) 0.7310(2)
+N2 N 0.0667(1) 0.2185(1) 0.3781(2)
+C1 C 0.1689(2) 0.4904(1) 0.5930(3)
+C2 C 0.2401(2) 0.4814(2) 0.5901(4)
+C3 C 0.1531(2) 0.5576(2) 0.5437(4)
+C4 C 0.0923(1) 0.4496(1) 0.7734(3)
+C5 C 0.0910(2) 0.4456(2) 0.9222(3)
+C6 C 0.0348(2) 0.4868(2) 0.7251(4)
+C7 C 0.0951(1) 0.3835(1) 0.7095(3)
+C8 C 0.1400(1) 0.3376(1) 0.7772(3)
+C9 C 0.1099(1) 0.3898(1) 0.5661(3)
+C10 C 0.1394(1) 0.4378(1) 0.5110(3)
+C11 C 0.1476(2) 0.4415(1) 0.3636(3)
+C12 C 0.1047(1) 0.3944(1) 0.2948(3)
+C13 C 0.1040(1) 0.3295(1) 0.3638(2)
+C14 C 0.0576(1) 0.2805(1) 0.3071(3)
+C15 C 0.0666(2) 0.2707(2) 0.1576(3)
+C16 C -0.0092(2) 0.3026(2) 0.3324(3)
+C17 C 0.1281(2) 0.1887(3) 0.4093(3)
+C18 C 0.1178(2) 0.1437(2) 0.5245(4)
+C19 C 0.1499(2) 0.1490(2) 0.2885(4)
+C20 C 0.1753(1) 0.2415(1) 0.4472(3)
+C21 C 0.2435(2) 0.2188(2) 0.4528(4)
+C22 C 0.1671(2) 0.2972(1) 0.3569(3)
+H1 H 0.247(1) 0.430(1) 0.616(3)
+H2 H 0.253(2) 0.519(2) 0.638(3)
+H3 H 0.260(2) 0.482(1) 0.502(3)
+H4 H 0.112(1) 0.564(1) 0.517(2)
+H5 H 0.171(1) 0.586(1) 0.609(3)
+H6 H 0.176(2) 0.566(1) 0.454(3)
+H7 H 0.133(1) 0.425(1) 0.954(3)
+H8 H 0.085(1) 0.484(1) 0.966(2)
+H9 H 0.054(1) 0.422(1) 0.948(2)
+H10 H 0.039(2) 0.536(2) 0.754(4)
+H11 H 0.034(1) 0.492(1) 0.618(3)
+H12 H -0.001(1) 0.468(1) 0.763(3)
+H13 H 0.051(1) 0.362(1) 0.715(2)
+H14 H 0.183(1) 0.353(1) 0.774(2)
+H15 H 0.143(1) 0.289(2) 0.723(3)
+H16 H 0.130(1) 0.328(1) 0.874(2)
+H17 H 0.195(1) 0.432(1) 0.342(3)
+H18 H 0.140(1) 0.488(1) 0.335(2)
+H19 H 0.060(1) 0.411(1) 0.298(2)
+H20 H 0.118(1) 0.389(1) 0.199(3)
+H21 H 0.112(1) 0.268(1) 0.136(2)
+H22 H 0.036(2) 0.237(2) 0.139(3)
+H23 H 0.051(2) 0.306(2) 0.113(3)
+H24 H -0.017(1) 0.343(1) 0.296(3)
+H25 H -0.020(2) 0.305(2) 0.421(4)
+H26 H -0.040(1) 0.266(2) 0.308(3)
+H27 H 0.101(1) 0.168(1) 0.609(3)
+H28 H 0.155(2) 0.123(2) 0.550(3)
+H29 H 0.087(2) 0.107(2) 0.507(4)
+H30 H 0.112(2) 0.126(2) 0.253(4)
+H31 H 0.186(2) 0.119(2) 0.320(3)
+H32 H 0.163(2) 0.183(2) 0.215(4)
+H33 H 0.160(1) 0.260(2) 0.532(2)
+H34 H 0.242(1) 0.186(1) 0.524(3)
+H35 H 0.272(2) 0.252(2) 0.494(3)
+H36 H 0.250(2) 0.205(2) 0.356(3)
+#END

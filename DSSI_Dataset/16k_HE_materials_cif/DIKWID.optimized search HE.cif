@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DIKWID
+_audit_creation_date 1986-10-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DIKWID
+_database_code_depnum_ccdc_archive 'CCDC 1140956'
+_chemical_formula_sum 'C12 H21 N3 O2'
+_chemical_formula_moiety
+;
+C12 H21 N3 O2
+;
+_journal_coden_Cambridge 7
+_journal_volume 57
+_journal_year 1984
+_journal_page_first 2162
+_journal_name_full 'Bull.Chem.Soc.Jpn. '
+loop_
+_publ_author_name
+"H.Sato"
+"S.Imamura"
+"Y.Kitano"
+"T.Kanda"
+"T.Ashida"
+_chemical_name_systematic
+;
+14-Oxa-7,15,16-triazatetracyclo(11.2.1.0^1,6^.0^8,13^)hexadecan-16-ol
+;
+_chemical_melting_point 459.15
+_cell_volume   1217.263
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.306
+_exptl_special_details
+;
+Melting point range 459.15-460.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0459
+_refine_ls_wR_factor_gt 0.0459
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.022(1)
+_cell_length_b 19.245(4)
+_cell_length_c 10.560(1)
+_cell_angle_alpha 90
+_cell_angle_beta 95.94(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1707(2) 0.1674(1) 0.4115(1)
+C2 C 0.1295(3) 0.0930(1) 0.4504(2)
+C3 C 0.1953(4) 0.0419(1) 0.3502(2)
+C4 C 0.4378(4) 0.0515(1) 0.3271(2)
+C5 C 0.4787(3) 0.1256(1) 0.2834(2)
+C6 C 0.4117(3) 0.1795(1) 0.3791(1)
+C7 C 0.3295(2) 0.3031(1) 0.3947(1)
+C8 C 0.3262(3) 0.3708(1) 0.3198(2)
+C9 C 0.2118(3) 0.4290(1) 0.3875(2)
+C10 C -0.0256(3) 0.4077(1) 0.4062(2)
+C11 C -0.0276(3) 0.3408(1) 0.4839(1)
+C12 C 0.0915(2) 0.2817(1) 0.4233(1)
+N1 N 0.4384(2) 0.2491(1) 0.3250(1)
+N2 N 0.1253(2) 0.2195(1) 0.5061(1)
+N3 N -0.0420(2) 0.2569(1) 0.3066(1)
+O1 O 0.0204(2) 0.1835(1) 0.2975(1)
+O2 O -0.0894(2) 0.2021(1) 0.5499(1)
+H1 H 0.237(4) 0.086(1) 0.540(2)
+H2 H -0.031(4) 0.089(1) 0.458(2)
+H3 H 0.081(4) 0.048(1) 0.263(2)
+H4 H 0.167(5) -0.005(2) 0.372(3)
+H5 H 0.549(4) 0.040(1) 0.417(2)
+H6 H 0.482(5) 0.022(1) 0.268(2)
+H7 H 0.642(4) 0.132(1) 0.275(2)
+H8 H 0.372(4) 0.138(1) 0.191(2)
+H9 H 0.514(4) 0.175(1) 0.463(2)
+H10 H 0.431(4) 0.307(1) 0.483(2)
+H11 H 0.244(4) 0.366(1) 0.222(2)
+H12 H 0.488(4) 0.383(1) 0.310(2)
+H13 H 0.317(5) 0.436(1) 0.486(3)
+H14 H 0.200(5) 0.471(2) 0.331(3)
+H15 H -0.125(4) 0.401(1) 0.315(2)
+H16 H -0.126(5) 0.442(1) 0.437(3)
+H17 H 0.064(4) 0.347(1) 0.576(2)
+H18 H -0.198(4) 0.324(1) 0.491(2)
+H19 H 0.366(4) 0.250(1) 0.230(2)
+H20 H -0.192(4) 0.256(1) 0.331(2)
+H21 H -0.054(5) 0.215(1) 0.641(3)
+#END

@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TITCUU
+_audit_creation_date 1997-04-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TITCUU
+_chemical_formula_sum 'C12 H11 N1 O5'
+_chemical_formula_moiety
+;
+C12 H11 N1 O5
+;
+_journal_coden_Cambridge 36
+_journal_volume 517
+_journal_year 1996
+_journal_page_first 9
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"L.Villar"
+"J.P.Bullock"
+"M.M.Khan"
+"A.Nagarajan"
+"R.W.Bates"
+"S.G.Bott"
+"G.Zepeda"
+"F.Delgado"
+"J.Tamariz"
+_chemical_name_systematic
+;
+(Z)-3-(p-Nitrobenzoyloxy)-3-penten-2-one
+;
+_chemical_melting_point 377.15
+_cell_volume   2423.565
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.366
+_exptl_special_details
+;
+Melting point range 377.15-379.15K
+The structure contains 35% void space
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0698
+_refine_ls_wR_factor_gt 0.0698
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 8.2050(8)
+_cell_length_b 11.629(2)
+_cell_length_c 25.400(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.376(2) 0.308(1) 0.6132(7)
+O2 O 0.521(2) 0.508(1) 0.5840(6)
+O3 O 0.711(2) 0.381(1) 0.5712(6)
+O4 O 0.399(3) 0.585(2) 0.3216(8)
+O5 O 0.586(3) 0.457(2) 0.3031(7)
+N1 N 0.519(3) 0.523(2) 0.3318(9)
+C1 C 0.417(4) 0.323(3) 0.705(1)
+C2 C 0.427(4) 0.373(2) 0.649(1)
+C3 C 0.518(3) 0.484(2) 0.6404(9)
+C4 C 0.567(3) 0.553(2) 0.6749(8)
+C5 C 0.637(3) 0.665(2) 0.661(1)
+C6 C 0.611(3) 0.443(2) 0.5522(8)
+C7 C 0.576(3) 0.469(2) 0.5004(8)
+C8 C 0.645(3) 0.392(2) 0.4606(9)
+C9 C 0.624(3) 0.409(2) 0.4074(9)
+C10 C 0.547(3) 0.503(2) 0.3937(8)
+C11 C 0.472(3) 0.577(2) 0.4258(8)
+C12 C 0.503(3) 0.563(2) 0.4813(9)
+#END

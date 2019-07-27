@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZIPTAT
+_audit_creation_date 1996-07-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZIPTAT
+_chemical_formula_sum 'C14 H17 N2 O3'
+_chemical_formula_moiety
+;
+C14 H17 N2 O3
+;
+_journal_coden_Cambridge 11
+_journal_volume 125
+_journal_year 1995
+_journal_page_first 283
+_journal_name_full 'Gazz.Chim.Ital. '
+loop_
+_publ_author_name
+"A.Caneschi"
+"D.Gatteschi"
+"E.Rentschler"
+"R.Sessoli"
+_chemical_name_systematic
+;
+2-(3-Benzaldehyde)-4,4,5,5-tetramethylimidazoline-1-oxyl-3-oxide
+;
+_chemical_melting_point 384.15
+_cell_volume   1363.633
+_exptl_crystal_colour 'dark blue'
+_exptl_crystal_density_diffrn 1.273
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.856(2)
+_cell_length_b 7.098(2)
+_cell_length_c 19.584(4)
+_cell_angle_alpha 90
+_cell_angle_beta 95.55(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0879(3) -0.1168(4) 0.7285(1)
+O2 O 0.0910(2) 0.2121(4) 0.5246(1)
+O3 O -0.3697(3) 0.6917(4) 0.6008(2)
+N1 N 0.1230(3) -0.0550(4) 0.6715(2)
+N2 N 0.1276(3) 0.1059(4) 0.5759(2)
+C1 C 0.0567(3) 0.0742(5) 0.6303(2)
+C2 C 0.2460(4) -0.1335(5) 0.6411(2)
+C3 C 0.2652(3) 0.0120(5) 0.5838(2)
+C4 C 0.2025(4) -0.3294(5) 0.6143(2)
+C5 C 0.3623(4) -0.1462(6) 0.6972(2)
+C6 C 0.3672(3) 0.1669(5) 0.6042(2)
+C7 C 0.2957(4) -0.0716(5) 0.5154(2)
+C8 C -0.0722(2) 0.1667(3) 0.6426(1)
+C9 C -0.1048(2) 0.3446(3) 0.6156(1)
+C10 C -0.2278(2) 0.4297(3) 0.6276(1)
+C11 C -0.3183(2) 0.3369(3) 0.6666(1)
+C12 C -0.2857(2) 0.1590(3) 0.6937(1)
+C13 C -0.1626(2) 0.0739(3) 0.687(1)
+C14 C -0.2624(5) 0.6129(6) 0.5974(2)
+#END

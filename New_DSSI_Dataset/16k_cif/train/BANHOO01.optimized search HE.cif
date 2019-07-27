@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BANHOO01
+_audit_creation_date 2003-03-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BANHOO01
+_database_code_depnum_ccdc_archive 'CCDC 202491'
+_chemical_formula_sum 'C16 H12 N2 O3'
+_chemical_formula_moiety
+;
+C16 H12 N2 O3
+;
+_journal_coden_Cambridge 1147
+_journal_volume 2
+_journal_year 2002
+_journal_page_first 609
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"R.M.Vrcelj"
+"E.E.A.Shepherd"
+"Choon-Sup Yoon"
+"J.N.Sherwood"
+"A.R.Kennedy"
+_chemical_name_systematic
+;
+trans-\a-((4-Methoxyphenyl)methylene)-4-nitrobenzeneacetonitrile
+;
+_cell_volume   1355.758
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.373
+_exptl_special_details
+;
+pale yellow Cc polymorph III
+phase transition at 45.7deg.C to polymorph II
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0303
+_refine_ls_wR_factor_gt 0.0303
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BANJEG "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 3.859(1)
+_cell_length_b 30.971(5)
+_cell_length_c 11.346(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.17(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.26780 0.03358(5) 0.39900
+O2 O 1.1617(8) -0.02105(5) 0.2881(2)
+O3 O 0.3754(6) 0.17972(4) -0.6197(2)
+N1 N 1.1502(7) 0.01757(6) 0.3086(2)
+N2 N 0.3460(8) 0.20087(5) 0.0144(2)
+C1 C 0.9925(7) 0.04600(6) 0.2191(2)
+C2 C 0.9957(7) 0.09008(6) 0.2378(2)
+C3 C 0.8576(7) 0.11678(6) 0.1514(2)
+C4 C 0.7221(7) 0.09957(5) 0.0465(2)
+C5 C 0.7127(7) 0.05477(5) 0.0330(2)
+C6 C 0.8500(8) 0.02800(6) 0.1187(2)
+C7 C 0.5994(7) 0.12788(5) -0.0513(2)
+C8 C 0.4602(8) 0.16905(6) -0.0174(2)
+C9 C 0.6314(7) 0.11555(6) -0.1647(2)
+C10 C 0.5472(7) 0.13561(5) -0.2773(2)
+C11 C 0.3982(8) 0.17635(6) -0.2956(2)
+C12 C 0.3368(8) 0.19245(6) -0.4078(2)
+C13 C 0.4226(7) 0.16768(6) -0.5053(2)
+C14 C 0.5686(7) 0.12711(6) -0.4886(3)
+C15 C 0.6293(8) 0.11177(6) -0.3778(2)
+C16 C 0.2289(9) 0.22121(8) -0.6444(3)
+H1 H 1.112(5) 0.1025(6) 0.310(2)
+H2 H 0.870(4) 0.1469(6) 0.164(2)
+H3 H 0.597(5) 0.0430(6) -0.032(2)
+H4 H 0.845(6) -0.0016(7) 0.108(2)
+H5 H 0.738(4) 0.0877(6) -0.174(1)
+H6 H 0.343(6) 0.1944(7) -0.227(2)
+H7 H 0.240(5) 0.2212(6) -0.416(2)
+H8 H 0.616(5) 0.1104(6) -0.556(2)
+H9 H 0.744(5) 0.0835(7) -0.363(2)
+H10 H 0.214(7) 0.2213(9) -0.727(3)
+H11 H -0.007(6) 0.2235(6) -0.614(2)
+H12 H 0.391(6) 0.2443(7) -0.606(2)
+#END

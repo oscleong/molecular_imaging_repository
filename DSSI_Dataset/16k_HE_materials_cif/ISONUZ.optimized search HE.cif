@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ISONUZ
+_audit_creation_date 2004-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ISONUZ
+_database_code_depnum_ccdc_archive 'CCDC 195690'
+_chemical_formula_sum 'C8 H11 N3 O2'
+_chemical_formula_moiety
+;
+C8 H11 N3 O2
+;
+_journal_coden_Cambridge 70
+_journal_volume 326
+_journal_year 2003
+_journal_page_first 1389
+_journal_name_full 'J.Mol.Biol. '
+loop_
+_publ_author_name
+"V.H.Harris"
+"C.L.Smith"
+"W.J.Cummins"
+"A.L.Hamilton"
+"H.Adams"
+"M.Dickman"
+"D.P.Hornby"
+"D.M.Williams"
+_chemical_name_systematic
+;
+6,8-Dimethyl-4,6-dihydro-3H-pyrimido(4,5-c)(1,2)oxazin-7(8H)-one
+;
+_cell_volume    824.474
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.46
+_exptl_special_details
+;
+for fixed amino tautomer see [ISOPAH]
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0728
+_refine_ls_wR_factor_gt 0.0728
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.5775(12)
+_cell_length_b 8.6848(12)
+_cell_length_c 11.6419(16)
+_cell_angle_alpha 101.086(3)
+_cell_angle_beta 101.600(3)
+_cell_angle_gamma 95.960(3)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4060(3) 0.2864(3) 0.8986(2)
+N2 N 0.2414(3) 0.4798(3) 0.8663(2)
+N3 N 0.3078(3) 0.6831(3) 0.7769(2)
+O1 O 0.1783(2) 0.2938(2) 0.97040(19)
+O2 O 0.4240(3) 0.7584(3) 0.7227(2)
+C1 C 0.4351(4) 0.1422(4) 0.9428(3)
+H1 H 0.53500 0.10950 0.92470
+H2 H 0.34510 0.05720 0.90340
+H3 H 0.44450 0.16380 1.02990
+C2 C 0.2695(3) 0.3499(3) 0.9159(2)
+C3 C 0.0945(4) 0.5474(4) 0.8806(3)
+H4 H 0.03200 0.48220 0.92050
+H5 H 0.02980 0.54930 0.80140
+H6 H 0.12380 0.65580 0.92960
+C4 C 0.3489(3) 0.5560(3) 0.8111(2)
+C5 C 0.4919(3) 0.4852(3) 0.7994(2)
+C6 C 0.5129(3) 0.3533(3) 0.8420(2)
+H7 H 0.60510 0.30470 0.83260
+C7 C 0.5033(4) 0.6489(4) 0.6544(3)
+H8 H 0.57310 0.70700 0.61380
+H9 H 0.42200 0.57110 0.59190
+C8 C 0.6044(3) 0.5622(3) 0.7366(3)
+H10 H 0.65330 0.48120 0.68920
+H11 H 0.69160 0.63770 0.79560
+N4 N -0.0095(3) 0.2333(3) 0.6007(2)
+N5 N 0.2220(3) 0.1102(3) 0.6087(2)
+N6 N -0.2021(3) 0.1756(3) 0.7031(2)
+O3 O 0.1888(2) 0.3097(2) 0.50976(19)
+O4 O -0.2656(3) 0.0716(3) 0.7711(2)
+C9 C -0.1094(4) 0.3424(4) 0.5503(3)
+H12 H -0.05270 0.39680 0.50090
+H13 H -0.13060 0.42080 0.61580
+H14 H -0.21160 0.28230 0.50060
+C10 C 0.1371(3) 0.2233(3) 0.5692(2)
+C11 C 0.3763(3) 0.0929(4) 0.5745(3)
+H15 H 0.40080 0.17380 0.52980
+H16 H 0.36900 -0.01280 0.52380
+H17 H 0.46180 0.10630 0.64700
+C12 C -0.0695(3) 0.1424(3) 0.6740(2)
+C13 C 0.0227(3) 0.0194(3) 0.7062(2)
+C14 C 0.1619(3) 0.0085(3) 0.6727(2)
+H18 H 0.22190 -0.07200 0.69370
+C15 C -0.1461(4) 0.0118(4) 0.8499(3)
+H19 H -0.19990 -0.05610 0.89400
+H20 H -0.07570 0.10160 0.90950
+C16 C -0.0457(4) -0.0833(3) 0.7789(3)
+H21 H 0.04220 -0.11600 0.83390
+H22 H -0.11310 -0.17990 0.72530
+#END

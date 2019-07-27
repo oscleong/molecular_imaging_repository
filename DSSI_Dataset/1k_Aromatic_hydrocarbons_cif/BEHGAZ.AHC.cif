@@ -1,0 +1,190 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEHGAZ
+_audit_creation_date 2017-10-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEHGAZ
+_database_code_depnum_ccdc_archive 'CCDC 1514245'
+_chemical_formula_sum 'C24 H20'
+_chemical_formula_moiety
+;
+C24 H20
+;
+_journal_coden_Cambridge 15
+_journal_volume 95
+_journal_year 2017
+_journal_page_first 445
+_journal_name_full 'Can.J.Chem. '
+loop_
+_publ_author_name
+"K.Otsuka"
+"G.Cai"
+"K.Fujita"
+"Y.Tobe"
+_chemical_name_systematic
+;
+pentacyclo[11.5.3.3^4,10^.0^7,23^.0^16,20^]tetracosa-1(19),4,6,8,10(22),13,15,
+17,20,23-decaene
+;
+_chemical_name_common
+;
+[2.2](2,7)naphthalenophane
+;
+_chemical_melting_point 494
+_cell_volume   1648.246
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.243
+_exptl_special_details
+;
+Melting point range 494-494.5K
+
+;
+_exptl_crystal_description 'cubic'
+_diffrn_ambient_temperature 140
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0396
+_refine_ls_wR_factor_gt 0.0396
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 8.5160(4)
+_cell_length_b 12.1286(4)
+_cell_length_c 15.9579(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.13013(14) 0.48511(10) 0.41595(7)
+C2 C 0.14297(14) 0.37701(10) 0.38175(7)
+C3 C 0.00703(15) 0.55481(10) 0.38755(8)
+C4 C 0.25470(15) 0.30375(11) 0.41704(8)
+C5 C 0.22449(14) 0.51322(10) 0.48637(8)
+C6 C -0.10461(14) 0.51881(11) 0.33152(8)
+C7 C 0.31988(14) 0.43726(10) 0.52488(7)
+C8 C 0.38069(16) 0.45810(12) 0.61262(8)
+H1 H 0.4823(18) 0.4173(11) 0.6233(9)
+C9 C 0.33837(15) 0.33201(11) 0.48726(8)
+C10 C 0.03592(15) 0.34515(11) 0.31784(8)
+C11 C -0.25703(15) 0.58069(12) 0.32074(8)
+H2 H -0.2373(16) 0.6618(12) 0.3276(9)
+C12 C -0.08462(16) 0.41287(11) 0.29476(8)
+H3 H -0.1625(17) 0.3892(11) 0.2533(9)
+H4 H -0.0058(16) 0.6298(11) 0.4146(8)
+H5 H 0.2665(17) 0.2287(12) 0.3902(9)
+H6 H 0.0471(15) 0.2706(11) 0.2919(8)
+H7 H 0.4002(17) 0.5404(12) 0.6212(8)
+H8 H -0.3024(16) 0.5677(10) 0.2631(9)
+H9 H 0.2095(15) 0.5867(11) 0.5116(8)
+H10 H 0.4095(18) 0.2781(12) 0.5124(9)
+C1D C -0.13013(14) 0.51489(10) 0.58405(7)
+C2D C -0.14297(14) 0.62299(10) 0.61825(7)
+C3D C -0.00703(15) 0.44519(10) 0.61245(8)
+C4D C -0.25470(15) 0.69625(11) 0.58296(8)
+C5D C -0.22449(14) 0.48678(10) 0.51363(8)
+C6D C 0.10461(14) 0.48119(11) 0.66848(8)
+C7D C -0.31988(14) 0.56274(10) 0.47512(7)
+C8D C -0.38069(16) 0.54190(12) 0.38738(8)
+H1D H -0.4823(18) 0.5827(11) 0.3767(9)
+C9D C -0.33837(15) 0.66799(11) 0.51274(8)
+C10D C -0.03592(15) 0.65485(11) 0.68216(8)
+C11D C 0.25703(15) 0.41931(12) 0.67926(8)
+H2D H 0.2373(16) 0.3382(12) 0.6724(9)
+C12D C 0.08462(16) 0.58713(11) 0.70524(8)
+H3D H 0.1625(17) 0.6108(11) 0.7467(9)
+H4D H 0.0058(16) 0.3702(11) 0.5854(8)
+H5D H -0.2665(17) 0.7713(12) 0.6098(9)
+H6D H -0.0471(15) 0.7294(11) 0.7081(8)
+H7D H -0.4002(17) 0.4596(12) 0.3788(8)
+H8D H 0.3024(16) 0.4323(10) 0.7369(9)
+H9D H -0.2095(15) 0.4133(11) 0.4884(8)
+H10D H -0.4095(18) 0.7219(12) 0.4876(9)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.424 1_555 1_555
+C2 C4 1.418 1_555 1_555
+C3 C1 1.421 1_555 1_555
+C4 C9 1.371 1_555 1_555
+C5 C1 1.423 1_555 1_555
+C6 C3 1.376 1_555 1_555
+C7 C5 1.373 1_555 1_555
+C8 C7 1.514 1_555 1_555
+H1 C8 1.011 1_555 1_555
+C9 C7 1.419 1_555 1_555
+C10 C2 1.421 1_555 1_555
+C11 C6 1.509 1_555 1_555
+H2 C11 1.004 1_555 1_555
+C12 C6 1.423 1_555 1_555
+H3 C12 0.980 1_555 1_555
+H4 C3 1.013 1_555 1_555
+H5 C4 1.011 1_555 1_555
+H6 C10 0.999 1_555 1_555
+H7 C8 1.021 1_555 1_555
+H8 C11 1.010 1_555 1_555
+H9 C5 0.986 1_555 1_555
+H10 C9 0.977 1_555 1_555
+C1D C2D 1.424 1_555 1_555
+C2D C4D 1.418 1_555 1_555
+C3D C1D 1.421 1_555 1_555
+C4D C9D 1.371 1_555 1_555
+C5D C1D 1.423 1_555 1_555
+C6D C3D 1.376 1_555 1_555
+C7D C5D 1.373 1_555 1_555
+C8D C11 1.569 1_555 1_555
+H1D C8D 1.011 1_555 1_555
+C9D C7D 1.419 1_555 1_555
+C10D C2D 1.421 1_555 1_555
+C11D C8 1.569 1_555 1_555
+H2D C11D 1.004 1_555 1_555
+C12D C6D 1.423 1_555 1_555
+H3D C12D 0.980 1_555 1_555
+H4D C3D 1.013 1_555 1_555
+H5D C4D 1.011 1_555 1_555
+H6D C10D 0.999 1_555 1_555
+H7D C8D 1.021 1_555 1_555
+H8D C11D 1.010 1_555 1_555
+H9D C5D 0.986 1_555 1_555
+H10D C9D 0.977 1_555 1_555
+C10 C12 1.365 1_555 1_555
+C6D C11D 1.509 1_555 1_555
+C7D C8D 1.514 1_555 1_555
+C10D C12D 1.365 1_555 1_555
+#END

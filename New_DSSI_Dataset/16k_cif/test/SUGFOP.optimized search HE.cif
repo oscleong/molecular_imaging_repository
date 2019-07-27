@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUGFOP
+_audit_creation_date 1993-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUGFOP
+_chemical_formula_sum 'C4 H6 N4 O10'
+_chemical_formula_moiety
+;
+C4 H6 N4 O10
+;
+_journal_coden_Cambridge 95
+_journal_year 1991
+_journal_page_first 830
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"B.S.Fedorov"
+"N.I.Golovina"
+"L.S.Barinova"
+"R.F.Trofimova"
+"V.V.Arakcheeva"
+"L.A.Atovmyan"
+_chemical_name_systematic
+;
+1,1,4,4-Tetranitrobutane-2,3,-diol
+;
+_chemical_melting_point 412.15
+_cell_volume    493.539
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.816
+_exptl_special_details
+;
+Melting point range 412.15-413.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.067
+_refine_ls_wR_factor_gt 0.067
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2+x,-1/2+y,-1/2-z
+_cell_length_a 7.723(1)
+_cell_length_b 9.839(2)
+_cell_length_c 6.563(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 98.25(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0280(3) 0.4526(2) 0.4187(4)
+C2 C 0.2278(3) 0.4696(3) 0.4060(4)
+N1 N 0.2941(3) 0.3530(2) 0.2972(3)
+N2 N 0.2970(3) 0.5968(2) 0.2878(4)
+O1 O -0.0441(2) 0.4844(2) 0.2331(3)
+O2 O 0.1934(3) 0.2692(2) 0.2110(4)
+O3 O 0.4523(3) 0.3503(2) 0.3066(4)
+O4 O 0.2892(3) 0.7036(2) 0.3789(4)
+O5 O 0.3497(4) 0.5867(2) 0.1176(4)
+H1 H -0.0079(29) 0.3643(22) 0.4749(40)
+H2 H 0.2827(25) 0.4750(19) 0.5351(36)
+H3 H -0.0802(33) 0.4274(26) 0.1529(49)
+C1B C -0.0280(3) 0.5474(2) 0.5813(4)
+C2B C -0.2278(3) 0.5304(3) 0.5940(4)
+O1B O 0.0441(2) 0.5156(2) 0.7669(3)
+H1B H 0.0079(29) 0.6357(22) 0.5251(40)
+N1B N -0.2941(3) 0.6470(2) 0.7028(3)
+N2B N -0.2970(3) 0.4032(2) 0.7122(4)
+H2B H -0.2827(25) 0.5250(19) 0.4649(36)
+H3B H 0.0802(33) 0.5726(26) 0.8471(49)
+O2B O -0.1934(3) 0.7308(2) 0.7890(4)
+O3B O -0.4523(3) 0.6497(2) 0.6934(4)
+O4B O -0.2892(3) 0.2964(2) 0.6211(4)
+O5B O -0.3497(4) 0.4133(2) 0.8824(4)
+#END

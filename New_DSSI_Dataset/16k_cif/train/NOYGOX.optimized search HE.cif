@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOYGOX
+_audit_creation_date 1998-08-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOYGOX
+_database_code_depnum_ccdc_archive 'CCDC 1223176'
+_chemical_formula_sum 'C12 H8 N2 O6'
+_chemical_formula_moiety
+;
+C12 H8 N2 O6
+;
+_journal_coden_Cambridge 3
+_journal_volume 51
+_journal_year 1997
+_journal_page_first 1066
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"C.P.Butts"
+"L.Eberson"
+"M.P.Hartshorn"
+"O.Persson"
+"R.S.Thompson"
+"W.T.Robinson"
+_chemical_name_systematic
+;
+4-Methoxy-2-dinitromethylene-1(2H)-naphthlenone
+;
+_chemical_melting_point 450.15
+_cell_volume   1117.962
+_exptl_crystal_colour 'dark red'
+_exptl_crystal_density_diffrn 1.641
+_exptl_special_details
+;
+Melting point range 450.15-451.15K
+
+;
+_exptl_crystal_description 'square needle'
+_exptl_crystal_preparation 'chloroform'
+_diffrn_ambient_temperature 158
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0462
+_refine_ls_wR_factor_gt 0.0462
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+_cell_length_a 19.104(4)
+_cell_length_b 10.799(3)
+_cell_length_c 5.419(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2864(2) 0.5995(5) -0.111(1)
+O2 O 0.0583(2) 0.8555(4) 0.1552(11)
+O3 O 0.3580(3) 0.5478(5) 0.3405(11)
+O4 O 0.4049(3) 0.7019(5) 0.1458(12)
+O5 O 0.3737(2) 0.7958(5) 0.6212(11)
+O6 O 0.2672(2) 0.8665(5) 0.6363(11)
+N1 N 0.3578(3) 0.6537(7) 0.2636(11)
+N2 N 0.3142(3) 0.8043(6) 0.5429(11)
+C1 C 0.2336(4) 0.6478(6) -0.0319(13)
+C2 C 0.2359(4) 0.7310(6) 0.1952(13)
+C3 C 0.1763(4) 0.8042(7) 0.2477(14)
+C4 C 0.1163(3) 0.7908(6) 0.1137(15)
+C5 C 0.1083(3) 0.7014(6) -0.0853(14)
+C6 C 0.0451(4) 0.6872(7) -0.2103(13)
+C7 C 0.0406(4) 0.6013(7) -0.4013(14)
+C8 C 0.0974(4) 0.5311(7) -0.4713(14)
+C9 C 0.1607(3) 0.5461(6) -0.3485(15)
+C10 C 0.1659(4) 0.6307(6) -0.1549(14)
+C11 C 0.2970(4) 0.7315(6) 0.3264(14)
+C12 C 0.0576(4) 0.9493(7) 0.3447(15)
+H1 H 0.1781(4) 0.8633(7) 0.3775(14)
+H2 H 0.0055(4) 0.7356(7) -0.1658(13)
+H3 H -0.0027(4) 0.5909(7) -0.4852(14)
+H4 H 0.0933(4) 0.4730(7) -0.6021(14)
+H5 H 0.2004(3) 0.4988(6) -0.3965(15)
+H6 H 0.0098(6) 0.9810(32) 0.3649(62)
+H7 H 0.0887(19) 1.0173(20) 0.2972(43)
+H8 H 0.0736(23) 0.9133(12) 0.5008(25)
+#END

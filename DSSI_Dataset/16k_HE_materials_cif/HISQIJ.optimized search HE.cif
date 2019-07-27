@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HISQIJ
+_audit_creation_date 1999-06-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HISQIJ
+_database_code_depnum_ccdc_journal 188/141
+_chemical_formula_sum 'C15 H9 N1 O4'
+_chemical_formula_moiety
+;
+C15 H9 N1 O4
+;
+_journal_coden_Cambridge 188
+_journal_year 1998
+_journal_page_first 2109
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"Qing Lin"
+"S.J.Geib"
+"A.D.Hamilton"
+_chemical_name_systematic
+;
+2-(2-Nitrophenyl)indan-1,3-dione
+;
+_chemical_melting_point 457.15
+_cell_volume   2385.419
+_exptl_crystal_density_diffrn 1.488
+_exptl_special_details
+;
+Melts with decomposition.
+Cell data in paper and deposited coordinates do not correspond to compound 3 
+as published; structure has been input as the data sent to CCDC. No reply 
+from authors
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+O1 is disordered over two positions.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0467
+_refine_ls_wR_factor_gt 0.0467
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-y,-1/2+z
+_cell_length_a 14.529(3)
+_cell_length_b 8.372(2)
+_cell_length_c 19.611(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6450(19) 0.4113(13) 0.7369(7)
+O2? O 0.5910(32) 0.4064(14) 0.7386(5)
+O3 O 0.6197(1) 0.3627(2) 0.6340(1)
+O4 O 0.4627(1) 0.1365(2) 0.5669(1)
+O5 O 0.7856(1) 0.1406(3) 0.5637(1)
+N1 N 0.6198(2) 0.3175(3) 0.6917(1)
+C1 C 0.6255(2) 0.0333(3) 0.6544(1)
+C2 C 0.6228(2) 0.1455(3) 0.7069(1)
+C3 C 0.6199(2) 0.1043(4) 0.7750(1)
+C4 C 0.6214(2) -0.0542(3) 0.7936(2)
+C5 C 0.6268(2) -0.1676(4) 0.7438(2)
+C6 C 0.6284(2) -0.1253(3) 0.6757(2)
+C7 C 0.6247(2) 0.0658(3) 0.5787(1)
+C8 C 0.5415(2) 0.1530(3) 0.5488(1)
+C9 C 0.5749(2) 0.2541(3) 0.4919(1)
+C10 C 0.5251(2) 0.3461(3) 0.4464(1)
+C11 C 0.5730(2) 0.4299(3) 0.3973(1)
+C12 C 0.6693(2) 0.4249(3) 0.3947(2)
+C13 C 0.7190(2) 0.3360(3) 0.4408(1)
+C14 C 0.6703(2) 0.2515(3) 0.4897(1)
+C15 C 0.7065(2) 0.1533(3) 0.5463(1)
+H1 H 0.6216(17) 0.1868(34) 0.8062(15)
+H2 H 0.6199(19) -0.0910(38) 0.8423(18)
+H3 H 0.6321(22) -0.2721(50) 0.7551(20)
+H4 H 0.6330(18) -0.2055(39) 0.6414(16)
+H5 H 0.6250(17) -0.0390(34) 0.5567(14)
+H6 H 0.4593(20) 0.3520(31) 0.4477(13)
+H7 H 0.5389(22) 0.4889(39) 0.3616(16)
+H8 H 0.6996(20) 0.4859(38) 0.3564(16)
+H9 H 0.7818(19) 0.3416(31) 0.4399(12)
+#END

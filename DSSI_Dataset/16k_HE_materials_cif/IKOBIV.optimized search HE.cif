@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IKOBIV
+_audit_creation_date 2016-04-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IKOBIV
+_database_code_depnum_ccdc_archive 'CCDC 1470207'
+_chemical_formula_sum 'C22 H21 N1 O1'
+_chemical_formula_moiety
+;
+C22 H21 N1 O1
+;
+_journal_coeditor_code "wq3111"
+_journal_coden_Cambridge 1777
+_journal_volume 72
+_journal_year 2016
+_journal_page_first 363
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Chem. '
+loop_
+_publ_author_name
+"M.A.Macias"
+"L.M.Acosta"
+"C.M.Sanabria"
+"A.Palma"
+"P.Roussel"
+"G.H.Gauthier"
+"L.Suescun"
+_chemical_name_systematic
+;
+3,4-dimethyl-11-(1-naphthyl)-12-oxa-1-azatricyclo[7.2.1.0^2,7^]dodeca-2,4,6-tr
+iene
+;
+_cell_volume   1721.278
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.217
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 298
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0431
+_refine_ls_wR_factor_gt 0.0431
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 7.5541(3)
+_cell_length_b 14.7914(5)
+_cell_length_c 15.4049(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.9800(2) 0.52882(10) 0.31021(10)
+O1 O 0.9286(2) 0.43694(9) 0.33014(10)
+C1 C 0.9364(2) 0.57663(11) 0.39184(11)
+H1 H 0.91250 0.64030 0.37880
+C2 C 0.7626(3) 0.53080(15) 0.42245(13)
+H2 H 0.76850 0.51510 0.48350
+H3 H 0.66140 0.56990 0.41290
+C3 C 0.7519(3) 0.44603(14) 0.36570(14)
+H4 H 0.72130 0.39310 0.40090
+C4 C 0.6282(3) 0.45441(15) 0.28903(15)
+H5 H 0.61950 0.39680 0.25920
+H6 H 0.51090 0.47130 0.30890
+C5 C 0.5982(3) 0.55849(14) 0.15960(12)
+H7 H 0.48690 0.53410 0.14880
+C6 C 0.6613(3) 0.62674(14) 0.10782(13)
+H8 H 0.59180 0.64780 0.06230
+C7 C 0.8273(3) 0.66520(12) 0.12205(12)
+C8 C 0.9331(2) 0.63197(12) 0.18904(11)
+C9 C 1.0829(2) 0.57094(11) 0.45868(11)
+C10 C 1.2146(3) 0.50741(14) 0.45314(14)
+H9 H 1.21730 0.46790 0.40620
+C11 C 1.3460(3) 0.50135(16) 0.51779(16)
+H10 H 1.43330 0.45720 0.51340
+C12 C 1.3470(3) 0.55880(16) 0.58620(15)
+H11 H 1.43570 0.55410 0.62780
+C13 C 1.2156(3) 0.62541(14) 0.59503(13)
+C14 C 1.2122(4) 0.68617(16) 0.66644(14)
+H12 H 1.29990 0.68210 0.70860
+C15 C 1.0850(4) 0.74953(16) 0.67460(14)
+H13 H 1.08580 0.78860 0.72190
+C16 C 0.9521(4) 0.75635(14) 0.61188(14)
+H14 H 0.86480 0.80030 0.61770
+C17 C 0.9485(3) 0.69931(13) 0.54195(13)
+H15 H 0.85840 0.70460 0.50120
+C18 C 0.8909(4) 0.74143(16) 0.06431(15)
+H16 H 0.99630 0.72300 0.03440
+H17 H 0.91610 0.79360 0.09920
+H18 H 0.80050 0.75600 0.02280
+C19 C 1.1147(3) 0.67050(16) 0.20596(15)
+H19 H 1.17600 0.67810 0.15190
+H20 H 1.18010 0.62990 0.24250
+H21 H 1.10340 0.72800 0.23430
+C20 C 1.0806(2) 0.63220(12) 0.53094(11)
+C21 C 0.6987(3) 0.52552(12) 0.22777(12)
+C22 C 0.8675(2) 0.56170(11) 0.24071(11)
+#END

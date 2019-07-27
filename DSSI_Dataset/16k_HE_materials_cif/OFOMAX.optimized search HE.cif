@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OFOMAX
+_audit_creation_date 2002-09-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OFOMAX
+_database_code_depnum_ccdc_archive 'CCDC 180444'
+_chemical_formula_sum 'C17 H14 N2 O4'
+_chemical_formula_moiety
+;
+C17 H14 N2 O4
+;
+_journal_coden_Cambridge 16
+_journal_volume 58
+_journal_year 2002
+_journal_page_first 3709
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"J.Bloxham"
+"C.J.Moody"
+"A.M.Z.Slawin"
+_chemical_name_systematic
+;
+2-(Indol-1-yl)ethyl 4-nitrobenzoate
+;
+_chemical_melting_point 376.15
+_cell_volume   1500.972
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.373
+_exptl_special_details
+;
+Melting point range 376.15-377.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'light petroleum'
+_diffrn_ambient_temperature 293.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0306
+_refine_ls_wR_factor_gt 0.0306
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 9.6734(9)
+_cell_length_b 8.2735(9)
+_cell_length_c 18.7943(6)
+_cell_angle_alpha 90
+_cell_angle_beta 93.732(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.0081(2) 0.0925(3) 0.2793(1)
+O2 O -0.1857(2) -0.0414(3) 0.3223(1)
+O3 O 0.2679(3) -0.3077(4) 0.5959(1)
+O4 O 0.4240(3) -0.1520(4) 0.5600(1)
+N1 N 0.1063(3) 0.1347(3) 0.1436(1)
+N2 N 0.3083(3) -0.2077(4) 0.5550(2)
+C1 C 0.0968(4) 0.0276(5) 0.0886(2)
+C2 C 0.2194(5) -0.0464(5) 0.0819(2)
+C3 C 0.3127(4) 0.0161(4) 0.1368(2)
+C4 C 0.4506(4) -0.0124(5) 0.1585(2)
+C5 C 0.5089(4) 0.0692(6) 0.2163(2)
+C6 C 0.4340(4) 0.1803(5) 0.2533(2)
+C7 C 0.2974(3) 0.2127(4) 0.2330(2)
+C8 C 0.2391(3) 0.1291(4) 0.1745(2)
+C9 C -0.0069(3) 0.2289(4) 0.1682(2)
+C10 C -0.0957(3) 0.1386(5) 0.2175(2)
+C11 C -0.0663(3) -0.0003(4) 0.3267(2)
+C12 C 0.0348(3) -0.0505(4) 0.3863(1)
+C13 C 0.1672(3) 0.0131(4) 0.3942(2)
+C14 C 0.2571(3) -0.0384(4) 0.4503(2)
+C15 C 0.2128(3) -0.1521(4) 0.4958(2)
+C16 C 0.0825(3) -0.2179(4) 0.4891(2)
+C17 C -0.0069(3) -0.1648(4) 0.4337(2)
+H1 H 0.23940 -0.12510 0.04720
+H2 H 0.50360 -0.08770 0.13350
+H3 H 0.60310 0.04860 0.23120
+H4 H 0.47750 0.23460 0.29330
+H5 H 0.24530 0.28910 0.25800
+H6 H -0.06360 0.26220 0.12760
+H7 H 0.03070 0.32100 0.19240
+H8 H -0.16840 0.20660 0.23150
+H9 H -0.13400 0.04530 0.19450
+H10 H 0.19660 0.09170 0.36140
+H11 H 0.34790 0.00520 0.45680
+H12 H 0.05460 -0.29750 0.52170
+H13 H -0.09810 -0.20800 0.42810
+H14 H 0.01500 0.00810 0.05900
+#END

@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IHANUB
+_audit_creation_date 2010-06-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IHANUB
+_database_code_depnum_ccdc_archive 'CCDC 679788'
+_chemical_formula_sum 'C5 H9 N1 O5'
+_chemical_formula_moiety
+;
+C5 H9 N1 O5
+;
+_journal_coden_Cambridge 1086
+_journal_volume 21
+_journal_year 2009
+_journal_page_first 642
+_journal_name_full 'Chirality '
+loop_
+_publ_author_name
+"O.V.Shishkin"
+"V.G.Shtamburg"
+"R.I.Zubatyuk"
+"D.A.Olefir"
+"A.V.Tsygankov"
+"A.V.Prosyanik"
+"A.V.Mazepa"
+"R.G.Kostyanovsky"
+_chemical_name_systematic
+;
+N,N-bis(Methoxycarbonyl)-N-methoxyimide
+;
+_chemical_melting_point 325.15
+_cell_volume    711.089
+_exptl_crystal_density_diffrn 1.524
+_exptl_special_details
+;
+Melting point range 325.15-327.15K
+
+;
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0358
+_refine_ls_wR_factor_gt 0.0358
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.5027(3)
+_cell_length_b 6.9365(3)
+_cell_length_c 13.8194(5)
+_cell_angle_alpha 90
+_cell_angle_beta 98.611(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.35632(13) -0.23268(14) 0.47871(7)
+O2 O 0.18680(13) -0.10316(14) 0.32231(6)
+O3 O 0.09860(14) 0.17035(15) 0.38947(7)
+O4 O 0.38190(13) -0.06996(14) 0.64158(6)
+O5 O 0.20011(14) 0.18032(14) 0.58834(7)
+N1 N 0.26228(15) -0.06029(17) 0.48380(8)
+C1 C 0.2444(2) -0.3935(2) 0.4987(1)
+H1 H 0.20830 -0.37720 0.56350
+H2 H 0.31240 -0.51380 0.49720
+H3 H 0.13670 -0.39830 0.44890
+C2 C 0.17393(18) 0.0177(2) 0.39642(9)
+C3 C 0.1039(2) -0.0326(2) 0.22742(9)
+H4 H -0.02420 -0.00730 0.22870
+H5 H 0.11640 -0.12960 0.17730
+H6 H 0.16350 0.08690 0.21210
+C4 C 0.27541(17) 0.0326(2) 0.57417(9)
+C5 C 0.4065(2) 0.0110(2) 0.73935(9)
+H7 H 0.49110 -0.06920 0.78290
+H8 H 0.29030 0.01490 0.76360
+H9 H 0.45480 0.14200 0.73770
+H10? H 0.33310 0.12770 0.73990
+H11? H 0.53390 0.04360 0.75920
+H12? H 0.36930 -0.08350 0.78510
+#END

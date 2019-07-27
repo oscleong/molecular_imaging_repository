@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DMNPYO
+_audit_creation_date 1977-11-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DMNPYO
+_chemical_formula_sum 'C7 H8 N2 O3'
+_chemical_formula_moiety
+;
+C7 H8 N2 O3
+;
+_journal_coeditor_code "IUCr A14680"
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 1549
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.Shiro"
+"M.Yamakawa"
+"T.Kubota"
+_chemical_name_systematic
+;
+3,5-Dimethyl-4-nitropyridine N-oxide
+;
+_cell_volume    744.940
+_exptl_crystal_density_diffrn 1.5
+_exptl_special_details
+;
+tetragonal polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.051
+_refine_ls_wR_factor_gt 0.051
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_symmetry_Int_Tables_number 92
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,1/2+x,1/4+z
+3 -x,-y,1/2+z
+4 1/2+y,1/2-x,3/4+z
+5 y,x,-z
+6 1/2+x,1/2-y,3/4-z
+7 -y,-x,1/2-z
+8 1/2-x,1/2+y,1/4-z
+_cell_length_a 7.443(1)
+_cell_length_b 7.443(1)
+_cell_length_c 13.447(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.36830 0.36830 0.00000
+C1 C 0.20250 0.40450 0.03720
+C2 C 0.06970 0.27710 0.03900
+C3 C 0.10910 0.10910 0.00000
+O1 O 0.49070 0.49070 0.00000
+C4 C -0.10770 0.32670 0.08610
+N2 N -0.03040 -0.03040 0.00000
+O2 O -0.17900 0.01000 -0.03140
+H1 H 0.18700 0.52000 0.05200
+H2 H -0.18200 0.35200 0.03800
+H3 H -0.09700 0.44400 0.12300
+H4 H -0.14500 0.23500 0.12700
+C1D C 0.40450 0.20250 -0.03720
+C2D C 0.27710 0.06970 -0.03900
+O2D O 0.01000 -0.17900 0.03140
+H1D H 0.52000 0.18700 -0.05200
+C4D C 0.32670 -0.10770 -0.08610
+H2D H 0.35200 -0.18200 -0.03800
+H3D H 0.44400 -0.09700 -0.12300
+H4D H 0.23500 -0.14500 -0.12700
+#END

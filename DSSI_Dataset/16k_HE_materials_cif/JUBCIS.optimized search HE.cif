@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUBCIS
+_audit_creation_date 1993-03-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUBCIS
+_chemical_formula_sum 'C10 H13 N3 O3'
+_chemical_formula_moiety
+;
+C10 H13 N3 O3
+;
+_journal_coeditor_code "IUCr BR0018"
+_journal_coden_Cambridge 591
+_journal_volume 48
+_journal_year 1992
+_journal_page_first 1985
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"K.Vaughan"
+"L.M.Cameron"
+"S.Christie"
+"M.J.Zaworotko"
+_chemical_name_systematic
+;
+3-(2-Ethoxycarbonylphenyl)-1-methyltriazene 1-oxide
+;
+_chemical_melting_point 394
+_cell_volume   1109.896
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.34
+_exptl_special_details
+;
+Melting point range 394-395K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.07
+_refine_ls_wR_factor_gt 0.07
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.963(9)
+_cell_length_b 8.1716(8)
+_cell_length_c 11.212(7)
+_cell_angle_alpha 90
+_cell_angle_beta 110.85(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2219(3) 0.2819(4) 0.0465(3)
+O2 O 0.12564(23) 0.4226(3) 0.1419(3)
+O3 O 0.3886(3) 0.1864(4) -0.1478(3)
+N1 N 0.3304(3) 0.4431(4) -0.0754(3)
+N2 N 0.3930(3) 0.4598(4) -0.1478(3)
+N3 N 0.4181(3) 0.3233(4) -0.1811(3)
+C1 C 0.2932(3) 0.5882(5) -0.0325(4)
+C2 C 0.2271(3) 0.5752(5) 0.0424(4)
+C3 C 0.1930(4) 0.7150(5) 0.0858(4)
+C4 C 0.2203(4) 0.8699(5) 0.0531(4)
+C5 C 0.2839(4) 0.8809(5) -0.0235(4)
+C6 C 0.3200(4) 0.7401(6) -0.0654(4)
+C7 C 0.1939(3) 0.4104(5) 0.0757(4)
+C8 C 0.0889(3) 0.2737(6) 0.1780(4)
+C9 C 0.0202(4) 0.3162(6) 0.2548(5)
+C10 C 0.4831(4) 0.3271(5) -0.2632(4)
+H1 H 0.303(3) 0.328(4) -0.050(3)
+H2 H 0.14300 0.70100 0.14600
+H3 H 0.19200 0.98100 0.08700
+H4 H 0.30600 0.99900 -0.05200
+H5 H 0.37200 0.74700 -0.12400
+H6 H 0.04200 0.19600 0.09400
+H7 H 0.16000 0.19300 0.23500
+H8 H 0.00100 0.22600 0.27100
+H9 H 0.06500 0.35800 0.33900
+H10 H -0.04200 0.38000 0.20900
+H11 H 0.44800 0.27600 -0.33700
+H12 H 0.52300 0.24700 -0.23100
+H13 H 0.52300 0.43500 -0.27600
+#END

@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QABCON
+_audit_creation_date 2011-03-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QABCON
+_database_code_depnum_ccdc_archive 'CCDC 753246'
+_chemical_formula_sum 'C16 H15 N1 O3'
+_chemical_formula_moiety
+;
+C16 H15 N1 O3
+;
+_journal_coden_Cambridge 692
+_journal_volume 2010
+_journal_year 2010
+_journal_page_first 678
+_journal_name_full 'Synthesis '
+loop_
+_publ_author_name
+"A.Diez-Martinez"
+"Z.Gultekin"
+"I.Delso"
+"T.Tejero"
+"P.Merino"
+_chemical_name_systematic
+;
+(Z)-N-benzylidene-2-(benzyloxy)-2-oxoethanamine oxide
+;
+_chemical_melting_point 353.15
+_cell_volume   1550.000
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Melting point range 353.15-355.15K
+There are a number of low precision bonds present. Published density is 1.313 
+ ; we calculate 1.154
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0395
+_refine_ls_wR_factor_gt 0.0395
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 5(2)
+_cell_length_b 10(4)
+_cell_length_c 31(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.2208(3) -0.23881(12) 0.13437(4)
+O2 O -0.2054(3) 0.06405(12) 0.10754(4)
+O3 O 0.0923(2) 0.13437(12) 0.16083(4)
+N1 N 0.0108(3) -0.20383(15) 0.11373(5)
+C1 C -0.0209(4) -0.37702(18) 0.05532(6)
+C2 C 0.0840(4) -0.4073(2) 0.01371(6)
+H1 H 0.23110 -0.35030 0.00160
+C3 C -0.0195(4) -0.5173(2) -0.01030(6)
+H2 H 0.05420 -0.53560 -0.03870
+C4 C -0.2306(4) -0.6008(2) 0.00721(6)
+H3 H -0.30530 -0.67660 -0.00920
+C5 C -0.3334(4) -0.57415(19) 0.04855(6)
+H4 H -0.47630 -0.63350 0.06070
+C6 C -0.2338(4) -0.46348(17) 0.07267(6)
+H5 H -0.30960 -0.44590 0.10100
+C7 C 0.1053(4) -0.26149(17) 0.07839(6)
+H6 H 0.27680 -0.22360 0.06630
+C8 C 0.1666(4) -0.0886(2) 0.13431(7)
+H7 H 0.354(4) -0.0751(18) 0.1194(5)
+H8 H 0.206(4) -0.1114(17) 0.1653(5)
+C9 C -0.0069(4) 0.04380(18) 0.13176(6)
+C10 C -0.0600(4) 0.2678(2) 0.16286(7)
+H9 H -0.258(4) 0.2545(17) 0.1743(5)
+H10 H -0.073(3) 0.3098(17) 0.1333(6)
+C11 C 0.1093(4) 0.35966(18) 0.19270(6)
+C12 C 0.2622(4) 0.47093(18) 0.17621(6)
+H11 H 0.25350 0.49100 0.14580
+C13 C 0.4272(4) 0.55336(18) 0.20323(6)
+H12 H 0.52990 0.63040 0.19160
+C14 C 0.4424(4) 0.52352(19) 0.24710(6)
+H13 H 0.55950 0.57890 0.26570
+C15 C 0.2884(4) 0.41330(18) 0.26432(6)
+H14 H 0.29680 0.39360 0.29480
+C16 C 0.1224(4) 0.33212(18) 0.23692(6)
+H15 H 0.01580 0.25640 0.24870
+#END

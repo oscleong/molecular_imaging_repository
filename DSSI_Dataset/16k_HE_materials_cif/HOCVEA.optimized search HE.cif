@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HOCVEA
+_audit_creation_date 1999-10-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HOCVEA
+_database_code_depnum_ccdc_archive 'CCDC 132842'
+_chemical_formula_sum 'C14 H6 N2 O6'
+_chemical_formula_moiety
+;
+C14 H6 N2 O6
+;
+_journal_coden_Cambridge 95
+_journal_year 1999
+_journal_page_first 738
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"R.V.Linko"
+"V.A.Soldatkina"
+"B.E.Zaitsev"
+"V.I.Sokol"
+"V.V.Davydov"
+_chemical_name_systematic
+;
+2,5-Dinitro-phenanthrene-9,10-quinone
+;
+_chemical_melting_point 501.15
+_cell_volume   1177.079
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.683
+_exptl_special_details
+;
+Melting point range 501.15-503.15K
+
+;
+_exptl_crystal_description 'rhomboid'
+_exptl_crystal_preparation 'dimethylformamide'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0596
+_refine_ls_wR_factor_gt 0.0596
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 8.212(2)
+_cell_length_b 12.731(3)
+_cell_length_c 11.519(2)
+_cell_angle_alpha 90
+_cell_angle_beta 102.20(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4339(2) 0.4400(2) -0.16205(14)
+O2 O 0.2957(2) 0.3706(2) -0.38416(15)
+O3 O -0.2185(3) 0.3619(2) -0.68850(14)
+O4 O -0.4547(2) 0.3853(2) -0.64196(15)
+O5 O -0.2720(2) 0.24074(14) -0.12255(14)
+O6 O -0.3139(2) 0.34329(15) 0.01790(14)
+N1 N -0.3045(2) 0.37737(15) -0.61614(15)
+N2 N -0.2280(2) 0.30866(14) -0.04848(14)
+C1 C -0.0508(2) 0.3738(2) -0.4608(2)
+H1 H 0.0111(2) 0.3658(2) -0.5191(2)
+C2 C -0.2206(2) 0.38438(14) -0.4902(2)
+C3 C -0.3148(2) 0.4016(2) -0.4057(2)
+H2 H -0.4288(2) 0.4136(2) -0.4285(2)
+C4 C -0.2376(2) 0.40057(15) -0.2874(2)
+H3 H -0.3005(2) 0.41235(15) -0.2303(2)
+C5 C -0.0553(2) 0.34832(14) -0.0297(2)
+C6 C 0.0278(2) 0.3500(2) 0.0879(2)
+H4 H -0.0293(2) 0.3350(2) 0.1476(2)
+C7 C 0.1952(3) 0.3741(2) 0.1165(2)
+H5 H 0.2520(3) 0.3763(2) 0.1954(2)
+C8 C 0.2781(2) 0.3950(2) 0.0263(2)
+H6 H 0.3916(2) 0.4097(2) 0.0445(2)
+C9 C 0.2916(2) 0.4089(2) -0.1836(2)
+C10 C 0.2099(2) 0.3797(2) -0.3108(2)
+C11 C 0.0263(2) 0.37521(14) -0.3410(2)
+C12 C -0.0663(2) 0.38218(13) -0.25146(15)
+C13 C 0.0200(2) 0.37350(13) -0.12489(14)
+C14 C 0.1924(2) 0.39422(14) -0.0916(2)
+#END

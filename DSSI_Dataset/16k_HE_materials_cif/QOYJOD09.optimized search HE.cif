@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOYJOD09
+_audit_creation_date 2016-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOYJOD09
+_database_code_depnum_ccdc_archive 'CCDC 1423823'
+_chemical_formula_sum 'C2 H2 N4 O3'
+_chemical_formula_moiety
+;
+C2 H2 N4 O3
+;
+_journal_coden_Cambridge 1870
+_journal_volume 2
+_journal_year 2016
+_journal_page_first e1600192
+_journal_name_full 'Sci. Adv. '
+loop_
+_publ_author_name
+"M.Woinska"
+"S.Grabowsky"
+"P.M.Dominiak"
+"K.Wozniak"
+"D.Jayatilaka"
+_chemical_name_systematic
+;
+5-Nitro-2,4-dihydro-3H-1,2,4-triazol-3-one
+;
+_cell_volume    450.291
+_exptl_special_details
+;
+beta polymorph
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+Hirshfeld atom refinement (HAR)
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0261
+_refine_ls_wR_factor_gt 0.0261
+loop_
+_citation_database_id_CSD
+_citation_special_details
+QOYJOD "is reinterpreted by this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.3255(1)
+_cell_length_b 5.4503(1)
+_cell_length_c 9.0400(1)
+_cell_angle_alpha 90
+_cell_angle_beta 101.474(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.65343(2) 0.73477(4) 0.23552(3)
+H1 H 0.5763(7) 0.616(1) 0.1876(7)
+O1 O 0.86288(2) 0.59013(4) 0.15999(3)
+N2 N 0.61576(2) 0.92548(4) 0.31813(3)
+N3 N 0.85230(2) 0.94630(4) 0.30603(3)
+H2 H 0.9562(7) 1.010(1) 0.3199(8)
+C1 C 0.79844(3) 0.73996(5) 0.22530(3)
+O2 O 0.86936(3) 1.36296(4) 0.47654(3)
+O3 O 0.64127(3) 1.32487(5) 0.49788(3)
+N4 N 0.75033(3) 1.26089(4) 0.45132(3)
+C2 C 0.73789(3) 1.04433(5) 0.35754(3)
+#END

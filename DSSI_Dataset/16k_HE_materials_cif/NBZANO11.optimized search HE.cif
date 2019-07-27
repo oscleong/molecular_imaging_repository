@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NBZANO11
+_audit_creation_date 1981-05-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NBZANO11
+_database_code_depnum_ccdc_archive 'CCDC 1217888'
+_chemical_formula_sum 'C16 H11 N3 O3'
+_chemical_formula_moiety
+;
+C16 H11 N3 O3
+;
+_journal_coden_Cambridge 5
+_journal_volume 152
+_journal_year 1980
+_journal_page_first 227
+_journal_name_full 'Z.Kristallogr.,Kristallgeom.,Kristallphys.,Kristallchem. '
+loop_
+_publ_author_name
+"A.Whitaker"
+_chemical_name_systematic
+;
+1-((4-Nitrophenyl)-azo)-2-naphthol
+;
+_chemical_name_common
+;
+C.I.Pigment red 1
+;
+_cell_volume   1364.351
+_exptl_crystal_colour 'deep red'
+_exptl_crystal_density_diffrn 1.43
+_exptl_special_details
+;
+beta orthorhombic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.09
+_refine_ls_wR_factor_gt 0.09
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 8.402(40)
+_cell_length_b 27.739(91)
+_cell_length_c 5.854(26)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.33820 0.06440 1.79980
+O2 O -0.37970 0.13850 1.72280
+N1 N -0.31780 0.09970 1.68010
+C1 C -0.04720 0.04810 1.24610
+H1 H -0.00150 0.01950 1.21450
+C2 C -0.14940 0.05200 1.43460
+H2 H -0.16970 0.02640 1.52440
+C3 C -0.21720 0.09570 1.47930
+C4 C -0.18910 0.13570 1.34490
+H3 H -0.23210 0.16440 1.38090
+C5 C -0.09600 0.13090 1.16040
+H4 H -0.08480 0.15640 1.06650
+C6 C -0.01550 0.08810 1.10480
+N2 N 0.08240 0.08220 0.92260
+H5 H 0.12530 0.05330 0.89090
+N3 N 0.11280 0.12130 0.78900
+C7 C 0.20720 0.11590 0.61270
+C8 C 0.22110 0.16000 0.46860
+C9 C 0.14180 0.20470 0.51560
+H6 H 0.08270 0.20680 0.64340
+C10 C 0.15090 0.24360 0.38090
+H7 H 0.09950 0.27120 0.41560
+C11 C 0.24120 0.24030 0.18960
+H8 H 0.24770 0.26570 0.09450
+C12 C 0.32410 0.19840 0.13500
+H9 H 0.38140 0.19730 0.00520
+C13 C 0.31980 0.15830 0.27600
+C14 C 0.38920 0.11460 0.21560
+H10 H 0.44380 0.11380 0.08340
+C15 C 0.38210 0.07410 0.33810
+H11 H 0.43550 0.04770 0.29220
+C16 C 0.28690 0.07310 0.54480
+O3 O 0.26950 0.03470 0.66010
+#END

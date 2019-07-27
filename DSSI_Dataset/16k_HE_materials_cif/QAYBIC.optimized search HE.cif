@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAYBIC
+_audit_creation_date 2006-02-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAYBIC
+_database_code_depnum_ccdc_archive 'CCDC 290710'
+_database_code_depnum_ccdc_journal 1267/1448
+_chemical_formula_sum 'C13 H13 N1 O2'
+_chemical_formula_moiety
+;
+C13 H13 N1 O2
+;
+_journal_coden_Cambridge 1267
+_journal_volume 220
+_journal_year 2005
+_journal_page_first 153
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"W.Frey"
+"J.Y.Lee"
+"V.Jager"
+_chemical_name_systematic
+;
+rel-(3aS,6aS)-3-(4-methoxyphenyl)-4,6a-dihydro-3aH-cyclopenta(d)isoxazole
+;
+_chemical_melting_point 348
+_cell_volume   1098.195
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.302
+_exptl_special_details
+;
+Melting point range 348-349K
+
+;
+_exptl_crystal_description 'plates'
+_exptl_crystal_preparation 'ethyl acetate/petroleum ether'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0701
+_refine_ls_wR_factor_gt 0.0701
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.823(3)
+_cell_length_b 4.3787(10)
+_cell_length_c 25.698(7)
+_cell_angle_alpha 90
+_cell_angle_beta 96.51(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1629(3) 0.8715(10) 0.14502(15)
+O1 O 0.0310(3) 0.9529(9) 0.07100(11)
+N1 N 0.0533(3) 1.0044(10) 0.12570(13)
+O2 O 0.3315(3) 0.8715(8) 0.36110(11)
+C2 C 0.2375(4) 0.7072(10) 0.10533(15)
+H1 H 0.24320 0.48720 0.11220
+C3 C 0.3783(4) 0.8435(12) 0.09764(15)
+H2 H 0.40820 0.98770 0.12530
+H3 H 0.44690 0.68450 0.09700
+C4 C 0.3534(5) 0.9984(13) 0.04630(17)
+H4 H 0.42020 1.11080 0.03190
+C5 C 0.2292(5) 0.9633(12) 0.02308(16)
+H5 H 0.19780 1.04430 -0.00950
+C6 C 0.1448(4) 0.7781(11) 0.05525(16)
+H6 H 0.11290 0.59040 0.03700
+C7 C 0.2074(3) 0.8846(9) 0.20155(15)
+C8 C 0.1363(4) 1.051(1) 0.23532(16)
+H7 H 0.06040 1.16380 0.22160
+C9 C 0.1736(4) 1.0557(10) 0.28848(16)
+H8 H 0.12390 1.17080 0.31020
+C10 C 0.2852(4) 0.8884(10) 0.30925(15)
+C11 C 0.3594(4) 0.7231(10) 0.27629(15)
+H9 H 0.43620 0.61360 0.29010
+C12 C 0.3206(4) 0.7196(10) 0.22342(16)
+H10 H 0.37070 0.60490 0.20180
+C13 C 0.2540(5) 1.0267(13) 0.39679(16)
+H11 H 0.29680 0.99820 0.43190
+H12 H 0.16260 0.94550 0.39380
+H13 H 0.25040 1.24070 0.38860
+#END

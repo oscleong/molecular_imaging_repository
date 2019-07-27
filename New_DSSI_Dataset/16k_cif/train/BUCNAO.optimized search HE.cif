@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BUCNAO
+_audit_creation_date 1983-11-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BUCNAO
+_database_code_depnum_ccdc_archive 'CCDC 1115897'
+_chemical_formula_sum 'C11 H18 N1 O2'
+_chemical_formula_moiety
+;
+C11 H18 N1 O2
+;
+_journal_coeditor_code "IUCr A22385"
+_journal_coden_Cambridge 591
+_journal_volume 39
+_journal_year 1983
+_journal_page_first 466
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"D.Bordeaux"
+"G.Gagnaire"
+"J.Lajzerowicz"
+_chemical_name_systematic
+;
+rac-exo-4',4'-Dimethyl-8,9,10-trinor-spiro(bornane-2:2'-(1,3-oxazolidine))-3'-
+oxyl
+;
+_cell_volume   1060.426
+_exptl_crystal_density_diffrn 1.243
+_exptl_special_details
+;
+B isomer
+v reported as 1047.9; we calculate 1060.43
+
+;
+_diffrn_ambient_temperature 221
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BUCNES "is a stereoisomer of this entry"
+FICHEE "is a stereoisomer of this entry"
+FICHII "is a stereoisomer of this entry"
+SNBMXZ "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.571(3)
+_cell_length_b 10.526(3)
+_cell_length_c 11.876(4)
+_cell_angle_alpha 90
+_cell_angle_beta 98.22(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.44780 0.26540 0.12000
+N1 N 0.37230 0.17900 0.16330
+C1 C 0.44930 0.07610 0.23640
+C2 C 0.54610 -0.00480 0.16510
+C3 C 0.54890 0.13030 0.34180
+C4 C 0.30270 0.00760 0.26330
+O2 O 0.18610 0.02870 0.16480
+C5 C 0.20030 0.15680 0.13230
+C6 C 0.14120 0.17880 0.00460
+C7 C 0.01400 0.28230 0.00670
+C8 C 0.08760 0.36380 0.10920
+C9 C 0.10330 0.25210 0.19290
+C10 C -0.06650 0.20100 0.18080
+C11 C -0.12900 0.22300 0.05240
+H1 H -0.01500 0.33400 -0.07300
+H2 H 0.15600 0.27600 0.28000
+H3 H 0.26400 0.05000 0.33700
+H4 H 0.32700 -0.09400 0.27200
+H5 H 0.08700 0.09200 -0.03300
+H6 H 0.23700 0.21500 -0.03700
+H7 H -0.00100 0.43000 0.13200
+H8 H 0.20300 0.39700 0.09600
+H9 H -0.13500 0.25600 0.23300
+H10 H -0.06400 0.09900 0.20000
+H11 H -0.22600 0.29000 0.04400
+H12 H -0.15800 0.13200 0.01100
+H13 H 0.47500 -0.04400 0.08900
+H14 H 0.60300 -0.08000 0.21700
+H15 H 0.65000 0.04300 0.14500
+H16 H 0.65400 0.17900 0.32300
+H17 H 0.48200 0.18800 0.39300
+H18 H 0.60600 0.05500 0.39600
+#END

@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SATCAS
+_audit_creation_date 2005-10-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SATCAS
+_database_code_depnum_ccdc_archive 'CCDC 282214'
+_chemical_formula_sum 'C7 H7 N3 O4'
+_chemical_formula_moiety
+;
+C7 H7 N3 O4
+;
+_journal_coeditor_code "IUCr FR1523"
+_journal_coden_Cambridge 591
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o515
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"B.Zarychta"
+"A.Piecyk-Mizgala"
+"Z.Daszkiewicz"
+"J.Zaleski"
+_chemical_name_systematic
+;
+N-methyl-N,3-dinitroaniline
+;
+_chemical_melting_point 347
+_cell_volume    839.628
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.56
+_exptl_special_details
+;
+Melting point range 347-348K
+
+;
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 100.00
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0291
+_refine_ls_wR_factor_gt 0.0291
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.7322(11)
+_cell_length_b 13.6510(16)
+_cell_length_c 7.5547(12)
+_cell_angle_alpha 90
+_cell_angle_beta 111.195(13)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.76604(14) 0.53991(8) 0.20021(16)
+C2 C 0.71685(14) 0.53589(9) 0.35665(16)
+C3 C 0.74957(14) 0.44999(9) 0.46347(16)
+C4 C 0.83294(15) 0.37083(9) 0.42600(17)
+C5 C 0.88578(15) 0.37831(9) 0.27245(18)
+C6 C 0.85025(14) 0.46159(9) 0.15780(16)
+C7 C 0.55200(16) 0.66311(10) 0.00480(19)
+N1 N 0.71971(12) 0.62407(7) 0.07874(14)
+N2 N 0.83387(12) 0.67065(7) 0.02680(14)
+N3 N 0.69043(13) 0.44405(8) 0.62346(14)
+O1 O 0.97833(11) 0.64514(7) 0.09907(13)
+O2 O 0.78501(12) 0.73882(7) -0.08827(13)
+O3 O 0.66200(11) 0.52127(7) 0.69134(12)
+O4 O 0.66966(11) 0.36210(7) 0.68037(13)
+H1 H 0.6596(16) 0.5894(10) 0.3894(18)
+H2 H 0.8569(18) 0.3123(11) 0.505(2)
+H3 H 0.9426(17) 0.3252(10) 0.2429(18)
+H4 H 0.8838(17) 0.4618(10) 0.050(2)
+H5 H 0.508(2) 0.6603(11) -0.135(3)
+H6 H 0.5512(19) 0.7303(12) 0.045(2)
+H7 H 0.488(2) 0.6215(11) 0.050(2)
+#END

@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DICRAI
+_audit_creation_date 1986-09-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DICRAI
+_database_code_depnum_ccdc_archive 'CCDC 1140289'
+_chemical_formula_sum 'C8 H6 N2 O2'
+_chemical_formula_moiety
+;
+C8 H6 N2 O2
+;
+_journal_coeditor_code "IUCr A25458"
+_journal_coden_Cambridge 622
+_journal_volume 42
+_journal_year 1986
+_journal_page_first 84
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"M.Calleri"
+"G.Ranghino"
+"P.Ugliengo"
+"D.Viterbo"
+_chemical_name_systematic
+;
+4-Phenylfuroxan
+;
+_chemical_melting_point 393
+_cell_volume    378.789
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.42
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.051
+_refine_ls_wR_factor_gt 0.051
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.778(3)
+_cell_length_b 7.674(5)
+_cell_length_c 9.501(5)
+_cell_angle_alpha 109.99(4)
+_cell_angle_beta 102.92(4)
+_cell_angle_gamma 95.64(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3160(3) 0.0868(2) 0.3286(2)
+C2 C 0.4176(4) 0.0188(3) 0.2052(2)
+C3 C 0.4358(3) 0.2239(2) 0.4869(2)
+C4 C 0.6679(3) 0.3220(3) 0.5226(2)
+C5 C 0.7785(4) 0.4527(3) 0.6711(2)
+C6 C 0.6592(4) 0.4853(3) 0.7840(2)
+C7 C 0.4281(4) 0.3874(3) 0.7495(2)
+C8 C 0.3160(4) 0.2561(3) 0.6015(2)
+N1 N 0.0874(3) 0.0100(3) 0.2859(2)
+N2 N 0.2505(3) -0.1025(2) 0.0859(2)
+O1 O 0.0340(3) -0.1130(2) 0.1334(1)
+O2 O 0.2392(3) -0.2060(2) -0.0481(2)
+H1 H 0.5829(26) 0.0478(28) 0.1959(21)
+H2 H 0.7527(31) 0.3008(27) 0.4422(18)
+H3 H 0.9438(26) 0.5277(25) 0.6950(21)
+H4 H 0.7318(32) 0.5826(23) 0.8891(17)
+H5 H 0.3346(32) 0.4127(28) 0.8272(19)
+H6 H 0.1518(26) 0.1898(27) 0.5802(21)
+#END

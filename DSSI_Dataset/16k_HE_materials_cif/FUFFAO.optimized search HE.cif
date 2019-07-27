@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUFFAO
+_audit_creation_date 2010-01-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUFFAO
+_database_code_depnum_ccdc_archive 'CCDC 730134'
+_chemical_formula_sum 'C16 H12 N2 O6'
+_chemical_formula_moiety
+;
+C16 H12 N2 O6
+;
+_journal_coden_Cambridge 1265
+_journal_volume 30
+_journal_year 2006
+_journal_page_first 65
+_journal_name_full 'Iranian Journal of Science & Technology '
+loop_
+_publ_author_name
+"B.Etemadi"
+"A.Taeb"
+"H.Sharghi"
+"A.Tajarodi"
+"M.Hosseini"
+_chemical_name_systematic
+;
+1,8-bis(2-Hydroxyphenyl)-3,6-dioxa-2,7-diazaocta-1,7-diene-4,5-dione
+;
+_chemical_name_common
+;
+Salenoxime
+;
+_cell_volume    756.447
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.446
+_exptl_special_details
+;
+x(N1) is 0.6465 not 0.5465. Cell volume published as 759.90, from the 
+published cell parameters we have calculated it to be 756.45
+;
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.6088(3)
+_cell_length_b 9.0108(4)
+_cell_length_c 11.2161(6)
+_cell_angle_alpha 90
+_cell_angle_beta 100.3633(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6120(2) 0.3361(2) 0.5484(1)
+C1 C 0.5220(3) 0.4306(3) 0.4669(2)
+N1 N 0.6465(3) 0.1995(2) 0.4921(20)
+C2 C 0.7768(3) -0.0356(3) 0.5287(2)
+C3 C 0.8689(4) -0.1356(3) 0.6120(2)
+C4 C 0.7321(3) -0.0807(3) 0.4068(2)
+O2 O 0.4829(3) 0.4108(2) 0.3610(2)
+O3 O 0.6385(3) 0.0060(2) 0.3192(2)
+C5 C 0.7815(4) -0.2194(3) 0.3736(2)
+C6 C 0.7312(3) 0.1101(3) 0.5698(2)
+C7 C 0.8728(4) -0.3151(3) 0.4577(2)
+C8 C 0.9157(4) -0.2738(3) 0.5781(2)
+O1B O 0.3880(2) 0.6639(2) 0.4516(1)
+C1B C 0.4780(3) 0.5694(3) 0.5331(2)
+N1B N 0.3535(3) 0.8005(2) 0.5079(20)
+C2B C 0.2232(3) 1.0356(3) 0.4713(2)
+C3B C 0.1311(4) 1.1356(3) 0.3880(2)
+C4B C 0.2679(3) 1.0807(3) 0.5932(2)
+O2B O 0.5171(3) 0.5892(2) 0.6390(2)
+O3B O 0.3615(3) 0.9940(2) 0.6808(2)
+C5B C 0.2185(4) 1.2194(3) 0.6264(2)
+C6B C 0.2688(3) 0.8899(3) 0.4302(2)
+C7B C 0.1272(4) 1.3151(3) 0.5423(2)
+C8B C 0.0843(4) 1.2738(3) 0.4219(2)
+#END

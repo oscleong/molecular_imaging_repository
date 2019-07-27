@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNIMET
+_audit_creation_date 1980-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNIMET
+_database_code_depnum_ccdc_archive 'CCDC 1212679'
+_chemical_formula_sum 'C6 H9 N3 O3'
+_chemical_formula_moiety
+;
+C6 H9 N3 O3
+;
+_journal_coeditor_code "IUCr A17877"
+_journal_coden_Cambridge 107
+_journal_volume 35
+_journal_year 1979
+_journal_page_first 2465
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"N.M.Blaton"
+"O.M.Peeters"
+"C.J.De Ranter"
+_chemical_name_systematic
+;
+1-(2-Hydroxyethyl)-2-methyl-5-nitro-imidazole
+;
+_chemical_name_common
+;
+Metronidazole; Anabact; Arilin; Clont; Deflamon; Efloran; Elyzol; Entizol; 
+Flagyl; Fossyol; Klion; Klont; Nalox; Nidagel; Noritate; Novonidazol; 
+Orvagil; Protostat; Rosadan; Takimetol; Trichazole; Trichex; Trichopol; 
+Tricowas B; Trikacide; Trikozol; Vagilen; Vagimid; Vandazole; Vertisal; 
+Zadstat; DrugBank: DB00916
+;
+_chemical_melting_point 432
+_cell_volume    784.226
+_exptl_special_details
+;
+Melting point range 432-435K
+shows marked activity against both anaerobic protozoa and bacteria
+density given as 1.48 - we calculate 1.45
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.034(2)
+_cell_length_b 8.725(3)
+_cell_length_c 12.818(3)
+_cell_angle_alpha 90
+_cell_angle_beta 94.51(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.28690 0.41610 0.08800
+C1 C 0.21700 0.29100 0.03600
+N2 N 0.15620 0.32450 -0.06250
+C2 C 0.18940 0.47650 -0.07490
+C3 C 0.26920 0.53480 0.01640
+N3 N 0.32270 0.68880 0.03660
+O1 O 0.30660 0.77720 -0.03790
+O2 O 0.38270 0.72770 0.12470
+C4 C 0.21040 0.13580 0.08200
+C5 C 0.36730 0.41900 0.19780
+C6 C 0.22540 0.47560 0.27180
+O3 O 0.06310 0.37960 0.27100
+H1 H 0.15600 0.53200 -0.13700
+H2 H 0.13200 0.13200 0.14300
+H3 H 0.33600 0.09800 0.09800
+H4 H 0.15200 0.06800 0.03300
+H5 H 0.48500 0.48200 0.20100
+H6 H 0.40600 0.31200 0.21300
+H7 H 0.18000 0.58000 0.25300
+H8 H 0.29700 0.48000 0.34100
+H9 H 0.07600 0.31500 0.32000
+#END

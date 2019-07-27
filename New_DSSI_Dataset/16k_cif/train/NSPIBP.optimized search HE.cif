@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NSPIBP
+_audit_creation_date 1977-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NSPIBP
+_chemical_formula_sum 'C24 H20 N2 O3'
+_chemical_formula_moiety
+;
+C24 H20 N2 O3
+;
+_journal_coden_Cambridge 93
+_journal_volume 226
+_journal_year 1976
+_journal_page_first 1370
+_journal_name_full 'Dokl.Akad.Nauk SSSR(Russ.)(Proc.Nat.Acad.Sci.USSR) '
+loop_
+_publ_author_name
+"R.P.Shibaeva"
+"L.P.Rozenberg"
+"A.S.Kholmanskii"
+"A.V.Zubkov"
+_chemical_name_systematic
+;
+8'-Nitro-1-phenyl-3,3-dimethyl-spiro(indolino-2,2'-(2'H-1'-benzopyran))
+;
+_cell_volume   1968.264
+_exptl_crystal_density_diffrn 1.25
+_exptl_special_details
+;
+CALCULATED DENSITY (1.30) DOES NOT AGREE WITH GIVEN DX (1.25) . H18,H91 
+REMOVED FOR SUSPECTED COORDINATE ERRORS
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2+x,-1/2+y,-1/2-z
+_cell_length_a 11.168(3)
+_cell_length_b 10.010(2)
+_cell_length_c 17.792(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 81.72(5)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.17680 0.17570 -0.26030
+O2 O 0.28500 -0.03330 -0.42380
+O3 O 0.33610 0.14820 -0.38670
+N1 N 0.20600 0.15070 -0.13110
+N2 N 0.26010 0.07930 -0.39890
+C1 C 0.14650 0.24150 -0.18610
+C2 C 0.21800 0.36570 -0.18110
+C3 C 0.34080 0.29490 -0.15720
+C4 C 0.32840 0.17060 -0.12520
+C5 C 0.42600 0.08650 -0.09660
+C6 C 0.54080 0.13010 -0.10080
+C7 C 0.55300 0.25520 -0.13360
+C8 C 0.45430 0.33720 -0.16090
+C9 C 0.21680 0.44610 -0.25430
+C10 C 0.16530 0.46000 -0.11770
+C11 C 0.16170 0.03370 -0.10400
+C12 C 0.18140 -0.00540 -0.03040
+C13 C 0.13890 -0.11860 -0.00130
+C14 C 0.07540 -0.19370 -0.04900
+C15 C 0.05170 -0.15450 -0.12210
+C16 C 0.09600 -0.04180 -0.15100
+C17 C 0.01300 0.27510 -0.17430
+C18 C -0.06640 0.27360 -0.23030
+C19 C -0.02770 0.22960 -0.30590
+C20 C 0.09490 0.18230 -0.31690
+C21 C 0.13250 0.13440 -0.38720
+C22 C 0.05360 0.13300 -0.44680
+C23 C -0.06720 0.18000 -0.43630
+C24 C -0.10740 0.22830 -0.36690
+H1 H 0.42700 0.00000 -0.07500
+H2 H 0.61400 0.06000 -0.08500
+H3 H 0.63300 0.28000 -0.14000
+H4 H 0.45700 0.42500 -0.18500
+H5 H 0.12300 0.50100 -0.25800
+H6 H 0.26400 0.39000 -0.29000
+H7 H 0.16500 0.40500 -0.07600
+H8 H 0.22200 0.52500 -0.11200
+H9 H 0.08900 0.50100 -0.12600
+H10 H 0.21800 0.04600 0.00500
+H11 H 0.15600 -0.14100 0.05600
+H12 H 0.05200 -0.28500 -0.03500
+H13 H 0.00000 -0.20500 -0.16100
+H14 H 0.08600 -0.01400 -0.20600
+H15 H -0.01400 0.29500 -0.12500
+H16 H 0.08400 0.07900 -0.49400
+H17 H -0.13000 0.18200 -0.47800
+H18 H -0.19400 0.25200 -0.36000
+#END

@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CATNOR
+_audit_creation_date 1976-08-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CATNOR
+_chemical_formula_sum 'C21 H26 N2 O3'
+_chemical_formula_moiety
+;
+C21 H26 N2 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 32
+_journal_year 1976
+_journal_page_first 945
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"Y.Langlois"
+"F.Gueritte"
+"R.Z.Andriamialisoa"
+"N.Langlois"
+"P.Potier"
+"A.Chiaroni"
+"C.Riche"
+_chemical_name_systematic
+;
+methyl 
+17-ethyl-20-oxa-3,13-diazapentacyclo[13.3.1.1^13,16^.0^2,10^.0^4,9^]icosa-4,6,
+8,17-tetraene-1-carboxylate
+;
+_chemical_name_common
+;
+Catharanthine N-oxide rearrangement product
+;
+_cell_volume   1879.931
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The terminal atom of the ethyl group is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.057
+_refine_ls_wR_factor_gt 0.057
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 11.111(3)
+_cell_length_b 12.461(3)
+_cell_length_c 13.578(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.13150 -0.31620 -0.43060
+C2 C -0.08550 -0.26660 -0.51430
+C3 C 0.00240 -0.31340 -0.57230
+C4 C 0.04260 -0.41510 -0.54280
+C5 C 0.38630 -0.60570 -0.41400
+C6 C 0.35870 -0.71360 -0.36550
+C7 C 0.23680 -0.65190 -0.55230
+C8 C 0.36240 -0.60640 -0.52600
+C9 C 0.25660 -0.89530 -0.36970
+C10 C 0.14010 -0.57130 -0.52780
+C11 C 0.27570 -0.78700 -0.41920
+C12 C 0.21920 -0.75860 -0.50170
+C13 C 0.22680 -0.67980 -0.66280
+C14 C 0.32780 -0.73260 -0.80540
+C15 C 0.31930 -0.52210 -0.35300
+C16 C 0.12440 -0.58220 -0.27030
+C17 C 0.05380 -0.63080 -0.35650
+C18 C 0.06200 -0.56550 -0.44820
+C19 C 0.00080 -0.46440 -0.45780
+C20 C -0.08940 -0.41440 -0.40140
+N1 N 0.12780 -0.48100 -0.58460
+N2 N 0.25760 -0.57910 -0.27110
+O1 O 0.13240 -0.69280 -0.70410
+O2 O 0.33280 -0.69340 -0.70670
+O3 O 0.30780 -0.68610 -0.26880
+#END

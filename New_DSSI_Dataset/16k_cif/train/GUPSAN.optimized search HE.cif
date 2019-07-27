@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUPSAN
+_audit_creation_date 2015-09-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUPSAN
+_database_code_depnum_ccdc_archive 'CCDC 1414864'
+_chemical_formula_sum 'C12 H10 N2 O3'
+_chemical_formula_moiety
+;
+C12 H10 N2 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 71
+_journal_year 2015
+_journal_page_first 8975
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"J.Saczewski"
+"J.Fedorowicz"
+"M.Korcz"
+"F.Saczewski"
+"B.Wicher"
+"M.Gdaniec"
+"A.Konopacka"
+_chemical_name_systematic
+;
+6-methoxy-1-methyl[1,2]oxazolo[3,4-b]quinolin-3(1H)-one
+;
+_chemical_melting_point 475
+_cell_volume   1075.297
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.422
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'petroleum ether/dichloromethane'
+_diffrn_ambient_temperature 298
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0347
+_refine_ls_wR_factor_gt 0.0347
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 4.0221(1)
+_cell_length_b 11.8106(2)
+_cell_length_c 22.6362(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.3989(5) 0.06246(14) 0.69169(8)
+O1 O 0.1813(4) 0.07626(12) 0.74222(7)
+C1 C 0.1239(5) 0.18958(16) 0.75253(8)
+C2 C 0.3083(5) 0.36428(14) 0.69114(7)
+H1 H 0.21440 0.41970 0.71510
+C3 C 0.5083(5) 0.50637(15) 0.61915(7)
+H2 H 0.42060 0.56510 0.64160
+C4 C 0.6680(5) 0.52884(17) 0.56704(8)
+C5 C 0.8070(6) 0.44000(19) 0.53339(8)
+H3 H 0.91680 0.45670 0.49830
+C6 C 0.7834(5) 0.33145(17) 0.55124(8)
+H4 H 0.87970 0.27470 0.52850
+N2 N 0.5929(4) 0.19067(14) 0.61867(7)
+C7 C 0.6146(4) 0.30232(16) 0.60399(7)
+C8 C 0.4779(4) 0.39251(15) 0.63861(7)
+C9 C 0.4341(5) 0.17118(15) 0.66811(8)
+C10 C 0.2878(5) 0.25167(16) 0.70533(7)
+O2 O -0.0389(5) 0.21820(14) 0.79440(6)
+O3 O 0.7092(5) 0.63370(14) 0.54271(6)
+C11 C 0.5724(8) 0.72776(19) 0.57357(10)
+H5 H 0.33720 0.71710 0.57830
+H6 H 0.61250 0.79580 0.55150
+H7 H 0.67500 0.73380 0.61170
+C12 C 0.2640(8) -0.02577(19) 0.65365(13)
+H8 H 0.04370 -0.00520 0.64140
+H9 H 0.25610 -0.09600 0.67500
+H10 H 0.40340 -0.03430 0.61950
+#END

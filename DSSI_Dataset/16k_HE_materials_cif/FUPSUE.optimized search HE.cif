@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUPSUE
+_audit_creation_date 2000-12-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUPSUE
+_database_code_depnum_ccdc_archive 'CCDC 151119'
+_database_code_depnum_ccdc_journal 1145/145
+_chemical_formula_sum 'C19 H27 N5 O4'
+_chemical_formula_moiety
+;
+C19 H27 N5 O4
+;
+_journal_coden_Cambridge 1145
+_journal_volume 9
+_journal_year 1999
+_journal_page_first 1435
+_journal_name_full 'J.Mater.Chem. '
+loop_
+_publ_author_name
+"R.Ziessel"
+"G.Ulrich"
+"R.C.Lawson"
+"L.Echegoyen"
+_chemical_name_systematic
+;
+2,5-bis(4,4,5,5-Tetramethylimidazoline-3-oxide-1-oxy-2-yl)pyridine
+;
+_cell_volume    984.732
+_exptl_crystal_colour 'violet'
+_exptl_crystal_density_diffrn 1.31
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloromethane/hexane'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The pyridine ring is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.192(2)
+_cell_length_b 11.794(3)
+_cell_length_c 13.513(4)
+_cell_angle_alpha 90
+_cell_angle_beta 93.74(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.8414(4) 0.1876(2) 0.8886(2)
+N1 N 0.9185(3) 0.2949(2) 0.8965(2)
+C2 C 0.7723(4) 0.3768(2) 0.8394(2)
+C3 C 0.6539(4) 0.2950(2) 0.7646(2)
+N2 N 0.6766(3) 0.1857(2) 0.8202(2)
+O1 O 1.0749(3) 0.3286(2) 0.9555(1)
+C4 C 0.6283(5) 0.4278(3) 0.9135(2)
+C5 C 0.9050(5) 0.4704(3) 0.7952(2)
+C6 C 0.7698(6) 0.2768(3) 0.6698(2)
+C7 C 0.4167(5) 0.3203(3) 0.7409(2)
+O2 O 0.5651(3) 0.0991(2) 0.7925(2)
+C8 C 0.9243(4) 0.0908(2) 0.9466(2)
+C9 C 1.1442(4) 0.0820(2) 0.9743(2)
+N3 N 0.7812(4) 0.0095(2) 0.9719(2)
+H1 H 0.53200 0.48060 0.88100
+H2 H 0.54740 0.36930 0.94230
+H3 H 0.71480 0.46550 0.96400
+H4 H 0.81100 0.52160 0.75930
+H5 H 0.98420 0.50990 0.84690
+H6 H 1.00270 0.43800 0.75170
+H7 H 0.76090 0.34400 0.63100
+H8 H 0.91740 0.25910 0.68630
+H9 H 0.70330 0.21600 0.63310
+H10 H 0.40240 0.38980 0.70550
+H11 H 0.35340 0.26080 0.70140
+H12 H 0.34530 0.32610 0.80080
+N3B N 1.2188(4) -0.0095(2) 1.0281(2)
+C8B C 1.0757(4) -0.0908(2) 1.0534(2)
+C1B C 1.1586(4) -0.1876(2) 1.1114(2)
+N1B N 1.0815(3) -0.2949(2) 1.1035(2)
+C2B C 1.2277(4) -0.3768(2) 1.1606(2)
+C3B C 1.3461(4) -0.2950(2) 1.2354(2)
+N2B N 1.3234(3) -0.1857(2) 1.1798(2)
+O2B O 1.4349(3) -0.0991(2) 1.2075(2)
+C6B C 1.2302(6) -0.2768(3) 1.3302(2)
+H7B H 1.23910 -0.34400 1.36900
+H8B H 1.08260 -0.25910 1.31370
+H9B H 1.29670 -0.21600 1.36690
+C7B C 1.5833(5) -0.3203(3) 1.2591(2)
+H10B H 1.59760 -0.38980 1.29450
+H11B H 1.64660 -0.26080 1.29860
+H12B H 1.65470 -0.32610 1.19920
+C4B C 1.3717(5) -0.4278(3) 1.0865(2)
+H1B H 1.46800 -0.48060 1.11900
+H2B H 1.45260 -0.36930 1.05770
+H3B H 1.28520 -0.46550 1.03600
+C5B C 1.0950(5) -0.4704(3) 1.2048(2)
+H4B H 1.18900 -0.52160 1.24070
+H5B H 1.01580 -0.50990 1.15310
+H6B H 0.99730 -0.43800 1.24830
+O1B O 0.9251(3) -0.3286(2) 1.0445(1)
+C9B C 0.8558(4) -0.0820(2) 1.0257(2)
+#END

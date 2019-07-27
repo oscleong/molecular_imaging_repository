@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DALPEL
+_audit_creation_date 1986-04-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DALPEL
+_chemical_formula_sum 'C9 H15 N1 O7'
+_chemical_formula_moiety
+;
+C9 H15 N1 O7
+;
+_journal_coden_Cambridge 644
+_journal_volume 40
+_journal_year 1985
+_journal_page_first 574
+_journal_name_full 'Z.Naturforsch.,B:Chem.Sci. '
+loop_
+_publ_author_name
+"G.Brachtel"
+"M.Jansen"
+_chemical_name_systematic
+;
+3,3-bis(2-Carboxyethyl)-3-hydroxyamino-propionic acid betain
+;
+_chemical_melting_point 398.15
+_cell_volume   1107.742
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.495
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.097(2)
+_cell_length_b 9.343(3)
+_cell_length_c 14.647(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.35(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.9018(2) 0.1354(2) 0.2428(1)
+O1 O 0.7833(2) 0.0231(2) 0.2467(1)
+H1 H 0.6718(29) 0.0680(26) 0.2369(17)
+C1 C 0.8848(3) 0.2284(3) 0.3266(2)
+H2 H 0.9658(28) 0.3121(25) 0.3203(16)
+H3 H 0.7745(29) 0.2648(25) 0.3204(16)
+C2 C 0.9159(4) 0.1490(3) 0.4153(2)
+H4 H 0.8294(32) 0.0820(29) 0.4213(19)
+H5 H 1.0296(33) 0.1132(29) 0.4200(18)
+C3 C 0.8907(3) 0.2445(3) 0.4953(2)
+O2 O 0.9841(2) 0.2114(2) 0.5659(1)
+H6 H 0.9734(35) 0.2828(3) 0.6131(20)
+O3 O 0.7901(4) 0.3383(3) 0.4962(1)
+C4 C 0.8721(3) 0.2265(3) 0.1582(2)
+H7 H 0.7650(29) 0.2675(25) 0.1660(16)
+H8 H 0.9572(28) 0.3061(26) 0.1615(15)
+C5 C 0.8773(4) 0.1414(3) 0.0705(2)
+H9 H 0.7948(29) 0.0733(28) 0.0688(18)
+H10 H 0.9780(31) 0.0970(27) 0.0650(17)
+O4 O 0.8882(3) 0.3658(2) -0.0052(1)
+H11 H 0.8940(35) 0.4048(32) -0.0603(20)
+C6 C 0.8581(3) 0.2276(3) -0.0153(2)
+O5 O 0.8178(3) 0.1749(2) -0.0871(1)
+C7 C 1.0662(3) 0.0568(3) 0.2414(2)
+H12 H 1.0773(25) 0.0046(26) 0.3005(16)
+H13 H 1.0572(26) -0.0136(25) 0.1913(16)
+C8 C 1.2109(3) 0.1564(3) 0.2269(2)
+H14 H 1.2018(30) 0.2433(29) 0.2662(17)
+H15 H 1.2166(30) 0.1828(27) 0.1647(18)
+C9 C 1.3741(3) 0.0906(3) 0.2571(2)
+O6 O 1.3818(2) 0.0111(2) 0.3248(1)
+O7 O 1.4973(2) 0.1266(2) 0.2104(1)
+#END

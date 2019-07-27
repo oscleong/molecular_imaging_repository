@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NPRHOB
+_audit_creation_date 1980-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NPRHOB
+_database_code_depnum_ccdc_archive 'CCDC 1223374'
+_chemical_formula_sum 'C25 H35 N1 O6'
+_chemical_formula_moiety
+;
+C25 H35 N1 O6
+;
+_journal_coden_Cambridge 82
+_journal_volume 20
+_journal_year 1979
+_journal_page_first 882
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"L.G.Vorontsova"
+_chemical_name_systematic
+;
+N(\b)-Methoxy-(progesterone)-(16\a,17\a-d)-(tetrahydro-1',2'-oxazole)
+;
+_cell_volume   1170.938
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Unstable
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.095
+_refine_ls_wR_factor_gt 0.095
+loop_
+_citation_database_id_CSD
+_citation_special_details
+NPRHOA "is a stereoisomer of this entry"
+PRGOXZ "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+_cell_length_a 19.79
+_cell_length_b 7.74
+_cell_length_c 7.65
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 92.18
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.53810 1.23990 0.29260
+C2 C 0.46840 1.30780 0.25680
+C3 C 0.44220 1.24800 0.08650
+C4 C 0.49290 1.22550 -0.05240
+C5 C 0.55920 1.24600 -0.02660
+C6 C 0.60610 1.23790 -0.18220
+C7 C 0.66620 1.12130 -0.14550
+C8 C 0.70220 1.17790 0.02240
+C9 C 0.65160 1.16040 0.17650
+C10 C 0.58990 1.28130 0.15070
+C11 C 0.68570 1.18570 0.35500
+C12 C 0.74940 1.07980 0.37910
+C13 C 0.79920 1.11340 0.22900
+C14 C 0.76190 1.06480 0.05870
+C15 C 0.81780 1.05550 -0.07980
+C16 C 0.87680 0.97210 0.02160
+C17 C 0.86220 0.99830 0.21690
+C18 C 0.82480 1.30340 0.23060
+C19 C 0.61330 1.47620 0.15750
+C20 C 0.88130 0.77610 0.00430
+C21 C 0.82010 0.68760 -0.08650
+C22 C 0.77770 0.60240 -0.34460
+C23 C 0.96520 0.61780 0.37710
+C24 C 0.92170 1.07020 0.32500
+C25 C 0.91860 1.04590 0.52090
+O1 O 0.95140 0.73920 0.23600
+O2 O 0.76970 0.63410 -0.02380
+O3 O 0.83350 0.67700 -0.26180
+O4 O 0.38230 1.22340 0.05390
+O5 O 0.84320 0.82660 0.28020
+O6 O 0.96720 1.15560 0.25790
+N1 N 0.88160 0.70620 0.18510
+#END

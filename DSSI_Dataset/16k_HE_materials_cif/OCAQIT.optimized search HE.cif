@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OCAQIT
+_audit_creation_date 2004-12-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OCAQIT
+_database_code_depnum_ccdc_archive 'CCDC 245239'
+_chemical_formula_sum 'C9 H7 N1 O2'
+_chemical_formula_moiety
+;
+C9 H7 N1 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2004
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"S.Parsons"
+"G.Stewart"
+"H.McNab"
+"P.A.Wood"
+_chemical_name_systematic
+;
+4-Methyl-2,3-benzoxazin-1-one
+;
+_cell_volume    738.362
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.45
+_exptl_special_details
+;
+contribution from School of Chemistry, The University of Edinburgh King's 
+Buildings, West Mains Road, Edinburgh, Scotland EH9 3JJ
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'toluene'
+_diffrn_ambient_temperature 220
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0607
+_refine_ls_wR_factor_gt 0.0607
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 3.851(2)
+_cell_length_b 14.029(3)
+_cell_length_c 13.712(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.65(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3935(10) 0.2055(3) 0.8065(3)
+O1 O 0.4774(8) 0.1538(2) 0.8747(2)
+O2 O 0.4975(8) 0.2989(2) 0.8156(2)
+N1 N 0.4189(10) 0.3705(3) 0.7423(3)
+C2 C 0.2395(10) 0.3439(3) 0.6639(3)
+C3 C 0.1653(12) 0.4213(3) 0.5897(3)
+H1 H 0.26810 0.48060 0.61440
+H2 H -0.08460 0.42920 0.57740
+H3 H 0.26450 0.40410 0.52930
+C4 C 0.1158(10) 0.2475(3) 0.6445(3)
+C5 C -0.0695(11) 0.2211(3) 0.5568(3)
+H4 H -0.12090 0.26650 0.50730
+C6 C -0.1762(10) 0.1276(3) 0.5437(3)
+H5 H -0.30230 0.10970 0.48500
+C7 C -0.1000(11) 0.0599(3) 0.6157(3)
+H6 H -0.17580 -0.00330 0.60540
+C8 C 0.0861(10) 0.0840(3) 0.7026(3)
+H7 H 0.14010 0.03800 0.75130
+C9 C 0.1924(10) 0.1792(3) 0.7162(3)
+#END

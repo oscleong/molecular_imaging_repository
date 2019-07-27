@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PNTSAN
+_audit_creation_date 1979-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PNTSAN
+_database_code_depnum_ccdc_archive 'CCDC 1235488'
+_chemical_formula_sum 'C7 H7 N1 O2'
+_chemical_formula_moiety
+;
+C7 H7 N1 O2
+;
+_journal_coden_Cambridge 3
+_journal_volume 33
+_journal_year 1979
+_journal_page_first 289
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"H.J.Talberg"
+_chemical_name_systematic
+;
+p-Nitrosoanisole
+;
+_chemical_melting_point 294.15
+_cell_volume    668.266
+_exptl_crystal_colour 'blue green'
+_exptl_crystal_density_diffrn 1.363
+_diffrn_ambient_temperature 118
+_refine_special_details
+;
+The nitroso group is disordered over 2 sites. One set of positions with 
+occupancies 0.5 is retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.341(3)
+_cell_length_b 9.972(3)
+_cell_length_c 7.365(1)
+_cell_angle_alpha 90
+_cell_angle_beta 103.07(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.15620 -0.01890 0.42600
+C1 C 0.19480 0.10910 0.46020
+C2 C 0.32840 0.15350 0.57200
+C3 C 0.35480 0.29070 0.59400
+C4 C 0.25040 0.38310 0.50820
+C5 C 0.11610 0.33680 0.39720
+C6 C 0.09030 0.20470 0.37300
+C7 C 0.25780 -0.12160 0.51320
+H1 H 0.40000 0.10300 0.63200
+H2 H 0.04900 0.41400 0.33500
+H3 H 0.21900 -0.19500 0.47600
+H4 H 0.28000 -0.10400 0.66200
+N1 N 0.27100 0.51370 0.52440
+H5 H 0.44300 0.32300 0.67400
+H6 H -0.00300 0.16800 0.29900
+H7 H 0.36100 -0.10800 0.47100
+O2 O 0.37160 0.57960 0.61560
+#END

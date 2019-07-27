@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RENLIH
+_audit_creation_date 2013-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RENLIH
+_database_code_depnum_ccdc_archive 'CCDC 911953'
+_chemical_formula_sum 'C18 H24 N2 O1'
+_chemical_formula_moiety
+;
+C18 H24 N2 O1
+;
+_journal_coden_Cambridge 1336
+_journal_volume 14
+_journal_year 2012
+_journal_page_first 5082
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"Shu-Bin Zhao"
+"E.Bilodeau"
+"V.Lemieux"
+"A.M.Beauchemin"
+_chemical_name_systematic
+;
+(+-)-(2S*,3S*)-N,N'-Dibenzyl-N-hydroxybutane-2,3-diamine
+;
+_chemical_name_common
+;
+(+-)-(2S*,3S*)-N-Benzyl-3-(benzyl(hydroxy)amino)butan-2-amine
+;
+_cell_volume   3355.052
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.126
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'diethyl ether/hexanes'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+O1 and O1' disordered over two sites with occupancies 0.80:0.20.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0863
+_refine_ls_wR_factor_gt 0.0863
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 -x,y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 x,-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 18.9450(7)
+_cell_length_b 8.6958(4)
+_cell_length_c 20.3655(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 1.04068(12) 0.0531(3) 0.16804(12)
+N2 N 0.89796(14) 0.0846(4) 0.18127(13)
+H1 H 0.92040 0.09270 0.21890
+O1 O 1.10402(13) -0.0292(3) 0.19610(15)
+H2 H 1.09570 -0.05430 0.23520
+C1 C 0.99588(17) -0.0757(4) 0.14538(16)
+H3 H 0.99070 -0.14870 0.18300
+C2 C 0.92208(17) -0.0171(4) 0.12809(17)
+H4 H 0.92440 0.04270 0.08620
+C3 C 1.0289(2) -0.1652(5) 0.0886(2)
+H5 H 1.07580 -0.20180 0.10150
+H6 H 1.03310 -0.09780 0.05020
+H7 H 0.99890 -0.25330 0.07770
+C4 C 0.8715(2) -0.1515(7) 0.1196(3)
+H8 H 0.82450 -0.11250 0.10820
+H9 H 0.86880 -0.20980 0.16070
+H10 H 0.88860 -0.21870 0.08440
+C5 C 1.06785(18) 0.1583(4) 0.11787(15)
+H11 H 1.02840 0.19550 0.09020
+H12 H 1.10170 0.10330 0.08930
+C6 C 1.10415(15) 0.2934(4) 0.14996(15)
+C7 C 1.17716(16) 0.2982(4) 0.15614(18)
+H13 H 1.20450 0.21560 0.13920
+C8 C 1.21075(18) 0.4190(5) 0.1860(2)
+H14 H 1.26080 0.42000 0.18870
+C9 C 1.17215(19) 0.5396(4) 0.21225(19)
+H15 H 1.19550 0.62290 0.23320
+C10 C 1.09965(19) 0.5375(5) 0.20758(19)
+H16 H 1.07240 0.61950 0.22510
+C11 C 1.06683(17) 0.4143(5) 0.17698(17)
+H17 H 1.01680 0.41300 0.17450
+C12 C 0.8331(2) 0.1718(7) 0.16644(19)
+H18 H 0.82590 0.24890 0.20150
+H19 H 0.79260 0.10000 0.16770
+C13 C 0.83280(15) 0.2521(5) 0.10230(16)
+C14 C 0.8747(2) 0.3842(6) 0.0894(3)
+H20 H 0.90280 0.42780 0.12330
+C15 C 0.8747(3) 0.4501(6) 0.0265(3)
+H21 H 0.90330 0.53740 0.01760
+C16 C 0.8349(3) 0.3906(7) -0.0204(3)
+H22 H 0.83470 0.43600 -0.06280
+C17 C 0.7951(3) 0.2675(8) -0.0085(2)
+H23 H 0.76690 0.22710 -0.04300
+C18 C 0.7933(2) 0.1986(6) 0.05023(19)
+H24 H 0.76420 0.11080 0.05620
+H25? H 0.85330 -0.11740 0.22400
+H26? H 1.05060 0.06600 0.20990
+O2? O 0.8755(5) -0.0438(12) 0.2408(6)
+#END

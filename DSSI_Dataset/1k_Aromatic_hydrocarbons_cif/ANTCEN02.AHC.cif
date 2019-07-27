@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ANTCEN02
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ANTCEN02
+_database_code_depnum_ccdc_archive 'CCDC 1103064'
+_chemical_formula_sum 'C14 H10'
+_chemical_formula_moiety
+;
+C14 H10
+;
+_journal_coden_Cambridge 1
+_journal_volume 3
+_journal_year 1950
+_journal_page_first 245+
+_journal_name_full 'Acta Crystallogr. '
+loop_
+_publ_author_name
+"A.McL.Mathieson"
+"J.M.Robertson"
+"V.C.Sinclair"
+_chemical_name_systematic
+;
+Anthracene
+;
+_cell_volume    474.245
+_exptl_crystal_density_diffrn 1.24
+_exptl_special_details
+;
+stable monoclinic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.196
+_refine_ls_wR_factor_gt 0.196
+loop_
+_citation_database_id_CSD
+_citation_special_details
+ANTCEN03 "is a reinterpretation of this cif"
+ANTCEN04 "is a reinterpretation of this cif"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 8.561(10)
+_cell_length_b 6.036(10)
+_cell_length_c 11.163(10)
+_cell_angle_alpha 90
+_cell_angle_beta 124.70(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.08610 0.02830 0.36440
+C2 C 0.11810 0.15580 0.28000
+C3 C 0.05940 0.08280 0.13860
+C4 C 0.08670 0.20670 0.04750
+C5 C -0.03000 -0.13140 0.08970
+C6 C -0.06000 -0.25640 0.18220
+C7 C -0.00250 -0.17690 0.31670
+C5B C 0.03000 0.13140 -0.08970
+C4B C -0.08670 -0.20670 -0.04750
+C3B C -0.05940 -0.08280 -0.13860
+C6B C 0.06000 0.25640 -0.18220
+C2B C -0.11810 -0.15580 -0.28000
+C7B C 0.00250 0.17690 -0.31670
+C1B C -0.08610 -0.02830 -0.36440
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.360 1_555 1_555
+C2 C3 1.427 1_555 1_555
+C3 C4 1.385 1_555 1_555
+C4 C5B 1.393 1_555 1_555
+C5 C3 1.442 1_555 1_555
+C6 C5 1.415 1_555 1_555
+C7 C1 1.390 1_555 1_555
+C5B C3B 1.442 1_555 1_555
+C4B C5 1.393 1_555 1_555
+C3B C4B 1.385 1_555 1_555
+C6B C5B 1.415 1_555 1_555
+C2B C3B 1.427 1_555 1_555
+C7B C6B 1.373 1_555 1_555
+C1B C2B 1.360 1_555 1_555
+C6 C7 1.373 1_555 1_555
+C7B C1B 1.390 1_555 1_555
+#END

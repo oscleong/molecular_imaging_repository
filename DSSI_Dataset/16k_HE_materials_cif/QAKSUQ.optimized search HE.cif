@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAKSUQ
+_audit_creation_date 2001-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAKSUQ
+_database_code_depnum_ccdc_archive 'CCDC 144801 (not 141801 as published)'
+_chemical_formula_sum 'C10 H14 N2 O2'
+_chemical_formula_moiety
+;
+C10 H14 N2 O2
+;
+_journal_coden_Cambridge 16
+_journal_volume 56
+_journal_year 2000
+_journal_page_first 8799
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"S.R.Hitchcock"
+"G.P.Nora"
+"C.Hedberg"
+"D.M.Casper"
+"L.S.Buchanan"
+"M.D.Squire"
+"D.X.West"
+_chemical_name_systematic
+;
+(1R,2S)-N-Methyl-N-nitroso-2-amino-1-phenyl-1-propanol
+;
+_chemical_name_common
+;
+N-Nitroso-ephedrine
+;
+_chemical_melting_point 365.15
+_cell_volume   1065.492
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Melting point range 365.15-367.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'hexane/dichloromethane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 7.746(2)
+_cell_length_b 10.617(2)
+_cell_length_c 12.956(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8241(6) 0.1890(5) 0.8473(3)
+N1 N 1.2520(7) 0.0576(5) 0.7918(4)
+C1 C 0.9560(8) 0.1511(6) 0.6795(4)
+C2 C 1.0948(9) 0.0899(6) 0.8498(5)
+N2 N 1.2571(9) -0.0585(6) 0.7595(4)
+O2 O 1.3916(9) -0.0856(6) 0.7136(4)
+C3 C 0.9844(8) 0.1856(6) 0.7922(5)
+C4 C 1.0493(8) 0.2125(6) 0.6019(5)
+C5 C 0.8444(9) 0.0557(6) 0.6521(6)
+C6 C 1.3892(9) 0.1483(7) 0.7756(6)
+C7 C 0.920(1) 0.0830(9) 0.4747(6)
+C8 C 1.029(1) 0.1782(8) 0.4994(5)
+C9 C 0.826(1) 0.0220(7) 0.5478(7)
+C10 C 1.139(1) 0.1314(8) 0.9593(5)
+H1 H 1.02500 0.01550 0.85550
+H2 H 1.03730 0.26730 0.79530
+H3 H 1.12690 0.27980 0.61910
+H4 H 0.77950 0.01110 0.70360
+H5 H 1.35600 0.22740 0.80560
+H6 H 1.40900 0.15920 0.70300
+H7 H 1.49310 0.11880 0.80800
+H8 H 0.90970 0.06020 0.40330
+H9 H 1.09190 0.22010 0.44540
+H10 H 0.74840 -0.04400 0.52750
+H11 H 1.20560 0.06740 0.99290
+H12 H 1.03500 0.14650 0.99800
+H13 H 1.20480 0.20770 0.95530
+H14 H 0.74460 0.26600 0.81890
+#END

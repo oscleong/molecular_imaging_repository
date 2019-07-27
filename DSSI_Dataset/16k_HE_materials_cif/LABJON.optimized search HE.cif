@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LABJON
+_audit_creation_date 1993-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LABJON
+_database_code_depnum_ccdc_archive 'CCDC 1202202'
+_chemical_formula_sum 'C8 H6 N4 O5'
+_chemical_formula_moiety
+;
+C8 H6 N4 O5
+;
+_journal_coeditor_code "IUCr NA1016"
+_journal_coden_Cambridge 591
+_journal_volume 49
+_journal_year 1993
+_journal_page_first 741
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"V.Bertolasi"
+"P.Gilli"
+"V.Ferretti"
+"G.Gilli"
+_chemical_name_systematic
+;
+1-(((5-Nitro-2-furanyl)methylene)amino)-2,4-imidazolidinedione
+;
+_chemical_name_common
+;
+Nitrofurantoin; DrugBank: DB00698
+;
+_cell_volume    957.661
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.65
+_exptl_special_details
+;
+monoclinic beta polymorph
+antibacterial drug
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.04
+_refine_ls_wR_factor_gt 0.04
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.845(1)
+_cell_length_b 6.462(3)
+_cell_length_c 18.920(4)
+_cell_angle_alpha 90
+_cell_angle_beta 93.18(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0795(3) 0.1366(3) 0.4092(1)
+O2 O -0.2126(3) 0.6044(4) 0.2700(1)
+O3 O 0.4091(2) 0.5535(3) 0.5810(1)
+O4 O 0.5697(3) 0.2949(3) 0.6652(1)
+O5 O 0.6712(3) 0.5385(4) 0.7334(1)
+N1 N -0.0826(3) 0.3331(4) 0.3280(1)
+N2 N 0.0842(3) 0.4940(3) 0.4076(1)
+N3 N 0.1933(3) 0.5136(3) 0.4658(1)
+N4 N 0.5870(3) 0.4761(4) 0.6810(1)
+C1 C 0.0342(3) 0.3000(4) 0.3853(1)
+C2 C -0.1145(4) 0.5360(5) 0.3155(1)
+C3 C -0.0045(4) 0.6574(4) 0.3683(2)
+C4 C 0.2357(3) 0.6977(4) 0.4846(1)
+C5 C 0.3510(4) 0.7264(4) 0.5455(1)
+C6 C 0.5097(3) 0.6262(4) 0.6355(1)
+C7 C 0.5188(4) 0.8331(4) 0.6369(1)
+C8 C 0.4161(4) 0.8974(4) 0.5782(2)
+H1 H -0.133(4) 0.236(6) 0.298(2)
+H2 H -0.075(4) 0.734(5) 0.401(1)
+H3 H 0.073(3) 0.738(4) 0.345(1)
+H4 H 0.190(3) 0.827(4) 0.463(1)
+H5 H 0.587(3) 0.904(4) 0.670(1)
+H6 H 0.388(3) 1.029(5) 0.562(1)
+#END

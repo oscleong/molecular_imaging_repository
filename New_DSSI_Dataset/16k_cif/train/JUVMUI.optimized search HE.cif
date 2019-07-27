@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUVMUI
+_audit_creation_date 1993-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUVMUI
+_chemical_formula_sum 'C8 H10 N4 O8'
+_chemical_formula_moiety
+;
+C8 H10 N4 O8
+;
+_journal_coden_Cambridge 35
+_journal_volume 58
+_journal_year 1993
+_journal_page_first 763
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"G.A.Olah"
+"P.Ramaiah"
+"G.K.S.Prakash"
+"R.Gilardi"
+_chemical_name_systematic
+;
+3,3,7,7-Tetranitro-cis-bicyclo(3.3.0)octane
+;
+_chemical_melting_point 461.15
+_cell_volume    588.679
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.637
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.096
+_refine_ls_wR_factor_gt 0.096
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P c'
+_symmetry_Int_Tables_number 7
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+_cell_length_a 8.479(1)
+_cell_length_b 6.774(4)
+_cell_length_c 10.272(8)
+_cell_angle_alpha 90
+_cell_angle_beta 93.82(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2583(14) 0.4526(18) 0.0056(13)
+C2 C 0.2325(14) 0.6582(14) -0.0518(12)
+N1 N 0.1608(15) 0.7937(16) 0.0505(12)
+C3 C 0.6791(14) 0.3375(17) -0.0101(14)
+C4 C 0.51520 0.2629(17) 0.02330
+N2 N 0.1281(13) 0.6758(17) -0.1612(12)
+N3 N 0.8104(14) 0.3272(15) 0.1104(12)
+N4 N 0.7466(16) 0.2160(18) -0.1129(14)
+C5 C 0.3897(13) 0.7191(15) -0.0897(12)
+O1 O 0.0545(17) 0.7113(17) 0.1048(13)
+C6 C 0.6612(13) 0.5505(16) -0.0520(14)
+C7 C 0.4188(13) 0.4445(14) 0.0439(13)
+C8 C 0.5062(14) 0.6283(14) -0.0135(13)
+O2 O 0.8686(16) 0.2683(17) -0.1593(13)
+O3 O 0.1357(17) 0.5718(21) -0.2530(13)
+O4 O 0.7829(17) 0.4367(18) 0.1950(13)
+O5 O 0.0205(16) 0.7984(22) -0.1705(14)
+O6 O 0.6966(15) 0.0429(15) -0.1222(16)
+O7 O 0.8990(15) 0.2062(18) 0.1096(16)
+O8 O 0.2203(18) 0.9320(21) 0.0820(16)
+H1 H 0.23220 0.35410 -0.05960
+H2 H 0.19480 0.43170 0.07830
+H3 H 0.52290 0.18350 0.10090
+H4 H 0.46790 0.18520 -0.04710
+H5 H 0.39990 0.85960 -0.08040
+H6 H 0.40030 0.68660 -0.17970
+H7 H 0.66480 0.55830 -0.14510
+H8 H 0.74640 0.62840 -0.01310
+H9 H 0.42410 0.46450 0.13660
+H10 H 0.53120 0.71500 0.05890
+#END

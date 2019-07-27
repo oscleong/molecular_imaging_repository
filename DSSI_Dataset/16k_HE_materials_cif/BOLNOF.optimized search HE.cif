@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOLNOF
+_audit_creation_date 1983-07-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOLNOF
+_database_code_depnum_ccdc_archive 'CCDC 1113556'
+_chemical_formula_sum 'C12 H26 N4 O2'
+_chemical_formula_moiety
+;
+C12 H26 N4 O2
+;
+_journal_coeditor_code "IUCr A22315"
+_journal_coden_Cambridge 591
+_journal_volume 39
+_journal_year 1983
+_journal_page_first 292
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.S.Hussain"
+"M.-Ul-Haque"
+_chemical_name_systematic
+;
+3,3'-(Ethylenedi-imino)-bis(3-methyl-2-butanone oxime)
+;
+_cell_volume   1451.318
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.172
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 42/n'
+_symmetry_Int_Tables_number 86
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,1/2+x,1/2+z
+3 1/2-x,1/2-y,z
+4 1/2+y,-x,1/2+z
+5 -x,-y,-z
+6 y,-1/2-x,-1/2-z
+7 -1/2+x,-1/2+y,-z
+8 -1/2-y,x,-1/2-z
+_cell_length_a 15.219(2)
+_cell_length_b 15.219(2)
+_cell_length_c 6.266(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.14140 0.46400 -0.08100
+N1 N 0.19780 0.52010 0.03620
+C1 C 0.26650 0.48180 0.10580
+C2 C 0.32580 0.53840 0.24860
+N2 N 0.42050 0.51780 0.22270
+C3 C 0.45470 0.52060 0.00290
+C4 C 0.28730 0.38690 0.06390
+C5 C 0.31140 0.63600 0.20380
+C6 C 0.30400 0.51770 0.48270
+H1 H 0.10200 0.50100 -0.12300
+H2 H 0.43200 0.46600 0.28100
+H3 H 0.46000 0.58300 -0.04100
+H4 H 0.41500 0.48800 -0.10400
+H5 H 0.23900 0.35100 0.06200
+H6 H 0.34100 0.37000 0.11800
+H7 H 0.30400 0.36400 -0.08400
+H8 H 0.35100 0.67300 0.29100
+H9 H 0.32200 0.64900 0.04900
+H10 H 0.24900 0.65400 0.22900
+H11 H 0.31500 0.45600 0.51700
+H12 H 0.24300 0.53000 0.51300
+H13 H 0.34200 0.55000 0.56600
+C3D C 0.54530 0.47940 -0.00290
+N2D N 0.57950 0.48220 -0.22270
+H3D H 0.54000 0.41700 0.04100
+H4D H 0.58500 0.51200 0.10400
+C2D C 0.67420 0.46160 -0.24860
+H2D H 0.56800 0.53400 -0.28100
+C1D C 0.73350 0.51820 -0.10580
+C5D C 0.68860 0.36400 -0.20380
+C6D C 0.69600 0.48230 -0.48270
+N1D N 0.80220 0.47990 -0.03620
+C4D C 0.71270 0.61310 -0.06390
+H8D H 0.64900 0.32700 -0.29100
+H9D H 0.67800 0.35100 -0.04900
+H10D H 0.75100 0.34600 -0.22900
+H11D H 0.68500 0.54400 -0.51700
+H12D H 0.75700 0.47000 -0.51300
+H13D H 0.65800 0.45000 -0.56600
+O1D O 0.85860 0.53600 0.08100
+H5D H 0.76100 0.64900 -0.06200
+H6D H 0.65900 0.63000 -0.11800
+H7D H 0.69600 0.63600 0.08400
+H1D H 0.89800 0.49900 0.12300
+#END

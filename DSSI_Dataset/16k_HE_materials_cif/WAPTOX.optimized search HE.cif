@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAPTOX
+_audit_creation_date 2005-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAPTOX
+_database_code_depnum_ccdc_archive 'CCDC 272812'
+_chemical_formula_sum 'C17 H16 N2 O3'
+_chemical_formula_moiety
+;
+C17 H16 N2 O3
+;
+_journal_coden_Cambridge 4
+_journal_volume 106
+_journal_year 1984
+_journal_page_first 3880
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"K.N.Houk"
+"S.R.Moses"
+"Yun-Dong Wu"
+"N.G.Rondan"
+"V.Jager"
+"R.Schohe"
+"F.R.Fronczek"
+_chemical_name_systematic
+;
+5-(1-Phenylethyl)-3-(p-nitrophenyl)-4,5-dihydroisoxazole
+;
+_cell_volume   1491.614
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.32
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 110
+_refine_special_details
+;
+The ethyl moiety is disordered over two positions with occupancy 0.867:0.133.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.428(3)
+_cell_length_b 10.985(2)
+_cell_length_c 10.959(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.458(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.61985(9) 0.51194(12) 0.62588(11)
+O2 O 0.26857(12) 1.13365(12) 0.35026(12)
+O3 O 0.20384(12) 1.10983(13) 0.52542(14)
+N1 N 0.54245(11) 0.60504(13) 0.63145(13)
+N2 N 0.26305(12) 1.07863(13) 0.44722(14)
+C1 C 0.67849(15) 0.5254(2) 0.51377(17)
+H1 H 0.67130 0.44980 0.46300
+C2? C 0.7088(11) 0.5867(14) 0.5622(13)
+C3 C 0.62151(14) 0.63218(17) 0.44633(16)
+H2 H 0.67290 0.69820 0.43070
+H3 H 0.58420 0.60580 0.36770
+C4 C 0.54233(13) 0.67170(16) 0.53553(14)
+C5 C 0.79687(16) 0.5514(2) 0.55151(18)
+H4 H 0.80240 0.63240 0.59320
+C6? C 0.7722(11) 0.4899(16) 0.5226(13)
+C7 C 0.84558(14) 0.45437(17) 0.63983(16)
+C8 C 0.90399(14) 0.49321(17) 0.74412(17)
+H5 H 0.90980 0.57800 0.76060
+C9 C 0.95472(15) 0.41114(18) 0.82602(17)
+H6 H 0.99580 0.44010 0.89680
+C10 C 0.94569(16) 0.28818(18) 0.80503(18)
+H7 H 0.97950 0.23180 0.86150
+C11 C 0.88689(17) 0.24734(19) 0.7010(2)
+H8 H 0.88030 0.16250 0.68530
+C12 C 0.83740(16) 0.3305(2) 0.61918(19)
+H9 H 0.79720 0.30170 0.54770
+C13 C 0.46831(12) 0.77553(15) 0.51588(14)
+C14 C 0.46895(13) 0.84052(15) 0.40664(14)
+H10 H 0.51710 0.81720 0.34760
+C15 C 0.40072(13) 0.93827(15) 0.38290(14)
+H11 H 0.40060 0.98160 0.30790
+C16 C 0.33246(13) 0.97161(15) 0.47105(15)
+C17 C 0.32957(13) 0.91004(16) 0.58102(15)
+H12 H 0.28210 0.93500 0.64010
+C18 C 0.39747(13) 0.81138(15) 0.60271(15)
+H13 H 0.39610 0.76740 0.67720
+C19 C 0.85934(15) 0.55672(19) 0.43616(17)
+H14 H 0.85620 0.47710 0.39570
+H15 H 0.93480 0.57810 0.45910
+H16 H 0.82690 0.61840 0.38010
+#END

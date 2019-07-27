@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZIKKUZ
+_audit_creation_date 1996-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZIKKUZ
+_database_code_depnum_ccdc_archive 'CCDC 126080'
+_chemical_formula_sum 'C8 H6 N2 O6'
+_chemical_formula_moiety
+;
+C8 H6 N2 O6
+;
+_journal_coeditor_code "IUCr HU1148"
+_journal_coden_Cambridge 591
+_journal_volume 51
+_journal_year 1995
+_journal_page_first 2581
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.L.S.Cristiano"
+"R.A.W.Johnstone"
+"M.J.Pratt"
+_chemical_name_systematic
+;
+3-Hydroxy-2,6-dinitroacetophenone
+;
+_chemical_melting_point 455
+_cell_volume    914.939
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.641
+_exptl_special_details
+;
+Melting point range 455-456K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0656
+_refine_ls_wR_factor_gt 0.0656
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.813(2)
+_cell_length_b 12.708(3)
+_cell_length_c 9.392(2)
+_cell_angle_alpha 90
+_cell_angle_beta 101.14(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.0350(6) 0.7770(4) 0.1465(4)
+O2 O 0.8398(6) 0.7066(4) -0.0168(5)
+O3 O 0.5906(4) 0.8915(3) -0.0453(4)
+O4 O 0.5662(6) 1.0191(4) -0.3214(5)
+O5 O 0.7383(6) 1.0923(4) -0.4417(5)
+O6 O 1.2748(5) 0.8441(4) 0.0055(5)
+N1 N 0.9482(6) 0.7750(4) 0.0263(5)
+N2 N 0.7092(7) 1.0321(4) -0.3476(6)
+C1 C 0.8277(6) 0.9010(4) -0.1650(5)
+C2 C 0.8557(7) 0.9764(4) -0.2632(5)
+C3 C 1.0243(7) 1.0046(5) -0.2768(6)
+C4 C 1.1648(7) 0.9604(4) -0.1895(6)
+C5 C 1.1429(6) 0.8883(4) -0.0858(6)
+C6 C 0.9723(6) 0.8584(4) -0.0768(5)
+C7 C 0.6456(7) 0.8639(4) -0.1508(6)
+C8 C 0.5505(7) 0.7907(5) -0.2638(7)
+H1 H 1.04090 1.05840 -0.34720
+H2 H 1.27830 0.98000 -0.20380
+H3 H 1.40430 0.86960 -0.00480
+H4 H 0.63390 0.72130 -0.26590
+H5 H 0.42180 0.76960 -0.23490
+H6 H 0.53770 0.80980 -0.37880
+#END

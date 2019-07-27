@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZOGLOW
+_audit_creation_date 1996-09-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZOGLOW
+_chemical_formula_sum 'C13 H13 N3 O7'
+_chemical_formula_moiety
+;
+C13 H13 N3 O7
+;
+_journal_coden_Cambridge 154
+_journal_volume 48
+_journal_year 1995
+_journal_page_first 1989
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"C.P.Butts"
+"L.Eberson"
+"M.P.Hartshorn"
+"W.T.Robinson"
+_chemical_name_systematic
+;
+13-Hydroxy-14,14-dinitro-3,8-dimethyl-10-aza-9,11-dioxa-tetracyclo(8.3.1.0^2,7
+^.0^8,12^)tetradeca-2,4,6-triene
+;
+_chemical_melting_point 444.15
+_cell_volume   2735.325
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.57
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature 130
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0352
+_refine_ls_wR_factor_gt 0.0352
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.610(5)
+_cell_length_b 15.110(5)
+_cell_length_c 12.430(4)
+_cell_angle_alpha 90
+_cell_angle_beta 94.56(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2863(1) 0.0443(1) 0.2062(1)
+O2 O 0.4231(1) 0.0235(1) 0.1472(1)
+O3 O 0.3453(1) 0.1151(1) -0.1112(1)
+N1 N 0.3454(1) -0.0237(1) 0.1794(2)
+N2 N 0.3780(2) -0.1428(2) 0.0661(2)
+O4 O 0.1941(1) -0.1738(1) 0.0374(2)
+O5 O 0.1920(1) -0.1108(1) 0.1938(2)
+O6 O 0.3926(1) -0.1928(1) 0.1421(2)
+C1 C 0.2858(2) -0.0153(2) -0.0220(2)
+C2 C 0.3070(2) -0.0700(2) 0.0804(2)
+O7 O 0.4137(1) -0.1455(1) -0.0187(2)
+C3 C 0.3829(2) 0.0924(2) 0.0764(2)
+C4 C 0.2001(2) 0.0396(2) -0.0159(2)
+C5 C 0.2943(2) 0.1184(2) 0.1288(2)
+N3 N 0.2233(2) -0.1227(1) 0.1077(2)
+C6 C 0.2082(2) 0.1127(2) 0.0532(2)
+C7 C 0.1192(2) 0.0246(2) -0.0815(2)
+C8 C 0.3663(2) 0.0498(2) -0.0330(2)
+C9 C 0.3051(2) 0.2008(2) 0.1968(2)
+C10 C 0.0562(2) 0.1575(2) -0.0102(2)
+C11 C 0.1364(2) 0.1728(2) 0.0563(2)
+C12 C 0.0483(2) 0.0858(2) -0.0760(2)
+C13 C 0.1058(2) -0.0525(2) -0.1570(2)
+H1 H 0.2791(2) -0.0544(2) -0.0850(2)
+H2 H 0.4245(2) 0.1431(2) 0.0737(2)
+H3 H 0.4211(2) 0.0171(2) -0.0505(2)
+H4 H 0.3067(2) 0.2517(2) 0.1507(2)
+H5 H 0.3613(2) 0.1975(2) 0.2423(2)
+H6 H 0.2543(2) 0.2058(2) 0.2408(2)
+H7 H 0.0076(2) 0.1972(2) -0.0093(2)
+H8 H 0.1415(2) 0.2218(2) 0.1016(2)
+H9 H -0.0061(2) 0.0773(2) -0.1188(2)
+H10 H 0.1451(2) -0.1003(2) -0.1315(2)
+H11 H 0.1209(2) -0.0352(2) -0.2278(2)
+H12 H 0.0430(2) -0.0714(2) -0.1600(2)
+#END

@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMDZET
+_audit_creation_date 1978-11-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMDZET
+_database_code_depnum_ccdc_archive 'CCDC 1272429'
+_chemical_formula_sum 'C6 H12 N2 O2'
+_chemical_formula_moiety
+;
+C6 H12 N2 O2
+;
+_journal_coeditor_code "IUCr A16328"
+_journal_coden_Cambridge 107
+_journal_volume 34
+_journal_year 1978
+_journal_page_first 2602
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"K.Prout"
+"V.P.Stothard"
+"D.J.Watkin"
+_chemical_name_systematic
+;
+3,3,4,4-Tetramethyldiazetidine 1,2-dioxide
+;
+_cell_volume    779.265
+_exptl_crystal_density_diffrn 1.23
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.95(1)
+_cell_length_b 6.26(1)
+_cell_length_c 12.62(1)
+_cell_angle_alpha 90
+_cell_angle_beta 97.54(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.01000 0.69020 0.13750
+N1 N 0.00340 0.53550 0.19920
+C1 C 0.00680 0.29270 0.18820
+C2 C -0.11470 0.21820 0.11290
+C3 C 0.13770 0.21940 0.15270
+H1 H -0.20200 0.28000 0.12200
+H2 H -0.09800 0.27100 0.03300
+H3 H -0.12900 0.05600 0.12400
+H4 H 0.14000 0.06700 0.15400
+H5 H 0.13200 0.27700 0.07600
+H6 H 0.20800 0.25100 0.20000
+N1B N -0.00340 0.53550 0.30080
+C1B C -0.00680 0.29270 0.31180
+O1B O -0.01000 0.69020 0.36250
+C2B C 0.11470 0.21820 0.38710
+C3B C -0.13770 0.21940 0.34730
+H1B H 0.20200 0.28000 0.37800
+H2B H 0.09800 0.27100 0.46700
+H3B H 0.12900 0.05600 0.37600
+H4B H -0.14000 0.06700 0.34600
+H5B H -0.13200 0.27700 0.42400
+H6B H -0.20800 0.25100 0.30000
+#END

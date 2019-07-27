@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SABFIM
+_audit_creation_date 2010-09-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SABFIM
+_database_code_depnum_ccdc_archive 'CCDC 792499'
+_chemical_formula_sum 'C13 H10 N2 O4'
+_chemical_formula_moiety
+;
+C13 H10 N2 O4
+;
+_journal_coeditor_code "IUCr DN2595"
+_journal_coden_Cambridge 1370
+_journal_volume 66
+_journal_year 2010
+_journal_page_first o2435
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"A.R.Raza"
+"B.Nisar"
+"M.N.Tahir"
+_chemical_name_systematic
+;
+2-Hydroxy-N-(3-nitrophenyl)benzamide
+;
+_cell_volume   1157.464
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.482
+_exptl_crystal_description 'prisms'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0405
+_refine_ls_wR_factor_gt 0.0405
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.8385(2)
+_cell_length_b 11.9531(3)
+_cell_length_c 12.3550(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.860(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.67761(15) 0.72384(9) 0.11659(11)
+O2 O 0.87762(16) 0.63301(11) 0.04018(13)
+O3 O 0.19790(13) 0.61776(7) 0.25603(10)
+O4 O -0.01040(12) 0.30182(7) 0.25612(9)
+N1 N 0.25743(14) 0.43458(8) 0.23703(10)
+N2 N 0.74358(15) 0.63616(11) 0.08799(10)
+C1 C 0.41415(16) 0.43895(10) 0.18388(11)
+C2 C 0.50276(16) 0.53731(10) 0.16487(11)
+C3 C 0.65510(16) 0.53059(11) 0.11058(11)
+C4 C 0.72509(18) 0.43172(12) 0.07522(12)
+C5 C 0.63600(18) 0.33434(12) 0.09615(12)
+C6 C 0.48277(18) 0.33755(11) 0.14922(11)
+C7 C 0.15642(15) 0.51916(9) 0.26848(11)
+C8 C -0.00575(15) 0.48872(10) 0.32268(10)
+C9 C -0.08272(16) 0.38269(10) 0.31694(10)
+C10 C -0.23250(17) 0.36262(11) 0.37214(12)
+C11 C -0.30562(19) 0.44557(12) 0.43280(13)
+C12 C -0.23231(19) 0.55075(12) 0.43935(12)
+C13 C -0.08404(17) 0.57126(11) 0.38488(11)
+H1 H 0.22076 0.36854 0.25156
+H2 H 0.46071 0.60586 0.18806
+H3 H 0.82802 0.43043 0.03876
+H4 H -0.06998 0.24546 0.25731
+H5 H 0.68008 0.26593 0.07413
+H6 H 0.42427 0.27130 0.16212
+H7 H -0.28373 0.29254 0.36804
+H8 H -0.40553 0.43091 0.46989
+H9 H -0.28277 0.60681 0.48010
+H10 H -0.03449 0.64182 0.38951
+#END

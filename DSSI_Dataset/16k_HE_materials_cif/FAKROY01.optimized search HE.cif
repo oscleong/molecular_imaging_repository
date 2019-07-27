@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAKROY01
+_audit_creation_date 1999-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAKROY01
+_chemical_formula_sum 'C8 H9 N1 O1'
+_chemical_formula_moiety
+;
+C8 H9 N1 O1
+;
+_journal_coeditor_code "IUCr CF0003"
+_journal_coden_Cambridge 622
+_journal_volume 54
+_journal_year 1998
+_journal_page_first 677
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"F.H.Herbstein"
+"R.E.Marsh"
+_chemical_name_systematic
+;
+(Z)-Acetophenone oxime
+;
+_cell_volume   1473.649
+_exptl_crystal_density_diffrn 1.22
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.132
+_refine_ls_wR_factor_gt 0.132
+loop_
+_citation_database_id_CSD
+_citation_special_details
+FAKRIS "is a stereoisomer of this entry"
+FAKROY "is reinterpreted by this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 29.574
+_cell_length_b 7.075
+_cell_length_c 7.281
+_cell_angle_alpha 90
+_cell_angle_beta 104.69
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.2643(20) 0.2343(15) 0.2568(22)
+C2 C -0.2873(20) 0.3706(7) 0.3364(99)
+C3 C -0.3344(4) 0.3557(24) 0.3242(90)
+C4 C -0.3611(6) 0.220(4) 0.2324(45)
+C5 C -0.3387(4) 0.0876(12) 0.1494(35)
+C6 C -0.2911(5) 0.0891(16) 0.1654(34)
+C7 C -0.2156(11) 0.2490(5) 0.2671(33)
+C8 C -0.1993(7) 0.2136(6) 0.0876(10)
+N1 N -0.1828(4) 0.2932(22) 0.4114(10)
+O1 O -0.1966(3) 0.3132(22) 0.5776(16)
+C9 C -0.0273(2) 0.7474(22) 0.4877(10)
+C10 C -0.01650 0.6484(22) 0.6622(8)
+C11 C 0.0277(5) 0.6451(8) 0.7684(34)
+C12 C 0.06270 0.7419(8) 0.712(10)
+C13 C 0.0530(12) 0.8302(16) 0.5508(24)
+C14 C 0.0078(2) 0.8427(33) 0.4334(50)
+C15 C -0.0764(7) 0.7605(14) 0.3726(63)
+C16 C -0.0904(2) 0.9375(9) 0.2533(64)
+N2 N -0.1094(2) 0.6425(11) 0.3448(12)
+O2 O -0.0960(7) 0.4658(6) 0.4368(9)
+#END

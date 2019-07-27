@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DMEGLY01
+_audit_creation_date 1980-05-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DMEGLY01
+_chemical_formula_sum 'C4 H8 N2 O2'
+_chemical_formula_moiety
+;
+C4 H8 N2 O2
+;
+_journal_coeditor_code "IUCr A18016"
+_journal_coden_Cambridge 107
+_journal_volume 35
+_journal_year 1979
+_journal_page_first 2962
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"B.M.Craven"
+"C.H.Chang"
+"D.Ghosh"
+_chemical_name_systematic
+;
+Dimethylglyoxime
+;
+_cell_volume    141.000
+_exptl_special_details
+;
+In BOND - table distances C1-H1, C1-H2 and C1-H3 should be C2-H1, C2-H2 and 
+C2-H3 respectively
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+charge-deformation refinement
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.025
+_refine_ls_wR_factor_gt 0.025
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.075(3)
+_cell_length_b 6.314(3)
+_cell_length_c 4.484(2)
+_cell_angle_alpha 122.50(3)
+_cell_angle_beta 91.66(4)
+_cell_angle_gamma 77.75(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.08970 0.01710 -0.08750
+C2 C 0.29540 -0.19660 -0.29130
+N1 N 0.05190 0.23880 -0.04840
+O1 O 0.22400 0.26570 -0.21910
+H1 H 0.38800 -0.23500 -0.14300
+H2 H 0.25600 -0.36300 -0.44500
+H3 H 0.39500 -0.16400 -0.41200
+H4 H 0.17100 0.42600 -0.15400
+C1A C -0.08970 -0.01710 0.08750
+C2A C -0.29540 0.19660 0.29130
+N1A N -0.05190 -0.23880 0.04840
+H1A H -0.38800 0.23500 0.14300
+H2A H -0.25600 0.36300 0.44500
+H3A H -0.39500 0.16400 0.41200
+O1A O -0.22400 -0.26570 0.21910
+H4A H -0.17100 -0.42600 0.15400
+#END

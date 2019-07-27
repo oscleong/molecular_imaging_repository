@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BNPHTA02
+_audit_creation_date 1983-10-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BNPHTA02
+_database_code_depnum_ccdc_archive 'CCDC 1112694'
+_chemical_formula_sum 'C20 H14'
+_chemical_formula_moiety
+;
+C20 H14
+;
+_journal_coden_Cambridge 15
+_journal_volume 61
+_journal_year 1983
+_journal_page_first 69
+_journal_name_full 'Can.J.Chem. '
+loop_
+_publ_author_name
+"R.A.Pauptit"
+"J.Trotter"
+_chemical_name_systematic
+;
+1,1'-Binaphthyl
+;
+_cell_volume   1421.644
+_exptl_crystal_density_diffrn 1.19
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BINAPH "is a racemate of this entry"
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_symmetry_Int_Tables_number 92
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,1/2+x,1/4+z
+3 -x,-y,1/2+z
+4 1/2+y,1/2-x,3/4+z
+5 y,x,-z
+6 1/2+x,1/2-y,3/4-z
+7 -y,-x,1/2-z
+8 1/2-x,1/2+y,1/4-z
+_cell_length_a 7.164(2)
+_cell_length_b 7.164(2)
+_cell_length_c 27.70(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.48520 0.37430 0.25820
+C2 C 0.46600 0.20740 0.23470
+C3 C 0.33530 0.07400 0.24930
+C4 C 0.22530 0.10700 0.28780
+C5 C 0.12990 0.31160 0.35560
+C6 C 0.14830 0.47290 0.38070
+C7 C 0.27440 0.60960 0.36520
+C8 C 0.38310 0.58130 0.32540
+C9 C 0.37020 0.41170 0.29890
+C10 C 0.23970 0.27550 0.31410
+C1F C 0.62570 0.51480 0.24180
+C2F C 0.79260 0.53400 0.26530
+C9F C 0.58830 0.62980 0.20110
+C3F C 0.92600 0.66470 0.25070
+C8F C 0.41870 0.61690 0.17460
+C10F C 0.72450 0.76030 0.18590
+C4F C 0.89300 0.77470 0.21220
+C7F C 0.39040 0.72560 0.13480
+C5F C 0.68840 0.87010 0.14440
+C6F C 0.52710 0.85170 0.11930
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.368 1_555 1_555
+C2 C3 1.398 1_555 1_555
+C3 C4 1.347 1_555 1_555
+C4 C10 1.414 1_555 1_555
+C5 C6 1.355 1_555 1_555
+C6 C7 1.400 1_555 1_555
+C7 C8 1.365 1_555 1_555
+C8 C9 1.423 1_555 1_555
+C9 C1 1.422 1_555 1_555
+C10 C5 1.417 1_555 1_555
+C1F C1 1.494 1_555 1_555
+C2F C1F 1.368 1_555 1_555
+C9F C1F 1.422 1_555 1_555
+C3F C2F 1.398 1_555 1_555
+C8F C9F 1.423 1_555 1_555
+C10F C9F 1.415 1_555 1_555
+C4F C3F 1.347 1_555 1_555
+C7F C8F 1.365 1_555 1_555
+C5F C10F 1.417 1_555 1_555
+C6F C7F 1.400 1_555 1_555
+C9 C10 1.415 1_555 1_555
+C10F C4F 1.414 1_555 1_555
+C5F C6F 1.355 1_555 1_555
+#END

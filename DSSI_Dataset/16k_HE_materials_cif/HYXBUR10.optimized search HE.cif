@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HYXBUR10
+_audit_creation_date 1977-11-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HYXBUR10
+_database_code_depnum_ccdc_archive 'CCDC 1179144'
+_chemical_formula_sum 'C2 H5 N3 O3'
+_chemical_formula_moiety
+;
+C2 H5 N3 O3
+;
+_journal_coden_Cambridge 3
+_journal_volume 31
+_journal_year 1977
+_journal_page_first 251
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"I.K.Larsen"
+_chemical_name_systematic
+;
+1-Hydroxybiuret
+;
+_chemical_melting_point 419.15
+_cell_volume    479.877
+_exptl_crystal_density_diffrn 1.65
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.054(2)
+_cell_length_b 6.958(2)
+_cell_length_c 10.793(2)
+_cell_angle_alpha 106.65(2)
+_cell_angle_beta 96.34(2)
+_cell_angle_gamma 71.03(3)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.45570 0.21860 0.45040
+C1 C -0.62790 0.26080 0.50400
+O1 O -0.65180 0.32690 0.62370
+N2 N -0.79060 0.22950 0.42610
+C2 C -0.80480 0.19910 0.29420
+O2 O -0.65770 0.15730 0.22590
+N3 N -0.98470 0.21450 0.23960
+O3 O -1.14990 0.25540 0.31200
+H1 H -0.45200 0.18600 0.36700
+H2 H -0.35700 0.24500 0.49600
+H3 H -0.88700 0.25400 0.46400
+H4 H -1.00000 0.20000 0.15700
+H5 H -1.21600 0.41700 0.33500
+N4 N -0.28000 0.33130 -0.21660
+C3 C -0.11730 0.30480 -0.27740
+O4 O -0.11610 0.30950 -0.39080
+N5 N 0.06360 0.27170 -0.20760
+C4 C 0.09520 0.24160 -0.08620
+O5 O -0.03820 0.24820 -0.01910
+N6 N 0.28730 0.19520 -0.04330
+O6 O 0.42560 0.23920 -0.10450
+H6 H -0.27200 0.32100 -0.13100
+H7 H -0.38900 0.35200 -0.25800
+H8 H 0.15800 0.26300 -0.24600
+H9 H 0.30600 0.20600 0.03500
+H10 H 0.50700 0.10800 -0.14500
+#END

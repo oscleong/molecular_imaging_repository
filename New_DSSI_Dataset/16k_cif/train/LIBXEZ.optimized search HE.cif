@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIBXEZ
+_audit_creation_date 1995-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIBXEZ
+_chemical_formula_sum 'C13 H9 N3 O2'
+_chemical_formula_moiety
+;
+C13 H9 N3 O2
+;
+_journal_coden_Cambridge 95
+_journal_year 1994
+_journal_page_first 1095
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"L.Yu.Ukhin"
+"Zh.I.Orlova"
+"S.V.Lindeman"
+"V.N.Khrustalev"
+"Yu.T.Struchkov"
+"A.I.Prokof'ev"
+_chemical_name_systematic
+;
+5-Nitro-2-phenylindazole
+;
+_chemical_melting_point 469.15
+_cell_volume   1083.694
+_exptl_crystal_colour 'beige'
+_exptl_crystal_density_diffrn 1.446
+_exptl_special_details
+;
+Melting point range 469.15-471.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.094
+_refine_ls_wR_factor_gt 0.094
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.025(2)
+_cell_length_b 5.549(1)
+_cell_length_c 21.878(6)
+_cell_angle_alpha 90
+_cell_angle_beta 98.47(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4732(9) 0.7289(16) 0.0734(4)
+N2 N 0.4791(9) 0.5477(16) 0.1159(4)
+C1 C 0.3804(11) 0.3696(19) 0.1002(4)
+C2 C 0.1829(10) 0.3239(21) 0.0028(5)
+C3 C 0.1358(11) 0.4518(24) -0.0509(5)
+C4 C 0.1992(12) 0.6692(23) -0.0665(5)
+C5 C 0.3119(11) 0.7746(22) -0.0281(5)
+C6 C 0.3623(10) 0.6545(18) 0.0277(5)
+C7 C 0.3014(10) 0.4309(20) 0.0435(5)
+N3 N 0.0117(10) 0.3484(23) -0.0933(5)
+O1 O -0.0389(10) 0.1487(20) -0.0826(4)
+O2 O -0.0365(9) 0.4651(19) -0.1394(4)
+C8 C 0.5911(11) 0.5615(23) 0.1708(5)
+C9 C 0.5978(12) 0.3813(24) 0.2143(5)
+C10 C 0.7077(14) 0.3970(24) 0.2658(5)
+C11 C 0.8024(13) 0.5883(26) 0.2727(5)
+C12 C 0.7919(12) 0.7684(24) 0.2298(5)
+C13 C 0.6857(12) 0.7559(24) 0.1775(5)
+H1 H 0.36700 0.22800 0.12400
+H2 H 0.16100 0.74600 -0.10500
+H3 H 0.52800 0.25000 0.20900
+H4 H 0.87800 0.59900 0.30800
+H5 H 0.67800 0.87900 0.14600
+H6 H 0.13700 0.17400 0.01100
+H7 H 0.35800 0.92300 -0.03800
+H8 H 0.71800 0.27300 0.29700
+H9 H 0.85900 0.90300 0.23600
+#END

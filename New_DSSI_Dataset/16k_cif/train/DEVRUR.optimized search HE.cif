@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DEVRUR
+_audit_creation_date 2000-02-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DEVRUR
+_database_code_depnum_ccdc_archive 'CCDC 133800'
+_database_code_depnum_ccdc_journal 1267/140
+_chemical_formula_sum 'C11 H11 N1 O4'
+_chemical_formula_moiety
+;
+C11 H11 N1 O4
+;
+_journal_coden_Cambridge 1267
+_journal_volume 214
+_journal_year 1999
+_journal_page_first 479
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"R.Kakou-Yao"
+"A.Saba"
+"N.Ebby"
+"M.Pierrot"
+"J.P.Aycard"
+_chemical_name_systematic
+;
+3-(1'-Nitropropyl)isobenzofuran-1(3H)-one
+;
+_cell_volume   1105.884
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.33
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.089
+_refine_ls_wR_factor_gt 0.089
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.861(1)
+_cell_length_b 11.794(1)
+_cell_length_c 10.891(1)
+_cell_angle_alpha 90
+_cell_angle_beta 103.682(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1842(1) 0.10262(8) 0.06252(8)
+C2 C 0.1361(1) 0.22444(8) 0.05477(8)
+O1 O 0.04958(8) 0.23718(6) 0.14981(8)
+N1 N 0.3997(1) 0.27009(7) 0.18078(9)
+C3 C 0.2681(1) 0.31077(8) 0.07381(9)
+O2 O -0.0221(1) 0.13178(8) 0.29641(9)
+C4 C 0.1515(1) -0.06133(9) 0.1868(1)
+C5 C 0.1266(1) 0.05220(8) 0.15631(8)
+C6 C 0.0443(1) 0.13747(9) 0.21218(9)
+C7 C 0.2677(1) 0.0408(1) -0.0062(1)
+O3 O 0.3801(1) 0.26458(8) 0.28545(8)
+C8 C 0.2222(1) 0.42980(9) 0.1009(1)
+O4 O 0.5218(1) 0.2455(1) 0.1536(1)
+C9 C 0.2905(1) -0.0743(1) 0.0250(1)
+C10 C 0.2349(1) -0.1230(1) 0.1190(1)
+C11 C 0.3452(2) 0.5163(1) 0.1121(2)
+H1 H 0.07243 0.24014 -0.02783
+H2 H 0.30583 0.31607 -0.00169
+H3 H 0.11297 -0.09673 0.25266
+H4 H 0.30961 0.07239 -0.07228
+H5 H 0.13755 0.45420 0.03367
+H6 H 0.19025 0.43040 0.17917
+H7 H 0.34885 -0.11904 -0.02120
+H8 H 0.25208 -0.20212 0.13777
+H9 H 0.30687 0.58943 0.12911
+H10 H 0.37857 0.51933 0.03451
+H11 H 0.43127 0.49553 0.18001
+#END

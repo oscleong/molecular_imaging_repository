@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LACGAY
+_audit_creation_date 2003-07-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LACGAY
+_chemical_formula_sum 'C9 H12 N8 O4'
+_chemical_formula_moiety
+;
+C9 H12 N8 O4
+;
+_journal_coden_Cambridge 533
+_journal_volume 36
+_journal_year 2002
+_journal_page_first 26-7
+_journal_name_full 'Khim.-Farm.Zh.(Russ.)(Chem.Pharm.J.) '
+loop_
+_publ_author_name
+"A.A.Gidaspov"
+"V.V.Bakharev"
+"E.V.Kachanovskaya"
+"N.G.Yakunina"
+"Yu.N.Bulychev"
+_chemical_name_systematic
+;
+4,6-bis(Methylamino)-2-(3-cyano-1,1-dinitropropan-1-yl)-1,3,5-triazine
+;
+_chemical_melting_point 383.15
+_cell_volume   2761.218
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.425
+_exptl_special_details
+;
+Melting point range 383.15-384.15K
+cytotoxic
+
+;
+_exptl_crystal_description 'cube'
+_exptl_crystal_preparation 'ethanol/hexane'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+One carbon atom of the cyano moiety is disordered over two sites with 
+occupancies of 0.75:0.25.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.088
+_refine_ls_wR_factor_gt 0.088
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.441(1)
+_cell_length_b 12.159(1)
+_cell_length_c 16.548(1)
+_cell_angle_alpha 90
+_cell_angle_beta 108.14(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.36443(12) 0.19780(14) 0.13609(10)
+C2 C 0.27105(12) 0.30027(14) 0.1912(1)
+C3 C 0.20028(12) 0.18222(14) 0.08781(10)
+C4 C 0.25752(14) 0.38976(16) 0.25145(11)
+C5 C 0.11853(14) 0.05202(17) -0.02453(11)
+C6 C 0.46942(15) 0.09537(19) 0.07164(13)
+C7 C 0.1912(2) 0.3654(2) 0.30378(17)
+C8 C 0.2028(3) 0.2604(3) 0.3417(3)
+C9 C 0.1236(2) 0.2481(2) 0.3876(2)
+C10? C 0.1218(7) 0.2965(12) 0.2879(6)
+N1 N 0.2869(1) 0.14898(12) 0.08225(8)
+N2 N 0.36144(10) 0.27564(11) 0.19526(9)
+N3 N 0.1881(1) 0.26016(12) 0.14254(9)
+N4 N 0.35751(13) 0.42891(17) 0.30782(12)
+N5 N 0.21485(13) 0.49222(14) 0.19669(12)
+N6 N 0.11960(11) 0.13703(13) 0.03701(9)
+N7 N 0.45254(10) 0.17040(13) 0.13391(9)
+N8 N 0.07616(18) 0.2346(2) 0.42867(18)
+O1 O 0.39660(13) 0.36987(16) 0.36796(10)
+O2 O 0.39220(13) 0.51077(15) 0.28781(14)
+O3 O 0.17383(15) 0.55896(17) 0.22694(12)
+O4 O 0.22594(14) 0.50117(13) 0.12938(11)
+H1 H 0.059(3) 0.170(4) 0.039(3)
+H2 H 0.506(4) 0.204(4) 0.179(3)
+H3 H 0.119(3) 0.080(5) -0.074(3)
+H4 H 0.143(4) -0.006(4) 0.005(3)
+H5 H 0.054(3) -0.001(4) -0.023(3)
+H6 H 0.543(4) 0.117(5) 0.076(4)
+H7 H 0.426(5) 0.104(5) 0.022(4)
+H8 H 0.477(5) 0.018(6) 0.090(4)
+#END

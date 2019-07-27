@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WASHII
+_audit_creation_date 2005-12-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WASHII
+_database_code_depnum_ccdc_archive 'CCDC 217527'
+_chemical_formula_sum 'C13 H18 N1 O2'
+_chemical_formula_moiety
+;
+C13 H18 N1 O2
+;
+_journal_coden_Cambridge 1489
+_journal_volume 440
+_journal_year 2005
+_journal_page_first 23
+_journal_name_full 'Mol.Cryst.Liq.Cryst. '
+loop_
+_publ_author_name
+"N.Ikuma"
+"R.Tamura"
+"S.Shimono"
+"N.Kawame"
+"O.Tamada"
+"N.Sakai"
+"Y.Yamamoto"
+"J.Yamauchi"
+_chemical_name_systematic
+;
+(+-)-2-(3-Hydroxyphenyl)-2,5,5-trimethylpyrrolidine-1-oxyl
+;
+_cell_volume   1245.644
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.175
+_exptl_special_details
+;
+weakly antiferromagnetic below 20K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.051
+_refine_ls_wR_factor_gt 0.051
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.1217(5)
+_cell_length_b 20.2165(7)
+_cell_length_c 8.0943(5)
+_cell_angle_alpha 90
+_cell_angle_beta 110.403(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.32111(16) 0.01096(6) 0.73515(18)
+C1 C 0.7592(2) 0.13522(8) 1.0760(2)
+C2 C 0.6031(2) 0.11275(8) 0.9525(2)
+N1 N 0.26954(19) 0.07071(7) 0.73459(19)
+C3 C 0.3457(2) 0.12584(9) 0.6639(2)
+O2 O 0.84758(18) 0.10094(7) 1.22565(19)
+C4 C 0.1312(2) 0.09052(9) 0.8064(3)
+C5 C 0.5170(2) 0.14966(8) 0.8034(2)
+C6 C 0.8307(3) 0.19470(9) 1.0499(3)
+C7 C 0.7441(3) 0.23159(10) 0.9023(3)
+C8 C 0.5893(3) 0.20968(9) 0.7790(3)
+C9 C 0.1813(3) 0.06766(11) 0.9962(3)
+C10 C -0.0440(3) 0.06063(12) 0.6922(3)
+C11 C 0.1347(3) 0.16539(10) 0.7867(3)
+C12 C 0.1981(3) 0.17668(10) 0.6338(3)
+C13 C 0.3765(3) 0.10422(13) 0.4974(3)
+H1 H 0.55610 0.07250 0.97020
+H2 H 0.78980 0.06850 1.23290
+H3 H 0.93610 0.20960 1.13130
+H4 H 0.79080 0.27200 0.88560
+H5 H 0.53320 0.23500 0.67930
+H6 H 0.18940 0.02030 1.00070
+H7 H 0.09360 0.08190 1.04290
+H8 H 0.29280 0.08640 1.06500
+H9 H -0.07460 0.07670 0.57370
+H10 H -0.13360 0.07310 0.73840
+H11 H -0.03410 0.01330 0.69260
+H12 H 0.01830 0.18400 0.76150
+H13 H 0.21430 0.18550 0.89350
+H14 H 0.24210 0.22140 0.63540
+H15 H 0.10440 0.16910 0.52210
+H16 H 0.46280 0.06960 0.52540
+H17 H 0.41770 0.14120 0.44820
+H18 H 0.26840 0.08820 0.41340
+#END

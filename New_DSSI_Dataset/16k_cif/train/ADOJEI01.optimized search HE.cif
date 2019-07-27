@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ADOJEI01
+_audit_creation_date 2005-04-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ADOJEI01
+_database_code_depnum_ccdc_archive 'CCDC 260367'
+_chemical_formula_sum 'C10 H13 N3 O1'
+_chemical_formula_moiety
+;
+C10 H13 N3 O1
+;
+_journal_coden_Cambridge 1061
+_journal_volume 20
+_journal_year 2004
+_journal_page_first 1649
+_journal_name_full 'Anal.Sci. '
+loop_
+_publ_author_name
+"M.Ueda"
+"T.Saito"
+"K.Fujimori"
+"T.Moriuchi"
+"Y.Shibutani"
+_chemical_name_systematic
+;
+3-(2-Pyridylmethylimino)-2-butaneoxime
+;
+_chemical_melting_point 429.35
+_cell_volume   1020.653
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.245
+_exptl_special_details
+;
+Melting point range 429.35-430.25K
+The journal editor confirms that the structure analysis has been 
+re-performed, that the R value and atomic coordinates are slightly different 
+from the published paper and that the space group is P21/c, not P21 as 
+published
+;
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0477
+_refine_ls_wR_factor_gt 0.0477
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 7.140(2)
+_cell_length_b 18.713(2)
+_cell_length_c 7.641(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.31(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.0966(3) 0.14313(9) 0.3566(3)
+H1 H 0.986(6) 0.174(2) 0.376(5)
+N1 N 1.0034(3) 0.08014(10) 0.3082(3)
+N2 N 1.1419(3) -0.08744(10) 0.1722(3)
+N3 N 1.2011(3) -0.27321(10) 0.0591(3)
+C1 C 1.3247(4) 0.03469(14) 0.2858(4)
+H2 H 1.36060 0.08370 0.30240
+H3 H 1.37700 0.01700 0.17950
+H4 H 1.37080 0.00670 0.38290
+C2 C 1.1168(3) 0.02947(12) 0.2742(3)
+C3 C 1.0287(3) -0.03899(12) 0.2173(3)
+C4 C 0.8204(3) -0.04500(14) 0.2178(4)
+H5 H 0.77710 -0.06790 0.11200
+H6 H 0.76640 0.00190 0.22500
+H7 H 0.78370 -0.07280 0.31690
+C5 C 1.0716(3) -0.15696(12) 0.1150(3)
+H8 H 0.97950 -0.15060 0.02100
+H9 H 1.01070 -0.18050 0.21140
+C6 C 1.2289(3) -0.20274(12) 0.0525(3)
+C7 C 1.3926(4) -0.17434(14) -0.0103(3)
+H10 H 1.40890 -0.12510 -0.01420
+C8 C 1.5312(4) -0.21887(15) -0.0667(4)
+H11 H 1.64140 -0.20030 -0.11090
+C9 C 1.5044(4) -0.29126(15) -0.0566(4)
+H12 H 1.59700 -0.32290 -0.09100
+C10 C 1.3380(4) -0.31579(14) 0.0051(4)
+H13 H 1.31920 -0.36490 0.00970
+#END

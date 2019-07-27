@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NISGEB
+_audit_creation_date 1998-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NISGEB
+_database_code_depnum_ccdc_archive 'CCDC 132235'
+_chemical_formula_sum 'C10 H15 N13 O2'
+_chemical_formula_moiety
+;
+C10 H15 N13 O2
+;
+_journal_coden_Cambridge 122
+_journal_year 1997
+_journal_page_first 1494
+_journal_name_full 'Khim.Get.Soedin.,SSSR(Russ.)(Chem.Heterocycl.Compd.) '
+loop_
+_publ_author_name
+"V.Yu.Zubarev"
+"G.V.Gurskaya"
+"V.E.Zavodnik"
+"V.A.Ostrovsky"
+_chemical_name_systematic
+;
+tris(2-(Tetrazol-5-yl)-ethyl)nitromethane
+;
+_chemical_melting_point 484.15
+_cell_volume   1547.067
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_preparation 'ethanol or ethanol/dimethylformamide'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 6.623(1)
+_cell_length_b 9.459(2)
+_cell_length_c 24.695(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5575(23) 0.1578(14) 0.14637(51)
+O2 O 0.4556(25) 0.3101(14) 0.08819(52)
+N1 N 0.5769(27) 0.2649(16) 0.11938(61)
+C1 C 0.7917(25) 0.3350(17) 0.12326(65)
+C2 C 0.9462(28) 0.2276(16) 0.14164(66)
+C3 C 1.0009(28) 0.1106(16) 0.09969(67)
+C4 C 1.0745(27) -0.0155(18) 0.12776(67)
+N2 N 1.1614(20) -0.0257(14) 0.17625(53)
+N3 N 1.2016(23) -0.1657(16) 0.18912(64)
+N4 N 1.1362(25) -0.2371(16) 0.14660(69)
+N5 N 1.0586(22) -0.1458(15) 0.10824(49)
+N6 N 0.7133(21) 0.6828(16) 0.24695(68)
+C5 C 0.7720(29) 0.4459(17) 0.16859(66)
+C6 C 0.6158(27) 0.5629(17) 0.16097(67)
+C7 C 0.6598(22) 0.6841(19) 0.19755(72)
+C8 C 1.0345(29) 0.4757(17) 0.06439(74)
+C9 C 0.8282(26) 0.3993(18) 0.06615(77)
+C10 C 1.0427(29) 0.5608(17) 0.01419(68)
+N7 N 0.6479(20) 0.8223(16) 0.18128(55)
+N8 N 1.0602(25) 0.5147(14) -0.03659(63)
+N9 N 1.0510(23) 0.6330(15) -0.06810(57)
+N10 N 0.6886(22) 0.9046(16) 0.22356(70)
+N11 N 0.7367(23) 0.8231(18) 0.26355(61)
+N12 N 1.0441(27) 0.7471(14) -0.03956(62)
+N13 N 1.0389(23) 0.7006(13) 0.01259(54)
+H1 H 0.89956 0.17348 0.17028
+H2 H 1.07094 0.27320 0.15207
+H3 H 1.12372 0.15605 0.07598
+H4 H 0.90235 0.10029 0.07306
+H5 H 0.90187 0.49181 0.17351
+H6 H 0.74543 0.39619 0.20227
+H7 H 0.48288 0.51993 0.16913
+H8 H 0.61570 0.59203 0.12500
+H9 H 1.15331 0.41230 0.06615
+H10 H 1.04654 0.53497 0.09749
+H11 H 0.71987 0.45060 0.04972
+H12 H 0.83717 0.30957 0.03931
+H13 H 1.18504 0.05319 0.20141
+H14 H 0.61122 0.84598 0.14229
+H15 H 1.03485 0.75974 0.04480
+#END

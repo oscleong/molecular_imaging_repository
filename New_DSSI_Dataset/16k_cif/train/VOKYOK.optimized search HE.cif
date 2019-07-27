@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOKYOK
+_audit_creation_date 2009-05-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOKYOK
+_database_code_depnum_ccdc_archive 'CCDC 690676'
+_chemical_formula_sum 'C18 H25 N1 O2'
+_chemical_formula_moiety
+;
+C18 H25 N1 O2
+;
+_journal_coden_Cambridge 24
+_journal_volume 49
+_journal_year 2008
+_journal_page_first 6613
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"Mingji Dai"
+"Zhang Wang"
+"S.J.Danishefsky"
+_chemical_name_systematic
+;
+2-t-Butyl-3-(cyclohex-1-en-1-yl)-4-methoxybenzo(d)isoxazole
+;
+_cell_volume   1592.265
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.199
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 125
+_refine_special_details
+;
+Three carbon atoms of the cyclohexene ring are disordered over two sites with 
+occupancies of 0.572:0.428.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0402
+_refine_ls_wR_factor_gt 0.0402
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.6770(5)
+_cell_length_b 12.1595(9)
+_cell_length_c 19.6802(14)
+_cell_angle_alpha 90
+_cell_angle_beta 94.777(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 1.11266(11) 0.65406(6) 0.14418(4)
+O1 O 0.9144(1) 0.70408(6) 0.15537(4)
+O2 O 1.30496(9) 0.97074(5) 0.06227(3)
+C1 C 1.22402(13) 0.73776(7) 0.10496(4)
+H1 H 1.35970 0.75140 0.12900
+C2 C 1.09667(12) 0.83959(7) 0.10837(4)
+C3 C 1.12698(12) 0.94798(7) 0.08871(4)
+C4 C 0.97687(13) 1.02572(7) 0.09766(5)
+H2 H 0.99330 1.09970 0.08360
+C5 C 0.80304(14) 0.99440(9) 0.12731(5)
+H3 H 0.70290 1.04820 0.13330
+C6 C 0.77140(14) 0.88740(9) 0.14833(5)
+H4 H 0.65300 0.86660 0.16870
+C7 C 0.92250(13) 0.81242(8) 0.13790(5)
+C8 C 1.24715(13) 0.69481(7) 0.03382(4)
+C9 C 1.42886(14) 0.67773(8) 0.01251(5)
+H5 H 1.54320 0.69710 0.04200
+C10 C 1.4619(4) 0.6291(6) -0.05632(16)
+H6 H 1.57160 0.57430 -0.05070
+H7 H 1.50500 0.68810 -0.08650
+C11 C 1.2741(3) 0.57381(14) -0.09030(9)
+H8 H 1.29190 0.56110 -0.13910
+H9 H 1.25470 0.50160 -0.06860
+C12 C 1.0897(5) 0.6451(3) -0.08383(13)
+H10 H 1.10560 0.71510 -0.10850
+H11 H 0.96980 0.60700 -0.10550
+C13 C 1.05671(14) 0.66982(8) -0.00990(5)
+H12 H 0.96470 0.73350 -0.00850
+H13 H 0.99010 0.60580 0.00960
+C14 C 1.20947(15) 0.62775(8) 0.21356(5)
+C15 C 1.40275(17) 0.56564(9) 0.20166(5)
+H14 H 1.49530 0.61500 0.18040
+H15 H 1.37070 0.50270 0.17160
+H16 H 1.46600 0.53950 0.24540
+C16 C 1.25350(17) 0.72858(9) 0.25909(5)
+H17 H 1.34530 0.77800 0.23750
+H18 H 1.31570 0.70490 0.30350
+H19 H 1.12770 0.76730 0.26530
+C17 C 1.06724(17) 0.54989(9) 0.24714(5)
+H20 H 0.94290 0.58900 0.25510
+H21 H 1.13190 0.52400 0.29070
+H22 H 1.03580 0.48690 0.21710
+C18 C 1.33747(14) 1.08282(7) 0.04382(5)
+H23 H 1.46910 1.08970 0.02560
+H24 H 1.33330 1.12970 0.08420
+H25 H 1.23220 1.10580 0.00900
+C19? C 1.4688(7) 0.6386(9) -0.0576(2)
+H26? H 1.50180 0.55920 -0.05610
+H27? H 1.58510 0.67880 -0.07350
+C20? C 1.2840(4) 0.6581(2) -0.10672(12)
+H28? H 1.26860 0.73780 -0.11600
+H29? H 1.30080 0.62040 -0.15050
+C21? C 1.0971(8) 0.6148(4) -0.0766(2)
+H30? H 0.97950 0.62610 -0.10990
+H31? H 1.11230 0.53470 -0.06880
+#END

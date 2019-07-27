@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GIJMER
+_audit_creation_date 1989-07-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GIJMER
+_chemical_formula_sum 'C9 H13 N5 O6'
+_chemical_formula_moiety
+;
+C9 H13 N5 O6
+;
+_journal_coeditor_code "IUCr ST0232"
+_journal_coden_Cambridge 591
+_journal_volume 44
+_journal_year 1988
+_journal_page_first 1076
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"S.B.Larson"
+"R.L.Moss"
+"G.D.Kini"
+"R.K.Robins"
+_chemical_name_systematic
+;
+5-Nitro-4-(\b-D-ribofuranosylamino)pyrimidine-6-amine
+;
+_chemical_name_common
+;
+Clitocine
+;
+_cell_volume   1146.549
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.664
+_exptl_special_details
+;
+strong insecticidal activity against the pink bollworm Pectinophora 
+gossypiella, adenosine kinase inhibitory activity
+At 295 K a=8.210(3), b=6.523(2), c=21.736(6), beta=91.09(2), V=1163.9 and 
+dx=1.639
+;
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The sugar moiety is disordered around the 2-fold axis; the affected atoms, 
+C3', C5', O3' and O5' have population parameters of 0.504:0.496.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0374
+_refine_ls_wR_factor_gt 0.0374
+_chemical_compound_source
+;
+Clitocybe inversa
+;
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+_cell_length_a 8.162(2)
+_cell_length_b 6.4803(15)
+_cell_length_c 21.680(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.94(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.0002(2) 0.29058(6) 0.41836(7)
+C1 C -0.0635(7) 0.3515(3) 0.36501(8)
+N2 N 0.0122(2) 0.4149(3) 0.31462(6)
+C2 C 0.1782(2) 0.4173(4) 0.31670(7)
+C3 C 0.2628(2) 0.3471(4) 0.37145(8)
+C4 C 0.1674(2) 0.2901(3) 0.42312(8)
+N3 N 0.2543(2) 0.4905(4) 0.26705(7)
+N4 N 0.4366(2) 0.3452(3) 0.37512(7)
+O1 O 0.5186(2) 0.4002(3) 0.33015(6)
+O2 O 0.5065(2) 0.2869(3) 0.42345(6)
+N5 N 0.2263(2) 0.2370(4) 0.47802(7)
+C5 C 0.1718(2) 0.5942(4) 0.21636(8)
+C6 C 0.2783(2) 0.7648(4) 0.18959(9)
+C7 C 0.1910(5) 0.7953(5) 0.12646(14)
+C8 C 0.1205(2) 0.5797(4) 0.11259(9)
+C9 C 0.189(2) 0.480(2) 0.0553(6)
+O3 O 0.1451(2) 0.4553(3) 0.16685(6)
+O4 O 0.2701(2) 0.9509(4) 0.22179(7)
+O5 O 0.0541(5) 0.9329(7) 0.1249(2)
+O6 O 0.1468(6) 0.2576(6) 0.0547(2)
+C10? C 0.2234(5) 0.7769(5) 0.12113(13)
+C11? C 0.189(2) 0.449(2) 0.0612(6)
+O7? O 0.1346(6) 0.9670(7) 0.1186(2)
+O8? O 0.0647(5) 0.2964(7) 0.0404(2)
+H1 H -0.175(4) 0.359(5) 0.3648(13)
+H2 H 0.364(4) 0.468(5) 0.2669(11)
+H3 H 0.329(5) 0.246(7) 0.485(2)
+H4 H 0.152(3) 0.237(4) 0.5082(11)
+H5 H 0.077(3) 0.652(4) 0.2263(10)
+H6 H 0.394(3) 0.708(4) 0.1853(11)
+H7 H 0.2716(5) 0.8557(5) 0.09730(14)
+H8 H -0.011(4) 0.612(5) 0.1095(13)
+H9 H 0.310(2) 0.497(2) 0.0552(6)
+H10 H 0.140(2) 0.548(2) 0.0178(6)
+H11 H 0.363(6) 0.952(8) 0.247(2)
+H12 H 0.056(12) 1.00(2) 0.089(3)
+H13 H 0.16(2) 0.212(7) 0.015(2)
+H14? H 0.3071(5) 0.7797(5) 0.08798(13)
+H15? H 0.289(2) 0.375(2) 0.0767(6)
+H16? H 0.219(2) 0.540(2) 0.0258(6)
+H17? H 0.15(2) 1.029(12) 0.157(3)
+H18? H 0.088(10) 0.171(5) 0.057(5)
+#END

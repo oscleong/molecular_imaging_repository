@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EVAZIK01
+_audit_creation_date 2004-09-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EVAZIK01
+_database_code_depnum_ccdc_archive 'CCDC 230717'
+_chemical_formula_sum 'C13 H17 N3 O1'
+_chemical_formula_moiety
+;
+C13 H17 N3 O1
+;
+_journal_coden_Cambridge 177
+_journal_volume 2
+_journal_year 2004
+_journal_page_first 1258
+_journal_name_full 'Org.Biomol.Chem. '
+loop_
+_publ_author_name
+"H.T.Horsley"
+"A.B.Holmes"
+"J.E.Davies"
+"J.M.Goodman"
+"M.A.Silva"
+"S.I.Pascu"
+"I.Collins"
+_chemical_name_systematic
+;
+(1R,5S,8S,12R)/(1S,5R,8R,12S)-5-(Cyanomethyl)-12-cyano-6-aza-7-oxatricyclo(6.3
+.1.0^1,6^)undecane
+;
+_chemical_melting_point 398.15
+_cell_volume   1218.375
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.261
+_exptl_special_details
+;
+Melting point range 398.15-400.15K
+
+;
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0309
+_refine_ls_wR_factor_gt 0.0309
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 15.5820(9)
+_cell_length_b 9.9509(6)
+_cell_length_c 7.9189(5)
+_cell_angle_alpha 90
+_cell_angle_beta 97.128(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.90248(8) 0.07278(13) 0.94283(17)
+N1 N 0.86782(9) 0.20849(15) 0.97281(18)
+N2 N 0.75815(13) 0.2104(2) 1.3599(2)
+N3 N 1.02205(13) 0.2993(2) 0.4945(2)
+C1 C 0.73834(13) 0.1034(2) 1.0563(2)
+H1 H 0.67600 0.08710 1.02150
+H2 H 0.76830 0.01540 1.06050
+C2 C 0.77362(11) 0.19252(18) 0.9232(2)
+H3 H 0.76410 0.14590 0.81060
+C3 C 0.72976(12) 0.3291(2) 0.9056(2)
+H4 H 0.66680 0.31710 0.87320
+H5 H 0.73850 0.37670 1.01620
+C4 C 0.76685(12) 0.4124(2) 0.7715(2)
+H6 H 0.73830 0.50140 0.76100
+H7 H 0.75650 0.36670 0.65970
+C5 C 0.86347(12) 0.42974(19) 0.8234(2)
+H8 H 0.87230 0.48840 0.92510
+H9 H 0.88850 0.47620 0.73040
+C6 C 0.91284(11) 0.29847(18) 0.8636(2)
+C7 C 0.92244(12) 0.20625(19) 0.7092(2)
+H10 H 0.86390 0.18740 0.64680
+C8 C 0.95628(13) 0.0795(2) 0.8067(3)
+H11 H 0.94860 -0.00200 0.73250
+C9 C 1.05008(13) 0.0956(2) 0.8841(3)
+H12 H 1.08640 0.11750 0.79370
+H13 H 1.07130 0.01030 0.93840
+C10 C 1.05700(13) 0.2076(2) 1.0162(3)
+H14 H 1.11840 0.23400 1.04330
+H15 H 1.03690 0.17350 1.12200
+C11 C 1.00373(12) 0.3313(2) 0.9551(2)
+H16 H 1.03580 0.38310 0.87650
+H17 H 0.99750 0.38930 1.05430
+C12 C 0.74999(13) 0.1639(2) 1.2265(3)
+C13 C 0.97891(13) 0.2577(2) 0.5893(3)
+#END

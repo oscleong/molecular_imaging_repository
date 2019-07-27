@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CELJUB
+_audit_creation_date 2017-10-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CELJUB
+_database_code_depnum_ccdc_archive 'CCDC 1508562'
+_chemical_formula_sum 'C15 H18 N2 O5'
+_chemical_formula_moiety
+;
+C15 H18 N2 O5
+;
+_journal_coden_Cambridge 1268
+_journal_volume 22
+_journal_year 2017
+_journal_page_first 613
+_journal_name_full 'Molecules '
+loop_
+_publ_author_name
+"B.Fekete"
+"M.Palko"
+"M.Haukka"
+"F.Fulop"
+_chemical_name_systematic
+;
+methyl 
+8-methoxy-4,9-dioxo-3,8-diazatetracyclo[9.2.1.0^2,10^.0^3,7^]tetradec-12-ene-7
+-carboxylate
+;
+_chemical_name_common
+;
+methyl 
+(3aS*,5aS*,6R*,9S*,9aR*)-4-methoxy-1,5-dioxo-1,2,3,3a,4,5,5a,6,9a-decahydro-6,
+9-methanopyrrolo[1,2-a]quinazoline-3a-carboxylate
+;
+_cell_volume    704.262
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.444
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0432
+_refine_ls_wR_factor_gt 0.0432
+loop_
+_citation_database_id_CSD
+_citation_special_details
+CELKAI "is a stereoisomer of this entry"
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.3315(3)
+_cell_length_b 8.7788(3)
+_cell_length_c 9.8739(3)
+_cell_angle_alpha 81.778(3)
+_cell_angle_beta 82.075(3)
+_cell_angle_gamma 83.141(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.62574(11) -0.05482(10) 0.36937(10)
+O2 O -0.02313(11) 0.1931(1) 0.12224(9)
+O3 O 0.17200(11) 0.40845(9) 0.12125(9)
+O4 O 0.08295(11) 0.26940(11) 0.43681(10)
+O5 O 0.30542(11) 0.3725(1) 0.47369(9)
+N1 N 0.22174(12) 0.25150(11) 0.16508(10)
+N2 N 0.38991(12) 0.08248(11) 0.30505(10)
+C1 C 0.54897(14) 0.06690(14) 0.33045(12)
+C2 C 0.61024(15) 0.22542(14) 0.30202(13)
+H1 H 0.71750 0.22220 0.24460
+H2 H 0.62010 0.26530 0.38910
+C3 C 0.47998(14) 0.32546(14) 0.22477(12)
+H3 H 0.50910 0.32960 0.12380
+H4 H 0.46490 0.43210 0.24940
+C4 C 0.32598(14) 0.24274(13) 0.27351(12)
+C5 C 0.09693(14) 0.15648(13) 0.18116(12)
+C6 C 0.12400(14) 0.00000(13) 0.26551(12)
+H5 H 0.02900 -0.01040 0.33890
+C7 C 0.13038(15) -0.13489(14) 0.17588(13)
+H6 H 0.02560 -0.14940 0.14310
+C8 C 0.27462(16) -0.11615(14) 0.06568(13)
+H7 H 0.26980 -0.08480 -0.03000
+C9 C 0.40963(15) -0.15152(14) 0.12690(13)
+H8 H 0.51840 -0.14990 0.08290
+C10 C 0.35805(15) -0.19482(13) 0.27965(13)
+H9 H 0.44160 -0.25910 0.33270
+C11 C 0.28203(14) -0.04108(13) 0.33686(12)
+H10 H 0.25240 -0.06200 0.43890
+C12 C 0.20077(15) -0.26905(14) 0.27546(13)
+H11 H 0.22120 -0.36810 0.23610
+H12 H 0.13360 -0.28240 0.36640
+C13 C 0.22218(14) 0.29756(13) 0.40373(12)
+C14 C 0.22191(17) 0.40973(16) 0.60582(13)
+H13 H 0.12360 0.48010 0.59110
+H14 H 0.29430 0.45960 0.65210
+H15 H 0.19160 0.31450 0.66340
+C15 C 0.20677(17) 0.43910(16) -0.02633(14)
+H16 H 0.14760 0.37270 -0.06930
+H17 H 0.32400 0.41760 -0.05350
+H18 H 0.17240 0.54790 -0.05670
+#END

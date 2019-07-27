@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CMDNFL01
+_audit_creation_date 2009-11-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CMDNFL01
+_database_code_depnum_ccdc_archive 'CCDC 715820'
+_chemical_formula_sum 'C16 H6 N4 O4'
+_chemical_formula_moiety
+;
+C16 H6 N4 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 2009
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"A.Salmeron"
+"S.Bernes"
+_chemical_name_systematic
+;
+2-(2,7-Dinitro-9H-fluoren-9-ylidene)propanedinitrile
+;
+_chemical_name_common
+;
+9-Dicyanomethylene-2,7-dinitrofluorene
+;
+_cell_volume   1384.678
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.527
+_exptl_special_details
+;
+contribution from DEP, Facultad de Ciencias Quimicas, UANL, Guerrero y 
+Progreso S/N, Col. Trevino, 64570 Monterrey, N.L., Mexico
+;
+_exptl_crystal_description 'Needle'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0384
+_refine_ls_wR_factor_gt 0.0384
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n n a'
+_symmetry_Int_Tables_number 52
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,z
+3 1/2-x,1/2+y,1/2-z
+4 x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-z
+7 -1/2+x,-1/2-y,-1/2+z
+8 -x,-1/2+y,-1/2+z
+_cell_length_a 19.327(2)
+_cell_length_b 11.275(1)
+_cell_length_c 6.3543(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.30625(10) 0.75000 0.25000
+C2 C 0.35227(7) 0.69416(13) 0.0919(3)
+C3 C 0.33813(8) 0.62985(14) -0.0878(3)
+H1 H 0.29290 0.61560 -0.13110
+C4 C 0.39445(8) 0.58723(13) -0.2014(3)
+C5 C 0.46253(8) 0.60796(14) -0.1448(3)
+H2 H 0.49850 0.57810 -0.22610
+C6 C 0.47632(8) 0.67351(14) 0.0337(3)
+H3 H 0.52170 0.68910 0.07370
+C7 C 0.42161(7) 0.71553(13) 0.1521(3)
+C8 C 0.23592(10) 0.75000 0.25000
+C9 C 0.19507(8) 0.69670(16) 0.0873(3)
+N1 N 0.38067(8) 0.51510(13) -0.3889(2)
+O1 O 0.32317(8) 0.51914(14) -0.4666(2)
+O2 O 0.42769(8) 0.45334(14) -0.4572(3)
+N2 N 0.16034(8) 0.65679(16) -0.0388(3)
+C2C C 0.35227(7) 0.80584(13) 0.4081(3)
+C3C C 0.33813(8) 0.87015(14) 0.5878(3)
+H1C H 0.29290 0.88440 0.63110
+C4C C 0.39445(8) 0.91277(13) 0.7014(3)
+C5C C 0.46253(8) 0.89204(14) 0.6448(3)
+H2C H 0.49850 0.92190 0.72610
+C6C C 0.47632(8) 0.82649(14) 0.4663(3)
+H3C H 0.52170 0.81090 0.42630
+C7C C 0.42161(7) 0.78447(13) 0.3479(3)
+C9C C 0.19507(8) 0.80330(16) 0.4127(3)
+N1C N 0.38067(8) 0.98490(13) 0.8889(2)
+O1C O 0.32317(8) 0.98086(14) 0.9666(2)
+O2C O 0.42769(8) 1.04666(14) 0.9572(3)
+N2C N 0.16034(8) 0.84321(16) 0.5388(3)
+#END

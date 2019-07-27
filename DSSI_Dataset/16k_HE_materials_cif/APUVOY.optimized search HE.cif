@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_APUVOY
+_audit_creation_date 2016-06-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD APUVOY
+_database_code_depnum_ccdc_archive 'CCDC 980609'
+_chemical_formula_sum 'C13 H9 N5 O2'
+_chemical_formula_moiety
+;
+C13 H9 N5 O2
+;
+_journal_coden_Cambridge 91
+_journal_volume 141
+_journal_year 2016
+_journal_page_first 2367
+_journal_name_full 'The Analyst '
+loop_
+_publ_author_name
+"M.A.Kaloo"
+"R.S.Raman"
+"J.Sankar"
+_chemical_name_systematic
+;
+2-amino-3-((3-(4-nitrophenyl)prop-2-en-1-ylidene)amino)but-2-enedinitrile 
+unknown solvate
+;
+_cell_volume   1559.591
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.138
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 160
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.072
+_refine_ls_wR_factor_gt 0.072
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 3.8512(6)
+_cell_length_b 19.078(3)
+_cell_length_c 21.230(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.015(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4286(7) 0.72627(16) -0.02791(13)
+N1 N 1.1019(7) 0.30488(18) 0.15171(13)
+N2 N 0.6278(9) 0.73404(19) 0.01691(15)
+N3 N 0.9980(8) 0.16826(18) 0.10991(14)
+H1 H 0.90440 0.20260 0.08770
+H2 H 0.97090 0.12460 0.09750
+O2 O 0.7328(11) 0.79106(17) 0.03361(15)
+C1 C 1.0205(9) 0.6210(2) 0.14003(16)
+H3 H 1.13800 0.62560 0.17950
+C2 C 0.9547(8) 0.5544(2) 0.11612(16)
+C3 C 0.7497(9) 0.67255(19) 0.05133(16)
+C4 C 1.0187(9) 0.4260(2) 0.13599(17)
+H4 H 0.88330 0.41660 0.09910
+N4 N 1.5768(9) 0.2714(2) 0.28887(17)
+C5 C 1.2382(9) 0.2481(2) 0.18548(17)
+C6 C 0.6802(9) 0.6070(2) 0.02544(17)
+H5 H 0.56300 0.60280 -0.01410
+N5 N 1.4366(10) 0.0773(2) 0.22361(17)
+C7 C 1.0736(9) 0.4925(2) 0.15181(16)
+H6 H 1.20170 0.50090 0.18970
+C8 C 0.9206(10) 0.6798(2) 0.10816(17)
+H7 H 0.96840 0.72500 0.12500
+C9 C 1.1809(9) 0.1825(2) 0.16227(17)
+C10 C 0.7840(9) 0.5488(2) 0.05806(17)
+H8 H 0.73880 0.50370 0.04080
+C11 C 1.1517(9) 0.3675(2) 0.17127(17)
+H9 H 1.27780 0.37530 0.20950
+C12 C 1.4268(9) 0.2579(2) 0.24317(19)
+C13 C 1.3254(10) 0.1235(2) 0.19582(18)
+#END

@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HUMYUL
+_audit_creation_date 2015-07-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HUMYUL
+_database_code_depnum_ccdc_archive 'CCDC 997650'
+_chemical_formula_sum 'C13 H15 N1 O3'
+_chemical_formula_moiety
+;
+C13 H15 N1 O3
+;
+_journal_coden_Cambridge 301
+_journal_volume 29
+_journal_year 2015
+_journal_page_first 1235
+_journal_name_full 'Nat.Prod.Res. '
+loop_
+_publ_author_name
+"E.Chirkin"
+"W.Atkatlian"
+"Quyen Do"
+"T.Gaslonde"
+"T.-H.Dufat"
+"S.Michel"
+"P.Lemoine"
+"G.Genta-Jouve"
+"F.-H.Poree"
+_chemical_name_systematic
+;
+8,15-Dioxa-7-azatetracyclo[7.6.1.0^1,12^.0^2,7^]hexadeca-10,12-dien-14-one
+;
+_cell_volume    580.227
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.335
+_exptl_crystal_description 'parallelepiped'
+_exptl_crystal_preparation 'n-butanol'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0326
+_refine_ls_wR_factor_gt 0.0326
+_chemical_compound_source
+;
+derivative of compound extracted from aerial parts of F. virosa (Roxb. ex 
+Willd.) Royle (Securinega virosa)
+;
+loop_
+_citation_database_id_CSD
+_citation_special_details
+KUXDAI "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 8.091(3)
+_cell_length_b 7.089(3)
+_cell_length_c 10.710(7)
+_cell_angle_alpha 90
+_cell_angle_beta 109.171(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.3234(2) 0.1126(2) 0.57830(15)
+C1 C 0.4037(2) 0.2965(3) 0.62608(19)
+H1 H 0.507(2) 0.297(3) 0.5958(19)
+C2 C 0.2870(2) 0.4651(3) 0.56953(19)
+H2 H 0.35170 0.58090 0.59960
+H3 H 0.18720 0.46410 0.60070
+C3 C 0.2237(3) 0.4580(4) 0.4187(2)
+H4 H 0.14620 0.56350 0.38320
+H5 H 0.32290 0.46750 0.38710
+C4 C 0.1275(3) 0.2738(3) 0.3719(2)
+H6 H 0.09230 0.26620 0.27630
+H7 H 0.02300 0.26910 0.39720
+C5 C 0.2461(3) 0.1078(3) 0.43321(19)
+H8 H 0.17900 -0.00770 0.40810
+H9 H 0.34020 0.10310 0.39590
+O1 O 0.17532(17) 0.0872(2) 0.62597(14)
+C6 C 0.2441(3) 0.0638(3) 0.7681(2)
+H10 H 0.14710 0.02960 0.79950
+C7 C 0.3188(3) 0.2540(3) 0.8301(2)
+H11 H 0.23190 0.35320 0.80160
+H12 H 0.35890 0.24700 0.92580
+C8 C 0.4702(2) 0.2882(3) 0.77917(18)
+O2 O 0.56298(16) 0.4628(2) 0.82598(13)
+O3 O 0.8386(2) 0.5496(3) 0.93407(16)
+C9 C 0.7370(3) 0.4235(4) 0.8900(2)
+C10 C 0.7603(3) 0.2195(3) 0.8947(2)
+H13 H 0.86570 0.15640 0.93270
+C11 C 0.6050(3) 0.1379(3) 0.83528(19)
+C12 C 0.5477(3) -0.0548(4) 0.83309(19)
+H14 H 0.62840 -0.15300 0.85090
+C13 C 0.3770(3) -0.0910(4) 0.8050(2)
+H15 H 0.34030 -0.21470 0.80860
+#END

@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MZACHX
+_audit_creation_date 1978-01-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MZACHX
+_database_code_depnum_ccdc_archive 'CCDC 1215512'
+_chemical_formula_sum 'C3 H7 N1 O2'
+_chemical_formula_moiety
+;
+C3 H7 N1 O2
+;
+_journal_coden_Cambridge 3
+_journal_volume 31
+_journal_year 1977
+_journal_page_first 415
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"A.Kjaer"
+"I.K.Larsen"
+"P.Sivertsen"
+_chemical_name_systematic
+;
+Methyl Z-acetohydroximate
+;
+_chemical_melting_point 399.15
+_cell_volume    705.155
+_exptl_crystal_density_diffrn 1.26
+_exptl_special_details
+;
+Melting point range 399.15-400.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.063
+_refine_ls_wR_factor_gt 0.063
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 x,y,-1/2-z
+11 -y,x-y,-1/2-z
+12 -x+y,-x,-1/2-z
+_cell_length_a 10.913(3)
+_cell_length_b 10.913(3)
+_cell_length_c 6.837(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.43600 0.18090 0.25000
+N1 N 0.47560 0.32540 0.25000
+C1 C 0.36900 0.34350 0.25000
+C2 C 0.39480 0.49010 0.25000
+O2 O 0.23840 0.23150 0.25000
+C3 C 0.11830 0.25270 0.25000
+H1 H 0.51900 0.16600 0.25000
+H2 H 0.34500 0.50000 0.13100
+H3 H 0.49100 0.57500 0.25000
+H4 H 0.12700 0.31200 0.13100
+H5 H 0.02000 0.17100 0.25000
+H2I H 0.34500 0.50000 0.36900
+H4I H 0.12700 0.31200 0.36900
+#END

@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LECVAQ
+_audit_creation_date 2000-04-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LECVAQ
+_database_code_depnum_ccdc_archive 'CCDC 140657'
+_chemical_formula_sum 'C16 H8 N4 O8'
+_chemical_formula_moiety
+;
+C16 H8 N4 O8
+;
+_journal_coden_Cambridge 388
+_journal_volume 35
+_journal_year 1999
+_journal_page_first 957
+_journal_name_full 'Zh.Org.Khim.(Russ.)(Russ.J.Org.Chem.) '
+loop_
+_publ_author_name
+"V.N.Knyazev"
+"O.V.Shishkin"
+"V.N.Drozd"
+_chemical_name_systematic
+;
+6,8-Dinitro-3-(2-furyl)-1-(2-furoyl)-1H-4,1,2-benzoxadiazine
+;
+_chemical_melting_point 543.15
+_cell_volume   1550.183
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.647
+_exptl_special_details
+;
+Melting point range 543.15-545.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0362
+_refine_ls_wR_factor_gt 0.0362
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 6.4680(6)
+_cell_length_b 19.514(2)
+_cell_length_c 12.3652(12)
+_cell_angle_alpha 90
+_cell_angle_beta 96.653(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.0806(3) 0.27460(11) 0.2404(2)
+N2 N 0.0523(3) 0.33035(10) 0.2261(2)
+N3 N 0.2097(4) 0.44372(11) 0.0935(2)
+N4 N 0.7123(3) 0.28060(14) -0.0207(2)
+O1 O 0.1849(3) 0.20205(8) 0.19317(15)
+O2 O -0.3063(3) 0.16001(10) 0.2845(2)
+O3 O 0.1971(3) 0.42606(9) 0.30477(14)
+O4 O -0.0702(3) 0.43808(9) 0.4475(2)
+O5 O 0.0212(3) 0.44938(10) 0.0907(2)
+O6 O 0.3299(4) 0.49109(10) 0.0868(2)
+O7 O 0.8011(3) 0.32865(12) -0.0568(2)
+O8 O 0.7643(3) 0.22109(12) -0.0299(2)
+C1 C -0.0067(4) 0.21579(13) 0.2249(2)
+C2 C 0.2064(4) 0.32192(12) 0.1564(2)
+C3 C 0.2964(4) 0.37394(12) 0.0994(2)
+C4 C 0.4632(4) 0.36135(13) 0.0427(2)
+H1 H 0.5284(4) 0.39679(13) 0.0095(2)
+C5 C 0.5306(4) 0.29483(13) 0.0366(2)
+C6 C 0.4356(4) 0.24061(13) 0.0832(2)
+H2 H 0.4784(4) 0.19566(13) 0.0744(2)
+C7 C 0.2761(4) 0.25578(12) 0.1427(2)
+C8 C -0.1191(4) 0.15370(14) 0.2437(2)
+C9 C -0.0703(5) 0.08779(15) 0.2322(3)
+H3 H 0.0477(5) 0.07009(15) 0.2059(3)
+C10 C -0.2387(6) 0.0504(2) 0.2692(3)
+H4 H -0.2506(6) 0.0029(2) 0.2719(3)
+C11 C -0.3730(5) 0.0949(2) 0.2984(3)
+H5 H -0.4972(5) 0.0835(2) 0.3250(3)
+C12 C 0.0567(4) 0.38421(13) 0.3002(2)
+C13 C -0.1112(4) 0.38907(12) 0.3693(2)
+C14 C -0.3040(4) 0.36351(14) 0.3750(2)
+H6 H -0.3691(4) 0.32928(14) 0.3311(2)
+C15 C -0.3875(4) 0.39824(15) 0.4594(2)
+H7 H -0.5182(4) 0.39163(15) 0.4820(2)
+C16 C -0.2426(5) 0.4425(2) 0.5006(2)
+H8 H -0.2572(5) 0.4724(2) 0.5579(2)
+#END

@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GAVKIX
+_audit_creation_date 1989-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GAVKIX
+_database_code_depnum_ccdc_archive 'CCDC 1164314'
+_chemical_formula_sum 'C3 H5 N3 O2'
+_chemical_formula_moiety
+;
+C3 H5 N3 O2
+;
+_journal_coden_Cambridge 188
+_journal_year 1988
+_journal_page_first 661
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"P.Ugliengo"
+"D.Viterbo"
+"M.Calleri"
+_chemical_name_systematic
+;
+4-Amino-3-methylfurazan N-oxide
+;
+_cell_volume    506.879
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+In paper cell parameters of compounds 1A and 1B are interchanged
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Methyl H atoms disordered - one set retained.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.047
+_refine_ls_wR_factor_gt 0.047
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.360(1)
+_cell_length_b 6.503(1)
+_cell_length_c 12.302(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.98(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5342(2) 0.9542(1) 0.3253(1)
+O2 O 0.2655(2) 0.8353(2) 0.4171(1)
+N1 N 0.3561(2) 0.9907(2) 0.3841(1)
+N2 N 0.6119(2) 1.1474(2) 0.2966(1)
+N3 N 0.5101(2) 1.4874(2) 0.3243(1)
+C1 C 0.3236(2) 1.1891(2) 0.3904(1)
+C2 C 0.4867(2) 1.2832(2) 0.3354(1)
+C3 C 0.1474(2) 1.2781(2) 0.4456(1)
+H1 H 0.6278(22) 1.5314(27) 0.2906(14)
+H2 H 0.4218(25) 1.5832(23) 0.3551(14)
+H3 H 0.0247(34) 1.2808(56) 0.3973(21)
+H4 H 0.1881(49) 1.4106(8) 0.4659(28)
+H5 H 0.1181(52) 1.2033(44) 0.5085(19)
+#END

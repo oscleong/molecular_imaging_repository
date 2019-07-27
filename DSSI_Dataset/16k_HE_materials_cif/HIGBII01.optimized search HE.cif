@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HIGBII01
+_audit_creation_date 1996-04-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HIGBII01
+_database_code_depnum_ccdc_archive 'CCDC 126348'
+_chemical_formula_sum 'C12 H20 N2 O2'
+_chemical_formula_moiety
+;
+C12 H20 N2 O2
+;
+_journal_coeditor_code "IUCr PA1162"
+_journal_coden_Cambridge 591
+_journal_volume 52
+_journal_year 1996
+_journal_page_first 474
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"Y.Dromzee"
+"R.Chiarelli"
+"S.Gambarelli"
+"A.Rassat"
+_chemical_name_systematic
+;
+(1,3,5,7-Tetramethyl-2,6-diaza-adamantane-N,N'-dioxyl)
+;
+_chemical_name_common
+;
+Dupeyredioxyl
+;
+_cell_volume   1212.608
+_exptl_crystal_colour 'yellow-orange'
+_exptl_crystal_density_diffrn 1.23
+_exptl_special_details
+;
+monoclinic alpha polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.381(3)
+_cell_length_b 14.495(3)
+_cell_length_c 10.351(3)
+_cell_angle_alpha 90
+_cell_angle_beta 105.35(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.6321(2) 0.37648(9) 0.4037(1)
+O1 O 0.6843(2) 0.40392(9) 0.5241(1)
+C1 C 0.4853(2) 0.3140(1) 0.3680(2)
+C2 C 0.50000 0.2548(2) 0.25000
+C3 C 0.3323(2) 0.3752(1) 0.3224(2)
+C4 C 0.6554(2) 0.4372(1) 0.2940(2)
+C5 C 0.50000 0.4973(2) 0.25000
+C6 C 0.4799(2) 0.2552(1) 0.4879(2)
+C7 C 0.8109(2) 0.4946(1) 0.3428(2)
+H1 H 0.60020 0.21690 0.27870
+H2 H 0.32240 0.41310 0.39650
+H3 H 0.22830 0.33750 0.29420
+H4 H 0.48930 0.53630 0.32540
+H5 H 0.57970 0.22160 0.52100
+H6 H 0.46670 0.29200 0.56300
+H7 H 0.38080 0.21330 0.45840
+H8 H 0.82330 0.53230 0.26900
+H9 H 0.90990 0.45590 0.37860
+H10 H 0.80650 0.53350 0.41890
+C1A C 0.5147(2) 0.3140(1) 0.1320(2)
+H1A H 0.39980 0.21690 0.22130
+C4A C 0.3446(2) 0.4372(1) 0.2060(2)
+C3A C 0.6677(2) 0.3752(1) 0.1776(2)
+H4A H 0.51070 0.53630 0.17460
+N1A N 0.3679(2) 0.37648(9) 0.0963(1)
+C6A C 0.5201(2) 0.2552(1) 0.0121(2)
+C7A C 0.1891(2) 0.4946(1) 0.1572(2)
+H2A H 0.67760 0.41310 0.10350
+H3A H 0.77170 0.33750 0.20580
+O1A O 0.3157(2) 0.40392(9) -0.0241(1)
+H5A H 0.42030 0.22160 -0.02100
+H6A H 0.53330 0.29200 -0.06300
+H7A H 0.61920 0.21330 0.04160
+H8A H 0.17670 0.53230 0.23100
+H9A H 0.09010 0.45590 0.12140
+H10A H 0.19350 0.53350 0.08110
+#END

@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GAWTAB
+_audit_creation_date 2012-09-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GAWTAB
+_database_code_depnum_ccdc_archive 'CCDC 832233'
+_chemical_formula_sum 'C10 H8 N3 O1'
+_chemical_formula_moiety
+;
+C10 H8 N3 O1
+;
+_journal_coden_Cambridge 9
+_journal_volume 51
+_journal_year 2012
+_journal_page_first 4982
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"K.Murashima"
+"T.Watanabe"
+"S.Kanegawa"
+"D.Yoshihara"
+"Y.Inagaki"
+"S.Karasawa"
+"N.Koga"
+_chemical_name_systematic
+;
+(N,N-bis(Pyridin-4-yl)amino)oxidanyl radical
+;
+_chemical_melting_point 384.15
+_cell_volume    886.767
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.395
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 146.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0715
+_refine_ls_wR_factor_gt 0.0715
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 7.9199(9)
+_cell_length_b 10.5011(11)
+_cell_length_c 10.6624(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.9660(4) 0.2240(3) -0.1581(3)
+N1 N 0.8743(4) 0.4852(3) 0.2190(3)
+N2 N 0.9074(4) 0.1924(3) -0.0501(3)
+N3 N 0.7474(5) -0.1884(3) -0.0015(3)
+C1 C 0.8325(5) 0.5028(4) 0.0976(4)
+C2 C 0.8386(5) 0.4090(4) 0.0074(4)
+C3 C 0.8924(5) 0.2895(4) 0.0434(4)
+C4 C 0.9408(5) 0.2665(4) 0.1661(4)
+C5 C 0.9249(5) 0.3671(4) 0.2493(4)
+C6 C 0.8566(5) 0.0641(3) -0.0310(3)
+C7 C 0.9107(5) -0.0291(3) -0.1134(4)
+C8 C 0.8536(5) -0.1523(4) -0.0941(4)
+C9 C 0.6975(6) -0.0955(4) 0.0750(4)
+C10 C 0.7458(5) 0.0320(3) 0.0657(3)
+H1 H 0.79650 0.58530 0.07270
+H2 H 0.80680 0.42600 -0.07690
+H3 H 0.98280 0.18590 0.19180
+H4 H 0.95200 0.35130 0.33460
+H5 H 0.98450 -0.00930 -0.18090
+H6 H 0.89210 -0.21630 -0.15020
+H7 H 0.62300 -0.11780 0.14130
+H8 H 0.70500 0.09430 0.12280
+#END

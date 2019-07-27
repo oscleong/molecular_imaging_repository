@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ONORAL
+_audit_creation_date 2011-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ONORAL
+_database_code_depnum_ccdc_archive 'CCDC 757222'
+_chemical_formula_sum 'C4 H8 N12 O10'
+_chemical_formula_moiety
+;
+C4 H8 N12 O10
+;
+_journal_coden_Cambridge 29
+_journal_volume 636
+_journal_year 2010
+_journal_page_first 463
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"T.Altenburg"
+"T.M.Klapotke"
+"A.Penger"
+"J.Stierstorfer"
+_chemical_name_systematic
+;
+1,7-Diamino-1,7-dinitrimino-2,4,6-trinitro-2,4,6-trinitroheptane
+;
+_chemical_name_common
+;
+1,1'-((Nitroimino)bis(methylene))bis(1,2-dinitroguanidine)
+;
+_cell_volume   1335.452
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.911
+_exptl_special_details
+;
+explosive
+
+;
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0389
+_refine_ls_wR_factor_gt 0.0389
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-y,-1/2+z
+_cell_length_a 8.9909(18)
+_cell_length_b 6.3392(13)
+_cell_length_c 23.431(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.42865(17) 0.6569(3) 0.06844(7)
+O2 O 1.23800(19) 0.7367(3) 0.01632(6)
+O3 O 0.93517(18) 0.9034(3) 0.28968(7)
+N1 N 1.00000 0.5992(4) 0.25000
+O4 O 0.82056(19) 0.3115(3) 0.18797(7)
+N2 N 1.00000 0.8160(4) 0.25000
+N3 N 1.20935(19) 0.5881(3) 0.10478(7)
+O5 O 0.78341(18) 0.4269(3) 0.10196(7)
+N4 N 0.99073(19) 0.5211(3) 0.14934(7)
+N5 N 0.9814(2) 0.6799(3) 0.05900(9)
+N6 N 0.8563(2) 0.4118(3) 0.14570(8)
+C1 C 1.0725(2) 0.4920(4) 0.20309(9)
+C2 C 1.0617(2) 0.6028(3) 0.09998(9)
+N7 N 1.2929(2) 0.6652(3) 0.06097(8)
+H1 H 1.168(3) 0.552(4) 0.1973(10)
+H2 H 1.078(3) 0.346(4) 0.2115(10)
+H3 H 0.887(3) 0.682(5) 0.0630(12)
+H4 H 1.037(3) 0.723(4) 0.0274(13)
+O1C O 0.57135(17) 0.6569(3) 0.43156(7)
+O2C O 0.76200(19) 0.7367(3) 0.48368(6)
+O3C O 1.06483(18) 0.9034(3) 0.21032(7)
+O4C O 1.17944(19) 0.3115(3) 0.31203(7)
+N3C N 0.79065(19) 0.5881(3) 0.39522(7)
+O5C O 1.21659(18) 0.4269(3) 0.39804(7)
+N4C N 1.00927(19) 0.5211(3) 0.35066(7)
+N5C N 1.0186(2) 0.6799(3) 0.44100(9)
+N6C N 1.1437(2) 0.4118(3) 0.35430(8)
+C1C C 0.9275(2) 0.4920(4) 0.29691(9)
+C2C C 0.9383(2) 0.6028(3) 0.40002(9)
+N7C N 0.7071(2) 0.6652(3) 0.43903(8)
+H1C H 0.832(3) 0.552(4) 0.3027(10)
+H2C H 0.922(3) 0.346(4) 0.2885(10)
+H3C H 1.113(3) 0.682(5) 0.4370(12)
+H4C H 0.963(3) 0.723(4) 0.4726(13)
+#END

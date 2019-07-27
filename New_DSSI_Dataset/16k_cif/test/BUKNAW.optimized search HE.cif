@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BUKNAW
+_audit_creation_date 1983-12-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BUKNAW
+_database_code_depnum_ccdc_archive 'CCDC 1116520'
+_chemical_formula_sum 'C13 H21 N1 O6'
+_chemical_formula_moiety
+;
+C13 H21 N1 O6
+;
+_journal_coden_Cambridge 423
+_journal_volume 112
+_journal_year 1983
+_journal_page_first 1201
+_journal_name_full 'J.Chem.Res. '
+loop_
+_publ_author_name
+"S.Auricchio"
+"S.Bruckner"
+"L.Malpezzi"
+"O.V.de Pava"
+_chemical_name_systematic
+;
+3,6,9,12,15,19-Hexaoxa-18-azabicyclo(15.2.1)icosa-1(20),17-diene
+;
+_chemical_melting_point 335.15
+_cell_volume    747.182
+_exptl_crystal_density_diffrn 1.28
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Atoms O4, O5 and O10 are disordered over two sites. Only one set of 
+coordinates has been retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.082
+_refine_ls_wR_factor_gt 0.082
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.338(2)
+_cell_length_b 9.062(1)
+_cell_length_c 10.841(2)
+_cell_angle_alpha 67.37(1)
+_cell_angle_beta 81.52(1)
+_cell_angle_gamma 88.88(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.86640 0.90240 -0.10710
+O1 O 0.81680 0.87950 -0.21770
+O2 O 0.73360 0.49980 -0.23540
+O3 O 0.64700 0.26280 0.03600
+O4 O 0.63330 0.15480 0.33260
+O5 O 0.79800 0.36460 0.41210
+O6 O 0.80510 0.68390 0.21520
+C1 C 0.87650 0.76010 -0.01560
+C2 C 0.83280 0.64270 -0.05880
+C3 C 0.79820 0.72220 -0.18400
+C4 C 0.74990 0.66780 -0.28620
+C5 C 0.57310 0.43910 -0.16910
+C6 C 0.58080 0.27140 -0.07940
+C7 C 0.64200 0.10690 0.13630
+C8 C 0.72540 0.10300 0.24660
+C9 C 0.70380 0.11590 0.45530
+C10 C 0.67230 0.23650 0.50600
+C11 C 0.77530 0.49250 0.43720
+C12 C 0.85290 0.63150 0.34480
+C13 C 0.93070 0.74440 0.11230
+H1 H 0.82100 0.53700 -0.00700
+H2 H 0.64700 0.72600 -0.31500
+H3 H 0.83700 0.69900 -0.36500
+H4 H 0.53700 0.50100 -0.11000
+H5 H 0.50600 0.44300 -0.23800
+H6 H 0.65400 0.20600 -0.12200
+H7 H 0.47900 0.22200 -0.05300
+H8 H 0.51400 0.05700 0.18100
+H9 H 0.67700 0.05100 0.09800
+H10 H 0.82900 0.14900 0.22800
+H11 H 0.75300 -0.01600 0.32800
+H12 H 0.80800 0.12400 0.43400
+H13 H 0.68800 0.01300 0.51800
+H14 H 0.56400 0.22500 0.51400
+H15 H 0.72300 0.20600 0.58800
+H16 H 0.65900 0.49700 0.43900
+H17 H 0.78500 0.46700 0.53700
+H18 H 0.89400 0.70300 0.34500
+H19 H 0.76300 0.68000 0.39600
+H20 H 0.95100 0.85100 0.11800
+H21 H 1.03000 0.67800 0.13300
+#END

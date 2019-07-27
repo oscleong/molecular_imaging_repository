@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HODXUV
+_audit_creation_date 2014-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HODXUV
+_database_code_depnum_ccdc_archive 'CCDC 996574'
+_chemical_formula_sum 'C13 H8 N2 O3'
+_chemical_formula_moiety
+;
+C13 H8 N2 O3
+;
+_journal_coden_Cambridge 1078
+_journal_year 2014
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"W.Clegg"
+_chemical_name_systematic
+;
+2-(1-Oxidopyridin-2-yl)-3H-indol-3-one 1-oxide
+;
+_cell_volume   1068.850
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.493
+_exptl_special_details
+;
+contribution from School of Chemistry, Newcastle University, Newcastle upon 
+Tyne NE1 7RU, UK
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+C3,N1 and C1,N3 disordered over two sites with occupancies 0.573:0.427.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0358
+_refine_ls_wR_factor_gt 0.0358
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.6856(3)
+_cell_length_b 20.8648(13)
+_cell_length_c 7.9176(6)
+_cell_angle_alpha 90
+_cell_angle_beta 104.588(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2605(2) -0.00178(7) 0.51460(16)
+N1 N 0.2625(3) 0.02349(8) 0.3715(2)
+C1 C 0.2631(3) 0.08744(8) 0.3327(2)
+C2 C 0.2548(3) 0.09346(8) 0.1543(2)
+O2 O 0.2455(2) 0.14411(7) 0.07045(18)
+C3 C 0.2496(3) 0.00831(10) -0.0852(2)
+H1 H 0.24020 0.03700 -0.17670
+C4 C 0.2593(3) -0.05724(10) -0.1095(3)
+H2 H 0.25750 -0.07300 -0.21970
+C5 C 0.2716(3) -0.09962(10) 0.0264(3)
+H3 H 0.28000 -0.14330 0.00600
+C6 C 0.2718(3) -0.07865(10) 0.1933(3)
+H4 H 0.27760 -0.10710 0.28480
+C7 C 0.2630(3) -0.01413(9) 0.2148(2)
+C8 C 0.2545(3) 0.02878(9) 0.0806(2)
+C9 C 0.2643(3) 0.13885(8) 0.4566(2)
+N2 N 0.4314(3) 0.17883(7) 0.4902(2)
+O3 O 0.5832(2) 0.16797(7) 0.4194(2)
+C10 C 0.4406(4) 0.22818(9) 0.6039(3)
+H5 H 0.55260 0.25610 0.62470
+C11 C 0.2884(4) 0.23748(10) 0.6878(3)
+H6 H 0.29830 0.27130 0.76590
+C12 C 0.1209(4) 0.19737(11) 0.6579(3)
+H7 H 0.01680 0.20360 0.71510
+C13 C 0.1101(3) 0.14775(10) 0.5415(2)
+H8 H -0.00230 0.12000 0.52000
+C14? C 0.2625(3) 0.02349(8) 0.3715(2)
+N3? N 0.2548(3) 0.09346(8) 0.1543(2)
+#END

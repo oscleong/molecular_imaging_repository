@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BECJOI
+_audit_creation_date 1982-09-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BECJOI
+_chemical_formula_sum 'C6 H8 N2 O3'
+_chemical_formula_moiety
+;
+C6 H8 N2 O3
+;
+_journal_coden_Cambridge 10
+_journal_volume 65
+_journal_year 1982
+_journal_page_first 137
+_journal_name_full 'Helv.Chim.Acta '
+loop_
+_publ_author_name
+"Y.Kai"
+"P.Knochel"
+"S.Kwiatkowski"
+"J.D.Dunitz"
+"J.F.M.Oth"
+"D.Seebach"
+"H.-O.Kalinowski"
+_chemical_name_systematic
+;
+1-Nitro-1'-nitroso-bicyclopropyl
+;
+_cell_volume    734.576
+_exptl_crystal_colour 'deep blue'
+_exptl_crystal_density_diffrn 1.411
+_exptl_special_details
+;
+Isomorphous with the dinitro compound
+
+;
+_diffrn_ambient_temperature 95
+_refine_special_details
+;
+The molecules adopt at random one of the two possible orientations related by 
+a diad. No positions for the O and N atoms have been retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.061
+_refine_ls_wR_factor_gt 0.061
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.382(3)
+_cell_length_b 6.186(2)
+_cell_length_c 11.584(3)
+_cell_angle_alpha 90
+_cell_angle_beta 99.11(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.45500 0.30160 0.19410
+C2 C 0.40370 0.09590 0.13220
+C3 C 0.49820 0.22920 0.08050
+H1 H 0.43000 -0.03500 0.17100
+H2 H 0.31700 0.10600 0.09500
+H3 H 0.58900 0.18900 0.08900
+H4 H 0.46100 0.31700 0.00800
+C1B C 0.54500 0.30160 0.30590
+C2B C 0.59630 0.09590 0.36780
+C3B C 0.50180 0.22920 0.41950
+H1B H 0.57000 -0.03500 0.32900
+H2B H 0.68300 0.10600 0.40500
+H3B H 0.41100 0.18900 0.41100
+H4B H 0.53900 0.31700 0.49200
+#END

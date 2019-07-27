@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOEURA01
+_audit_creation_date 2017-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOEURA01
+_database_code_depnum_ccdc_archive 'CCDC 1042137'
+_chemical_formula_sum 'C5 H6 N8 O13'
+_chemical_formula_moiety
+;
+C5 H6 N8 O13
+;
+_journal_coden_Cambridge 440
+_journal_volume 41
+_journal_year 2017
+_journal_page_first 4797
+_journal_name_full 'New J.Chem. '
+loop_
+_publ_author_name
+"Qiong Yu"
+"Guangbin Cheng"
+"Xuehai Ju"
+"Chunxu Lu"
+"Hongwei Yang"
+_chemical_name_systematic
+;
+N,N'-bis(2,2,2-trinitroethyl)urea
+;
+_cell_volume    678.263
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.891
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0449
+_refine_ls_wR_factor_gt 0.0449
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n n 2'
+_symmetry_Int_Tables_number 34
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,1/2+z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 10.396(2)
+_cell_length_b 11.229(2)
+_cell_length_c 5.8102(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.00000 0.50000 0.9570(15)
+C2 C 0.8360(4) 0.6550(4) 0.9271(10)
+H1 H 0.83920 0.64560 1.09650
+H2 H 0.74830 0.63370 0.87490
+C3 C 0.8642(4) 0.7836(4) 0.8642(8)
+N1 N 0.9283(4) 0.5762(4) 0.8216(7)
+H3 H 0.933(4) 0.563(5) 0.679(9)
+N2 N 0.7885(4) 0.8719(3) 1.0066(7)
+N3 N 0.8294(4) 0.8139(4) 0.6145(7)
+N4 N 1.0051(4) 0.8137(4) 0.8938(9)
+O1 O 1.00000 0.50000 1.1649(10)
+O2 O 0.8431(3) 0.9591(3) 1.0809(7)
+O3 O 0.6743(3) 0.8460(3) 1.0304(7)
+O4 O 0.8475(4) 0.7348(3) 0.4753(6)
+O5 O 0.7880(4) 0.9127(4) 0.5757(8)
+O6 O 1.0605(3) 0.8623(3) 0.7364(7)
+O7 O 1.0501(3) 0.7839(3) 1.0782(8)
+C2A C 1.1640(4) 0.3450(4) 0.9271(10)
+H1A H 1.16080 0.35440 1.09650
+H2A H 1.25170 0.36630 0.87490
+C3A C 1.1358(4) 0.2164(4) 0.8642(8)
+N1A N 1.0717(4) 0.4238(4) 0.8216(7)
+H3A H 1.067(4) 0.437(5) 0.679(9)
+N2A N 1.2115(4) 0.1281(3) 1.0066(7)
+N3A N 1.1706(4) 0.1861(4) 0.6145(7)
+N4A N 0.9949(4) 0.1863(4) 0.8938(9)
+O2A O 1.1569(3) 0.0409(3) 1.0809(7)
+O3A O 1.3257(3) 0.1540(3) 1.0304(7)
+O4A O 1.1525(4) 0.2652(3) 0.4753(6)
+O5A O 1.2120(4) 0.0873(4) 0.5757(8)
+O6A O 0.9395(3) 0.1377(3) 0.7364(7)
+O7A O 0.9499(3) 0.2161(3) 1.0782(8)
+#END

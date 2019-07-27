@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIPRAH
+_audit_creation_date 1994-11-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIPRAH
+_chemical_formula_sum 'C14 H13 N1 O5'
+_chemical_formula_moiety
+;
+C14 H13 N1 O5
+;
+_journal_coden_Cambridge 16
+_journal_volume 50
+_journal_year 1994
+_journal_page_first 3709
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"T.Esser"
+"F.Farkas"
+"S.Mangholz"
+"U.Sequin"
+_chemical_name_systematic
+;
+(1RS,4SR,5RS,6SR)-4-Methyl-5,6-epoxycyclohex-2-en-1-yl 4-nitrobenzoate
+;
+_chemical_melting_point 348.15
+_cell_volume   1374.761
+_exptl_special_details
+;
+Melting point range 348.15-349.65K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0532
+_refine_ls_wR_factor_gt 0.0532
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 12.353(6)
+_cell_length_b 7.448(1)
+_cell_length_c 15.041(5)
+_cell_angle_alpha 90
+_cell_angle_beta 96.57(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8605(4) 0.0426(7) 0.9579(3)
+O2 O 0.8337(2) 0.1135(4) 0.7167(2)
+O3 O 0.6760(2) 0.0445(4) 0.6338(2)
+O4 O 0.9341(3) 0.1909(6) 0.2570(3)
+O5 O 1.0708(3) 0.3014(6) 0.3383(3)
+N1 N 0.9825(3) 0.2311(6) 0.3290(3)
+C1 C 0.7855(4) 0.0687(6) 0.7992(3)
+C2 C 0.8831(4) 0.0600(8) 0.8676(3)
+C3 C 0.9074(4) 0.2050(7) 0.9280(3)
+C4 C 0.8395(5) 0.3687(7) 0.9261(3)
+C5 C 0.7276(5) 0.336(1) 0.8778(4)
+C6 C 0.7052(4) 0.2078(9) 0.8193(4)
+C7 C 0.8995(7) 0.5207(9) 0.8833(5)
+C8 C 0.7705(3) 0.0889(5) 0.6396(3)
+C9 C 0.8303(3) 0.1242(5) 0.5608(3)
+C10 C 0.9314(3) 0.2089(5) 0.5680(3)
+C11 C 0.9814(3) 0.2445(5) 0.4926(3)
+C12 C 0.9299(3) 0.1900(5) 0.4102(3)
+C13 C 0.8302(3) 0.1043(6) 0.4007(3)
+C14 C 0.7809(3) 0.0716(5) 0.4772(3)
+H1 H 0.941(3) -0.024(5) 0.851(3)
+H2 H 0.982(2) 0.232(5) 0.958(2)
+H3 H 0.74270 -0.04550 0.79510
+H4 H 0.82820 0.39970 0.98910
+H5 H 0.66710 0.41770 0.89110
+H6 H 0.63020 0.20270 0.78640
+H7 H 0.85450 0.63260 0.88150
+H8 H 0.97130 0.54270 0.91950
+H9 H 0.91170 0.48580 0.82100
+H10 H 0.96790 0.24420 0.62820
+H11 H 1.05320 0.30810 0.49710
+H12 H 0.79470 0.06710 0.34040
+H13 H 0.70870 0.00930 0.47230
+#END

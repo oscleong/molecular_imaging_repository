@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SODMEE
+_audit_creation_date 2008-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SODMEE
+_database_code_depnum_ccdc_archive 'CCDC 668452'
+_chemical_formula_sum 'C23 H16 N4 O4'
+_chemical_formula_moiety
+;
+C23 H16 N4 O4
+;
+_journal_coden_Cambridge 1350
+_journal_volume 10
+_journal_year 2008
+_journal_page_first 839
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"J.Ashmore"
+"R.Bishop"
+"D.C.Craig"
+"M.L.Scudder"
+_chemical_name_systematic
+;
+1,9-Dinitro-6,7,14,15-tetrahydro-6,14-methanocyclo-octa(1,2-b:5,6-b')diquinoli
+ne
+;
+_chemical_melting_point 477.15
+_cell_volume   1857.224
+_exptl_crystal_colour 'dark orange'
+_exptl_crystal_density_diffrn 1.47
+_exptl_special_details
+;
+Melting point range 477.15-479.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'chloroform'
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.052
+_refine_ls_wR_factor_gt 0.052
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-y,-1/2+z
+_cell_length_a 7.883(2)
+_cell_length_b 9.292(4)
+_cell_length_c 25.355(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6682(4) 0.6204(4) 0.0819(1)
+O2 O 0.5325(5) 0.6711(4) 0.0122(1)
+N1 N 0.2261(4) 0.2913(3) 0.1757(1)
+N2 N 0.5402(5) 0.6152(4) 0.0554(2)
+C1 C 0.3432(5) 0.1395(4) 0.2429(1)
+C2 C 0.3656(5) 0.2440(4) 0.1977(1)
+C3 C 0.5303(5) 0.2868(4) 0.1817(1)
+C4 C 0.3107(5) 0.2205(4) 0.2949(1)
+C5 C 0.50000 0.0442(5) 0.25000
+C6 C 0.2389(5) 0.3892(4) 0.1357(1)
+C7 C 0.0848(5) 0.4339(5) 0.1125(2)
+C8 C 0.0852(5) 0.5329(5) 0.0723(2)
+C9 C 0.2395(6) 0.5907(4) 0.0542(1)
+C10 C 0.3868(5) 0.5471(4) 0.0767(2)
+C11 C 0.3968(4) 0.4437(4) 0.1179(2)
+C12 C 0.5439(5) 0.3873(4) 0.1421(1)
+H1 H 0.24320 0.07660 0.23520
+H2 H 0.22680 0.29910 0.28810
+H3 H 0.26230 0.15130 0.32110
+H4 H 0.51500 -0.01800 0.21810
+H5 H 0.48500 -0.01800 0.28190
+H6 H -0.02510 0.39320 0.12540
+H7 H -0.02410 0.56390 0.05590
+H8 H 0.24050 0.66330 0.02510
+H9 H 0.65840 0.42040 0.13030
+O1C O 0.3318(4) 0.6204(4) 0.4181(1)
+O2C O 0.4675(5) 0.6711(4) 0.4878(1)
+N1C N 0.7739(4) 0.2913(3) 0.3243(1)
+N2C N 0.4598(5) 0.6152(4) 0.4446(2)
+C1C C 0.6568(5) 0.1395(4) 0.2571(1)
+C2C C 0.6344(5) 0.2440(4) 0.3023(1)
+C3C C 0.4697(5) 0.2868(4) 0.3183(1)
+C4C C 0.6893(5) 0.2205(4) 0.2051(1)
+C6C C 0.7611(5) 0.3892(4) 0.3643(1)
+C7C C 0.9152(5) 0.4339(5) 0.3875(2)
+C8C C 0.9148(5) 0.5329(5) 0.4277(2)
+C9C C 0.7605(6) 0.5907(4) 0.4458(1)
+C10C C 0.6132(5) 0.5471(4) 0.4233(2)
+C11C C 0.6032(4) 0.4437(4) 0.3821(2)
+C12C C 0.4561(5) 0.3873(4) 0.3579(1)
+H1C H 0.75680 0.07660 0.26480
+H2C H 0.77320 0.29910 0.21190
+H3C H 0.73770 0.15130 0.17890
+H6C H 1.02510 0.39320 0.37460
+H7C H 1.02410 0.56390 0.44410
+H8C H 0.75950 0.66330 0.47490
+H9C H 0.34160 0.42040 0.36970
+#END

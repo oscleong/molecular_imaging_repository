@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AJIYAT
+_audit_creation_date 2003-11-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AJIYAT
+_database_code_depnum_ccdc_archive 'CCDC 221720'
+_chemical_formula_sum 'C12 H16 N3 O2'
+_chemical_formula_moiety
+;
+C12 H16 N3 O2
+;
+_journal_coeditor_code "IUCr LH6088"
+_journal_coden_Cambridge 1370
+_journal_volume 59
+_journal_year 2003
+_journal_page_first o1231
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Qihua Zhao"
+"Xiaofeng Wang"
+"Ruibin Fang"
+"E.R.T.Tiekink"
+_chemical_name_systematic
+;
+4,4,5,5-Tetramethyl-2-(p-pyridyl)imidazoline-1-oxyl 3-oxide
+;
+_cell_volume   1193.944
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.303
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'benzene'
+_diffrn_ambient_temperature 223
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 11.0922(5)
+_cell_length_b 10.3891(5)
+_cell_length_c 10.8714(6)
+_cell_angle_alpha 90
+_cell_angle_beta 107.632(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.68596(11) 0.08767(10) 0.41872(12)
+N1 N 0.50000 0.53627(15) 0.25000
+N2 N 0.58806(10) 0.0497(1) 0.32986(10)
+C1 C 0.43936(13) 0.46832(12) 0.14522(13)
+H1 H 0.39680 0.51400 0.06990
+C2 C 0.43498(11) 0.33534(11) 0.13996(11)
+H2 H 0.38920 0.29260 0.06390
+C3 C 0.50000 0.26593(15) 0.25000
+C4 C 0.50000 0.12507(15) 0.25000
+C5 C 0.56689(11) -0.09124(10) 0.30036(11)
+C6 C 0.67366(14) -0.13565(18) 0.24908(16)
+H3 H 0.66750 -0.09120 0.16890
+H4 H 0.66690 -0.22770 0.23370
+H5 H 0.75450 -0.11630 0.31200
+C7 C 0.57626(15) -0.16063(13) 0.42616(13)
+H6 H 0.50830 -0.13220 0.45860
+H7 H 0.65700 -0.14120 0.48920
+H8 H 0.56940 -0.25270 0.41090
+N2F N 0.41194(10) 0.0497(1) 0.17014(10)
+O1F O 0.31404(11) 0.08767(10) 0.08128(12)
+C5F C 0.43311(11) -0.09124(10) 0.19964(11)
+C6F C 0.32634(14) -0.13565(18) 0.25092(16)
+H3F H 0.33250 -0.09120 0.33110
+H4F H 0.33310 -0.22770 0.26630
+H5F H 0.24550 -0.11630 0.18800
+C7F C 0.42374(15) -0.16063(13) 0.07384(13)
+H6F H 0.49170 -0.13220 0.04140
+H7F H 0.34300 -0.14120 0.01080
+H8F H 0.43060 -0.25270 0.08910
+C1F C 0.56064(13) 0.46832(12) 0.35478(13)
+H1F H 0.60320 0.51400 0.43010
+C2F C 0.56502(11) 0.33534(11) 0.36004(11)
+H2F H 0.61080 0.29260 0.43610
+#END

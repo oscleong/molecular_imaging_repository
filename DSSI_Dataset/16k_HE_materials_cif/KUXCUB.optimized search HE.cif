@@ -1,0 +1,150 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KUXCUB
+_audit_creation_date 1993-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KUXCUB
+_database_code_depnum_ccdc_archive 'CCDC 1201878'
+_chemical_formula_sum 'C27 H26 N2 O1'
+_chemical_formula_moiety
+;
+C27 H26 N2 O1
+;
+_journal_coden_Cambridge 154
+_journal_volume 45
+_journal_year 1992
+_journal_page_first 1879
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"D.St.C.Black"
+"D.C.Craig"
+"R.B.Deb-Das"
+"N.Kumar"
+_chemical_name_systematic
+;
+5-(1',3'-Dimethylindol-2'-ylmethyl)-2,4-diphenyl-1-pyrroline 1-oxide
+;
+_chemical_melting_point 475.15
+_cell_volume   2121.582
+_exptl_crystal_colour 'off-white'
+_exptl_crystal_density_diffrn 1.23
+_exptl_special_details
+;
+Melting point range 475.15-477.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The indole N and C3 atoms are disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 9.560(2)
+_cell_length_b 11.244(1)
+_cell_length_c 19.737(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3101(5) 0.1687(4) 0.5829(2)
+N1 N 0.2398(6) 0.0725(4) 0.5756(2)
+N2 N 0.2673(6) -0.0503(5) 0.3561(3)
+C1 C 0.1678(6) 0.1103(4) 0.3995(2)
+C2 C 0.2662(6) 0.0254(5) 0.4092(3)
+C3 C 0.1662(7) -0.0119(5) 0.3101(3)
+C4 C 0.1236(8) -0.0503(6) 0.2453(3)
+C5 C 0.0183(8) 0.0123(7) 0.2127(4)
+C6 C -0.0398(8) 0.1104(7) 0.2412(4)
+C7 C -0.0021(7) 0.1519(6) 0.3047(4)
+C8 C 0.1022(7) 0.0890(5) 0.3385(3)
+C9 C 0.3640(7) 0.0181(5) 0.4686(3)
+C10 C 0.2995(6) -0.0281(5) 0.5347(3)
+C11 C 0.1832(6) -0.1164(5) 0.5308(3)
+C12 C 0.0785(7) -0.0815(5) 0.5867(3)
+C13 C 0.1180(7) 0.0479(6) 0.6034(3)
+C14 C 0.3602(8) -0.1554(6) 0.3451(3)
+C15 C 0.1458(9) 0.2218(6) 0.4394(3)
+C16 C 0.2251(6) -0.2455(6) 0.5333(3)
+C17 C 0.1846(7) -0.3245(6) 0.4826(4)
+C18 C 0.2177(8) -0.4426(7) 0.4877(5)
+C19 C 0.2888(10) -0.4888(7) 0.5408(6)
+C20 C 0.3262(11) -0.4151(8) 0.5895(5)
+C21 C 0.2966(8) -0.2887(6) 0.5869(4)
+C22 C 0.0344(7) 0.1258(6) 0.6459(3)
+C23 C -0.0796(8) 0.0800(6) 0.6782(4)
+C24 C -0.1668(9) 0.1512(8) 0.7192(4)
+C25 C -0.1314(12) 0.2674(9) 0.7278(4)
+C26 C -0.0135(9) 0.3166(7) 0.6957(4)
+C27 C 0.0643(8) 0.2436(7) 0.6552(4)
+H1 H 0.16660 -0.12050 0.22480
+H2 H -0.01460 -0.01590 0.16890
+H3 H -0.10600 0.15710 0.21550
+H4 H -0.04950 0.21960 0.32470
+H5 H 0.39900 0.09910 0.47690
+H6 H 0.44080 -0.02880 0.45550
+H7 H 0.37320 -0.06400 0.56120
+H8 H 0.13540 -0.10460 0.48750
+H9 H 0.09320 -0.13060 0.62720
+H10 H -0.01610 -0.08870 0.57430
+H11 H 0.40440 -0.16630 0.30900
+H12 H 0.32150 -0.25210 0.36510
+H13 H 0.45400 -0.14060 0.37920
+H14 H 0.13330 0.28850 0.41540
+H15 H 0.03590 0.21540 0.46590
+H16 H 0.20380 0.22300 0.48140
+H17 H 0.13040 -0.29350 0.44480
+H18 H 0.19140 -0.49660 0.45080
+H19 H 0.31320 -0.57360 0.54100
+H20 H 0.36860 -0.44730 0.63140
+H21 H 0.33570 -0.23190 0.62170
+H22 H -0.10050 -0.00780 0.67200
+H23 H -0.25070 0.11760 0.74060
+H24 H -0.19250 0.31610 0.75660
+H25 H 0.01080 0.40120 0.70100
+H26 H 0.14300 0.27800 0.63470
+#END

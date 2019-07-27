@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TIZXOR
+_audit_creation_date 2014-02-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TIZXOR
+_database_code_depnum_ccdc_archive 'CCDC 935332'
+_chemical_formula_sum 'C10 H20 N2 O2'
+_chemical_formula_moiety
+;
+C10 H20 N2 O2
+;
+_journal_coden_Cambridge 1220
+_journal_volume 20
+_journal_year 2014
+_journal_page_first 2793
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"S.Tolstikov"
+"E.Tretyakov"
+"S.Fokin"
+"E.Suturina"
+"G.Romanenko"
+"A.Bogomyakov"
+"D.Stass"
+"A.Maryasov"
+"M.Fedin"
+"N.Gritsan"
+"V.Ovcharenko"
+_chemical_name_systematic
+;
+N,N'-Ethane-1,2-diylidenebis(N-t-butylamine oxide)
+;
+_cell_volume   1214.340
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.084
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 240
+_refine_special_details
+;
+H3B disordered by symmetry over two sites with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0567
+_refine_ls_wR_factor_gt 0.0567
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,z
+3 y,-x,z
+4 -x,-y,z
+5 1/2+x,1/2+y,1/2+z
+6 1/2-y,1/2+x,1/2+z
+7 1/2+y,1/2-x,1/2+z
+8 1/2-x,1/2-y,1/2+z
+9 -x,-y,-z
+10 y,-x,-z
+11 -y,x,-z
+12 x,y,-z
+13 -1/2-x,-1/2-y,-1/2-z
+14 -1/2+y,-1/2-x,-1/2-z
+15 -1/2-y,-1/2+x,-1/2-z
+16 -1/2+x,-1/2+y,-1/2-z
+_cell_length_a 13.4074(15)
+_cell_length_b 13.4074(15)
+_cell_length_c 6.7554(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.15922(15) 0.41621(16) 0.00000
+N1 N 0.13301(18) 0.50904(17) 0.00000
+C1 C 0.0392(2) 0.5361(2) 0.00000
+H1 H 0.02300 0.60430 0.00000
+C2 C 0.27884(17) 0.56241(18) 0.1869(4)
+H2 H 0.33670 0.60580 0.19090
+H3 H 0.30050 0.49340 0.18690
+H4 H 0.23740 0.57470 0.30200
+C3 C 0.2192(2) 0.5833(2) 0.00000
+C4 C 0.1818(3) 0.6901(2) 0.00000
+H5 H 0.239(3) 0.733(3) 0.00000
+H6 H 0.144(4) 0.706(4) -0.117(8)
+O1C O -0.15922(15) 0.58379(16) 0.00000
+N1C N -0.13301(18) 0.49096(17) 0.00000
+C1C C -0.0392(2) 0.4639(2) 0.00000
+H1C H -0.02300 0.39570 0.00000
+C2C C -0.27884(17) 0.43759(18) 0.1869(4)
+H2C H -0.33670 0.39420 0.19090
+H3C H -0.30050 0.50660 0.18690
+H4C H -0.23740 0.42530 0.30200
+C3C C -0.2192(2) 0.4167(2) 0.00000
+C4C C -0.1818(3) 0.3099(2) 0.00000
+H5C H -0.239(3) 0.267(3) 0.00000
+H6C H -0.144(4) 0.294(4) -0.117(8)
+C2H C -0.27884(17) 0.43759(18) -0.1869(4)
+H2H H -0.33670 0.39420 -0.19090
+H3H H -0.30050 0.50660 -0.18690
+H4H H -0.23740 0.42530 -0.30200
+H6H H -0.144(4) 0.294(4) 0.117(8)
+C2K C 0.27884(17) 0.56241(18) -0.1869(4)
+H2K H 0.33670 0.60580 -0.19090
+H3K H 0.30050 0.49340 -0.18690
+H4K H 0.23740 0.57470 -0.30200
+H6K H 0.144(4) 0.706(4) 0.117(8)
+#END

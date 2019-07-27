@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SARBOX
+_audit_creation_date 1979-05-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SARBOX
+_database_code_depnum_ccdc_archive 'CCDC 1255115'
+_chemical_formula_sum 'C5 H11 N1 O5'
+_chemical_formula_moiety
+;
+C5 H11 N1 O5
+;
+_journal_coden_Cambridge 3
+_journal_volume 32
+_journal_year 1978
+_journal_page_first 733
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"A.Mostad"
+_chemical_name_systematic
+;
+syn-Arabinose-oxime
+;
+_cell_volume    726.799
+_exptl_crystal_density_diffrn 1.61
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+loop_
+_citation_database_id_CSD
+_citation_special_details
+AARBOX "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 4.708(1)
+_cell_length_b 8.955(4)
+_cell_length_c 17.239(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.44950 0.10420 0.48590
+O2 O 0.87670 0.26930 0.32390
+O3 O 1.38490 0.30300 0.23760
+O4 O 0.88170 0.04730 0.15320
+O5 O 1.40350 0.09640 0.07000
+N1 N 1.26070 0.17500 0.43320
+C1 C 1.24030 0.09960 0.37150
+C2 C 1.04840 0.14420 0.30600
+C3 C 1.22600 0.16880 0.23190
+C4 C 1.03870 0.18360 0.16010
+C5 C 1.20780 0.21320 0.08680
+H1 H 1.35400 0.00900 0.36700
+H2 H 1.35400 0.08400 0.22400
+H3 H 1.07500 0.22500 0.04500
+H4 H 1.51700 0.17000 0.51200
+H5 H 1.52500 0.29100 0.26500
+H6 H 1.30900 0.02300 0.05100
+H7 H 1.18000 0.06100 0.29700
+H8 H 0.90200 0.26800 0.16800
+H9 H 1.32400 0.30700 0.09200
+H10 H 0.98200 0.33800 0.32700
+H11 H 0.74000 0.07100 0.12700
+#END

@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAGMAP
+_audit_creation_date 2012-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAGMAP
+_database_code_depnum_ccdc_archive 'CCDC 844238'
+_chemical_formula_sum 'C15 H28 N3 O1'
+_chemical_formula_moiety
+;
+C15 H28 N3 O1
+;
+_journal_coden_Cambridge 388
+_journal_volume 46
+_journal_year 2010
+_journal_page_first 1663
+_journal_name_full 'Zh.Org.Khim.(Russ.)(Russ.J.Org.Chem.) '
+loop_
+_publ_author_name
+"V.D.Sen'"
+"G.V.Shilov"
+"V.A.Golubev"
+_chemical_name_systematic
+;
+trans-2,2,4,6,6,8,8-Heptamethyl-2,3,5a,6,7,8,9,9a-octahydro-1H-pyrido[4,3-b][1
+,4]diazepin-7-oxyl
+;
+_chemical_melting_point 111.5
+_cell_volume   1539.454
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.149
+_exptl_special_details
+;
+Melting point range 111.5-113K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'carbon tetrachloride'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+The NH proton is disordered over two sites with occupancies 0.50:0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0472
+_refine_ls_wR_factor_gt 0.0472
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.658(1)
+_cell_length_b 14.421(1)
+_cell_length_c 12.489(2)
+_cell_angle_alpha 90
+_cell_angle_beta 99.16(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.78
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1229(2) 0.25897(13) 0.63079(14)
+N1 N 0.2152(2) 0.27603(13) 0.71909(14)
+N2 N 0.5026(2) 0.14912(12) 0.92111(14)
+C1 C 0.4377(3) 0.22678(15) 0.85251(17)
+H1 H 0.50730 0.23820 0.79930
+C2 C 0.2772(3) 0.19691(16) 0.78994(17)
+C3 C 0.2529(3) 0.37466(15) 0.74684(19)
+C4 C 0.3008(3) 0.38130(16) 0.86968(18)
+H2 H 0.20930 0.36890 0.90330
+H3 H 0.33310 0.44460 0.88760
+C5 C 0.4324(2) 0.31607(16) 0.92013(17)
+H4 H 0.41260 0.29830 0.99250
+C6 C 0.2983(3) 0.11437(17) 0.7176(2)
+H5 H 0.34140 0.06320 0.76170
+H6 H 0.36810 0.13100 0.66820
+H7 H 0.19880 0.09690 0.67730
+C7 C 0.1589(3) 0.17239(18) 0.86487(19)
+H8 H 0.05890 0.16000 0.82200
+H9 H 0.14970 0.22340 0.91280
+H10 H 0.19430 0.11840 0.90670
+C8 C 0.1063(3) 0.43284(19) 0.7118(2)
+H11 H 0.02150 0.40830 0.74420
+H12 H 0.07900 0.43100 0.63430
+H13 H 0.12610 0.49580 0.73490
+C9 C 0.3817(3) 0.40651(17) 0.6839(2)
+H14 H 0.35110 0.39290 0.60830
+H15 H 0.47720 0.37450 0.71080
+H16 H 0.39750 0.47210 0.69330
+C10 C 0.7240(2) 0.32405(16) 0.99395(17)
+C11 C 0.7598(3) 0.22968(16) 0.94608(18)
+H17 H 0.75930 0.23730 0.86890
+H18 H 0.86460 0.21100 0.97840
+C12 C 0.6475(3) 0.15250(15) 0.96267(18)
+N3 N 0.5816(2) 0.36707(13) 0.93276(15)
+H19 H 0.56700 0.42150 0.96490
+C13 C 0.8581(3) 0.39039(17) 0.9818(2)
+H20 H 0.86540 0.39750 0.90630
+H21 H 0.95450 0.36570 1.01950
+H22 H 0.83840 0.44970 1.01190
+C14 C 0.7127(3) 0.31276(17) 1.11433(17)
+H23 H 0.62840 0.27130 1.12200
+H24 H 0.69350 0.37210 1.14450
+H25 H 0.80910 0.28780 1.15190
+C15 C 0.7134(3) 0.07483(16) 1.03564(19)
+H26 H 0.74920 0.09860 1.10710
+H27 H 0.79960 0.04710 1.00770
+H28 H 0.63380 0.02910 1.03890
+H29? H 0.60160 0.38020 0.86590
+#END

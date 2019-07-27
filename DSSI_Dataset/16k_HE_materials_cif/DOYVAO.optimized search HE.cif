@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DOYVAO
+_audit_creation_date 2000-11-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DOYVAO
+_database_code_depnum_ccdc_archive 'CCDC 148938'
+_chemical_formula_sum 'C6 H9 N3 O1'
+_chemical_formula_moiety
+;
+C6 H9 N3 O1
+;
+_journal_coden_Cambridge 692
+_journal_year 2000
+_journal_page_first 681
+_journal_name_full 'Synthesis '
+loop_
+_publ_author_name
+"V.K.Khlestkin"
+"D.G.Mazhukin"
+"A.Ya.Tikhonov"
+"T.V.Rybalova"
+"I.Yu.Bagryanskaya"
+"Yu.V.Gatilov"
+_chemical_name_systematic
+;
+2-Hydroxy-4,5,6,7-tetrahydro-2H-benzotriazole
+;
+_cell_volume   1406.841
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.314
+_exptl_crystal_description 'elongated plates'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0454
+_refine_ls_wR_factor_gt 0.0454
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 x,1/2-y,1/2+z
+4 1/2-x,1/2+y,z
+5 -x,-y,-z
+6 -1/2-x,-y,-1/2+z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,-1/2-y,-z
+_cell_length_a 6.800(1)
+_cell_length_b 11.332(2)
+_cell_length_c 18.257(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.1959(3) 0.9516(2) 0.36895(11)
+N2 N 0.1124(3) 0.8789(2) 0.32204(11)
+N3 N -0.0729(3) 0.8999(2) 0.30502(11)
+C1 C -0.3073(4) 1.0600(3) 0.3481(2)
+C2 C -0.3051(5) 1.1446(3) 0.4131(2)
+C3 C -0.1144(5) 1.2123(3) 0.4182(2)
+C4 C 0.0627(4) 1.1325(3) 0.4330(2)
+C5 C 0.0502(3) 1.0280(2) 0.38355(13)
+C6 C -0.1157(3) 0.9964(2) 0.34472(13)
+O1 O 0.2075(3) 0.7845(2) 0.29316(11)
+H1 H -0.4107(37) 1.0037(24) 0.3508(15)
+H2 H -0.3293(45) 1.1044(28) 0.3014(19)
+H3 H -0.4259(44) 1.1959(25) 0.4093(16)
+H4 H -0.3158(50) 1.0938(28) 0.4584(19)
+H5 H -0.1141(48) 1.2774(27) 0.4549(19)
+H6 H -0.0939(49) 1.2496(29) 0.3661(22)
+H7 H 0.1873(45) 1.1742(26) 0.4219(16)
+H8 H 0.0661(40) 1.1054(25) 0.4826(18)
+H9 H 0.3031(47) 0.8201(27) 0.2548(19)
+#END

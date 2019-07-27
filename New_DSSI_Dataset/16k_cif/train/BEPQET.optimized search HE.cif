@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEPQET
+_audit_creation_date 2004-09-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEPQET
+_database_code_depnum_ccdc_archive 'CCDC 216390'
+_chemical_formula_sum 'C19 H14 N2 O3'
+_chemical_formula_moiety
+;
+C19 H14 N2 O3
+;
+_journal_coden_Cambridge 4
+_journal_volume 126
+_journal_year 2004
+_journal_page_first 80
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"J.P.Parrish"
+"T.V.Hughes"
+"Inkyu Hwang"
+"D.L.Boger"
+_chemical_name_systematic
+;
+(+)-3-(4-Nitrophenyl)-5-oxo-1,1a,2,5-tetrahydro-benzo[e]cyclopropa[c]indole
+;
+_chemical_name_common
+;
+N-(4-Nitrophenyl)-1,2,9,9a-tetrahydropropa(c)benz(e)indol-4-one
+;
+_chemical_melting_point 432.15
+_cell_volume    740.866
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.427
+_exptl_special_details
+;
+Melts with decomposition.
+L1210 cytotoxic activity
+
+;
+_exptl_crystal_description 'parallelepiped'
+_exptl_crystal_preparation 'methanol/ethyl acetate'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0442
+_refine_ls_wR_factor_gt 0.0442
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 7.9520(13)
+_cell_length_b 7.4385(12)
+_cell_length_c 12.592(2)
+_cell_angle_alpha 90
+_cell_angle_beta 95.913(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.72540(18) 0.9010(3) 0.60427(13)
+O2 O 1.0041(4) 0.8842(6) -0.0222(2)
+O3 O 0.8316(3) 0.7246(5) -0.12454(19)
+N1 N 0.4022(2) 0.8131(3) 0.26490(16)
+N2 N 0.8680(4) 0.8074(5) -0.0423(2)
+C1 C 0.2727(3) 0.8717(4) 0.53467(18)
+C2 C 0.1238(3) 0.8729(4) 0.5854(2)
+H1 H 0.01970 0.87090 0.54430
+C3 C 0.1292(3) 0.8768(4) 0.6942(2)
+H2 H 0.02890 0.87560 0.72610
+C4 C 0.2819(3) 0.8825(4) 0.7573(2)
+H3 H 0.28480 0.88650 0.83130
+C5 C 0.4303(3) 0.8822(4) 0.70905(19)
+H4 H 0.53350 0.88450 0.75120
+C6 C 0.4279(3) 0.8786(4) 0.59885(18)
+C7 C 0.5900(3) 0.8818(4) 0.54850(18)
+C8 C 0.5839(3) 0.8544(4) 0.43464(19)
+H5 H 0.68380 0.83830 0.40340
+C9 C 0.4346(3) 0.8521(3) 0.37333(19)
+C10 C 0.2730(3) 0.8777(4) 0.41764(19)
+C11 C 0.1506(4) 1.0058(4) 0.3537(2)
+H6 H 0.06310 1.06190 0.39060
+H7 H 0.19510 1.08030 0.29990
+C12 C 0.1374(3) 0.8095(5) 0.3332(2)
+H8 H 0.04050 0.74180 0.35440
+C13 C 0.2271(3) 0.7469(4) 0.2400(2)
+H9 H 0.22470 0.61680 0.23440
+H10 H 0.17540 0.79800 0.17370
+C14 C 0.5167(3) 0.8166(4) 0.1886(2)
+C15 C 0.4820(4) 0.7207(4) 0.0929(2)
+H11 H 0.38090 0.65760 0.08020
+C16 C 0.5961(4) 0.7187(5) 0.0174(2)
+H12 H 0.57240 0.65410 -0.04560
+C17 C 0.7452(4) 0.8131(5) 0.0361(2)
+C18 C 0.7797(3) 0.9154(4) 0.1268(2)
+H13 H 0.87880 0.98240 0.13720
+C19 C 0.6655(3) 0.9173(4) 0.20239(19)
+H14 H 0.68820 0.98700 0.26350
+#END

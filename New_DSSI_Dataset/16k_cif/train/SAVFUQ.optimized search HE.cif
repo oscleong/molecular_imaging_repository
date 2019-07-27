@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAVFUQ
+_audit_creation_date 1999-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAVFUQ
+_database_code_depnum_ccdc_archive 'CCDC 130797'
+_chemical_formula_sum 'C9 H19 N3 O4'
+_chemical_formula_moiety
+;
+C9 H19 N3 O4
+;
+_journal_coeditor_code "IUCr QA0066"
+_journal_data_validation_number IUC9800073
+_journal_coden_Cambridge 591
+_journal_volume 54
+_journal_year 1998
+_journal_page_first 9800073
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"I.Yu.Bagryanskaya"
+"T.V.Rybalova"
+"Y.V.Gatilov"
+"V.K.Khlestkin"
+"D.G.Mazhukin"
+_chemical_name_systematic
+;
+N-Formyl-N'-nitroso-N,N'-dimethoxy-2,3-dimethyl-2,3-butanediamine
+;
+_chemical_melting_point 366.15
+_cell_volume    595.103
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.302
+_exptl_special_details
+;
+isomorphous with the N-nitroso analogue
+
+;
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The nitroso and formyl groups are mixed 1:1 due to disorder. The H atoms of 
+methoxy group are also disordered.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.036
+_refine_ls_wR_factor_gt 0.036
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.424(1)
+_cell_length_b 13.611(2)
+_cell_length_c 7.231(1)
+_cell_angle_alpha 90
+_cell_angle_beta 109.74(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.30270(14) 0.14748(7) 0.10087(14)
+N1 N 0.0875(2) 0.12836(7) 0.0954(2)
+O2 O 0.0017(2) 0.28456(7) 0.0218(2)
+C1 C -0.0573(2) 0.20148(9) 0.0472(2)
+C2 C 0.2240(3) -0.02645(11) 0.2594(2)
+H1 H 0.1842(30) -0.0917(14) 0.2742(26)
+H2 H 0.3520(37) -0.0271(14) 0.2223(31)
+H3 H 0.2503(29) 0.0061(14) 0.3845(28)
+C3 C -0.1687(3) 0.01885(12) 0.1808(2)
+H4 H -0.3017(29) 0.0495(13) 0.0798(25)
+H5 H -0.1958(31) -0.0480(14) 0.2042(27)
+H6 H -0.1335(28) 0.0574(13) 0.2960(28)
+C4 C 0.0279(2) 0.02359(8) 0.1059(2)
+C5 C 0.4255(3) 0.20023(12) 0.2770(3)
+H7 H 0.5728(3) 0.21248(12) 0.2773(3)
+H8 H 0.4320(3) 0.16171(12) 0.3900(3)
+H9 H 0.3534(3) 0.26160(12) 0.2808(3)
+H10? H -0.2055(54) 0.1875(22) 0.0290(45)
+H11? H 0.3327(3) 0.21138(12) 0.3548(3)
+H12? H 0.4735(3) 0.26215(12) 0.2421(3)
+H13? H 0.5521(3) 0.16226(12) 0.3513(3)
+C4B C -0.0279(2) -0.02359(8) -0.1059(2)
+N1B N -0.0875(2) -0.12836(7) -0.0954(2)
+O1B O -0.30270(14) -0.14748(7) -0.10087(14)
+C5B C -0.4255(3) -0.20023(12) -0.2770(3)
+H7B H -0.5728(3) -0.21248(12) -0.2773(3)
+H8B H -0.4320(3) -0.16171(12) -0.3900(3)
+H9B H -0.3534(3) -0.26160(12) -0.2808(3)
+C1B C 0.0573(2) -0.20148(9) -0.0472(2)
+O2B O -0.0017(2) -0.28456(7) -0.0218(2)
+C2B C -0.2240(3) 0.02645(11) -0.2594(2)
+H1B H -0.1842(30) 0.0917(14) -0.2742(26)
+H2B H -0.3520(37) 0.0271(14) -0.2223(31)
+H3B H -0.2503(29) -0.0061(14) -0.3845(28)
+C3B C 0.1687(3) -0.01885(12) -0.1808(2)
+H4B H 0.3017(29) -0.0495(13) -0.0798(25)
+H5B H 0.1958(31) 0.0480(14) -0.2042(27)
+H6B H 0.1335(28) -0.0574(13) -0.2960(28)
+#END

@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOGFUA
+_audit_creation_date 2014-05-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOGFUA
+_database_code_depnum_ccdc_archive 'CCDC 978153'
+_chemical_formula_sum 'C13 H21 N1 O8'
+_chemical_formula_moiety
+;
+C13 H21 N1 O8
+;
+_journal_coden_Cambridge 156
+_journal_volume 391
+_journal_year 2014
+_journal_page_first 82
+_journal_name_full 'Carbohydr.Res. '
+loop_
+_publ_author_name
+"M.Turks"
+"K.Veze"
+"G.Kiselovs"
+"J.Mackevica"
+"J.Luiginina"
+"A.Mishnev"
+"D.Markovic"
+_chemical_name_systematic
+;
+(3aR,5S,6S,6aR)-5-[(4R)-2,2-dimethyl-1,3-dioxolan-4-yl]-2,2-dimethyl-6-(nitrom
+ethyl)-5,6a-dihydro-3aH-furo[2,3-d][1,3]dioxol-6-ol
+;
+_chemical_name_common
+;
+3-C-Nitromethyl-1,2:5,6-di-O-isopropylidene-alpha-D-galactofuranose
+;
+_cell_volume   1125.969
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.413
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'hexanes/EtOAc'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0348
+_refine_ls_wR_factor_gt 0.0348
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 32'
+_symmetry_Int_Tables_number 145
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,2/3+z
+3 -x+y,-x,1/3+z
+_cell_length_a 9.6998(3)
+_cell_length_b 9.6998(3)
+_cell_length_c 13.8188(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.57798(18) 0.61319(19) 0.87332(11)
+O2 O 0.95407(18) 0.86450(19) 0.89560(11)
+O3 O 0.79549(19) 0.6688(2) 0.78419(11)
+O4 O 0.9301(2) 1.0750(2) 0.78518(11)
+O5 O 0.8152(2) 0.7881(2) 1.08471(11)
+H1 H 0.87890 0.87930 1.10620
+O6 O 0.8675(2) 1.2591(2) 0.83139(13)
+O7 O 0.4948(3) 0.7674(3) 1.18118(13)
+N1 N 0.5051(2) 0.7109(3) 1.10460(14)
+O8 O 0.4440(3) 0.5688(2) 1.08863(16)
+C1 C 0.7415(3) 0.8020(3) 0.99968(15)
+C2 C 0.8653(3) 0.9354(3) 0.93367(15)
+H2 H 0.93760 1.02910 0.97460
+C3 C 0.6998(3) 0.6499(3) 0.94220(16)
+H3 H 0.67440 0.55770 0.98560
+C4 C 0.5999(3) 0.8235(3) 1.02471(16)
+H4 H 0.63840 0.93450 1.04550
+H5 H 0.53180 0.80190 0.96690
+C5 C 0.9302(3) 1.2136(3) 0.75264(17)
+C6 C 0.8510(3) 0.6999(3) 0.88156(16)
+H6 H 0.90350 0.63730 0.89990
+C7 C 0.8005(3) 0.9916(3) 0.85126(16)
+H7 H 0.70940 0.89870 0.81860
+C8 C 0.5536(3) 0.6099(4) 0.70084(18)
+H8 H 0.58450 0.57990 0.64040
+H9 H 0.59240 0.72460 0.70060
+H10 H 0.43730 0.55160 0.70660
+C9 C 0.7543(3) 1.1173(3) 0.87979(16)
+H11 H 0.64480 1.08420 0.85820
+H12 H 0.76090 1.13330 0.95080
+C10 C 0.5821(4) 0.3961(3) 0.7874(2)
+H13 H 0.61520 0.36920 0.72660
+H14 H 0.46670 0.32840 0.79520
+H15 H 0.63650 0.37860 0.84170
+C11 C 0.6251(3) 0.5693(3) 0.78527(16)
+C12 C 1.1001(4) 1.3417(3) 0.7361(2)
+H16 H 1.10270 1.43860 0.71320
+H17 H 1.14860 1.30580 0.68740
+H18 H 1.15960 1.36420 0.79690
+C13 C 0.8273(4) 1.1772(5) 0.6637(2)
+H19 H 0.82820 1.27400 0.64220
+H20 H 0.71800 1.09500 0.67910
+H21 H 0.86890 1.13900 0.61200
+#END

@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YASSIV
+_audit_creation_date 2005-07-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YASSIV
+_database_code_depnum_ccdc_archive 'CCDC 275524'
+_chemical_formula_sum 'C5 H9 N3 O2'
+_chemical_formula_moiety
+;
+C5 H9 N3 O2
+;
+_journal_coeditor_code "IUCr GZ1000"
+_journal_coden_Cambridge 591
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o363
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"N.Ocak Iskeleli"
+"S.Isik"
+"K.Sancak"
+"S.Sasmaz"
+"Y.Unver"
+"M.Er"
+_chemical_name_systematic
+;
+4-Hydroxy-3-n-propyl-4,5-dihydro-1H-1,2,4-triazol-5-one
+;
+_chemical_melting_point 406
+_cell_volume   1375.233
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.383
+_exptl_special_details
+;
+Melting point range 406-407K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0351
+_refine_ls_wR_factor_gt 0.0351
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 27.010(3)
+_cell_length_b 4.2067(3)
+_cell_length_c 12.1089(14)
+_cell_angle_alpha 90
+_cell_angle_beta 91.715(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1 H -0.0420(6) -0.043(4) 0.8054(14)
+C1 C -0.20467(6) 0.1342(5) 0.88243(15)
+H2 H -0.20070 0.19310 0.95880
+H3 H -0.21220 -0.08840 0.87710
+H4 H -0.23120 0.25480 0.84870
+C2 C -0.15735(5) 0.2019(4) 0.82384(12)
+H5 H -0.13040 0.08720 0.86070
+H6 H -0.15000 0.42710 0.82960
+C3 C -0.11474(4) 0.1977(3) 0.64273(9)
+C4 C -0.15970(4) 0.1083(3) 0.70247(11)
+H7 H -0.16440 -0.11980 0.69690
+H8 H -0.18820 0.20970 0.66700
+C5 C -0.03456(4) 0.2233(3) 0.60332(9)
+N1 N -0.06250(4) 0.4103(3) 0.53765(8)
+H9 H -0.05080 0.52500 0.48570
+N2 N -0.11232(4) 0.4000(3) 0.56215(8)
+N3 N -0.06835(3) 0.0842(2) 0.66942(7)
+O1 O -0.05747(3) -0.1542(2) 0.74336(7)
+O2 O 0.01132(3) 0.1830(2) 0.60593(7)
+#END

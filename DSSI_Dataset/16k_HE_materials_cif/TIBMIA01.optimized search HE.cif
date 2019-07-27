@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TIBMIA01
+_audit_creation_date 2013-04-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TIBMIA01
+_database_code_depnum_ccdc_archive 'CCDC 910889'
+_chemical_formula_sum 'C5 H5 N5 O5'
+_chemical_formula_moiety
+;
+C5 H5 N5 O5
+;
+_journal_coden_Cambridge 1500
+_journal_volume 3
+_journal_year 2013
+_journal_page_first 2917
+_journal_name_full 'RSC Advances '
+loop_
+_publ_author_name
+"Jin-Jian Liu"
+"Zu-Liang Liu"
+"Jian Cheng"
+"Dong Fang"
+_chemical_name_systematic
+;
+2,6-diamino-3,5-dinitropyridine 1-oxide
+;
+_cell_volume    756.864
+_exptl_crystal_density_diffrn 1.888
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0493
+_refine_ls_wR_factor_gt 0.0493
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.740(3)
+_cell_length_b 7.2920(15)
+_cell_length_c 7.5740(15)
+_cell_angle_alpha 90
+_cell_angle_beta 111.61(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.00000 0.7280(3) 0.25000
+C1 C 1.00000 0.1717(4) 0.25000
+H1 H 1.00000 0.04410 0.25000
+N1 N 1.00000 0.5487(3) 0.25000
+N2 N 0.85694(12) 0.1642(3) -0.0388(2)
+C2 C 0.92865(12) 0.2663(3) 0.1097(2)
+O2 O 0.86367(13) -0.0017(2) -0.0403(3)
+N3 N 0.86128(11) 0.5704(3) -0.0085(2)
+H2 H 0.86750 0.68740 0.00500
+H3 H 0.81260 0.52480 -0.10010
+C3 C 0.92629(12) 0.4612(3) 0.1110(2)
+O3 O 0.79085(12) 0.2471(2) -0.1617(2)
+N2A N 1.14306(12) 0.1642(3) 0.5388(2)
+C2A C 1.07135(12) 0.2663(3) 0.3903(2)
+O2A O 1.13633(13) -0.0017(2) 0.5403(3)
+N3A N 1.13872(11) 0.5704(3) 0.5085(2)
+H2A H 1.13250 0.68740 0.49500
+H3A H 1.18740 0.52480 0.60010
+C3A C 1.07371(12) 0.4612(3) 0.3890(2)
+O3A O 1.20915(12) 0.2471(2) 0.6617(2)
+#END

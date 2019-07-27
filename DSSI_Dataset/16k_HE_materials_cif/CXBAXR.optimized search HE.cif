@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CXBAXR
+_audit_creation_date 1977-07-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CXBAXR
+_chemical_formula_sum 'C12 H15 N1 O3'
+_chemical_formula_moiety
+;
+C12 H15 N1 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 30
+_journal_year 1974
+_journal_page_first 1087
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"F.G.Riddell"
+"P.Murray-Rust"
+"J.Murray-Rust"
+_chemical_name_systematic
+;
+N-(p-Carboxybenzyl)-tetrahydro-1,2-oxazine
+;
+_chemical_melting_point 428.15
+_cell_volume   2263.220
+_exptl_crystal_density_diffrn 1.307
+_exptl_special_details
+;
+Melting point range 428.15-431.15K
+ALL HYDROGENS REMOVED FOR LARGE DISCREPANCIES BETWEEN CALCULATED AND 
+PUBLISHED BONDS SUGGEST INACCURATE COORDINATES. FOR BOND C13-H14 READ C13-C14 
+Y-COORD OF C21 SHOULD BE NEGATIVE
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.057
+_refine_ls_wR_factor_gt 0.057
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 16.65(2)
+_cell_length_b 9.87(1)
+_cell_length_c 14.43(2)
+_cell_angle_alpha 90
+_cell_angle_beta 107.37
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.42970 0.48790 0.35860
+N1 N 0.36100 0.39860 0.36200
+C1 C 0.32940 0.33090 0.26670
+C2 C 0.29230 0.43660 0.18950
+C3 C 0.35920 0.54170 0.18950
+C4 C 0.39650 0.59700 0.29100
+C5 C 0.39880 0.30420 0.44330
+C6 C 0.47020 0.21700 0.43140
+C7 C 0.55170 0.26590 0.46290
+C8 C 0.61720 0.19030 0.45000
+C9 C 0.60220 0.06390 0.40510
+C10 C 0.52100 0.01340 0.37550
+C11 C 0.45540 0.08960 0.38870
+C12 C 0.67120 -0.01780 0.38710
+O2 O 0.74510 0.04250 0.41310
+O3 O 0.65960 -0.12800 0.34870
+#END

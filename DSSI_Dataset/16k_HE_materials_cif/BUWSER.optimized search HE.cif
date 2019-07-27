@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BUWSER
+_audit_creation_date 1984-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BUWSER
+_database_code_depnum_ccdc_archive 'CCDC 1117605'
+_chemical_formula_sum 'C10 H8 N2 O4'
+_chemical_formula_moiety
+;
+C10 H8 N2 O4
+;
+_journal_coden_Cambridge 34
+_journal_volume 20
+_journal_year 1983
+_journal_page_first 385
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"M.Giannella"
+"F.Gualtieri"
+"W.Fedeli"
+"S.Cerrini"
+"E.Gavuzzo"
+_chemical_name_systematic
+;
+Methyl 4-(2'-hydroxyphenyl)furazan-3-carboxylate
+;
+_chemical_melting_point 381.15
+_cell_volume   1041.206
+_exptl_crystal_density_diffrn 1.4
+_exptl_special_details
+;
+Melting point range 381.15-383.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.095
+_refine_ls_wR_factor_gt 0.095
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 15.090(9)
+_cell_length_b 8.968(6)
+_cell_length_c 7.764(4)
+_cell_angle_alpha 90
+_cell_angle_beta 97.70(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.77510 0.22390 0.66400
+C2 C 0.81280 0.36130 0.70920
+C3 C 0.89800 0.36410 0.80800
+C4 C 0.94390 0.23450 0.85810
+C5 C 0.90400 0.09900 0.81630
+C6 C 0.81880 0.09190 0.71560
+C7 C 0.78100 -0.05130 0.66400
+C8 C 0.69230 -0.10850 0.66750
+C9 C 0.61630 -0.04190 0.74380
+C10 C 0.46070 -0.03970 0.74760
+N1 N 0.82660 -0.15270 0.59420
+N2 N 0.68470 -0.24440 0.60380
+O1 O 0.69430 0.21270 0.56340
+O2 O 0.76870 -0.27420 0.55680
+O3 O 0.53850 -0.09570 0.67520
+O4 O 0.62700 0.04740 0.86130
+H1 H 0.77950 0.45680 0.67160
+H2 H 0.91910 0.46400 0.84220
+H3 H 0.99910 0.24570 0.93850
+H4 H 0.94000 -0.00150 0.83140
+H5 H 0.40420 -0.05770 0.66680
+H6 H 0.45530 -0.08820 0.86260
+H7 H 0.47000 0.09090 0.77000
+H8 H 0.66560 0.30000 0.51330
+#END

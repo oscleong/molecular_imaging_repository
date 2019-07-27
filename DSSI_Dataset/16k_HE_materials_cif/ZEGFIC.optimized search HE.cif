@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZEGFIC
+_audit_creation_date 2013-01-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZEGFIC
+_database_code_depnum_ccdc_archive 'CCDC 891076'
+_chemical_formula_sum 'C20 H20 N2 O3'
+_chemical_formula_moiety
+;
+C20 H20 N2 O3
+;
+_journal_coden_Cambridge 177
+_journal_volume 10
+_journal_year 2012
+_journal_page_first 7863
+_journal_name_full 'Org.Biomol.Chem. '
+loop_
+_publ_author_name
+"N.Chandan"
+"A.L.Thompson"
+"M.G.Moloney"
+_chemical_name_systematic
+;
+Ethyl 2-(hydroxyimino)-4,6-diphenyl-1,2,3,4-tetrahydropyridine-3-carboxylate
+;
+_cell_volume   1707.482
+_exptl_crystal_colour 'pale colorless'
+_exptl_crystal_density_diffrn 1.308
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+C181,C191,O171 and C180,C190,O170 disordered over two sites with occupancies 
+0.5424:0.4576.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0329
+_refine_ls_wR_factor_gt 0.0329
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+_cell_length_a 17.6423(5)
+_cell_length_b 7.4224(2)
+_cell_length_c 13.8157(4)
+_cell_angle_alpha 90
+_cell_angle_beta 109.2988(12)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.80360 0.34030 0.83840
+N1 N 0.77820 0.47260 0.89630
+C1 C 0.77770 0.62750 0.85450
+N2 N 0.80090 0.65470 0.77010
+C2 C 0.78460 0.81520 0.71290
+C3 C 0.81980 0.82410 0.62930
+C4 C 0.88330 0.71150 0.62960
+C5 C 0.91500 0.71590 0.54940
+C6 C 0.88480 0.83480 0.46930
+C7 C 0.82240 0.94770 0.46860
+C8 C 0.78920 0.94200 0.54680
+C9 C 0.73970 0.94360 0.73470
+C10 C 0.70240 0.92120 0.81790
+C11 C 0.75350 0.79130 0.90150
+C12 C 0.82710 0.88670 0.97350
+O2 O 0.84420 1.04320 0.96830
+C13 C 0.61430 0.86130 0.77840
+C14 C 0.57010 0.86940 0.84560
+C15 C 0.48970 0.81740 0.81390
+C16 C 0.45280 0.75630 0.71520
+C17 C 0.49570 0.74810 0.64780
+C18 C 0.57660 0.80020 0.67930
+O3 O 0.87590 0.76890 1.03780
+C19 C 0.94580 0.84070 1.11960
+C20 C 0.92540 0.85540 1.21670
+H1 H 0.90670 0.63080 0.68630
+H2 H 0.95830 0.63840 0.55090
+H3 H 0.90650 0.83860 0.41410
+H4 H 0.79990 1.02880 0.41230
+H5 H 0.74480 1.01560 0.54410
+H6 H 0.73250 1.05320 0.69840
+H7 H 0.70570 1.04100 0.85290
+H8 H 0.72310 0.74840 0.94380
+H9 H 0.59630 0.91090 0.91330
+H10 H 0.46080 0.82420 0.86040
+H11 H 0.39880 0.71830 0.69520
+H12 H 0.47000 0.70990 0.58010
+H13 H 0.60560 0.79430 0.63130
+H14 H 0.99080 0.75940 1.12910
+H15 H 0.95840 0.96070 1.09940
+H16 H 0.96960 0.90330 1.27300
+H17 H 0.91170 0.73770 1.23590
+H18 H 0.87990 0.93410 1.20470
+H19 H 0.81370 0.55950 0.74380
+H20 H 0.80730 0.24860 0.87460
+C21? C 0.93040 0.86010 1.13740
+C22? C 1.00490 0.85980 1.10800
+H21? H 0.93880 0.78640 1.19760
+H22? H 0.91670 0.98280 1.15280
+H23? H 1.01280 0.74550 1.08100
+H24? H 1.05090 0.88600 1.16860
+H25? H 1.00050 0.94990 1.05760
+O4? O 0.86400 0.78160 1.05320
+#END

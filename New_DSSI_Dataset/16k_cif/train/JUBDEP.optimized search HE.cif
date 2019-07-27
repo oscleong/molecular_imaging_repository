@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUBDEP
+_audit_creation_date 1993-03-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUBDEP
+_chemical_formula_sum 'C18 H20 N2 O3'
+_chemical_formula_moiety
+;
+C18 H20 N2 O3
+;
+_journal_coeditor_code "IUCr CR0293"
+_journal_coden_Cambridge 591
+_journal_volume 48
+_journal_year 1992
+_journal_page_first 1996
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"P.Singh"
+"S.G.Levine"
+"K.Kasdorf"
+_chemical_name_systematic
+;
+4\b-(Nitromethyl)-2\a,6\a-diphenyl-4\a-piperidinol
+;
+_chemical_melting_point 451
+_cell_volume   1597.084
+_exptl_crystal_density_diffrn 1.3
+_exptl_special_details
+;
+Melting point range 451-453K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Nitromethyl group is crystallographically disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.065
+_refine_ls_wR_factor_gt 0.065
+loop_
+_citation_database_id_CSD
+_citation_special_details
+JUBDIT "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C c m 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2+z
+4 1/2-x,1/2+y,1/2+z
+5 x,-y,z
+6 1/2+x,1/2-y,z
+7 -x,-y,1/2+z
+8 1/2-x,1/2-y,1/2+z
+_cell_length_a 10.548(6)
+_cell_length_b 19.590(11)
+_cell_length_c 7.729(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4023(6) 0.00000 0.61720
+O2 O 0.4083(7) -0.0866(4) 0.4159(12)
+N1 N 0.3837(7) -0.0296(4) 0.4655(12)
+C1 C 0.3322(8) 0.00000 0.3446(11)
+C2 C 0.1929(5) 0.00000 0.2949(7)
+O3 O 0.1277(4) 0.00000 0.4569(6)
+C3 C 0.1589(4) 0.0634(2) 0.1918(7)
+C4 C 0.2053(4) 0.0617(2) 0.0045(6)
+N2 N 0.1521(4) 0.00000 -0.0777(6)
+C5 C 0.1749(4) 0.1260(2) -0.0952(6)
+C6 C 0.0647(5) 0.1624(3) -0.0713(7)
+C7 C 0.0431(6) 0.2226(3) -0.1615(8)
+C8 C 0.1289(8) 0.2462(3) -0.2758(10)
+C9 C 0.2360(7) 0.2103(4) -0.3072(10)
+C10 C 0.2616(5) 0.1502(3) -0.2170(7)
+H1 H 0.06840 0.06840 0.19090
+H2 H 0.19640 0.10210 0.24830
+H3 H 0.29630 0.06010 0.00400
+H4 H 0.00210 0.14600 0.00880
+H5 H -0.03390 0.24750 -0.14180
+H6 H 0.11360 0.28840 -0.33500
+H7 H 0.29490 0.22680 -0.39220
+H8 H 0.33850 0.12550 -0.23960
+H9 H 0.35440 -0.04720 0.36390
+H10 H 0.37720 -0.01630 0.24450
+H11 H 0.1752(60) 0.00000 -0.1907(93)
+H12 H 0.0519(47) 0.00000 0.4338(88)
+N1D N 0.3837(7) 0.0296(4) 0.4655(12)
+O2D O 0.4083(7) 0.0866(4) 0.4159(12)
+H9D H 0.35440 0.04720 0.36390
+C4D C 0.2053(4) -0.0617(2) 0.0045(6)
+C3D C 0.1589(4) -0.0634(2) 0.1918(7)
+H1D H 0.06840 -0.06840 0.19090
+H2D H 0.19640 -0.10210 0.24830
+C5D C 0.1749(4) -0.1260(2) -0.0952(6)
+C6D C 0.0647(5) -0.1624(3) -0.0713(7)
+C7D C 0.0431(6) -0.2226(3) -0.1615(8)
+C8D C 0.1289(8) -0.2462(3) -0.2758(10)
+C9D C 0.2360(7) -0.2103(4) -0.3072(10)
+C10D C 0.2616(5) -0.1502(3) -0.2170(7)
+H8D H 0.33850 -0.12550 -0.23960
+H7D H 0.29490 -0.22680 -0.39220
+H6D H 0.11360 -0.28840 -0.33500
+H5D H -0.03390 -0.24750 -0.14180
+H4D H 0.00210 -0.14600 0.00880
+H3D H 0.29630 -0.06010 0.00400
+H10D H 0.37720 0.01630 0.24450
+#END

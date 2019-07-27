@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OKIPON
+_audit_creation_date 2003-12-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OKIPON
+_database_code_depnum_ccdc_archive 'CCDC 191234'
+_chemical_formula_sum 'C13 H18 N2 O2'
+_chemical_formula_moiety
+;
+C13 H18 N2 O2
+;
+_journal_coden_Cambridge 1086
+_journal_volume 15
+_journal_year 2003
+_journal_page_first 101
+_journal_name_full 'Chirality '
+loop_
+_publ_author_name
+"M.A.Arai"
+"M.Kuraishi"
+"T.Arai"
+"H.Sasai"
+_chemical_name_systematic
+;
+(M*,3aR*,3a'R*)-3a,3a',4,4',5,5',6,6'-octahydro-3H,3'H-7,7'-spirobi((2,1)benzi
+soxazole)
+;
+_cell_volume   1195.198
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.302
+_exptl_special_details
+;
+chair conformer
+
+;
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 198.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0669
+_refine_ls_wR_factor_gt 0.0669
+loop_
+_citation_database_id_CSD
+_citation_special_details
+OKIPUT "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,y,1/2+z
+4 1/2+x,-y,z
+_cell_length_a 10.159(3)
+_cell_length_b 12.82(1)
+_cell_length_c 9.177(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.1797(2) 0.0029(1) 0.2561(2)
+O2 O 1.1818(2) 0.4955(1) 0.2961(2)
+N1 N 1.0934(2) 0.0820(2) 0.2014(2)
+N2 N 1.0968(2) 0.4162(1) 0.3547(2)
+C1 C 0.9916(1) 0.2483(3) 0.2793(3)
+C2 C 0.9043(2) 0.2590(2) 0.4149(2)
+C3 C 0.9789(2) 0.2485(2) 0.5646(2)
+C4 C 1.0545(3) 0.1454(2) 0.5714(3)
+C5 C 1.1537(2) 0.1356(2) 0.4407(2)
+C6 C 1.2151(4) 0.0262(2) 0.4056(3)
+C7 C 1.0787(2) 0.1546(2) 0.2983(2)
+C8 C 0.9028(2) 0.2437(2) 0.1389(2)
+C9 C 0.9760(2) 0.2544(2) -0.0025(2)
+C10 C 1.0595(3) 0.3560(2) -0.0108(3)
+C11 C 1.1495(3) 0.3651(2) 0.1185(2)
+C12 C 1.1997(3) 0.4747(2) 0.1438(3)
+C13 C 1.0815(2) 0.3457(2) 0.2590(2)
+H1 H 0.859(3) 0.338(2) 0.403(3)
+H2 H 0.852(3) 0.186(2) 0.412(3)
+H3 H 1.051(3) 0.316(2) 0.569(3)
+H4 H 0.917(2) 0.247(1) 0.646(2)
+H5 H 1.115(2) 0.148(2) 0.660(2)
+H6 H 0.997(2) 0.079(1) 0.564(2)
+H7 H 1.232(2) 0.190(2) 0.442(2)
+H8 H 1.327(3) 0.027(2) 0.387(3)
+H9 H 1.204(3) -0.023(2) 0.479(3)
+H10 H 0.824(2) 0.293(1) 0.157(2)
+H11 H 0.847(2) 0.183(2) 0.134(2)
+H12 H 0.906(3) 0.245(3) -0.085(3)
+H13 H 1.028(2) 0.193(2) -0.023(2)
+H14 H 1.000(4) 0.412(3) -0.045(4)
+H15 H 1.094(3) 0.369(2) -0.111(4)
+H16 H 1.220(2) 0.317(2) 0.099(3)
+H17 H 1.132(3) 0.524(2) 0.094(3)
+H18 H 1.300(2) 0.485(2) 0.115(2)
+#END

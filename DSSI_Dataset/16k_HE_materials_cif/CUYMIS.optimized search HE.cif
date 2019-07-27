@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUYMIS
+_audit_creation_date 1986-03-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUYMIS
+_chemical_formula_sum 'C14 H15 N1 O3'
+_chemical_formula_moiety
+;
+C14 H15 N1 O3
+;
+_journal_coden_Cambridge 35
+_journal_volume 49
+_journal_year 1984
+_journal_page_first 4098
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"D.L.Bodger"
+"M.Patel"
+_chemical_name_systematic
+;
+N-Benzoyl-3-aza-6-hydroxymethyl-2-oxabicyclo(2.2.2)oct-5-ene
+;
+_cell_volume   1193.353
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.37
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.038
+_refine_ls_wR_factor_gt 0.038
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.119(2)
+_cell_length_b 11.575(3)
+_cell_length_c 12.158(3)
+_cell_angle_alpha 90
+_cell_angle_beta 111.58(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2788(2) -0.0748(1) 0.2201(1)
+O2 O 0.6571(2) 0.1425(1) 0.5099(1)
+O3 O 0.0679(2) -0.0541(2) 0.3118(1)
+N1 N 0.1763(2) 0.0233(1) 0.1871(2)
+C1 C 0.4421(2) -0.0407(2) 0.2424(2)
+C2 C 0.4891(2) 0.0569(2) 0.3296(2)
+C3 C 0.3953(2) 0.1476(2) 0.2940(2)
+C4 C 0.2640(2) 0.1289(2) 0.1763(2)
+C5 C 0.3334(3) 0.1022(2) 0.0823(2)
+C6 C 0.4492(3) 0.0009(2) 0.1257(2)
+C7 C 0.6308(2) 0.0424(2) 0.4390(2)
+C8 C 0.0713(2) 0.0230(2) 0.2436(2)
+C9 C -0.0496(2) 0.1159(2) 0.2087(2)
+C10 C -0.1148(2) 0.1582(2) 0.0944(2)
+C11 C -0.2359(2) 0.2387(2) 0.0649(2)
+C12 C -0.2921(3) 0.2771(2) 0.1493(3)
+C13 C -0.2283(3) 0.2355(2) 0.2629(3)
+C14 C -0.1078(3) 0.1549(2) 0.2928(2)
+H1 H 0.7397(33) 0.1237(25) 0.5770(25)
+H2 H 0.51200 -0.10470 0.27360
+H3 H 0.40950 0.21810 0.33840
+H4 H 0.19820 0.19630 0.15510
+H5 H 0.25030 0.08170 0.00950
+H6 H 0.38800 0.16890 0.06990
+H7 H 0.55420 0.02610 0.13730
+H8 H 0.41940 -0.06050 0.06870
+H9 H 0.72100 0.02860 0.41800
+H10 H 0.61530 -0.02240 0.48290
+H11 H -0.07600 0.13170 0.03530
+H12 H -0.28070 0.26770 -0.01450
+H13 H -0.37580 0.33290 0.12870
+H14 H -0.26740 0.26240 0.32170
+H15 H -0.06410 0.12580 0.37220
+#END

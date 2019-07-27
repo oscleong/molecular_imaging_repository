@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CABVAC
+_audit_creation_date 1984-04-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CABVAC
+_database_code_depnum_ccdc_archive 'CCDC 1118668'
+_chemical_formula_sum 'C20 H22 N2 O1'
+_chemical_formula_moiety
+;
+C20 H22 N2 O1
+;
+_journal_coden_Cambridge 387
+_journal_year 1983
+_journal_page_first 54-1
+_journal_name_full 'Izv.Akad.Nauk Kaz.SSR,Ser.Khim.(Russ.)(Bull.Acad.Sci.Kazakhstan,Chem.) '
+loop_
+_publ_author_name
+"A.A.Espenbetov"
+"A.I.Yanovsky"
+"Yu.T.Struchkov"
+"T.T.Omarov"
+"A.S.Aldabergenov"
+_chemical_name_systematic
+;
+2,4-Diphenyl-3-aza-9-hydroxyiminobicyclo(3.3.1)nonane
+;
+_chemical_melting_point 461.15
+_cell_volume   1648.488
+_exptl_crystal_density_diffrn 1.235
+_exptl_special_details
+;
+Melting point range 461.15-462.15K
+x coordinate of H(C9) should be -0.385, not +0.385
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The OH group is disordered as a result of the crystallographic mirror plane 
+in the molecule. No positions have been retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0355
+_refine_ls_wR_factor_gt 0.0355
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 6.9575(7)
+_cell_length_b 20.911(2)
+_cell_length_c 11.5313(4)
+_cell_angle_alpha 90
+_cell_angle_beta 100.702(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.12030 0.50000 0.22970
+N2 N 0.36820 0.50000 0.09200
+C1 C 0.25420 0.50000 0.16680
+C2 C 0.18180 0.44020 0.21610
+C3 C -0.04520 0.44160 0.18330
+C4 C 0.27100 0.43910 0.34930
+C5 C 0.23340 0.50000 0.41430
+C6 C -0.14210 0.38320 0.22340
+C7 C -0.17550 0.37620 0.33760
+C8 C -0.26500 0.32170 0.37120
+C9 C -0.32330 0.27370 0.29110
+C10 C -0.29310 0.28020 0.17710
+C11 C -0.20460 0.33450 0.14300
+H1 H -0.24700 0.50000 0.21200
+H2 H 0.22900 0.40300 0.17700
+H3 H -0.07200 0.44400 0.09600
+H4 H 0.41500 0.43400 0.35300
+H5 H 0.22300 0.40000 0.38600
+H6 H 0.09700 0.50000 0.42400
+H7 H 0.32400 0.50000 0.49500
+H8 H -0.13700 0.41100 0.39400
+H9 H -0.29200 0.31800 0.45400
+H10 H -0.38500 0.23500 0.31900
+H11 H -0.33800 0.24800 0.11700
+H12 H -0.18500 0.34100 0.06000
+C3F C -0.04520 0.55840 0.18330
+C2F C 0.18180 0.55980 0.21610
+C4F C 0.27100 0.56090 0.34930
+C6F C -0.14210 0.61680 0.22340
+H3F H -0.07200 0.55600 0.09600
+H2F H 0.22900 0.59700 0.17700
+H4F H 0.41500 0.56600 0.35300
+H5F H 0.22300 0.60000 0.38600
+C7F C -0.17550 0.62380 0.33760
+C11F C -0.20460 0.66550 0.14300
+C8F C -0.26500 0.67830 0.37120
+H8F H -0.13700 0.58900 0.39400
+C10F C -0.29310 0.71980 0.17710
+H12F H -0.18500 0.65900 0.06000
+C9F C -0.32330 0.72630 0.29110
+H9F H -0.29200 0.68200 0.45400
+H11F H -0.33800 0.75200 0.11700
+H10F H -0.38500 0.76500 0.31900
+#END

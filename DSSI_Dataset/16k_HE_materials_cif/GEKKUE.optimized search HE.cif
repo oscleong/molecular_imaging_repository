@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEKKUE
+_audit_creation_date 2013-01-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEKKUE
+_database_code_depnum_ccdc_archive 'CCDC 821922'
+_chemical_formula_sum 'C12 H13 N3 O3'
+_chemical_formula_moiety
+;
+C12 H13 N3 O3
+;
+_journal_coden_Cambridge 95
+_journal_year 2011
+_journal_page_first 1697
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"V.A.Samsonov"
+"I.Yu.Bagryanskaya"
+"Yu.V.Gatilov"
+"V.A.Savel'ev"
+_chemical_name_systematic
+;
+6-Nitrospiro(2H-benzimidazole-2,1'-cyclohexane)-1-oxide
+;
+_chemical_melting_point 405.15
+_cell_volume   1156.834
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.42
+_exptl_special_details
+;
+Melting point range 405.15-408.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'ethyl acetate/hexane'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0429
+_refine_ls_wR_factor_gt 0.0429
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 21.119(1)
+_cell_length_b 6.5679(4)
+_cell_length_c 8.3401(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.15583(8) 0.25000 0.8064(2)
+C1 C -0.13578(10) 0.25000 0.9718(2)
+N2 N -0.06418(9) 0.25000 0.9648(2)
+C2 C -0.04706(10) 0.25000 0.8118(3)
+C3 C 0.01371(10) 0.25000 0.7437(3)
+H1 H 0.05030 0.25000 0.80570
+C4 C 0.01529(10) 0.25000 0.5823(3)
+C5 C -0.04035(11) 0.25000 0.4826(3)
+H2 H -0.03600 0.25000 0.37160
+C6 C -0.09853(11) 0.25000 0.5480(3)
+H3 H -0.13430 0.25000 0.48310
+C7 C -0.10465(10) 0.25000 0.7196(2)
+C8 C -0.15722(8) 0.0574(3) 1.0587(2)
+H4 H -0.14700 -0.06060 0.99370
+H5 H -0.13450 0.04540 1.15930
+C9 C -0.22783(9) 0.0606(3) 1.0918(2)
+H6 H -0.25070 0.05540 0.99100
+H7 H -0.23930 -0.05890 1.15370
+C10 C -0.24702(12) 0.25000 1.1830(3)
+H8 H -0.22690 0.25000 1.28750
+H9 H -0.29250 0.25000 1.19900
+N3 N 0.07715(10) 0.25000 0.5020(3)
+O1 O -0.02933(9) 0.25000 1.0876(2)
+O2 O 0.12476(9) 0.25000 0.5865(2)
+O3 O 0.07836(10) 0.25000 0.3562(2)
+C8F C -0.15722(8) 0.4426(3) 1.0587(2)
+H4F H -0.14700 0.56060 0.99370
+H5F H -0.13450 0.45460 1.15930
+C9F C -0.22783(9) 0.4394(3) 1.0918(2)
+H6F H -0.25070 0.44460 0.99100
+H7F H -0.23930 0.55890 1.15370
+#END

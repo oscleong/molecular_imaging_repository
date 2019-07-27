@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOBDED
+_audit_creation_date 2014-05-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOBDED
+_database_code_depnum_ccdc_archive 'CCDC 994288'
+_chemical_formula_sum 'C18 H16 N2 O8'
+_chemical_formula_moiety
+;
+C18 H16 N2 O8
+;
+_journal_coden_Cambridge 1078
+_journal_year 2014
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"J.Williams"
+"K.L.Evans"
+"F.R.Fronczek"
+_chemical_name_systematic
+;
+1,1'-ethyne-1,2-diylbis(2-(methoxymethoxy)-6-nitrobenzene)
+;
+_chemical_melting_point 408
+_cell_volume   1758.072
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.467
+_exptl_special_details
+;
+Melting point range 408-409K
+contribution from Department of Chemistry, Louisiana State University, Baton 
+Rouge, LA 70803, USA
+;
+_exptl_crystal_description 'wedge'
+_exptl_crystal_preparation 'hexane/chloroform'
+_diffrn_ambient_temperature 297
+_refine_special_details
+;
+O3,O4 and O3A,O4A disordered over two sites with occupancies 0.839:0.161.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0477
+_refine_ls_wR_factor_gt 0.0477
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 23.733(3)
+_cell_length_b 4.6295(5)
+_cell_length_c 19.061(3)
+_cell_angle_alpha 90
+_cell_angle_beta 122.916(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.32634(6) 0.6445(3) 0.64147(7)
+O2 O 0.39686(6) 0.8476(3) 0.77424(7)
+O3 O 0.10392(14) 0.2036(10) 0.4241(2)
+O4 O 0.04632(9) 0.2700(6) 0.47816(18)
+N1 N 0.09703(7) 0.3106(3) 0.47559(9)
+C1 C 0.23739(8) 0.3147(3) 0.51510(9)
+C2 C 0.21531(7) 0.4850(3) 0.55841(8)
+C3 C 0.26302(8) 0.6619(3) 0.62446(9)
+C4 C 0.24488(9) 0.8365(3) 0.66842(10)
+H1 H 0.27690 0.95230 0.71180
+C5 C 0.17957(9) 0.8382(4) 0.64782(11)
+H2 H 0.16760 0.95880 0.67670
+C6 C 0.13162(9) 0.6639(4) 0.58503(11)
+H3 H 0.08780 0.66240 0.57220
+C7 C 0.15003(8) 0.4913(3) 0.54148(9)
+C8 C 0.37252(9) 0.8678(4) 0.69016(11)
+H4 H 0.41000 0.86100 0.68300
+H5 H 0.35050 1.05320 0.66950
+C9 C 0.4482(1) 0.6393(5) 0.81815(14)
+H6 H 0.43100 0.45110 0.79530
+H7 H 0.46320 0.64190 0.87610
+H8 H 0.48520 0.68380 0.81270
+O5? O 0.1189(5) 0.101(2) 0.4541(7)
+O6? O 0.0427(5) 0.389(2) 0.4354(7)
+O1F O 0.17366(6) -0.1445(3) 0.35853(7)
+O2F O 0.10314(6) -0.3476(3) 0.22576(7)
+O3F O 0.39608(14) 0.2964(10) 0.5759(2)
+O4F O 0.45368(9) 0.2300(6) 0.52184(18)
+N1F N 0.40297(7) 0.1894(3) 0.52441(9)
+C1F C 0.26261(8) 0.1853(3) 0.48490(9)
+C2F C 0.28469(7) 0.0150(3) 0.44159(8)
+C3F C 0.23698(8) -0.1619(3) 0.37554(9)
+C4F C 0.25512(9) -0.3365(3) 0.33158(10)
+H1F H 0.22310 -0.45230 0.28820
+C5F C 0.32043(9) -0.3382(4) 0.35218(11)
+H2F H 0.33240 -0.45880 0.32330
+C6F C 0.36838(9) -0.1639(4) 0.41497(11)
+H3F H 0.41220 -0.16240 0.42780
+C7F C 0.34997(8) 0.0087(3) 0.45852(9)
+C8F C 0.12748(9) -0.3678(4) 0.30984(11)
+H4F H 0.09000 -0.36100 0.31700
+H5F H 0.14950 -0.55320 0.33050
+C9F C 0.0518(1) -0.1393(5) 0.18185(14)
+H6F H 0.06900 0.04890 0.20470
+H7F H 0.03680 -0.14190 0.12390
+H8F H 0.01480 -0.18380 0.18730
+#END

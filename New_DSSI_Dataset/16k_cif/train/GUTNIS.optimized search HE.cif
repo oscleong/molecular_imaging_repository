@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUTNIS
+_audit_creation_date 2003-05-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUTNIS
+_database_code_depnum_ccdc_archive 'CCDC 198782'
+_chemical_formula_sum 'C7 H5 N1 O5'
+_chemical_formula_moiety
+;
+C7 H5 N1 O5
+;
+_journal_coden_Cambridge 440
+_journal_volume 27
+_journal_year 2003
+_journal_page_first 224
+_journal_name_full 'New J.Chem. '
+loop_
+_publ_author_name
+"V.S.S.Kumar"
+"A.Nangia"
+"M.T.Kirchner"
+"R.Boese"
+_chemical_name_systematic
+;
+5-Nitrosalicylic acid
+;
+_chemical_melting_point 501
+_cell_volume    367.468
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.655
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0583
+_refine_ls_wR_factor_gt 0.0583
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.2010(7)
+_cell_length_b 8.8753(13)
+_cell_length_c 9.2841(13)
+_cell_angle_alpha 62.449(2)
+_cell_angle_beta 75.388(2)
+_cell_angle_gamma 81.657(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4686(2) 0.27889(13) 0.57106(13)
+O1 O 0.30664(18) 0.32653(12) -0.01865(11)
+H1 H 0.44050 0.26010 -0.05450
+O2 O 0.73707(19) 0.12891(12) -0.02281(11)
+O3 O 0.92365(17) 0.01343(11) 0.19948(10)
+H2 H 1.03390 -0.03260 0.14370
+O4 O 0.6544(2) 0.19121(16) 0.62906(14)
+O5 O 0.3121(2) 0.35707(13) 0.63743(12)
+C1 C 0.3558(2) 0.30977(14) 0.12340(14)
+C2 C 0.5655(2) 0.20810(13) 0.19541(14)
+C3 C 0.6013(2) 0.19789(14) 0.34390(14)
+H3 H 0.73890 0.13060 0.39290
+C4 C 0.4291(2) 0.28931(14) 0.41685(14)
+C5 C 0.2219(2) 0.39069(16) 0.34659(15)
+H4 H 0.10910 0.45180 0.39740
+C6 C 0.1842(2) 0.40057(16) 0.20126(16)
+H5 H 0.04470 0.46770 0.15430
+C7 C 0.7504(2) 0.11327(14) 0.11419(15)
+#END

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAVFIE
+_audit_creation_date 1990-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAVFIE
+_chemical_formula_sum 'C17 H16 N6 O7'
+_chemical_formula_moiety
+;
+C17 H16 N6 O7
+;
+_journal_coden_Cambridge 188
+_journal_year 1989
+_journal_page_first 893
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"M.D.McFarlane"
+"D.M.Smith"
+"G.Ferguson"
+"B.Kaitner"
+_chemical_name_systematic
+;
+2-Acetamido-2'-(N-methylacetamido)-5,5'-dinitro-ONN-azoxybenzene
+;
+_chemical_melting_point 463.15
+_cell_volume   1849.939
+_exptl_crystal_density_diffrn 1.49
+_exptl_special_details
+;
+Melting point range 463.15-467.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One of the methyl groups (C17) has its hydrogens disordered equally over two 
+sites.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 19.949(4)
+_cell_length_b 10.289(4)
+_cell_length_c 9.101(2)
+_cell_angle_alpha 90
+_cell_angle_beta 97.98(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.02899(9) 0.2256(2) 0.5871(2)
+O2 O -0.2090(1) 0.3734(2) 0.3953(2)
+O3 O -0.0688(1) -0.1340(3) 0.0664(3)
+O4 O 0.0251(1) -0.0530(3) 0.1675(3)
+O5 O -0.1397(1) 0.8053(2) 0.6318(3)
+O6 O 0.1465(1) 0.5951(3) 1.0488(3)
+O7 O 0.1598(1) 0.4168(3) 0.9346(3)
+N1 N -0.0307(1) 0.2611(2) 0.5439(3)
+N2 N -0.0588(1) 0.3675(2) 0.5745(3)
+N3 N -0.1772(1) 0.2103(2) 0.5528(3)
+N4 N -0.0360(1) -0.0632(3) 0.1558(3)
+N5 N -0.1205(1) 0.5906(2) 0.5935(3)
+N6 N 0.1272(1) 0.5133(3) 0.9551(3)
+C1 C -0.0717(1) 0.1718(3) 0.4433(3)
+C2 C -0.1400(1) 0.1520(3) 0.4462(3)
+C3 C -0.1735(1) 0.0624(3) 0.3488(3)
+C4 C -0.1402(2) -0.0050(3) 0.2516(3)
+C5 C -0.0720(2) 0.0150(3) 0.2543(3)
+C6 C -0.0365(1) 0.1008(3) 0.3500(3)
+C7 C -0.1829(2) 0.1334(4) 0.6853(4)
+C8 C -0.2138(2) 0.3183(3) 0.5120(3)
+C9 C -0.2586(2) 0.3675(4) 0.6182(4)
+C10 C -0.0241(1) 0.4548(3) 0.6771(3)
+C11 C -0.0611(1) 0.5699(3) 0.6910(3)
+C12 C -0.0378(2) 0.6589(3) 0.8017(3)
+C13 C 0.0236(2) 0.6403(3) 0.8890(3)
+C14 C 0.0610(1) 0.5322(3) 0.8662(3)
+C15 C 0.0382(2) 0.4381(3) 0.7645(3)
+C16 C -0.1538(2) 0.7068(3) 0.5638(4)
+C17 C -0.2089(2) 0.7009(4) 0.4364(4)
+H1 H -0.22040 0.04750 0.34960
+H2 H -0.16380 -0.06460 0.18340
+H3 H 0.01090 0.11140 0.35230
+H4 H -0.06430 0.73300 0.81700
+H5 H 0.03960 0.70130 0.96390
+H6 H 0.06450 0.36270 0.75400
+H7 H -0.14010 0.51650 0.54190
+H8 H -0.15210 0.06240 0.69040
+H9 H -0.17230 0.18630 0.77090
+H10 H -0.22770 0.10130 0.68080
+H11 H -0.28170 0.44310 0.57840
+H12 H -0.29060 0.30230 0.63380
+H13 H -0.23190 0.38820 0.70990
+H14 H -0.22970 0.78380 0.42190
+H15 H -0.19060 0.67640 0.34940
+H16 H -0.24160 0.63860 0.45620
+H17? H -0.21220 0.61500 0.39760
+H18? H -0.25050 0.72440 0.46860
+H19? H -0.19920 0.75940 0.36130
+#END

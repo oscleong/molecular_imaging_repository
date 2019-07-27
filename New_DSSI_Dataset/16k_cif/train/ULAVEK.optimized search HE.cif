@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ULAVEK
+_audit_creation_date 2016-04-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ULAVEK
+_database_code_depnum_ccdc_archive 'CCDC 1062722'
+_chemical_formula_sum 'C6 H5 N5 O3'
+_chemical_formula_moiety
+;
+C6 H5 N5 O3
+;
+_journal_coden_Cambridge 122
+_journal_volume 51
+_journal_year 2015
+_journal_page_first 545
+_journal_name_full 'Khim.Get.Soedin.,SSSR(Russ.)(Chem.Heterocycl.Compd.) '
+loop_
+_publ_author_name
+"I.L.Dalinger"
+"I.A.Vatsadze"
+"T.K.Shkineva"
+"A.V.Kormanov"
+"A.M.Kozeev"
+"B.B.Averkiev"
+"A.I.Dalinger"
+"M.K.Beklemishev"
+"A.B.Sheremetev"
+_chemical_name_systematic
+;
+3-methyl-4-(1-nitro-1H-pyrazol-3-yl)-1,2,5-oxadiazole
+;
+_cell_volume    808.674
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.603
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0333
+_refine_ls_wR_factor_gt 0.0333
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.5873(8)
+_cell_length_b 13.3804(13)
+_cell_length_c 8.3240(8)
+_cell_angle_alpha 90
+_cell_angle_beta 106.875(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.56066(10) 0.37733(6) 0.86904(10)
+O2 O 0.09778(11) -0.02472(5) 0.36981(10)
+O3 O -0.11072(12) 0.05269(6) 0.17219(10)
+N1 N 0.62881(12) 0.28218(7) 0.91998(11)
+N2 N 0.41140(12) 0.37189(6) 0.72780(11)
+N3 N 0.21674(11) 0.14488(6) 0.51879(10)
+N4 N 0.07180(11) 0.14200(6) 0.37917(10)
+N5 N 0.01586(12) 0.04832(6) 0.30172(10)
+C1 C 0.52497(12) 0.21979(7) 0.81214(11)
+C2 C 0.38816(12) 0.27685(7) 0.69167(11)
+C3 C 0.24017(12) 0.24240(7) 0.54770(11)
+C4 C 0.11037(13) 0.30108(7) 0.42558(12)
+H1 H 0.100(2) 0.3712(12) 0.4183(19)
+C5 C 0.00315(12) 0.23395(7) 0.31682(11)
+H2 H -0.098(2) 0.2407(10) 0.2160(19)
+C6 C 0.55410(16) 0.10992(8) 0.82154(14)
+H3 H 0.659(2) 0.0935(14) 0.911(2)
+H4 H 0.445(2) 0.0768(13) 0.835(2)
+H5 H 0.569(2) 0.0856(12) 0.719(2)
+#END

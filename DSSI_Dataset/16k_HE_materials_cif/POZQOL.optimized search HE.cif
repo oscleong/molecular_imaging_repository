@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_POZQOL
+_audit_creation_date 2009-12-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD POZQOL
+_database_code_depnum_ccdc_archive 'CCDC 710653'
+_chemical_formula_sum 'C10 H8 N2 O5'
+_chemical_formula_moiety
+;
+C10 H8 N2 O5
+;
+_journal_coden_Cambridge 1090
+_journal_volume 20
+_journal_year 2009
+_journal_page_first 355
+_journal_name_full 'Tetrahedron:Asymm. '
+loop_
+_publ_author_name
+"Jun-min Zhang"
+"Zhi-peng Hu"
+"Li-ting Dong"
+"Yi-ning Xuan"
+"Chun-Liang Lou"
+"Ming Yan"
+_chemical_name_systematic
+;
+(1R,2S,3S)-2-Nitro-3-(4-nitrophenyl)cyclopropanecarbaldehyde
+;
+_cell_volume   1051.823
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.491
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethyl acetate/petroleum ether'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0957
+_refine_ls_wR_factor_gt 0.0957
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 7.0946(2)
+_cell_length_b 8.1866(2)
+_cell_length_c 18.1097(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0398(8) 0.0951(5) 0.1755(3)
+O2 O 0.5672(5) 0.2194(6) 0.2400(2)
+O3 O 0.4638(6) 0.0956(5) 0.1545(2)
+O4 O 0.2558(5) 0.9203(4) -0.14555(17)
+O5 O 0.2534(5) 1.0759(3) -0.0511(2)
+N1 N 0.4659(5) 0.2149(4) 0.19221(16)
+N2 N 0.2511(5) 0.9417(4) -0.0803(2)
+C1 C 0.0432(6) 0.2190(6) 0.1950(3)
+H1 H -0.03930 0.23690 0.23410
+C2 C 0.1462(6) 0.3636(6) 0.1745(2)
+H2 H 0.09090 0.46660 0.19160
+C3 C 0.3602(5) 0.3614(5) 0.1713(2)
+H3 H 0.41960 0.46400 0.18650
+C4 C 0.2492(5) 0.3740(4) 0.10480(18)
+H4 H 0.24560 0.27330 0.07560
+C5 C 0.2455(5) 0.5269(4) 0.05919(18)
+C6 C 0.2461(6) 0.6800(5) 0.08848(19)
+H5 H 0.24630 0.69150 0.13960
+C7 C 0.2464(5) 0.8219(4) 0.0442(2)
+H6 H 0.24530 0.92610 0.06460
+C8 C 0.2483(5) 0.7964(3) -0.03127(18)
+C9 C 0.2496(6) 0.6459(4) -0.06067(19)
+H7 H 0.25620 0.63370 -0.11170
+C10 C 0.2414(5) 0.5096(4) -0.0165(2)
+H8 H 0.23310 0.40620 -0.03750
+#END

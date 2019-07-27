@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MUPXAY
+_audit_creation_date 2015-10-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MUPXAY
+_database_code_depnum_ccdc_archive 'CCDC 831796'
+_chemical_formula_sum 'C4 H9 N3 O1'
+_chemical_formula_moiety
+;
+C4 H9 N3 O1
+;
+_journal_coden_Cambridge 562
+_journal_volume 90
+_journal_year 2013
+_journal_page_first 1301
+_journal_name_full 'J.Indian Chem.Soc. '
+loop_
+_publ_author_name
+"J.P.Naskar"
+"B.Guhathakurta"
+"Liping Lu"
+"Miaoli Zhu"
+"R.Bhattacharya"
+_chemical_name_systematic
+;
+3-Hydrazono-N-hydroxybutan-2-imine
+;
+_cell_volume    292.603
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.307
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+N2,O1 disordered by symmetry over two configurations with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0446
+_refine_ls_wR_factor_gt 0.0446
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.440(4)
+_cell_length_b 4.256(3)
+_cell_length_c 10.703(7)
+_cell_angle_alpha 90
+_cell_angle_beta 94.102(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2883(4) 0.1763(8) 0.6048(3)
+H1 H 0.29200 0.39930 0.61830
+H2 H 0.35100 0.07150 0.67750
+H3 H 0.14640 0.10880 0.59020
+C2 C 0.4061(4) 0.0970(6) 0.4933(2)
+N1 N 0.3496(4) 0.1918(6) 0.3815(2)
+O1 O 0.1678(3) 0.3775(6) 0.37255(19)
+H4 H 0.14600 0.44510 0.30090
+H5? H 0.10060 0.42190 0.44190
+H6? H 0.11670 0.45410 0.29780
+N2? N 0.1678(3) 0.3775(6) 0.37255(19)
+C1B C 0.7117(4) -0.1763(8) 0.3952(3)
+H1B H 0.70800 -0.39930 0.38170
+H2B H 0.64900 -0.07150 0.32250
+H3B H 0.85360 -0.10880 0.40980
+C2B C 0.5939(4) -0.0970(6) 0.5067(2)
+N1B N 0.6504(4) -0.1918(6) 0.6185(2)
+O1B O 0.8322(3) -0.3775(6) 0.62745(19)
+H4B H 0.85400 -0.44510 0.69910
+#END

@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BUKTUW
+_audit_creation_date 1983-12-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BUKTUW
+_chemical_formula_sum 'C11 H12 N2 O6'
+_chemical_formula_moiety
+;
+C11 H12 N2 O6
+;
+_journal_coden_Cambridge 5
+_journal_volume 161
+_journal_year 1982
+_journal_page_first 253
+_journal_name_full 'Z.Kristallogr.,Kristallgeom.,Kristallphys.,Kristallchem. '
+loop_
+_publ_author_name
+"P.G.Jones"
+"G.M.Sheldrick"
+"A.J.Kirby"
+"R.Glenn"
+_chemical_name_systematic
+;
+2-(2',5'-Dinitrophenoxy)-tetrahydropyran
+;
+_cell_volume   1209.110
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.41
+_exptl_special_details
+;
+We calculate dx=1.47 (not 1.41)
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The 2'-nitro group is 2-fold disordered. One set of positions has been 
+retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.940(2)
+_cell_length_b 7.911(2)
+_cell_length_c 19.455(4)
+_cell_angle_alpha 90
+_cell_angle_beta 98.34(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.50200 0.56890 0.36460
+C1 C 0.50790 0.41110 0.32640
+H1 H 0.48350 0.31280 0.35220
+C2 C 0.37420 0.42860 0.26380
+H2 H 0.35650 0.32060 0.24140
+H3 H 0.27000 0.46590 0.27850
+C3 C 0.42680 0.55530 0.21250
+H4 H 0.42630 0.66690 0.23190
+H5 H 0.34790 0.55060 0.17020
+C4 C 0.60270 0.51460 0.19720
+H6 H 0.60060 0.40790 0.17360
+H7 H 0.63930 0.60140 0.16820
+C5 C 0.72550 0.50460 0.26400
+H8 H 0.73340 0.61390 0.28570
+H9 H 0.83530 0.47180 0.25350
+O2 O 0.67070 0.38310 0.31160
+C6 C 0.61130 0.59090 0.42410
+C7 C 0.64180 0.75580 0.44970
+C8 C 0.74720 0.78720 0.51120
+H10 H 0.76690 0.90140 0.52700
+C9 C 0.82390 0.65610 0.55000
+H11 H 0.89740 0.67610 0.59300
+C10 C 0.79150 0.49500 0.52520
+C11 C 0.69020 0.45860 0.46330
+H12 H 0.67440 0.34390 0.44750
+N1 N 0.87040 0.35270 0.56750
+O3 O 0.95540 0.38280 0.62180
+O4 O 0.84380 0.21210 0.54530
+N2 N 0.56230 0.90240 0.41190
+O5 O 0.51570 0.89260 0.34620
+O6 O 0.54960 1.03640 0.44000
+#END

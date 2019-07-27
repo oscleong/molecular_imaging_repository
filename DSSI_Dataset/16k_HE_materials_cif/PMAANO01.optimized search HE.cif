@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PMAANO01
+_audit_creation_date 1975-01-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PMAANO01
+_chemical_formula_sum 'C18 H22 N2 O2'
+_chemical_formula_moiety
+;
+C18 H22 N2 O2
+;
+_journal_coden_Cambridge 188
+_journal_year 1974
+_journal_page_first 1210
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"R.Foster"
+"J.Iball"
+"R.Nash"
+_chemical_name_systematic
+;
+5-(Hydroxy(phenyl)amino)-3,3,5-trimethyl-2-phenylisoxazolidine
+;
+_cell_volume   1618.350
+_exptl_crystal_density_diffrn 1.196
+_exptl_special_details
+;
+B polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.098
+_refine_ls_wR_factor_gt 0.098
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.64(1)
+_cell_length_b 7.37(1)
+_cell_length_c 16.14(1)
+_cell_angle_alpha 90
+_cell_angle_beta 94.1(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.15800 0.16920 -0.43750
+C2 C -0.40660 0.00430 -0.63680
+C3 C -0.32420 -0.10150 -0.62910
+C4 C -0.29470 -0.19710 -0.69940
+C5 C -0.34760 -0.18350 -0.77460
+C6 C -0.43000 -0.07760 -0.78100
+C7 C -0.46120 0.01720 -0.71240
+C8 C -0.32140 0.27170 -0.32020
+C9 C -0.25290 0.51440 -0.40990
+C10 C -0.39560 0.40210 -0.61950
+C11 C -0.09230 0.26090 -0.48490
+C12 C 0.00660 0.23500 -0.46340
+C13 C 0.03750 0.12870 -0.39600
+C14 C -0.02770 0.04260 -0.35120
+C15 C -0.12540 0.06080 -0.37090
+C16 C -0.30760 0.33800 -0.40950
+C17 C -0.40390 0.34860 -0.46220
+C18 C -0.37950 0.27260 -0.54790
+N1 N -0.25970 0.18430 -0.45230
+N2 N -0.43250 0.09500 -0.56250
+O1 O -0.28010 0.23370 -0.54040
+O2 O -0.53380 0.14330 -0.57230
+#END

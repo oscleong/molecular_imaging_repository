@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DIXREH
+_audit_creation_date 1987-02-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DIXREH
+_chemical_formula_sum 'C12 H16 N1 O1'
+_chemical_formula_moiety
+;
+C12 H16 N1 O1
+;
+_journal_coden_Cambridge 154
+_journal_volume 39
+_journal_year 1986
+_journal_page_first 357
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"W.K.Busfield"
+"L.M.Engelhardt"
+"P.C.Healy"
+"I.D.Jenkins"
+"S.H.Thang"
+"A.H.White"
+_chemical_name_systematic
+;
+1,1,3,3-Tetramethyl-isoindolin-2-yloxyl
+;
+_cell_volume   2263.715
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.12
+_exptl_special_details
+;
+In the bond table, for molecule B, C8-C11 and C8-C812 have been interchanged
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.023
+_refine_ls_wR_factor_gt 0.023
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 11.585(6)
+_cell_length_b 11.697(10)
+_cell_length_c 16.753(8)
+_cell_angle_alpha 90
+_cell_angle_beta 94.33(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6035(6) 0.5093(6) 0.4462(4)
+C2 C 0.7152(7) 0.5672(7) 0.4220(5)
+C3 C 0.4984(7) 0.5881(7) 0.4335(5)
+C4 C 0.6164(6) 0.4594(7) 0.5315(4)
+C5 C 0.6399(7) 0.5180(6) 0.6016(5)
+C6 C 0.6472(7) 0.4574(8) 0.6737(4)
+C7 C 0.6355(7) 0.3449(8) 0.6715(5)
+C8 C 0.6146(6) 0.2854(6) 0.6035(5)
+C9 C 0.6046(6) 0.3422(6) 0.5318(5)
+C10 C 0.5819(7) 0.2965(6) 0.4477(5)
+C11 C 0.6767(9) 0.2205(8) 0.4235(6)
+C12 C 0.4618(7) 0.2411(7) 0.4332(5)
+N1 N 0.5817(7) 0.4021(6) 0.4008(4)
+O1 O 0.55980 0.4049(5) 0.32670
+H1 H 0.77700 0.52500 0.43200
+H2 H 0.70400 0.58600 0.36300
+H3 H 0.72000 0.64300 0.44700
+H4 H 0.48900 0.61200 0.37200
+H5 H 0.43100 0.56100 0.44500
+H6 H 0.50800 0.66700 0.45500
+H7 H 0.64200 0.60700 0.60600
+H8 H 0.66100 0.50100 0.72300
+H9 H 0.63500 0.30700 0.72200
+H10 H 0.61800 0.19400 0.60600
+H11 H 0.66500 0.19400 0.36300
+H12 H 0.75200 0.24400 0.42900
+H13 H 0.67600 0.13900 0.44700
+H14 H 0.40200 0.28600 0.45400
+H15 H 0.43500 0.22100 0.37900
+H16 H 0.45400 0.16400 0.46200
+C13 C 0.5257(6) 0.1093(6) 0.1439(4)
+C14 C 0.4653(6) 0.2157(6) 0.1655(5)
+C15 C 0.4533(7) 0.0504(6) 0.0781(5)
+C16 C 0.5595(7) 0.0352(6) 0.2141(4)
+C17 C 0.4845(7) -0.0180(7) 0.2637(6)
+C18 C 0.5349(10) -0.0819(8) 0.3271(6)
+C19 C 0.6557(10) -0.0922(8) 0.3416(6)
+C20 C 0.7290(7) -0.0385(7) 0.2930(6)
+C21 C 0.6837(7) 0.0266(6) 0.2276(5)
+C22 C 0.7440(6) 0.0922(6) 0.1678(4)
+C23 C 0.8117(7) 0.1927(7) 0.2040(6)
+C24 C 0.8205(7) 0.0229(7) 0.1194(6)
+N2 N 0.6439(6) 0.1338(5) 0.1153(4)
+O2 O 0.6565(5) 0.1907(4) 0.0533(3)
+H17 H 0.50500 0.25800 0.20600
+H18 H 0.46200 0.27400 0.11700
+H19 H 0.38500 0.21100 0.17400
+H20 H 0.44700 0.08700 0.01900
+H21 H 0.48500 -0.02900 0.05800
+H22 H 0.37000 0.02900 0.07900
+H23 H 0.41200 -0.00900 0.26300
+H24 H 0.49800 -0.13400 0.36000
+H25 H 0.70400 -0.14600 0.38500
+H26 H 0.81200 -0.05600 0.29900
+H27 H 0.83400 0.24700 0.16100
+H28 H 0.76200 0.23800 0.23500
+H29 H 0.87800 0.16900 0.23300
+H30 H 0.78100 -0.05000 0.09100
+H31 H 0.85100 0.05700 0.06900
+H32 H 0.89300 -0.01600 0.14300
+#END

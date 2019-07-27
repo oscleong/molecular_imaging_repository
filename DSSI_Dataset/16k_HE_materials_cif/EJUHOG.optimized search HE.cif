@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EJUHOG
+_audit_creation_date 2003-11-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EJUHOG
+_database_code_depnum_ccdc_archive 'CCDC 214875'
+_database_code_depnum_ccdc_journal 1135/142
+_chemical_formula_sum 'C9 H10 N2 O2'
+_chemical_formula_moiety
+;
+C9 H10 N2 O2
+;
+_journal_coden_Cambridge 1135
+_journal_year 2003
+_journal_page_first 116
+_journal_name_full 'Mendeleev Commun. '
+loop_
+_publ_author_name
+"I.V.Vystorop"
+"K.A.Lyssenko"
+"R.G.Kostyanovsky"
+_chemical_name_systematic
+;
+2-Phenyl-3-hydroxyimidazolidin-4-one
+;
+_chemical_melting_point 423
+_cell_volume    819.814
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.444
+_exptl_special_details
+;
+Melting point range 423-424K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'acetonitrile'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0305
+_refine_ls_wR_factor_gt 0.0305
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 5.7340(11)
+_cell_length_b 8.9870(18)
+_cell_length_c 15.909(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.17916(19) 0.40315(12) 0.22706(8)
+N1 N 0.6437(2) 0.17631(13) 0.31125(7)
+O2 O 0.07644(19) 0.27523(14) 0.38463(8)
+C1 C 0.5534(2) 0.27184(13) 0.24295(8)
+N2 N 0.3305(2) 0.32166(13) 0.27642(8)
+C2 C 0.2634(2) 0.25894(15) 0.34853(9)
+C3 C 0.4610(3) 0.16035(16) 0.37588(8)
+C4 C 0.5324(2) 0.18967(13) 0.16036(8)
+C5 C 0.7173(3) 0.19922(17) 0.10429(9)
+C6 C 0.7131(3) 0.11864(19) 0.02974(10)
+C7 C 0.5256(3) 0.02743(17) 0.01175(9)
+C8 C 0.3397(3) 0.01841(16) 0.06718(10)
+C9 C 0.3421(2) 0.09972(15) 0.14144(8)
+H1 H 0.219(5) 0.095(2) 0.1821(14)
+H2 H 0.400(4) 0.054(2) 0.3754(11)
+H3 H 0.862(4) 0.264(2) 0.1178(11)
+H4 H 0.660(3) 0.3567(19) 0.2331(11)
+H5 H 0.209(5) -0.049(3) 0.0591(14)
+H6 H 0.232(5) 0.497(3) 0.2208(13)
+H7 H 0.530(4) 0.191(2) 0.4296(12)
+H8 H 0.769(4) 0.224(2) 0.3361(13)
+H9 H 0.532(4) -0.037(2) -0.0436(13)
+H10 H 0.843(6) 0.125(3) -0.0069(17)
+#END

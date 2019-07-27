@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIKQEF
+_audit_creation_date 1998-11-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIKQEF
+_database_code_depnum_ccdc_archive 'CCDC 118136'
+_database_code_depnum_ccdc_journal 182/893
+_chemical_formula_sum 'C11 H13 N1 O3'
+_chemical_formula_moiety
+;
+C11 H13 N1 O3
+;
+_journal_coden_Cambridge 182
+_journal_year 1998
+_journal_page_first 1487
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"I.A.O'Neil"
+"A.J.Potter"
+_chemical_name_systematic
+;
+N-Benzylazetidine-2-carboxylic acid N-oxide
+;
+_cell_volume   1996.354
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.379
+_exptl_special_details
+;
+Published R=0.077, CIF data gives R=0.0390
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 153.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.039
+_refine_ls_wR_factor_gt 0.039
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2+y,z
+7 x,-1/2-y,-1/2+z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 10.998(3)
+_cell_length_b 16.750(4)
+_cell_length_c 10.837(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4362(4) 0.0988(2) 0.4623(3)
+O2 O 0.4404(3) 0.2298(2) 0.3582(3)
+O3 O 0.5520(3) 0.3289(2) 0.4352(3)
+N1 N 0.4595(4) 0.1357(2) 0.5754(4)
+C1 C 0.5014(4) 0.2635(3) 0.4416(5)
+C2 C 0.5128(4) 0.2211(2) 0.5635(4)
+C3 C 0.6378(5) 0.1876(3) 0.5988(5)
+C4 C 0.5804(4) 0.1079(3) 0.6262(5)
+C5 C 0.3508(4) 0.1281(3) 0.6577(4)
+C6 C 0.3136(4) 0.0428(3) 0.6768(4)
+C7 C 0.3691(4) -0.0035(3) 0.7665(5)
+C8 C 0.3344(5) -0.0825(3) 0.7828(5)
+C9 C 0.2447(5) -0.1151(3) 0.7095(5)
+C10 C 0.1870(4) -0.0688(3) 0.6218(5)
+C11 C 0.2220(4) 0.0101(3) 0.6051(4)
+H1 H 0.424(4) 0.146(3) 0.395(4)
+H2 H 0.48310 0.25400 0.62860
+H3 H 0.69460 0.18600 0.53240
+H4 H 0.67440 0.21210 0.66830
+H5 H 0.61500 0.06470 0.58170
+H6 H 0.57790 0.09520 0.71150
+H7 H 0.36990 0.15070 0.73540
+H8 H 0.28480 0.15610 0.62150
+H9 H 0.43040 0.01860 0.81770
+H10 H 0.37290 -0.11460 0.84350
+H11 H 0.22200 -0.16940 0.71920
+H12 H 0.12360 -0.09080 0.57330
+H13 H 0.18310 0.04140 0.54380
+#END

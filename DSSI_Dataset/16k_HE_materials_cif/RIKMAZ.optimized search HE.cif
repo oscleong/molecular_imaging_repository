@@ -1,0 +1,156 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RIKMAZ
+_audit_creation_date 1997-11-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RIKMAZ
+_database_code_depnum_ccdc_journal 207/126
+_chemical_formula_sum 'C12 H15 N1 O4'
+_chemical_formula_moiety
+;
+C12 H15 N1 O4
+;
+_journal_coden_Cambridge 207
+_journal_year 1997
+_journal_page_first 2549
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"P.Almendros"
+"M.Gruttadauria"
+"M.Helliwell"
+"E.J.Thomas"
+_chemical_name_systematic
+;
+(1RS,4RS)-3-Methylidene-1-(4-nitrophenyl)pentane-1,4-diol
+;
+_chemical_melting_point 391.15
+_cell_volume   4964.327
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.27
+_exptl_special_details
+;
+Melting point range 391.15-393.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0693
+_refine_ls_wR_factor_gt 0.0693
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 24.251(6)
+_cell_length_b 14.837(9)
+_cell_length_c 13.797(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7211(2) -0.1137(4) -0.0154(5)
+O2 O 0.7941(3) -0.1921(4) -0.0080(5)
+O3 O 0.9514(2) 0.1894(3) 0.0566(3)
+O4 O 0.9532(2) 0.3332(3) -0.2483(3)
+N1 N 0.7706(3) -0.1201(5) -0.0098(5)
+C1 C 0.8654(3) 0.1173(5) 0.0118(4)
+C2 C 0.8903(3) 0.0326(5) 0.0123(5)
+C3 C 0.8598(3) -0.0447(5) 0.0049(5)
+C4 C 0.8046(3) -0.0373(5) -0.0043(5)
+C5 C 0.7777(3) 0.0451(5) -0.0065(5)
+C6 C 0.8082(3) 0.1229(5) 0.0025(5)
+C7 C 0.8979(3) 0.2044(4) 0.0183(4)
+C8 C 0.9040(2) 0.2488(5) -0.0782(4)
+C9 C 0.9228(2) 0.3428(4) -0.0806(4)
+C10 C 0.9366(3) 0.3897(4) -0.0041(4)
+C11 C 0.9246(2) 0.3874(5) -0.1792(4)
+C12 C 0.8674(3) 0.4066(5) -0.2204(4)
+H1 H 0.92660 0.02850 0.02880
+H2 H 0.87610 -0.09750 -0.00320
+H3 H 0.94510 0.16670 0.10710
+H4 H 0.98950 0.33030 -0.22210
+H5 H 0.73870 0.04780 -0.01410
+H6 H 0.79040 0.18000 0.00240
+H7 H 0.88070 0.24920 0.05560
+H8 H 0.92710 0.20470 -0.11960
+H9 H 0.87490 0.24340 -0.10760
+H10 H 0.93560 0.36270 0.05830
+H11 H 0.94750 0.45090 -0.01100
+H12 H 0.94410 0.45570 -0.16890
+H13 H 0.84460 0.43110 -0.17120
+H14 H 0.87040 0.44830 -0.27240
+H15 H 0.85170 0.35200 -0.24360
+O5 O 0.7872(2) 0.2192(4) -0.2643(5)
+O6 O 0.7136(2) 0.1401(4) -0.2629(5)
+O7 O 0.9464(1) -0.1526(3) -0.3355(3)
+O8 O 0.9465(2) -0.2780(3) -0.0171(3)
+N2 N 0.7634(3) 0.1471(5) -0.2645(5)
+C13 C 0.8598(2) -0.0869(4) -0.2886(4)
+C14 C 0.8029(3) -0.0920(4) -0.2842(5)
+C15 C 0.7720(3) -0.0145(5) -0.2767(5)
+C16 C 0.7974(3) 0.0659(5) -0.2720(4)
+C17 C 0.8530(3) 0.0737(4) -0.2738(5)
+C18 C 0.8843(2) -0.0036(5) -0.2829(5)
+C19 C 0.8933(2) -0.1715(4) -0.2958(4)
+C20 C 0.9015(2) -0.2129(4) -0.1942(4)
+C21 C 0.9278(2) -0.3008(4) -0.1878(4)
+C22 C 0.9499(3) -0.3440(5) -0.2628(5)
+C23 C 0.9294(2) -0.3427(4) -0.0889(5)
+C24 C 0.8740(3) -0.3761(4) -0.0574(4)
+H16 H 0.94870 -0.17450 -0.38640
+H17 H 0.98280 -0.25720 -0.04130
+H18 H 0.78250 -0.14430 -0.27820
+H19 H 0.73290 -0.01780 -0.27470
+H20 H 0.87050 0.13150 -0.27060
+H21 H 0.92320 0.00120 -0.28590
+H22 H 0.87020 -0.21740 -0.33610
+H23 H 0.86770 -0.22090 -0.15890
+H24 H 0.92350 -0.16200 -0.15480
+H25 H 0.95120 -0.39890 -0.25200
+H26 H 0.95010 -0.32450 -0.33260
+H27 H 0.95090 -0.39390 -0.07700
+H28 H 0.84470 -0.32910 -0.06170
+H29 H 0.85660 -0.42140 -0.09980
+H30 H 0.86780 -0.41860 0.00080
+#END

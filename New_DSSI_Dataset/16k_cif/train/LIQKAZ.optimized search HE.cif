@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIQKAZ
+_audit_creation_date 2013-10-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIQKAZ
+_database_code_depnum_ccdc_archive 'CCDC 953558'
+_chemical_formula_sum 'C20 H28 N4 O3'
+_chemical_formula_moiety
+;
+C20 H28 N4 O3
+;
+_journal_coden_Cambridge 392
+_journal_volume 87
+_journal_year 2013
+_journal_page_first 2031
+_journal_name_full 'Heterocycles '
+loop_
+_publ_author_name
+"F.Iwahori"
+"T.Suzuki"
+"K.Kato"
+_chemical_name_systematic
+;
+2-[4-(1-oxido-4,4,5,5-tetramethyl-4,5-dihydro-1H-imidazol-2-yl)phenyl]-4,4,5,5
+-tetramethylimidazolidine-1,3-dioxidanyl
+;
+_cell_volume    995.606
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.242
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'n-hexane/chloroform'
+_diffrn_ambient_temperature 200.1
+_refine_special_details
+;
+O(1) and O(2) partial occupancy over two sites by symmetry, 0.94:0.94 and 
+0.57:0.57.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0658
+_refine_ls_wR_factor_gt 0.0658
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.2176(8)
+_cell_length_b 11.5828(16)
+_cell_length_c 13.8585(19)
+_cell_angle_alpha 90
+_cell_angle_beta 94.011(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4239(2) 0.33790(14) 0.54753(13)
+N1 N 0.5772(2) 0.30212(15) 0.60683(13)
+N2 N 0.8147(2) 0.18580(18) 0.68197(13)
+C1 C 0.5713(3) 0.09476(16) 0.55613(14)
+C2 C 0.3594(3) 0.08932(19) 0.51768(15)
+C3 C 0.2892(3) -0.00398(17) 0.46204(15)
+C4 C 0.6529(3) 0.19261(18) 0.61467(14)
+C5 C 0.7270(3) 0.38422(18) 0.66224(15)
+C6 C 0.8447(3) 0.29810(19) 0.73425(15)
+C7 C 0.8708(3) 0.4356(2) 0.58818(18)
+C8 C 0.5984(3) 0.4810(2) 0.7061(2)
+C9 C 1.0846(3) 0.3206(2) 0.7542(2)
+C10 C 0.7366(4) 0.2841(2) 0.82827(18)
+H1 H 0.142(3) -0.0093(17) 0.4403(16)
+H2 H 0.258(2) 0.1473(15) 0.5289(12)
+H3 H 0.58250 0.54330 0.66160
+H4 H 0.67380 0.50670 0.76410
+H5 H 0.46010 0.45340 0.72000
+H6 H 0.99530 0.38860 0.58490
+H7 H 0.91300 0.51160 0.60700
+H8 H 0.79390 0.43780 0.52650
+H9 H 0.59120 0.30930 0.81940
+H10 H 0.81060 0.32910 0.87740
+H11 H 0.73990 0.20520 0.84690
+H12 H 1.13290 0.28690 0.81440
+H13 H 1.10930 0.40150 0.75670
+H14 H 1.16140 0.28770 0.70410
+O2 O 0.9230(4) 0.1072(2) 0.7075(2)
+O1B O 0.5761(2) -0.33790(14) 0.45247(13)
+N1B N 0.4228(2) -0.30212(15) 0.39317(13)
+N2B N 0.1853(2) -0.18580(18) 0.31803(13)
+C1B C 0.4287(3) -0.09476(16) 0.44387(14)
+C2B C 0.6406(3) -0.08932(19) 0.48232(15)
+C3B C 0.7108(3) 0.00398(17) 0.53796(15)
+C4B C 0.3471(3) -0.19261(18) 0.38533(14)
+C5B C 0.2730(3) -0.38422(18) 0.33776(15)
+C6B C 0.1553(3) -0.29810(19) 0.26575(15)
+C7B C 0.1292(3) -0.4356(2) 0.41182(18)
+C8B C 0.4016(3) -0.4810(2) 0.2939(2)
+C9B C -0.0846(3) -0.3206(2) 0.2458(2)
+C10B C 0.2634(4) -0.2841(2) 0.17173(18)
+H1B H 0.858(3) 0.0093(17) 0.5597(16)
+H2B H 0.742(2) -0.1473(15) 0.4711(12)
+H3B H 0.41750 -0.54330 0.33840
+H4B H 0.32620 -0.50670 0.23590
+H5B H 0.53990 -0.45340 0.28000
+H6B H 0.00470 -0.38860 0.41510
+H7B H 0.08700 -0.51160 0.39300
+H8B H 0.20610 -0.43780 0.47350
+H9B H 0.40880 -0.30930 0.18060
+H10B H 0.18940 -0.32910 0.12260
+H11B H 0.26010 -0.20520 0.15310
+H12B H -0.13290 -0.28690 0.18560
+H13B H -0.10930 -0.40150 0.24330
+H14B H -0.16140 -0.28770 0.29590
+O2B O 0.0770(4) -0.1072(2) 0.2925(2)
+#END

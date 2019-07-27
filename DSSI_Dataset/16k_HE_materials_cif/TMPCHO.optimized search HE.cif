@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMPCHO
+_audit_creation_date 1980-05-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMPCHO
+_chemical_formula_sum 'C15 H21 N1 O1'
+_chemical_formula_moiety
+;
+C15 H21 N1 O1
+;
+_journal_coeditor_code "IUCr A17969"
+_journal_coden_Cambridge 107
+_journal_volume 35
+_journal_year 1979
+_journal_page_first 2790
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"S.Toure"
+"J.Lapasset"
+"B.Boyer"
+"G.Lamaty"
+_chemical_name_systematic
+;
+3,3,5-Trimethyl-5-phenyl-cyclohexanone oxime
+;
+_cell_volume   1338.181
+_exptl_crystal_density_diffrn 1.15
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.083
+_refine_ls_wR_factor_gt 0.083
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.98(2)
+_cell_length_b 7.47(1)
+_cell_length_c 12.41(2)
+_cell_angle_alpha 90
+_cell_angle_beta 105.5(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.05960 0.95760 0.11880
+O1 O 0.09590 0.88660 0.03130
+C1 C 0.10390 0.91180 0.21670
+C2 C 0.07140 0.97850 0.31310
+C3 C 0.26870 0.85950 0.33600
+C4 C 0.18540 0.78620 0.24510
+C5 C 0.32590 0.99740 0.29180
+C6 C 0.31530 1.02670 0.17890
+C7 C 0.37250 1.14830 0.14250
+C8 C 0.43910 1.24510 0.21810
+C9 C 0.45050 1.21540 0.33090
+C10 C 0.39590 1.09290 0.36740
+C11 C 0.12010 1.10660 0.50700
+C12 C 0.17620 1.24390 0.35630
+C13 C 0.33410 0.69850 0.37970
+C14 C 0.15220 1.06600 0.40280
+C15 C 0.23230 0.93340 0.43260
+#END

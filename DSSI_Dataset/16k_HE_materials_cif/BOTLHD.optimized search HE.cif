@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOTLHD
+_audit_creation_date 1975-01-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOTLHD
+_database_code_depnum_ccdc_archive 'CCDC 1114293'
+_chemical_formula_sum 'C15 H13 N1 O3'
+_chemical_formula_moiety
+;
+C15 H13 N1 O3
+;
+_journal_coden_Cambridge 48
+_journal_volume 107
+_journal_year 1974
+_journal_page_first 398
+_journal_name_full 'Chem.Ber. '
+loop_
+_publ_author_name
+"S.Gottlicher"
+"P.Ochsenreiter"
+_chemical_name_systematic
+;
+N-Benzoyl-O-o-toluoyl-hydroxylamine
+;
+_cell_volume   1335.723
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.131
+_refine_ls_wR_factor_gt 0.131
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.74(1)
+_cell_length_b 11.63(1)
+_cell_length_c 8.83(1)
+_cell_angle_alpha 90
+_cell_angle_beta 108.8(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.41770 0.16240 0.35860
+C2 C -0.03060 0.36570 0.37940
+C3 C -0.46890 0.06460 0.27750
+C4 C -0.00060 0.44490 0.28110
+C5 C -0.56660 0.03950 0.28330
+C6 C 0.10530 0.45510 0.30780
+C7 C -0.61490 0.11080 0.35700
+C8 C 0.17620 0.39270 0.42400
+C9 C -0.56570 0.20810 0.43800
+C10 C 0.14590 0.31540 0.51550
+C11 C -0.46720 0.23450 0.43210
+C12 C 0.04220 0.30250 0.49600
+C13 C -0.31250 0.18560 0.34870
+C14 C -0.14080 0.35260 0.36340
+C15 C -0.07670 0.51480 0.14760
+H1 H -0.43450 0.01330 0.21690
+H2 H -0.60140 -0.03460 0.23300
+H3 H 0.13200 0.50800 0.23900
+H4 H -0.68600 0.09440 0.35190
+H5 H 0.25120 0.40080 0.44690
+H6 H -0.59970 0.25680 0.49900
+H7 H 0.19770 0.26710 0.59820
+H8 H -0.43280 0.30740 0.47690
+H9 H 0.01980 0.24780 0.56540
+H10 H -0.28610 0.30030 0.53830
+N1 N -0.25590 0.25910 0.46440
+O1 O -0.28050 0.14260 0.24970
+O2 O -0.15220 0.27430 0.47370
+O3 O -0.21210 0.39920 0.27030
+#END

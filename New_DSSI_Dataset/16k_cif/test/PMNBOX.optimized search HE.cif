@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PMNBOX
+_audit_creation_date 1975-12-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PMNBOX
+_database_code_depnum_ccdc_archive 'CCDC 1235325'
+_chemical_formula_sum 'C15 H25 N1 O1'
+_chemical_formula_moiety
+;
+C15 H25 N1 O1
+;
+_journal_coden_Cambridge 15
+_journal_volume 53
+_journal_year 1975
+_journal_page_first 765
+_journal_name_full 'Can.J.Chem. '
+loop_
+_publ_author_name
+"S.J.Rettig"
+"J.Trotter"
+_chemical_name_systematic
+;
+(+-)-7,7-(2',2'-Dimethyl)pentamethylene-1-methyl-norbornanone-2-oxime
+;
+_chemical_melting_point 438.15
+_cell_volume   1403.565
+_exptl_crystal_density_diffrn 1.113
+_exptl_special_details
+;
+Melting point range 438.15-441.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.202(2)
+_cell_length_b 12.852(3)
+_cell_length_c 12.698(3)
+_cell_angle_alpha 90
+_cell_angle_beta 110.83(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.12200 0.06360 0.16080
+C2 C -0.42630 0.38870 0.19690
+C3 C -0.46100 0.30510 0.10650
+C4 C -0.30920 0.24690 0.12050
+C5 C 0.05930 0.22030 0.21390
+C6 C -0.58850 0.23170 0.11300
+C7 C -0.52120 0.35470 -0.01050
+C8 C -0.05760 0.15300 0.23960
+C9 C 0.00390 0.10420 0.35900
+C10 C -0.14330 0.06840 0.37950
+C11 C -0.27430 0.09960 0.27040
+C12 C -0.26620 0.02520 0.17870
+C13 C -0.21480 0.20420 0.23740
+C14 C -0.19070 0.29270 0.32270
+C15 C -0.34190 0.34670 0.31430
+H1 H -0.09400 -0.06000 -0.03600
+H2 H -0.52900 0.42000 0.19700
+H3 H -0.34800 0.43900 0.18100
+H4 H -0.32800 0.19000 0.06300
+H5 H -0.24200 0.29700 0.09900
+H6 H 0.08900 0.28000 0.26700
+H7 H 0.02200 0.25000 0.14200
+H8 H 0.15800 0.17800 0.22500
+H9 H -0.57300 0.19800 0.18700
+H10 H -0.60000 0.17000 0.05600
+H11 H -0.69400 0.26900 0.08700
+H12 H -0.60900 0.40400 -0.02300
+H13 H -0.54300 0.29000 -0.07300
+H14 H -0.43700 0.39400 -0.01800
+H15 H 0.06400 0.15700 0.41500
+H16 H 0.06900 0.05200 0.36200
+H17 H -0.15400 0.10500 0.44700
+H18 H -0.13500 -0.00800 0.39300
+H19 H -0.37700 0.10000 0.27600
+H20 H -0.36200 0.02500 0.10300
+H21 H -0.26200 -0.04500 0.19500
+H22 H -0.13700 0.27000 0.40200
+H23 H -0.11700 0.34500 0.30800
+H24 H -0.41300 0.28900 0.33200
+H25 H -0.32300 0.40500 0.37200
+N1 N -0.06200 0.03290 0.09070
+O1 O -0.14630 -0.05220 0.02600
+#END

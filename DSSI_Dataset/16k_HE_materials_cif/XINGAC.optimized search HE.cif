@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XINGAC
+_audit_creation_date 2002-06-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XINGAC
+_database_code_depnum_ccdc_archive 'CCDC 185632'
+_chemical_formula_sum 'C8 H9 N5 O1'
+_chemical_formula_moiety
+;
+C8 H9 N5 O1
+;
+_journal_coden_Cambridge 95
+_journal_year 2001
+_journal_page_first 1553
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"A.G.Korepin"
+"P.V.Galkin"
+"N.M.Glushakova"
+"V.P.Lodygina"
+"I.L.Eremenko"
+"S.E.Nefedov"
+"L.T.Eremenko"
+_chemical_name_systematic
+;
+N-((Benzotriazol-1-yl)methyl)-N-nitrosomethylamine
+;
+_chemical_melting_point 372.15
+_cell_volume    933.479
+_exptl_crystal_density_diffrn 1.36
+_exptl_special_details
+;
+Melting point range 372.15-373.15K
+air-sensitive
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.051
+_refine_ls_wR_factor_gt 0.051
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.832(2)
+_cell_length_b 8.057(2)
+_cell_length_c 10.743(3)
+_cell_angle_alpha 90
+_cell_angle_beta 95.36(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.59426(18) 0.04029(27) 0.72062(23)
+N1 N 0.48315(19) 0.06467(27) 0.72876(20)
+N2 N 0.43175(14) 0.16890(22) 0.64596(16)
+N3 N 0.22768(14) 0.12391(22) 0.54799(15)
+N4 N 0.18452(18) 0.21951(27) 0.44804(22)
+N5 N 0.12361(17) 0.12352(32) 0.36723(18)
+C1 C 0.49879(31) 0.24791(43) 0.55254(30)
+C2 C 0.30045(20) 0.19792(34) 0.65256(23)
+C3 C 0.19428(15) -0.03750(25) 0.52804(16)
+C4 C 0.21601(20) -0.18262(29) 0.59713(23)
+C5 C 0.16603(26) -0.32396(37) 0.54346(31)
+C6 C 0.09714(27) -0.32358(42) 0.42725(31)
+C7 C 0.07563(23) -0.18286(43) 0.35946(25)
+C8 C 0.12687(17) -0.0358(3) 0.41131(18)
+H1 H 0.2698(23) -0.1863(29) 0.6800(25)
+H2 H 0.2898(25) 0.3152(38) 0.6583(25)
+H3 H 0.0290(25) -0.1849(33) 0.2839(26)
+H4 H 0.2770(22) 0.1565(30) 0.7447(24)
+H5 H 0.4420(33) 0.2931(40) 0.4877(30)
+H6 H 0.0650(26) -0.4378(43) 0.4029(26)
+H7 H 0.5836(50) 0.2674(60) 0.5918(50)
+H8 H 0.1731(25) -0.4391(40) 0.5913(26)
+H9 H 0.5456(53) 0.1666(74) 0.5160(47)
+#END

@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BZHYDX01
+_audit_creation_date 2005-02-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BZHYDX01
+_database_code_depnum_ccdc_archive 'CCDC 232617'
+_chemical_formula_sum 'C14 H11 N1 O3'
+_chemical_formula_moiety
+;
+C14 H11 N1 O3
+;
+_journal_coden_Cambridge 177
+_journal_volume 2
+_journal_year 2004
+_journal_page_first 2311
+_journal_name_full 'Org.Biomol.Chem. '
+loop_
+_publ_author_name
+"J.Schraml"
+"J.Sykora"
+"P.Fiedler"
+"J.Roithova"
+"J.Mindl"
+"V.Blechta"
+"I.Cisarova"
+"O.Exner"
+_chemical_name_systematic
+;
+N,O-Dibenzoylhydroxylamine
+;
+_chemical_melting_point 440.15
+_cell_volume   1163.895
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.377
+_exptl_special_details
+;
+Melting point range 440.15-441.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'methanol/water'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0329
+_refine_ls_wR_factor_gt 0.0329
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 8.9570(2)
+_cell_length_b 9.2420(2)
+_cell_length_c 14.0600(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.24899(12) -0.13822(13) 0.03394(8)
+O2 O -0.47798(13) -0.24152(14) 0.13107(8)
+O3 O -0.34085(18) -0.44585(14) 0.11481(9)
+N1 N -0.48012(16) -0.23383(18) 0.0314(1)
+C1 C -0.36138(17) -0.17504(16) -0.01098(11)
+C2 C -0.39749(19) -0.35793(18) 0.16516(11)
+C3 C -0.37214(16) -0.15711(16) -0.11635(11)
+C4 C -0.28045(18) -0.05257(19) -0.15783(12)
+C5 C -0.28212(19) -0.03312(19) -0.25619(12)
+C6 C -0.3743(2) -0.1173(2) -0.31251(12)
+C7 C -0.4660(2) -0.2212(2) -0.27164(12)
+C8 C -0.46598(19) -0.24115(19) -0.17335(11)
+C9 C -0.39379(18) -0.35573(17) 0.27078(11)
+C10 C -0.48230(19) -0.26298(19) 0.32458(12)
+C11 C -0.4745(2) -0.2683(2) 0.42349(12)
+C12 C -0.3771(2) -0.3643(2) 0.46726(12)
+C13 C -0.2874(2) -0.4554(2) 0.41344(13)
+C14 C -0.2965(2) -0.45219(19) 0.31491(12)
+H1 H -0.565(3) -0.269(3) 0.003(2)
+H2 H -0.215(2) 0.005(3) -0.1155(14)
+H3 H -0.217(3) 0.041(3) -0.2833(15)
+H4 H -0.374(2) -0.102(2) -0.3840(16)
+H5 H -0.534(3) -0.279(3) -0.3111(19)
+H6 H -0.529(3) -0.317(2) -0.1439(16)
+H7 H -0.554(3) -0.197(3) 0.2924(17)
+H8 H -0.546(3) -0.201(3) 0.4600(18)
+H9 H -0.368(2) -0.368(2) 0.5378(16)
+H10 H -0.214(3) -0.525(3) 0.4449(15)
+H11 H -0.233(3) -0.516(3) 0.2762(15)
+#END

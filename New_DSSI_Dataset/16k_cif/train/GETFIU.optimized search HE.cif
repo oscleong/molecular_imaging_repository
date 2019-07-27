@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GETFIU
+_audit_creation_date 1989-05-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GETFIU
+_chemical_formula_sum 'C6 H2 N4 O5'
+_chemical_formula_moiety
+;
+C6 H2 N4 O5
+;
+_journal_coden_Cambridge 423
+_journal_volume 214
+_journal_year 1988
+_journal_page_first 1740
+_journal_name_full 'J.Chem.Res. '
+loop_
+_publ_author_name
+"C.K.Lowe-Ma"
+"R.A.Nissan"
+"W.S.Wilson"
+"K.N.Houk"
+"Xuebao Wang"
+_chemical_name_systematic
+;
+2-Diazo-4,6-dinitrophenol
+;
+_cell_volume    811.896
+_exptl_crystal_colour 'yellow-orange'
+_exptl_crystal_density_diffrn 1.719
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.061
+_refine_ls_wR_factor_gt 0.061
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 6.184(2)
+_cell_length_b 8.625(3)
+_cell_length_c 15.222(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.0198(5) 0.4647(4) 0.8391(2)
+C2 C -0.1349(6) 0.5537(4) 0.7722(2)
+C3 C -0.3304(6) 0.6288(4) 0.7794(3)
+C4 C -0.4263(6) 0.6227(4) 0.8601(2)
+C5 C -0.3279(6) 0.5492(4) 0.9319(2)
+C6 C -0.1364(6) 0.4750(4) 0.9223(2)
+N1 N -0.0245(5) 0.5545(5) 0.6935(2)
+N2 N 0.0787(7) 0.5462(7) 0.6363(2)
+N3 N -0.6367(5) 0.6941(4) 0.8719(2)
+N4 N -0.0425(5) 0.4019(4) 1.0000(2)
+O1 O 0.1508(5) 0.3983(3) 0.8246(2)
+O2 O -0.7221(5) 0.7575(4) 0.8094(2)
+O3 O -0.7207(4) 0.6861(4) 0.9445(2)
+O4 O -0.0862(5) 0.4581(4) 1.0715(2)
+O5 O 0.0735(6) 0.2906(4) 0.9902(2)
+H1 H -0.39520 0.68220 0.73080
+H2 H -0.39690 0.55160 0.98830
+#END

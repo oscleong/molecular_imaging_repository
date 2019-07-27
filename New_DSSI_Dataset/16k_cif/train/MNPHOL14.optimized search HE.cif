@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNPHOL14
+_audit_creation_date 2006-04-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNPHOL14
+_database_code_depnum_ccdc_archive 'CCDC 296423'
+_chemical_formula_sum 'C6 H5 N1 O3'
+_chemical_formula_moiety
+;
+C6 H5 N1 O3
+;
+_journal_coden_Cambridge 1147
+_journal_volume 6
+_journal_year 2006
+_journal_page_first 274
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"G.Wojcik"
+"J.Holband"
+"J.J.Szymczak"
+"S.Roszak"
+"J.Leszczynski"
+_chemical_name_systematic
+;
+m-Nitrophenol
+;
+_chemical_name_common
+;
+3-Nitrophenol
+;
+_chemical_melting_point 370
+_cell_volume    609.027
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.517
+_exptl_special_details
+;
+monoclinic polymorph
+phase transition at about 350 K
+
+;
+_exptl_crystal_description 'thin plate'
+_exptl_crystal_preparation 'methanol/hexane'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0675
+_refine_ls_wR_factor_gt 0.0675
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.1372(9)
+_cell_length_b 6.8050(7)
+_cell_length_c 11.107(1)
+_cell_angle_alpha 90
+_cell_angle_beta 98.015(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.70131(15) 0.1825(2) 0.89107(14)
+O2 O 0.57449(18) 0.0185(3) 0.74050(14)
+O3 O -0.01500(15) 0.0357(2) 0.78703(13)
+H1 H -0.093(4) 0.073(5) 0.821(3)
+N1 N 0.57372(17) 0.1159(2) 0.83217(14)
+C1 C 0.41535(17) 0.1549(2) 0.87613(14)
+C2 C 0.27354(18) 0.0774(2) 0.81023(14)
+H2 H 0.27860 0.00210 0.73880
+C3 C 0.12277(18) 0.1139(2) 0.85224(14)
+C4 C 0.11815(19) 0.2262(3) 0.95643(15)
+H3 H 0.01530 0.25100 0.98480
+C5 C 0.2638(2) 0.3017(3) 1.01872(15)
+H4 H 0.25940 0.38010 1.08900
+C6 C 0.4162(2) 0.2650(3) 0.98041(15)
+H5 H 0.51660 0.31360 1.02410
+#END

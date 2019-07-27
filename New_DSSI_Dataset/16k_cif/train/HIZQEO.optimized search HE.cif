@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HIZQEO
+_audit_creation_date 2014-04-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HIZQEO
+_database_code_depnum_ccdc_archive 'CCDC 985185'
+_chemical_formula_sum 'C14 H11 N3 O2'
+_chemical_formula_moiety
+;
+C14 H11 N3 O2
+;
+_journal_coden_Cambridge 182
+_journal_volume 50
+_journal_year 2014
+_journal_page_first 5061
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Zhenxing Liu"
+"Long Wang"
+"Haocheng Tan"
+"Shiyi Zhou"
+"Tianren Fu"
+"Ying Xia"
+"Yan Zhang"
+"Jianbo Wang"
+_chemical_name_systematic
+;
+3-(4-methylphenyl)-6-nitro-1H-indazole
+;
+_chemical_melting_point 452
+_cell_volume   2323.083
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.448
+_exptl_special_details
+;
+Melting point range 452-455K
+
+;
+_diffrn_ambient_temperature 100.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0392
+_refine_ls_wR_factor_gt 0.0392
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 12.2236(12)
+_cell_length_b 9.7043(5)
+_cell_length_c 19.5840(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.74663(10) 0.45800(13) 0.57639(6)
+C2 C 0.68513(10) 0.36578(13) 0.53731(7)
+H1 H 0.71700 0.30510 0.50640
+C3 C 0.57400(11) 0.37130(13) 0.54792(6)
+C4 C 0.52243(11) 0.46172(14) 0.59318(7)
+H2 H 0.44670 0.46100 0.59760
+C5 C 0.58439(10) 0.55135(14) 0.63091(7)
+H3 H 0.55120 0.61160 0.66150
+C6 C 0.69937(10) 0.55133(13) 0.62293(7)
+C7 C 0.79125(10) 0.61971(13) 0.65338(7)
+C8 C 0.79472(10) 0.72509(13) 0.70703(7)
+C9 C 0.70066(10) 0.79585(14) 0.72682(7)
+H4 H 0.63450 0.77640 0.70540
+C10 C 0.70401(10) 0.89429(14) 0.77766(7)
+H5 H 0.64000 0.94010 0.78970
+C11 C 0.80085(10) 0.92640(14) 0.81119(7)
+C12 C 0.89527(11) 0.85641(15) 0.79075(7)
+H6 H 0.96150 0.87680 0.81190
+C13 C 0.89275(11) 0.75784(14) 0.74007(7)
+H7 H 0.95690 0.71270 0.72770
+C14 C 0.80432(12) 1.03192(15) 0.86721(8)
+H8 H 0.75200 1.10330 0.85780
+H9 H 0.87630 1.07120 0.86970
+H10 H 0.78680 0.98880 0.91000
+N1 N 0.88455(9) 0.57198(11) 0.62712(6)
+N2 N 0.85675(9) 0.47487(12) 0.58075(6)
+N3 N 0.50497(9) 0.27297(12) 0.51130(6)
+O1 O 0.54844(8) 0.19239(10) 0.47111(5)
+O2 O 0.40597(8) 0.27382(11) 0.52221(5)
+H11 H 0.9103(14) 0.4279(18) 0.5591(9)
+#END

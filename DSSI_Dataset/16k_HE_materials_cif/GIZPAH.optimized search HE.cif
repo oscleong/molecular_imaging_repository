@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GIZPAH
+_audit_creation_date 2008-06-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GIZPAH
+_database_code_depnum_ccdc_archive 'CCDC 650004'
+_chemical_formula_sum 'C25 H22 N2 O8'
+_chemical_formula_moiety
+;
+C25 H22 N2 O8
+;
+_journal_coden_Cambridge 35
+_journal_volume 73
+_journal_year 2008
+_journal_page_first 1435
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"Andrew DeAngelis"
+"P.Panne"
+"G.P.A.Yap"
+"J.M.Fox"
+_chemical_name_systematic
+;
+2\b,5\b-bis(4-Nitrophenyl)-4\a-ethoxycarbonyl-4\b-benzyl-1,3-dioxolane
+;
+_cell_volume   2288.205
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.389
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 170
+_refine_special_details
+;
+The ethoxy group is disordered over two sites with occupancies 0.5796:0.4204.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+loop_
+_citation_database_id_CSD
+_citation_special_details
+GIYYET "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.9876(15)
+_cell_length_b 10.2457(17)
+_cell_length_c 25.218(4)
+_cell_angle_alpha 90
+_cell_angle_beta 99.813(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.56959(15) 0.69588(13) 0.44895(6)
+N2 N 0.14705(14) -0.30417(12) 0.56401(5)
+O1 O 0.29781(11) 0.15653(9) 0.34964(4)
+O2 O 0.14921(11) 0.19049(9) 0.41150(4)
+O3 O 0.68826(15) 0.71406(14) 0.43240(7)
+O4 O 0.52077(15) 0.76809(12) 0.48055(6)
+O5 O 0.0884(2) 0.10433(18) 0.26585(7)
+O6 O 0.06758(14) -0.10319(12) 0.28824(5)
+O7 O 0.10576(14) -0.41691(11) 0.55284(5)
+O8 O 0.19992(14) -0.26759(12) 0.60970(5)
+C1 C 0.21094(15) 0.25269(13) 0.37017(5)
+H1 H 0.12800 0.28310 0.34120
+C2 C 0.22183(15) 0.03524(13) 0.35144(5)
+C3 C 0.10678(15) 0.06334(12) 0.39152(6)
+H2 H 0.00150 0.06590 0.37080
+C4 C 0.30842(14) 0.36638(12) 0.39203(5)
+C5 C 0.44148(16) 0.39245(15) 0.37305(6)
+H3 H 0.47300 0.33630 0.34710
+C6 C 0.52867(16) 0.49996(15) 0.39172(6)
+H4 H 0.62020 0.51800 0.37910
+C7 C 0.47940(15) 0.58008(13) 0.42909(6)
+C8 C 0.34869(17) 0.55597(15) 0.44918(7)
+H5 H 0.31820 0.61220 0.47530
+C9 C 0.26285(16) 0.44801(15) 0.43047(6)
+H6 H 0.17260 0.42950 0.44390
+C10 C 0.33847(16) -0.07045(14) 0.37073(6)
+H7 H 0.39270 -0.04610 0.40690
+H8 H 0.28460 -0.15340 0.37440
+C11 C 0.45352(16) -0.09341(14) 0.33425(5)
+C12 C 0.44959(18) -0.20697(15) 0.30393(6)
+H9 H 0.37040 -0.26820 0.30450
+C13 C 0.55999(19) -0.23222(17) 0.27280(7)
+H10 H 0.55610 -0.31050 0.25240
+C14 C 0.67508(18) -0.14388(18) 0.27146(6)
+H11 H 0.75160 -0.16190 0.25070
+C15 C 0.67869(17) -0.02921(17) 0.30038(6)
+H12 H 0.75660 0.03260 0.29880
+C16 C 0.56916(16) -0.00370(15) 0.33168(6)
+H13 H 0.57280 0.07540 0.35150
+C17 C 0.13120(18) -0.00272(14) 0.29669(6)
+C18 C -0.0046(4) 0.0817(3) 0.21317(13)
+H14 H -0.07270 0.00680 0.21550
+H15 H -0.06780 0.15960 0.20250
+C19 C 0.0890(5) 0.0549(5) 0.17238(16)
+H16 H 0.02450 0.04690 0.13710
+H17 H 0.14440 -0.02680 0.18120
+H18 H 0.16080 0.12660 0.17160
+C20 C 0.11417(14) -0.03114(13) 0.43767(5)
+C21 C 0.20496(16) -0.00506(13) 0.48679(6)
+H19 H 0.26080 0.07400 0.49180
+C22 C 0.21435(16) -0.09409(14) 0.52855(6)
+H20 H 0.27500 -0.07630 0.56240
+C23 C 0.13400(15) -0.20906(13) 0.52001(6)
+C24 C 0.04155(15) -0.23785(13) 0.47150(6)
+H21 H -0.01300 -0.31760 0.46660
+C25 C 0.03123(15) -0.14708(13) 0.43054(6)
+H22 H -0.03290 -0.16360 0.39720
+O9? O 0.1814(3) 0.0655(3) 0.25612(10)
+C26? C 0.1168(6) 0.0289(5) 0.20030(18)
+H23? H 0.18210 0.06290 0.17550
+H24? H 0.11360 -0.06740 0.19700
+C27? C -0.0347(7) 0.0813(6) 0.1851(2)
+H25? H -0.06950 0.06710 0.14660
+H26? H -0.03370 0.17500 0.19290
+H27? H -0.10300 0.03700 0.20570
+#END

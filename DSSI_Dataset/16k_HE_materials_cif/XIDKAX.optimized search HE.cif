@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XIDKAX
+_audit_creation_date 2007-08-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XIDKAX
+_database_code_depnum_ccdc_archive 'CCDC 639128'
+_database_code_depnum_ccdc_journal 1135/268
+_chemical_formula_sum 'C15 H12 N2 O3'
+_chemical_formula_moiety
+;
+C15 H12 N2 O3
+;
+_journal_coden_Cambridge 1135
+_journal_volume 17
+_journal_year 2007
+_journal_page_first 130
+_journal_name_full 'Mendeleev Commun. '
+loop_
+_publ_author_name
+"E.V.Babaev"
+"A.V.Efimov"
+"A.A.Tsisevich"
+"A.A.Nevskaya"
+"V.B.Rybakov"
+_chemical_name_systematic
+;
+5-Methoxy-2-(4-nitrophenyl)indolizine
+;
+_chemical_melting_point 461
+_cell_volume   1258.918
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.415
+_exptl_special_details
+;
+Melting point range 461-462K
+
+;
+_exptl_crystal_description 'Plate'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1773
+_refine_ls_wR_factor_gt 0.1773
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.855(2)
+_cell_length_b 7.096(2)
+_cell_length_c 25.978(6)
+_cell_angle_alpha 90
+_cell_angle_beta 94.96(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2482(5) 0.7238(6) 0.32217(14)
+C2 C 0.2959(5) 0.6602(5) 0.27225(13)
+C3 C 0.4953(6) 0.5959(6) 0.27870(15)
+C4 C 0.5715(6) 0.6171(6) 0.3283(2)
+C5 C 0.7573(6) 0.5748(7) 0.3564(2)
+C6 C 0.7787(7) 0.6098(8) 0.4100(2)
+C7 C 0.6193(6) 0.7044(7) 0.4319(2)
+C8 C 0.4320(5) 0.7151(6) 0.40878(14)
+N1 N 0.4170(4) 0.6872(4) 0.35567(10)
+C9 C 0.1709(5) 0.6636(6) 0.22423(14)
+C10 C -0.0191(5) 0.7266(6) 0.22704(14)
+C11 C -0.1464(5) 0.7345(6) 0.18254(13)
+C12 C -0.0798(6) 0.6876(7) 0.13562(14)
+C13 C 0.1093(6) 0.6222(6) 0.1329(2)
+C14 C 0.2333(6) 0.6062(6) 0.1777(2)
+O1 O 0.2750(4) 0.7774(4) 0.42698(11)
+C15 C 0.2690(6) 0.7767(8) 0.4821(2)
+N2 N -0.2145(5) 0.7111(6) 0.08924(12)
+O2 O -0.1326(4) 0.7080(5) 0.04946(11)
+O3 O -0.3893(4) 0.7138(5) 0.09275(11)
+H1 H 0.1332(42) 0.7775(49) 0.3308(12)
+H2 H 0.5622(44) 0.5476(48) 0.2523(14)
+H3 H 0.8604(45) 0.5251(50) 0.3398(12)
+H4 H 0.8921(43) 0.5739(48) 0.4305(12)
+H5 H 0.6446(41) 0.7614(51) 0.4639(11)
+H6 H -0.0626(43) 0.7638(53) 0.2583(11)
+H7 H -0.2755(41) 0.7719(52) 0.1847(11)
+H8 H 0.1532(45) 0.5892(51) 0.1016(11)
+H9 H 0.3597(45) 0.5568(47) 0.1761(12)
+H10 H 0.1466(41) 0.8265(47) 0.4908(11)
+H11 H 0.3738(42) 0.8536(47) 0.4971(12)
+H12 H 0.2845(43) 0.6481(47) 0.4944(12)
+#END

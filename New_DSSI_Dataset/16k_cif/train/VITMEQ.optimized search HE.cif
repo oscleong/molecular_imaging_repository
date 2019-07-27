@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VITMEQ
+_audit_creation_date 2001-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VITMEQ
+_database_code_depnum_ccdc_archive 'CCDC 153745'
+_chemical_formula_sum 'C17 H24 N2 O2'
+_chemical_formula_moiety
+;
+C17 H24 N2 O2
+;
+_journal_coden_Cambridge 692
+_journal_year 2001
+_journal_page_first 849
+_journal_name_full 'Synthesis '
+loop_
+_publ_author_name
+"A.Varlamov"
+"V.Kouznetsov"
+"F.Zubkov"
+"A.Chernyshev"
+"G.Alexandrov"
+"A.Palma"
+"L.Vargas"
+"S.Salas"
+_chemical_name_systematic
+;
+1,5-Dimethyl-8-nitro-1,2,4,5-tetrahydro(3H-2-benzazepine-3,1'-cyclohexane)
+;
+_chemical_melting_point 381.15
+_cell_volume   1616.728
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.185
+_exptl_special_details
+;
+Melting point range 381.15-382.15K
+
+;
+_exptl_crystal_preparation 'EtOAc/heptane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0415
+_refine_ls_wR_factor_gt 0.0415
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.669(3)
+_cell_length_b 7.043(2)
+_cell_length_c 16.794(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.42(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4235(2) 0.3568(3) 0.3909(2)
+O2 O 0.31291(14) 0.2993(3) 0.4781(2)
+N1 N 0.80869(11) 0.3247(2) 0.56204(9)
+N2 N 0.3986(2) 0.3060(3) 0.4569(2)
+C1 C 0.84374(14) 0.2830(3) 0.64307(10)
+C2 C 0.7631(2) 0.2292(4) 0.70170(12)
+C3 C 0.6957(2) 0.0619(4) 0.67859(12)
+C4 C 0.6173(2) 0.1275(3) 0.62060(11)
+C5 C 0.64326(13) 0.1837(2) 0.54323(10)
+C6 C 0.75016(13) 0.1835(3) 0.51891(10)
+C7 C 0.7660(2) 0.2133(4) 0.43013(12)
+C8 C 0.6570(3) -0.0360(7) 0.7535(2)
+C9 C 0.9220(2) 0.1270(4) 0.6391(2)
+C10 C 1.0116(2) 0.1855(5) 0.5924(2)
+C11 C 1.0571(2) 0.3649(5) 0.6252(2)
+C12 C 0.9829(2) 0.5227(4) 0.6281(2)
+C13 C 0.8925(2) 0.4664(4) 0.67383(14)
+C14 C 0.5193(2) 0.1365(4) 0.6427(2)
+C15 C 0.4479(2) 0.1958(4) 0.5904(2)
+C16 C 0.47443(15) 0.2475(3) 0.5147(2)
+C17 C 0.57046(15) 0.2434(3) 0.49041(14)
+H1 H 0.7769(15) 0.4392(35) 0.5638(12)
+H2 H 0.7929(16) 0.1975(33) 0.7510(15)
+H3 H 0.7189(18) 0.3459(38) 0.7104(14)
+H4 H 0.7327(16) -0.0303(33) 0.6497(13)
+H5 H 0.7745(13) 0.0577(30) 0.5327(10)
+H6 H 0.8376(19) 0.2079(34) 0.4155(14)
+H7 H 0.7300(17) 0.1205(36) 0.3965(14)
+H8 H 0.7458(17) 0.3437(37) 0.4142(14)
+H9 H 0.6129(24) -0.1326(48) 0.7422(17)
+H10 H 0.7086(29) -0.0715(64) 0.7883(25)
+H11 H 0.6176(25) 0.0622(56) 0.7841(23)
+H12 H 0.8924(16) 0.0074(34) 0.6165(13)
+H13 H 0.9409(17) 0.1006(34) 0.6904(16)
+H14 H 0.9925(18) 0.2078(36) 0.5351(16)
+H15 H 1.0558(25) 0.0798(51) 0.5939(19)
+H16 H 1.0827(23) 0.3438(45) 0.6829(21)
+H17 H 1.1081(28) 0.4060(55) 0.5919(21)
+H18 H 1.0106(19) 0.6443(39) 0.6536(15)
+H19 H 0.9628(16) 0.5604(34) 0.5744(15)
+H20 H 0.9092(16) 0.4493(36) 0.7274(15)
+H21 H 0.8430(19) 0.5719(42) 0.6721(15)
+H22 H 0.5021(17) 0.0953(37) 0.6978(16)
+H23 H 0.3852(21) 0.2029(36) 0.6048(14)
+H24 H 0.5876(16) 0.2769(33) 0.4355(15)
+#END

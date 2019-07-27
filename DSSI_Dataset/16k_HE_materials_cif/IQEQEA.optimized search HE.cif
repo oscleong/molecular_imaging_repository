@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IQEQEA
+_audit_creation_date 2004-04-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IQEQEA
+_database_code_depnum_ccdc_archive 'CCDC 193792'
+_chemical_formula_sum 'C14 H28 N6 O4'
+_chemical_formula_moiety
+;
+C14 H28 N6 O4
+;
+_journal_coden_Cambridge 155
+_journal_volume 357
+_journal_year 2004
+_journal_page_first 588
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"M.Durmus"
+"V.Ahsen"
+"D.Luneau"
+"J.Pecaut"
+_chemical_name_systematic
+;
+N,N'-bis(2-(morpholino)ethylamino)glyoxime
+;
+_chemical_melting_point 500.15
+_cell_volume   1737.826
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.316
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -x,y,-1/2-z
+7 -1/2-x,-1/2-y,-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 22.274(6)
+_cell_length_b 6.1299(17)
+_cell_length_c 13.834(4)
+_cell_angle_alpha 90
+_cell_angle_beta 113.068(10)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.03418(6) 0.70480(18) -0.46701(8)
+O2 O 0.18370(8) -0.2059(2) -0.46589(12)
+N1 N -0.03867(6) 0.7241(2) -0.36674(9)
+N2 N 0.03599(6) 0.4330(2) -0.32948(8)
+H1 H 0.03480 0.43550 -0.39240
+N3 N 0.13769(5) 0.1246(2) -0.36489(8)
+C1 C -0.00089(6) 0.5812(2) -0.30465(9)
+C2 C 0.07739(9) 0.2703(3) -0.25779(12)
+H2 H 0.05450 0.13190 -0.27080
+H3 H 0.08580 0.31350 -0.18620
+C3 C 0.14177(8) 0.2404(3) -0.26917(12)
+H4 H 0.16080 0.38310 -0.26840
+H5 H 0.17120 0.16070 -0.20850
+C4 C 0.12290(8) -0.1071(3) -0.36083(12)
+H6 H 0.08070 -0.12270 -0.35650
+H7 H 0.15550 -0.17300 -0.29870
+C5 C 0.12225(10) -0.2214(3) -0.45744(16)
+H8 H 0.11140 -0.37390 -0.45480
+H9 H 0.08890 -0.15700 -0.51920
+C6 C 0.1991(1) 0.0162(3) -0.47155(16)
+H10 H 0.16690 0.08040 -0.53470
+H11 H 0.24140 0.02680 -0.47610
+C7 C 0.20058(8) 0.1426(3) -0.37649(14)
+H12 H 0.23520 0.08650 -0.31380
+H13 H 0.20980 0.29490 -0.38400
+H14 H -0.0678(12) 0.779(3) -0.5141(18)
+C1E C 0.00089(6) 0.5812(2) -0.19535(9)
+N1E N 0.03867(6) 0.7241(2) -0.13326(9)
+O1E O 0.03418(6) 0.70480(18) -0.03299(8)
+H14E H 0.0678(12) 0.779(3) 0.0141(18)
+N2E N -0.03599(6) 0.4330(2) -0.17052(8)
+H1E H -0.03480 0.43550 -0.10760
+C2E C -0.07739(9) 0.2703(3) -0.24221(12)
+H2E H -0.05450 0.13190 -0.22920
+H3E H -0.08580 0.31350 -0.31380
+C3E C -0.14177(8) 0.2404(3) -0.23083(12)
+N3E N -0.13769(5) 0.1246(2) -0.13511(8)
+C4E C -0.12290(8) -0.1071(3) -0.13917(12)
+H6E H -0.08070 -0.12270 -0.14350
+H7E H -0.15550 -0.17300 -0.20130
+C5E C -0.12225(10) -0.2214(3) -0.04256(16)
+O2E O -0.18370(8) -0.2059(2) -0.03411(12)
+C6E C -0.1991(1) 0.0162(3) -0.02845(16)
+H10E H -0.16690 0.08040 0.03470
+H11E H -0.24140 0.02680 -0.02390
+C7E C -0.20058(8) 0.1426(3) -0.12351(14)
+H12E H -0.23520 0.08650 -0.18620
+H13E H -0.20980 0.29490 -0.11600
+H8E H -0.11140 -0.37390 -0.04520
+H9E H -0.08890 -0.15700 0.01920
+H4E H -0.16080 0.38310 -0.23160
+H5E H -0.17120 0.16070 -0.29150
+#END

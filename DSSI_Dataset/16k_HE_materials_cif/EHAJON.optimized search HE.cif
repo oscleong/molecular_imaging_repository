@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EHAJON
+_audit_creation_date 2009-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EHAJON
+_database_code_depnum_ccdc_archive 'CCDC 707777'
+_chemical_formula_sum 'C8 H12 N2 O2'
+_chemical_formula_moiety
+;
+C8 H12 N2 O2
+;
+_journal_coden_Cambridge 1336
+_journal_volume 10
+_journal_year 2008
+_journal_page_first 4141
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"J.C.Anderson"
+"A.J.Blake"
+"M.Mills"
+"P.D.Ratcliffe"
+_chemical_name_systematic
+;
+syn-1-Methyl-2-nitrocyclohexanecarbonitrile
+;
+_chemical_melting_point 333.65
+_cell_volume    900.949
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.24
+_exptl_special_details
+;
+Melting point range 333.65-335.55K
+
+;
+_exptl_crystal_description 'column'
+_exptl_crystal_preparation 'ether/pentane'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0427
+_refine_ls_wR_factor_gt 0.0427
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.8362(12)
+_cell_length_b 9.600(2)
+_cell_length_c 12.054(2)
+_cell_angle_alpha 90
+_cell_angle_beta 96.508(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.76624(13) 0.05245(10) 0.44119(8)
+O1 O 0.79648(15) 0.06221(9) 0.54270(7)
+O2 O 0.72292(16) -0.05518(10) 0.39331(9)
+C1 C 0.78549(14) 0.18101(11) 0.37188(8)
+H1 H 0.77130 0.15250 0.29160
+C2 C 0.64332(13) 0.28726(11) 0.38862(8)
+C3 C 0.66954(14) 0.41208(12) 0.31103(9)
+H2 H 0.64940 0.38080 0.23240
+H3 H 0.58350 0.48490 0.32210
+C4 C 0.84790(16) 0.47465(13) 0.33233(11)
+H4 H 0.86420 0.51510 0.40840
+H5 H 0.85940 0.55070 0.27820
+C5 C 0.98549(16) 0.36570(15) 0.32137(11)
+H6 H 1.10020 0.40800 0.34050
+H7 H 0.97760 0.33310 0.24300
+C6 C 0.96541(15) 0.24148(13) 0.39824(10)
+H8 H 1.05230 0.16960 0.38680
+H9 H 0.98340 0.27180 0.47720
+C7 C 0.66025(14) 0.33876(12) 0.50483(9)
+N2 N 0.66896(15) 0.38378(12) 0.59288(8)
+C8 C 0.46319(15) 0.22617(14) 0.35961(11)
+H10 H 0.44740 0.14730 0.40900
+H11 H 0.44980 0.19440 0.28190
+H12 H 0.37710 0.29780 0.36940
+#END

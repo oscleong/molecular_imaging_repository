@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOGGUL
+_audit_creation_date 1998-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOGGUL
+_database_code_depnum_ccdc_archive 'CCDC 130006'
+_chemical_formula_sum 'C18 H19 N1 O6'
+_chemical_formula_moiety
+;
+C18 H19 N1 O6
+;
+_journal_coeditor_code "IUCr SX1050"
+_journal_coden_Cambridge 591
+_journal_volume 54
+_journal_year 1998
+_journal_page_first 695
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"D.F.Mullica"
+"K.G.Pinney"
+"P.Mejia"
+"B.E.Rosenquist"
+"E.L.Sappenfield"
+_chemical_name_systematic
+;
+(E)-1-(3'-Methoxy-4'-nitrophenyl)-2-(3'',4'',5''-trimethoxyphenyl)ethene
+;
+_chemical_name_common
+;
+trans-3-Methoxy-4-nitro-3',4',5'-trimethoxystilbene
+;
+_chemical_melting_point 460.15
+_cell_volume   1689.920
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.36
+_exptl_special_details
+;
+Melting point range 460.15-461.15K
+
+;
+_exptl_crystal_description 'irregular parallelepiped'
+_exptl_crystal_preparation 'hexanes/dichloromethane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.027(3)
+_cell_length_b 12.1065(12)
+_cell_length_c 13.199(3)
+_cell_angle_alpha 90
+_cell_angle_beta 106.45(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0117(2) 0.6123(2) -0.2933(2)
+C2 C -0.0765(2) 0.5528(2) -0.3712(2)
+H1 H -0.0979(2) 0.4786(2) -0.3571(2)
+C3 C -0.1329(2) 0.6004(2) -0.4687(2)
+C4 C -0.1045(2) 0.7089(2) -0.4887(2)
+C5 C -0.0169(2) 0.7687(2) -0.4115(2)
+C6 C 0.0414(2) 0.7203(2) -0.3146(2)
+H2 H 0.1026(2) 0.7614(2) -0.2619(2)
+C7 C 0.0757(2) 0.5678(2) -0.1887(2)
+H3 H 0.1454(2) 0.6103(2) -0.1469(2)
+C8 C 0.0492(2) 0.4760(2) -0.1444(2)
+H4 H -0.0187(2) 0.4308(2) -0.1852(2)
+C9 C 0.1166(2) 0.4384(2) -0.0373(2)
+C10 C 0.0852(2) 0.3367(2) -0.0029(1)
+H5 H 0.0196(2) 0.2935(2) -0.0494(1)
+C11 C 0.1460(2) 0.2959(2) 0.0969(2)
+C12 C 0.2432(2) 0.3599(2) 0.1628(2)
+C13 C 0.2715(2) 0.4635(2) 0.1297(2)
+H6 H 0.3358(2) 0.5078(2) 0.1763(2)
+C14 C 0.2095(2) 0.5030(2) 0.0320(2)
+H7 H 0.2292(2) 0.5750(2) 0.0108(2)
+C15 C -0.2395(3) 0.4356(2) -0.5407(2)
+H8 H -0.3012(3) 0.4100(2) -0.6032(2)
+H9 H -0.2700(3) 0.4233(2) -0.4803(2)
+H10 H -0.1618(3) 0.3960(2) -0.5319(2)
+O1 O -0.2183(2) 0.5491(1) -0.5503(1)
+C16 C -0.0993(3) 0.7431(3) -0.6619(2)
+H11 H -0.1454(3) 0.7787(3) -0.7263(2)
+H12 H -0.0921(3) 0.6656(3) -0.6747(2)
+H13 H -0.0164(3) 0.7749(3) -0.6374(2)
+O2 O -0.1640(2) 0.7577(1) -0.5846(1)
+C17 C 0.0981(3) 0.9367(2) -0.3642(2)
+H14 H 0.1050(3) 1.0086(2) -0.3928(2)
+H15 H 0.1783(3) 0.8998(2) -0.3491(2)
+H16 H 0.0735(3) 0.9441(2) -0.3003(2)
+O3 O 0.0059(2) 0.8741(1) -0.4387(1)
+C18 C 0.0002(2) 0.1465(2) 0.0779(2)
+H17 H -0.0096(2) 0.0788(2) 0.1127(2)
+H18 H 0.0020(2) 0.1308(2) 0.0071(2)
+H19 H -0.0695(2) 0.1947(2) 0.0761(2)
+O4 O 0.1156(2) 0.1987(1) 0.1342(1)
+N1 N 0.3179(2) 0.3227(2) 0.2657(2)
+O5 O 0.3055(3) 0.2336(2) 0.2974(2)
+O6 O 0.3957(3) 0.3836(2) 0.3185(2)
+#END

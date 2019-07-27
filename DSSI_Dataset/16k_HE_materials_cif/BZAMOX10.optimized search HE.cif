@@ -1,0 +1,96 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BZAMOX10
+_audit_creation_date 1978-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BZAMOX10
+_chemical_formula_sum 'C14 H14 N2 O1'
+_chemical_formula_moiety
+;
+C14 H14 N2 O1
+;
+_journal_coeditor_code "IUCr A15122"
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 3296
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"A.Gieren"
+"B.Dederer"
+_chemical_name_systematic
+;
+N-Benzyl-syn-benzamidoxime
+;
+_cell_volume   1218.456
+_exptl_crystal_density_diffrn 1.233
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.052
+_refine_ls_wR_factor_gt 0.052
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 12.513(8)
+_cell_length_b 13.288(8)
+_cell_length_c 7.332(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.88(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.00260 -0.48280 0.28360
+N1 N 0.08160 -0.53810 0.37650
+N2 N 0.15520 -0.53010 0.08900
+C1 C 0.24860 -0.61550 0.34440
+C2 C 0.25570 -0.71620 0.30730
+C3 C 0.33870 -0.77310 0.37870
+C4 C 0.41530 -0.72940 0.48660
+C5 C 0.40980 -0.62890 0.52560
+C6 C 0.32590 -0.57190 0.45510
+C7 C 0.31400 -0.42490 0.02250
+C8 C 0.40870 -0.41050 -0.06500
+C9 C 0.47060 -0.32620 -0.03210
+C10 C 0.43790 -0.25550 0.08940
+C11 C 0.34500 -0.26820 0.17650
+C12 C 0.28250 -0.35220 0.14460
+C13 C 0.24940 -0.51850 -0.01690
+C14 C 0.15730 -0.55620 0.26950
+#END

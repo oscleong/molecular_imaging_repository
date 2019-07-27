@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VORLEU
+_audit_creation_date 2009-05-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VORLEU
+_database_code_depnum_ccdc_archive 'CCDC 731283'
+_chemical_formula_sum 'C12 H6 N4 O8'
+_chemical_formula_moiety
+;
+C12 H6 N4 O8
+;
+_journal_coeditor_code "IUCr IM2105"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o1052
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"N.Hammond"
+"P.Carvalho"
+"Y.Wu"
+"M.A.Avery"
+_chemical_name_systematic
+;
+3,3',5,5'-Tetranitrobiphenyl
+;
+_cell_volume   2544.636
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.745
+_exptl_special_details
+;
+Anti-malarial properties. Active against the chloroquine resistant D6 clone 
+and the W2 clone of Plasmodium falciparum
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'chloroform/methanol'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0303
+_refine_ls_wR_factor_gt 0.0303
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 10.0683(1)
+_cell_length_b 15.4640(2)
+_cell_length_c 16.3436(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.34665(12) 0.30780(8) 0.43269(7)
+C2 C 0.33233(12) 0.30138(8) 0.51737(7)
+H1 H 0.28940 0.34480 0.54660
+C3 C 0.38272(12) 0.22966(8) 0.55741(7)
+C4 C 0.44841(12) 0.16333(8) 0.51778(8)
+H2 H 0.48280 0.11600 0.54580
+C5 C 0.45990(12) 0.17162(8) 0.43369(8)
+C6 C 0.41093(12) 0.24155(8) 0.39006(7)
+H3 H 0.42060 0.24430 0.33350
+N1 N 0.37026(10) 0.22503(7) 0.64699(6)
+N2 N 0.52978(10) 0.10245(7) 0.38839(7)
+O1 O 0.30268(11) 0.28031(6) 0.68111(5)
+O2 O 0.42893(10) 0.16675(6) 0.68273(5)
+O3 O 0.58781(10) 0.04674(6) 0.42849(6)
+O4 O 0.52572(10) 0.10442(6) 0.31365(6)
+C7 C 0.30389(12) 0.38719(8) 0.38844(7)
+C8 C 0.33837(12) 0.46789(8) 0.42007(7)
+H4 H 0.3828(15) 0.4741(10) 0.4712(9)
+C9 C 0.31428(12) 0.54092(8) 0.37355(7)
+C10 C 0.25353(12) 0.53897(8) 0.29759(7)
+H5 H 0.2391(15) 0.5895(9) 0.2666(9)
+C11 C 0.21448(12) 0.45823(8) 0.27031(7)
+C12 C 0.23899(12) 0.38234(8) 0.31302(7)
+H6 H 0.21270 0.32920 0.29180
+N3 N 0.36202(10) 0.62466(7) 0.40437(6)
+N4 N 0.14792(10) 0.45304(7) 0.18984(6)
+O5 O 0.38516(9) 0.63076(6) 0.47790(5)
+O6 O 0.37639(9) 0.68355(6) 0.35486(6)
+O7 O 0.12418(9) 0.52096(6) 0.15399(5)
+O8 O 0.12047(10) 0.38108(6) 0.16341(6)
+#END

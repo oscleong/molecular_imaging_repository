@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIYRIU
+_audit_creation_date 2000-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIYRIU
+_database_code_depnum_ccdc_archive 'CCDC 146061'
+_chemical_formula_sum 'C12 H10 N2 O2'
+_chemical_formula_moiety
+;
+C12 H10 N2 O2
+;
+_journal_coeditor_code "IUCr GD1082"
+_journal_coden_Cambridge 591
+_journal_volume 56
+_journal_year 2000
+_journal_page_first 697
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"K.Ejsmont"
+"A.Domanski"
+"J.Kyziol"
+"J.Zaleski"
+_chemical_name_systematic
+;
+4-Hydroxy-ONN-azoxybenzene
+;
+_chemical_melting_point 429.3
+_cell_volume   1036.911
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.372
+_exptl_special_details
+;
+Melting point range 429.3-429.8K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'benzene/n-heptane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0337
+_refine_ls_wR_factor_gt 0.0337
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 7.187(1)
+_cell_length_b 11.261(2)
+_cell_length_c 12.812(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2024(3) 0.24506(17) 0.84313(14)
+N2 N 0.1457(3) 0.21220(18) 0.93209(14)
+O1 O 0.2274(3) 0.70176(16) 0.68493(14)
+O2 O 0.0781(3) 0.27976(13) 1.00334(14)
+C1 C 0.1961(4) 0.3645(2) 0.81248(16)
+C2 C 0.2936(4) 0.3844(2) 0.72042(17)
+C3 C 0.3056(4) 0.4951(2) 0.67680(18)
+C4 C 0.2184(4) 0.5901(2) 0.72317(16)
+C5 C 0.1148(4) 0.5715(2) 0.81343(18)
+C6 C 0.1035(4) 0.4607(2) 0.85810(17)
+C7 C 0.1562(3) 0.0855(2) 0.95302(16)
+C8 C 0.1027(4) 0.0457(2) 1.04995(19)
+C9 C 0.1099(5) -0.0739(3) 1.0707(2)
+C10 C 0.1677(5) -0.1527(3) 0.9970(2)
+C11 C 0.2199(5) -0.1121(2) 0.89940(19)
+C12 C 0.2135(4) 0.0072(3) 0.87713(19)
+H1 H 0.298(6) 0.703(3) 0.632(3)
+H2 H 0.370(5) 0.315(3) 0.686(3)
+H3 H 0.375(4) 0.506(2) 0.618(2)
+H4 H 0.045(3) 0.639(2) 0.8410(18)
+H5 H 0.026(4) 0.445(2) 0.920(2)
+H6 H 0.059(4) 0.105(2) 1.096(2)
+H7 H 0.059(5) -0.105(3) 1.135(3)
+H8 H 0.163(4) -0.236(2) 1.008(2)
+H9 H 0.254(4) -0.171(2) 0.848(2)
+H10 H 0.246(4) 0.038(2) 0.808(2)
+#END

@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PNOIZE
+_audit_creation_date 1981-09-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PNOIZE
+_database_code_depnum_ccdc_archive 'CCDC 1235464'
+_chemical_formula_sum 'C18 H19 N3 O2'
+_chemical_formula_moiety
+;
+C18 H19 N3 O2
+;
+_journal_coden_Cambridge 82
+_journal_volume 21
+_journal_year 1980
+_journal_page_first 69-6
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"V.A.Tafeenko"
+"L.A.Aslanov"
+_chemical_name_systematic
+;
+2-Phenyl-5-6-butylamino-8-nitro-indolizine
+;
+_cell_volume   1595.565
+_exptl_special_details
+;
+All x/a coordinates multiplied by 1000 (not 10000)
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.07
+_refine_ls_wR_factor_gt 0.07
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 -x,-y,-z
+4 x,-1/2+y,-1/2-z
+_cell_length_a 6.532(4)
+_cell_length_b 15.690(6)
+_cell_length_c 16.171(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 105.69(5)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.22100 0.29860 0.22090
+O2 O -0.07800 0.30900 0.17090
+N1 N 0.13700 0.64100 0.40160
+N2 N 0.07800 0.33650 0.21670
+N3 N -0.02100 0.54120 0.30140
+C1 C -0.22300 0.45920 0.20090
+C2 C -0.28900 0.53800 0.21640
+C3 C -0.16800 0.58740 0.27730
+C4 C 0.13500 0.56590 0.36110
+C5 C 0.27000 0.51170 0.37360
+C6 C 0.25300 0.43550 0.32560
+C7 C 0.09200 0.41280 0.26700
+C8 C -0.05800 0.46360 0.25180
+C9 C -0.46500 0.56150 0.17120
+C10 C -0.52700 0.63940 0.19370
+C11 C -0.69600 0.65840 0.15030
+C12 C -0.80700 0.60420 0.08600
+C13 C -0.74100 0.52900 0.06420
+C14 C -0.57500 0.50780 0.10790
+C15 C 0.28700 0.68130 0.47010
+C16 C 0.20300 0.76030 0.49990
+C17 C 0.52000 0.71590 0.43650
+C18 C 0.27100 0.61680 0.54620
+#END

@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RIWQET01
+_audit_creation_date 2002-10-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RIWQET01
+_database_code_depnum_ccdc_archive 'CCDC 193607'
+_chemical_formula_sum 'C13 H12 N4 O4'
+_chemical_formula_moiety
+;
+C13 H12 N4 O4
+;
+_journal_coeditor_code "IUCr AN0602"
+_journal_coden_Cambridge 622
+_journal_volume 58
+_journal_year 2002
+_journal_page_first 690
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"J.M.Cole"
+"A.E.Goeta"
+"J.A.K.Howard"
+"G.J.McIntyre"
+_chemical_name_systematic
+;
+2-(Methylbenzylamino)-3,5-dinitropyridine
+;
+_cell_volume    636.138
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.504
+_exptl_special_details
+;
+neutron derived cell parameters a=8.3467(8) b=8.5673(8) c=8.8999(8) 
+beta=93.954
+X-ray derived cell parameters were used for all calculation, correction and 
+refinement procedures although neutron derived parameters were used in data 
+collection
+;
+_exptl_crystal_description 'hexagonal prism'
+_diffrn_ambient_temperature 20.00
+_diffrn_radiation_probe 'neutron radiation'
+_refine_special_details
+;
+multipolar refinement
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0291
+_refine_ls_wR_factor_gt 0.0291
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 8.352(3)
+_cell_length_b 8.570(3)
+_cell_length_c 8.909(4)
+_cell_angle_alpha 90
+_cell_angle_beta 93.98(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.15593(12) 0.96547(13) 0.73206(12)
+O2 O -0.01945(13) 1.06825(13) 0.55930(12)
+O3 O 0.51576(12) 0.89189(13) 0.49365(12)
+O4 O 0.61174(12) 0.69667(13) 0.62704(12)
+N1 N -0.08104(7) 0.67472(7) 0.82438(7)
+H1 H -0.1746(3) 0.7477(3) 0.7998(3)
+N2 N 0.17873(7) 0.60357(7) 0.78741(7)
+N3 N -0.03933(7) 0.96757(7) 0.65345(7)
+N4 N 0.50107(7) 0.78427(7) 0.58286(7)
+C1 C -0.24396(10) 0.55579(10) 1.00641(10)
+C2 C -0.38679(10) 0.47043(11) 1.00011(10)
+H2 H -0.4081(3) 0.3772(3) 0.9181(3)
+C3 C -0.50539(10) 0.50292(11) 1.09938(10)
+H3 H -0.6170(3) 0.4370(3) 1.0907(3)
+C4 C -0.48078(10) 0.61863(11) 1.20866(10)
+H4 H -0.5733(3) 0.6411(3) 1.2864(3)
+C5 C -0.33708(11) 0.70326(11) 1.2170(1)
+H5 H -0.3150(3) 0.7913(3) 1.3034(3)
+C6 C -0.22085(10) 0.67300(11) 1.1157(1)
+H6 H -0.1108(3) 0.7410(3) 1.1218(3)
+C7 C -0.11286(10) 0.52602(10) 0.89968(9)
+H7 H -0.0012(2) 0.4945(3) 0.9657(2)
+C8 C -0.15256(11) 0.39796(10) 0.7831(1)
+H8 H -0.1687(3) 0.2854(3) 0.8380(3)
+H9 H -0.0542(3) 0.3866(3) 0.7081(3)
+H10 H -0.2630(3) 0.4254(3) 0.7153(3)
+C9 C 0.05708(10) 0.70823(10) 0.76388(9)
+C10 C 0.08145(10) 0.84614(10) 0.67666(10)
+C11 C 0.22537(10) 0.87061(10) 0.61283(10)
+H11 H 0.2447(3) 0.9743(3) 0.5467(3)
+C12 C 0.34521(10) 0.76013(10) 0.64042(10)
+C13 C 0.31768(10) 0.63001(10) 0.72972(10)
+H12 H 0.4132(3) 0.5450(3) 0.7533(3)
+#END

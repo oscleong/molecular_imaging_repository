@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOWSIP
+_audit_creation_date 1983-10-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOWSIP
+_database_code_depnum_ccdc_archive 'CCDC 1114535'
+_chemical_formula_sum 'C10 H11 N3 O3'
+_chemical_formula_moiety
+;
+C10 H11 N3 O3
+;
+_journal_coeditor_code "IUCr A22361"
+_journal_coden_Cambridge 591
+_journal_volume 39
+_journal_year 1983
+_journal_page_first 403
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"G.R.Willey"
+"M.G.B.Drew"
+_chemical_name_systematic
+;
+(E)-Butane-2,3-dione-4'-nitrophenylhydrazone
+;
+_chemical_melting_point 498
+_cell_volume   1070.825
+_exptl_crystal_colour 'bright red'
+_exptl_crystal_density_diffrn 1.37
+_exptl_special_details
+;
+Melting point range 498-505K
+Space group is P21/n, not P21/c
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.474(8)
+_cell_length_b 9.220(7)
+_cell_length_c 10.049(7)
+_cell_angle_alpha 90
+_cell_angle_beta 112.1(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.62040 0.71710 1.06840
+C2 C 0.70450 0.62020 1.06790
+C3 C 0.68170 0.53080 0.95180
+C4 C 0.57540 0.53350 0.83910
+C5 C 0.49310 0.63300 0.84110
+C6 C 0.51620 0.72330 0.95510
+N1 N 0.64270 0.80810 1.19420
+O1 O 0.73050 0.78930 1.29980
+O2 O 0.57160 0.89950 1.19120
+N2 N 0.55240 0.43540 0.72750
+N3 N 0.44710 0.43500 0.62090
+C7 C 0.42210 0.33660 0.52210
+C8 C 0.30250 0.34590 0.41470
+O3 O 0.26670 0.25350 0.32070
+C9 C 0.50120 0.21950 0.51190
+C10 C 0.22490 0.46670 0.42270
+H1 H 0.74070 0.47080 0.95210
+H2 H 0.77210 0.62100 1.14270
+H3 H 0.46620 0.78180 0.95770
+H4 H 0.42250 0.64190 0.77020
+H5 H 0.60210 0.37790 0.73540
+H6 H 0.46520 0.17350 0.42120
+H7 H 0.50270 0.15460 0.58600
+H8 H 0.57810 0.24570 0.53470
+H9 H 0.24130 0.51270 0.51280
+H10 H 0.15430 0.41440 0.39670
+H11 H 0.21800 0.53800 0.35170
+#END

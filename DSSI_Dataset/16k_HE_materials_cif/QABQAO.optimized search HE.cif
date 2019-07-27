@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QABQAO
+_audit_creation_date 2016-03-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QABQAO
+_database_code_depnum_ccdc_archive 'CCDC 1030765'
+_chemical_formula_sum 'C19 H13 N1 O5'
+_chemical_formula_moiety
+;
+C19 H13 N1 O5
+;
+_journal_coden_Cambridge 154
+_journal_volume 69
+_journal_year 2016
+_journal_page_first 291
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"J.L.Jios"
+"R.Wartchow"
+"G.A.Echeverria"
+"H.Duddeck"
+_chemical_name_systematic
+;
+2-acetyl-5-nitrophenyl 1-naphthoate
+;
+_chemical_name_common
+;
+2-(1'-naphthoyloxy)-4-nitro-acetophenone
+;
+_chemical_melting_point 390
+_cell_volume   1574.338
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.415
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 300
+_refine_special_details
+;
+There is a lattice parameter c of 29 A and the crystal consisted of two 
+domains. To improve the chance of a good separation of reflections the 
+detector distance 100mm was chosen. This limits 2q-max to 42 deg., which is 
+too low for CHECKCIF. The separation of the reflections of the two domains 
+did not succeed, too much overlaps, too few usable reflections. Therefore the 
+second domain was ignored and the measurement carried on as if there was only 
+one domain, with the result that many reflections were falsified by 
+reflections of the second domain. This defect causes the bad R-values of this 
+structure refinement. Nevertheless the structure determination seems to be 
+correct, if one compares with the quasi-isotypic compounds 3 (CCDC-no. 
+1030774 ) and 4 (CCDC-no. 1030770).
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.2068
+_refine_ls_wR_factor_gt 0.2068
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.324(1)
+_cell_length_b 7.408(1)
+_cell_length_c 29.149(7)
+_cell_angle_alpha 90
+_cell_angle_beta 95.46(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.377(2) 0.8929(18) 0.4414(5)
+O2 O 0.3866(16) 0.3520(17) 0.4153(4)
+O3 O 0.1097(17) 0.2512(19) 0.3840(4)
+O4 O 0.121(3) 0.281(2) 0.5994(5)
+O5 O 0.140(3) 0.065(2) 0.5499(5)
+N1 N 0.159(2) 0.221(2) 0.5614(6)
+C1 C 0.335(2) 0.749(3) 0.4286(6)
+C2 C 0.324(3) 0.708(3) 0.3780(8)
+H1 H 0.37340 0.80720 0.36200
+H2 H 0.19770 0.69010 0.36640
+H3 H 0.39240 0.60060 0.37310
+C3 C 0.279(2) 0.262(2) 0.3817(5)
+C4 C 0.295(2) 0.597(2) 0.4611(6)
+C5 C 0.308(2) 0.417(2) 0.4551(6)
+C6 C 0.265(2) 0.286(2) 0.4867(6)
+H4 H 0.27260 0.16290 0.48100
+C7 C 0.209(2) 0.355(2) 0.5271(6)
+C8 C 0.197(2) 0.534(3) 0.5374(6)
+H5 H 0.16070 0.57230 0.56560
+C9 C 0.240(2) 0.658(3) 0.5044(6)
+H6 H 0.23360 0.78130 0.51040
+C10 C 0.378(2) 0.183(2) 0.3469(5)
+C11 C 0.564(2) 0.144(2) 0.3595(6)
+H7 H 0.61430 0.17540 0.38890
+C12 C 0.677(3) 0.061(3) 0.3296(6)
+H8 H 0.79830 0.02990 0.33900
+C13 C 0.597(3) 0.025(3) 0.2840(7)
+H9 H 0.66840 -0.02420 0.26250
+C14 C 0.339(3) 0.037(3) 0.2228(7)
+H10 H 0.41160 -0.01140 0.20130
+C15 C 0.173(3) 0.080(3) 0.2104(7)
+H11 H 0.12480 0.05210 0.18050
+C16 C 0.060(3) 0.168(3) 0.2398(7)
+H12 H -0.05710 0.20750 0.22910
+C17 C 0.127(2) 0.192(2) 0.2849(6)
+H13 H 0.05080 0.24090 0.30540
+C18 C 0.302(2) 0.146(2) 0.3005(6)
+C19 C 0.418(2) 0.063(3) 0.2713(6)
+#END

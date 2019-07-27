@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XUZJUX01
+_audit_creation_date 2016-06-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XUZJUX01
+_database_code_depnum_ccdc_archive 'CCDC 1475212'
+_chemical_formula_sum 'C6 H7 N1 O2'
+_chemical_formula_moiety
+;
+C6 H7 N1 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2016
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Bi-Yun Su"
+"Xiao-Teng Li"
+_chemical_name_systematic
+;
+(E)-1-(2-furyl)-N-hydroxyethanimine
+;
+_chemical_name_common
+;
+(E)-1-(furan-2-yl)ethanone oxime
+;
+_chemical_melting_point 384.35
+_cell_volume    639.283
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.3
+_exptl_special_details
+;
+Melting point range 384.35-385.75K
+The College of Chemistry and Chemical Engineering, Xi an Shiyou University, 
+Xi an, China
+;
+_exptl_crystal_description 'rodlike'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0489
+_refine_ls_wR_factor_gt 0.0489
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.329(3)
+_cell_length_b 14.340(5)
+_cell_length_c 5.5349(18)
+_cell_angle_alpha 90
+_cell_angle_beta 104.753(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.43998(19) 0.43407(12) 0.2978(3)
+O1 O 0.11373(16) 0.40472(10) 0.2094(2)
+O2 O 0.61366(16) 0.43939(11) 0.3483(3)
+H1 H 0.64890 0.47440 0.46720
+C1 C -0.0508(3) 0.38927(16) 0.1035(5)
+H2 H -0.13550 0.40260 0.17990
+C2 C -0.0741(3) 0.35253(16) -0.1238(5)
+H3 H -0.17500 0.33650 -0.23280
+C3 C 0.0856(3) 0.34281(14) -0.1658(4)
+H4 H 0.10970 0.31830 -0.30810
+C4 C 0.1965(2) 0.37561(13) 0.0387(3)
+C5 C 0.3743(2) 0.38587(12) 0.1011(3)
+C6 C 0.4703(3) 0.34147(15) -0.0627(4)
+H5 H 0.54240 0.38690 -0.10740
+H6 H 0.39480 0.31800 -0.21120
+H7 H 0.53550 0.29100 0.02540
+#END

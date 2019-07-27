@@ -1,0 +1,90 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NANILI24
+_audit_creation_date 2014-10-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NANILI24
+_database_code_depnum_ccdc_archive 'CCDC 985587'
+_chemical_formula_sum 'C6 H6 N2 O2'
+_chemical_formula_moiety
+;
+C6 H6 N2 O2
+;
+_journal_coden_Cambridge 95
+_journal_year 2014
+_journal_page_first 1270
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"I.V.Ananyev"
+"K.A.Lyssenko"
+_chemical_name_systematic
+;
+4-nitroaniline
+;
+_cell_volume    616.960
+_exptl_crystal_density_diffrn 1.487
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0361
+_refine_ls_wR_factor_gt 0.0361
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.4677(2)
+_cell_length_b 6.0331(1)
+_cell_length_c 12.0921(2)
+_cell_angle_alpha 90
+_cell_angle_beta 92.8857(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.72204(4) 0.58565(5) -0.05286(3)
+O2 O 0.86774(4) 0.87752(6) -0.07084(3)
+N1 N 0.76102(4) 0.77741(5) -0.02600(2)
+N2 N 0.44802(5) 1.18401(7) 0.31443(3)
+C1 C 0.67982(4) 0.88445(5) 0.06058(2)
+C2 C 0.72540(4) 1.09768(5) 0.09484(3)
+C3 C 0.64753(4) 1.19831(5) 0.17900(3)
+C4 C 0.52345(4) 1.08798(6) 0.23044(3)
+C5 C 0.47857(4) 0.87372(6) 0.19299(3)
+C6 C 0.55597(4) 0.77309(5) 0.10877(3)
+H1 H 0.5273(11) 0.6243(16) 0.0858(7)
+H2 H 0.6768(11) 1.3451(15) 0.2018(8)
+H3 H 0.3875(12) 0.7956(17) 0.2274(8)
+H4 H 0.8187(11) 1.1696(15) 0.0623(7)
+H5 H 0.3785(13) 1.1037(18) 0.3497(9)
+H6 H 0.4730(13) 1.3208(18) 0.3350(9)
+#END

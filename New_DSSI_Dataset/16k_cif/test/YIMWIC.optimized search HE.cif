@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YIMWIC
+_audit_creation_date 2013-11-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YIMWIC
+_database_code_depnum_ccdc_archive 'CCDC 924978'
+_chemical_formula_sum 'C12 H11 N1 O3'
+_chemical_formula_moiety
+;
+C12 H11 N1 O3
+;
+_journal_coden_Cambridge 24
+_journal_volume 54
+_journal_year 2013
+_journal_page_first 4679
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"F.Saikh"
+"Jhantu Das"
+"S.Ghosh"
+_chemical_name_systematic
+;
+4-(4-Methoxybenzylidene)-3-methyl-1,2-oxazol-5(4H)-one
+;
+_chemical_melting_point 449
+_cell_volume   1047.539
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.377
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0649
+_refine_ls_wR_factor_gt 0.0649
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.8059(5)
+_cell_length_b 6.9143(3)
+_cell_length_c 12.7500(5)
+_cell_angle_alpha 90
+_cell_angle_beta 111.890(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.21005(8) 0.88067(15) 0.31557(9)
+O2 O 0.39012(8) 0.83853(16) 0.42386(8)
+O3 O 0.88171(8) 0.90632(15) 0.38759(10)
+N1 N 0.14193(10) 0.90213(17) 0.19687(11)
+C1 C 0.76916(11) 0.89040(17) 0.33344(12)
+C2 C 0.95000(13) 0.9158(3) 0.32166(17)
+H1 H 1.02760 0.92680 0.37080
+H2 H 0.92880 1.02650 0.27280
+H3 H 0.93960 0.80050 0.27690
+C3 C 0.16482(12) 0.9170(2) 0.01865(12)
+H4 H 0.08430 0.92800 -0.00900
+H5 H 0.18530 0.80490 -0.01380
+H6 H 0.19590 1.03050 -0.00200
+C4 C 0.32142(11) 0.86427(17) 0.33037(11)
+C5 C 0.70582(11) 0.89898(18) 0.40195(11)
+H7 H 0.74230 0.91100 0.47980
+C6 C 0.71474(11) 0.86821(18) 0.21725(12)
+H8 H 0.75610 0.85910 0.17100
+C7 C 0.59092(11) 0.88995(17) 0.35608(11)
+H9 H 0.55020 0.89630 0.40300
+C8 C 0.20955(10) 0.89805(17) 0.14345(11)
+C9 C 0.59847(11) 0.85989(17) 0.17132(11)
+H10 H 0.56220 0.84640 0.09350
+C10 C 0.32617(10) 0.87812(15) 0.21752(10)
+C11 C 0.53372(10) 0.87121(15) 0.2388(1)
+C12 C 0.41336(10) 0.87311(15) 0.18128(10)
+H11 H 0.39050 0.87030 0.10300
+#END

@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IDUDUJ
+_audit_creation_date 2018-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IDUDUJ
+_database_code_depnum_ccdc_archive 'CCDC 1477783'
+_chemical_formula_sum 'C8 H5 N11 O10'
+_chemical_formula_moiety
+;
+C8 H5 N11 O10
+;
+_journal_coden_Cambridge 2020
+_journal_volume 2
+_journal_year 2017
+_journal_page_first 688
+_journal_name_full 'Chem. Sel. '
+loop_
+_publ_author_name
+"Qiong Yu"
+"Hongwei Yang"
+"Xuehai Ju"
+"Chunxu Lu"
+"Guangbin Cheng"
+_chemical_name_systematic
+;
+4-[4-(4-amino-1,2,5-oxadiazol-3-yl)-2-oxo-1,2,5-oxadiazol-3-yl]-N-(2,2,2-trini
+troethyl)-1,2,5-oxadiazol-3-amine
+;
+_chemical_name_common
+;
+4''-amino-4-((2,2,2-trinitroethyl)amino)-[3,3':4',3''-ter(1,2,5-oxadiazole)] 
+2'-oxide
+;
+_cell_volume   1511.349
+_exptl_crystal_density_diffrn 1.825
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+O2 and O2' disordered over two sites with occupancies 0.849:0.151.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0384
+_refine_ls_wR_factor_gt 0.0384
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.4081(9)
+_cell_length_b 12.3127(17)
+_cell_length_c 19.155(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4296(6) 0.6649(3) 0.86400(17)
+C2 C 0.3305(6) 0.7092(3) 0.80395(18)
+C3 C 0.7519(6) 0.6351(3) 0.94640(17)
+C4 C 0.6167(6) 0.6949(3) 0.90018(18)
+C5 C 0.8920(6) 0.4768(4) 1.00780(19)
+H1 H 0.99770 0.53100 1.02230
+H2 H 0.96430 0.41840 0.98180
+C6 C 0.7886(6) 0.4294(3) 1.07182(19)
+C7 C 0.2674(6) 0.8640(3) 0.71495(19)
+C8 C 0.3995(6) 0.7940(3) 0.75604(17)
+N1 N 0.3025(5) 0.5901(3) 0.88914(17)
+N2 N 0.1505(5) 0.6628(3) 0.79210(17)
+N3 N 0.8949(5) 0.6996(3) 0.97061(16)
+N4 N 0.6810(5) 0.7956(3) 0.89793(15)
+N5 N 0.7402(6) 0.5281(3) 0.96288(17)
+H3 H 0.670(6) 0.487(3) 0.9367(18)
+N6 N 0.9474(6) 0.3980(3) 1.12659(19)
+N7 N 0.6637(6) 0.3271(3) 1.05700(18)
+N8 N 0.6410(6) 0.5088(3) 1.10670(17)
+N9 N 0.3901(5) 0.9264(3) 0.67751(16)
+N10 N 0.5920(5) 0.8153(3) 0.74434(16)
+N11 N 0.0622(6) 0.8680(4) 0.7152(2)
+H4 H 0.011(8) 0.915(3) 0.687(2)
+H5 H -0.015(7) 0.821(4) 0.736(2)
+O1 O 0.1218(4) 0.5873(2) 0.84398(14)
+O2 O 0.2985(5) 0.5265(3) 0.93642(16)
+O3 O 0.8511(4) 0.8007(2) 0.94054(13)
+O4 O 1.0914(5) 0.3453(3) 1.10443(17)
+O5 O 0.9204(6) 0.4269(3) 1.18635(15)
+O6 O 0.6675(6) 0.2549(3) 1.09882(15)
+O7 O 0.5670(7) 0.3269(3) 1.00269(16)
+O8 O 0.7157(4) 0.5987(2) 1.11554(14)
+O9 O 0.4687(5) 0.4786(3) 1.12189(19)
+O10 O 0.5939(4) 0.8974(3) 0.69626(13)
+O11? O 0.006(3) 0.6479(15) 0.7608(10)
+#END

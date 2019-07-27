@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JIWPOU
+_audit_creation_date 1992-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JIWPOU
+_chemical_formula_sum 'C6 H7 N3 O1'
+_chemical_formula_moiety
+;
+C6 H7 N3 O1
+;
+_journal_coden_Cambridge 580
+_journal_volume 8
+_journal_year 1989
+_journal_page_first 301
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"G.A.Pearse"
+"P.R.Raithby"
+"J.Lewis"
+_chemical_name_systematic
+;
+Pyridine-2-amidoxime
+;
+_cell_volume   1284.303
+_exptl_crystal_density_diffrn 1.419
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0372
+_refine_ls_wR_factor_gt 0.0372
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.672(1)
+_cell_length_b 4.615(1)
+_cell_length_c 13.398(1)
+_cell_angle_alpha 90
+_cell_angle_beta 106.58(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4377(1) -0.3008(4) 0.5254(2)
+C1 C 0.3765(1) -0.2717(5) 0.4680(2)
+C2 C 0.3261(1) -0.4191(6) 0.4900(2)
+C3 C 0.3395(1) -0.6031(6) 0.5733(2)
+C4 C 0.4019(1) -0.6385(6) 0.6323(2)
+C5 C 0.4490(1) -0.4868(6) 0.6050(2)
+C6 C 0.3658(1) -0.0659(5) 0.3796(2)
+N2 N 0.4172(1) 0.0713(5) 0.3644(2)
+N3 N 0.3077(1) -0.0311(4) 0.3203(1)
+O1 O 0.3084(1) 0.1725(4) 0.2412(1)
+H1 H 0.2848(12) -0.3880(53) 0.4496(18)
+H2 H 0.3078(12) -0.7091(53) 0.5898(18)
+H3 H 0.4146(11) -0.7647(54) 0.6876(19)
+H4 H 0.4927(11) -0.5090(53) 0.6439(18)
+H5 H 0.4527(13) 0.0804(58) 0.4116(22)
+H6 H 0.4078(13) 0.2196(60) 0.3158(21)
+H7 H 0.2707(17) 0.2594(79) 0.2293(26)
+#END

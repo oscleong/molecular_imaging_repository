@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUYSIU
+_audit_creation_date 1995-10-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUYSIU
+_database_code_depnum_ccdc_archive 'CCDC 1307812'
+_chemical_formula_sum 'C8 H8 N6 O4'
+_chemical_formula_moiety
+;
+C8 H8 N6 O4
+;
+_journal_coeditor_code "IUCr HR1036"
+_journal_coden_Cambridge 591
+_journal_volume 51
+_journal_year 1995
+_journal_page_first 1414
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.S.Casas"
+"A.Castineiras"
+"G.Martinez"
+"J.Sordo"
+"J.M.Varela"
+_chemical_name_systematic
+;
+1,1'-Dimethyl-4,5'-dinitro-2,2'-bi-imidazolyl
+;
+_cell_volume   1072.198
+_exptl_crystal_colour 'amber'
+_exptl_crystal_density_diffrn 1.562
+_exptl_special_details
+;
+pharmacological activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0515
+_refine_ls_wR_factor_gt 0.0515
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.809(2)
+_cell_length_b 9.581(2)
+_cell_length_c 10.986(2)
+_cell_angle_alpha 90
+_cell_angle_beta 109.54(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4764(5) 0.2873(6) 0.6244(5)
+O2 O 0.5166(4) 0.0943(5) 0.7325(4)
+O3 O 1.1180(4) -0.4158(4) 0.5048(4)
+O4 O 1.0915(4) -0.3661(5) 0.6879(4)
+N1 N 0.6824(4) 0.0128(5) 0.5930(4)
+N2 N 0.7258(4) 0.1450(5) 0.4441(4)
+N3 N 0.5307(4) 0.1741(6) 0.6518(4)
+N4 N 0.8548(4) -0.0970(5) 0.3690(4)
+N5 N 0.9058(4) -0.1712(5) 0.5722(4)
+N6 N 1.0670(4) -0.3490(5) 0.5716(4)
+C1 C 0.6861(5) -0.1047(7) 0.6797(5)
+C2 C 0.7472(4) 0.0238(6) 0.5073(4)
+C3 C 0.6435(5) 0.2172(7) 0.4909(6)
+C4 C 0.6167(5) 0.1378(6) 0.5819(5)
+C5 C 0.7958(6) -0.0199(7) 0.2468(5)
+C6 C 0.8340(5) -0.0816(6) 0.4853(5)
+C7 C 0.9724(4) -0.2426(6) 0.5079(5)
+C8 C 0.9446(5) -0.2011(6) 0.3841(5)
+H1 H 0.61130 0.33390 0.47260
+H2 H 0.97260 -0.22260 0.30660
+H3 H 0.72070 -0.19330 0.63860
+H4 H 0.60130 -0.12560 0.68530
+H5 H 0.74510 -0.08830 0.76600
+H6 H 0.83390 -0.05660 0.16790
+H7 H 0.69530 -0.02920 0.22260
+H8 H 0.81520 0.07910 0.25380
+#END

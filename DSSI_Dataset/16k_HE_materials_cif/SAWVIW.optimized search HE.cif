@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAWVIW
+_audit_creation_date 2006-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAWVIW
+_database_code_depnum_ccdc_archive 'CCDC 283658'
+_chemical_formula_sum 'C15 H11 N1 O3'
+_chemical_formula_moiety
+;
+C15 H11 N1 O3
+;
+_journal_coden_Cambridge 1078
+_journal_year 2005
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"W.Clegg"
+_chemical_name_systematic
+;
+2-(2-Methoxyphenyl)-1-oxy-3H-indol-3-one
+;
+_chemical_name_common
+;
+2-(2-Methoxyphenyl)isatogen
+;
+_cell_volume   1169.686
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.438
+_exptl_special_details
+;
+contribution from School of Natural Sciences (Chemistry), University of 
+Newcastle, Newcastle upon Tyne NE1 7RU, UK
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 160
+_refine_special_details
+;
+A C atom and the N atom in the indole ring are disordered with occupancies 
+0.66:0.34.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0434
+_refine_ls_wR_factor_gt 0.0434
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.803(4)
+_cell_length_b 6.550(3)
+_cell_length_c 15.717(6)
+_cell_angle_alpha 90
+_cell_angle_beta 105.71(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.28174(15) 0.2845(3) 0.45547(13)
+C1? C 0.28174(15) 0.2845(3) 0.45547(13)
+O1 O 0.24566(13) 0.2737(2) 0.52395(10)
+C2 C 0.21774(17) 0.3086(3) 0.37016(13)
+C3 C 0.29583(17) 0.2923(3) 0.31495(14)
+N2? N 0.29583(17) 0.2923(3) 0.31495(14)
+O2 O 0.27006(13) 0.3028(2) 0.23333(10)
+C4 C 0.52373(19) 0.2461(3) 0.35588(15)
+H1 H 0.53010 0.24340 0.29690
+C5 C 0.62298(18) 0.2312(3) 0.42816(16)
+H2 H 0.69860 0.22020 0.41820
+C6 C 0.61355(19) 0.2321(3) 0.51364(15)
+H3 H 0.68270 0.22290 0.56140
+C7 C 0.50328(19) 0.2464(3) 0.53135(14)
+H4 H 0.49550 0.24380 0.58990
+C8 C 0.40826(17) 0.2642(3) 0.45974(14)
+C9 C 0.41627(18) 0.2647(3) 0.37379(14)
+C10 C 0.08940(17) 0.3350(3) 0.33894(13)
+C11 C 0.03158(17) 0.4884(3) 0.37335(13)
+C12 C -0.09168(17) 0.5041(3) 0.34278(14)
+H5 H -0.13240 0.60340 0.36730
+C13 C -0.15330(18) 0.3750(4) 0.27708(14)
+H6 H -0.23650 0.38670 0.25660
+C14 C -0.09585(19) 0.2285(4) 0.24045(15)
+H7 H -0.13890 0.14280 0.19410
+C15 C 0.02515(18) 0.2088(3) 0.27241(14)
+H8 H 0.06480 0.10710 0.24830
+O3 O 0.10050(12) 0.6157(2) 0.43426(10)
+C16 C 0.0469(2) 0.7993(3) 0.45415(16)
+H9 H 0.10680 0.88500 0.49350
+H10 H -0.01430 0.76490 0.48330
+H11 H 0.01150 0.87360 0.39930
+#END

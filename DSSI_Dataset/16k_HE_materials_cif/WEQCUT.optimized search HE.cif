@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEQCUT
+_audit_creation_date 2018-01-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEQCUT
+_database_code_depnum_ccdc_archive 'CCDC 1814123'
+_chemical_formula_sum 'C16 H22 N4 O7'
+_chemical_formula_moiety
+;
+C16 H22 N4 O7
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"B.W.Skelton"
+_chemical_name_systematic
+;
+{3-[2-(2,4-dinitrophenyl)hydrazinylidene]-6-ethoxy-5-ethyloxan-2-yl}methanol
+;
+_cell_volume   1810.338
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.403
+_exptl_crystal_description 'bar'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+C751,C752 and C753,C754 disordered over two sites with occupancies 0.5:0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0545
+_refine_ls_wR_factor_gt 0.0545
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 4.5210(12)
+_cell_length_b 13.960(4)
+_cell_length_c 28.684(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2934(15) 0.4344(4) 0.7403(2)
+N1 N 0.4209(16) 0.5244(4) 0.7255(2)
+O1 O 0.6388(13) 0.5551(3) 0.74749(17)
+O2 O 0.3202(10) 0.5647(3) 0.69112(15)
+C2 C 0.0944(16) 0.3934(4) 0.7099(2)
+H1 H 0.04189 0.42446 0.68159
+C3 C -0.0277(17) 0.3049(5) 0.7217(3)
+N2 N -0.2326(17) 0.2615(6) 0.6884(3)
+O3 O -0.2869(13) 0.1750(4) 0.69298(18)
+O4 O -0.3485(12) 0.3119(4) 0.65800(19)
+C4 C 0.0504(18) 0.2594(5) 0.7627(2)
+H2 H -0.03074 0.19823 0.76954
+C5 C 0.2382(16) 0.2998(5) 0.7928(2)
+H3 H 0.28570 0.26737 0.82097
+C6 C 0.3679(16) 0.3906(4) 0.7835(3)
+N3 N 0.5530(13) 0.4305(4) 0.8143(2)
+H4 H 0.64244 0.48480 0.80764
+N4 N 0.6030(13) 0.3856(3) 0.8569(2)
+C7 C 0.7507(13) 0.4328(5) 0.8873(3)
+C8 C 0.8037(12) 0.3837(4) 0.9327(2)
+H5 H 0.63085 0.39531 0.95373
+C9 C 0.8590(14) 0.2784(4) 0.9297(2)
+H6 H 0.69561 0.24814 0.91202
+H7 H 1.04441 0.26736 0.91210
+O5 O 0.8820(7) 0.2338(3) 0.97410(14)
+H8 H 1.04139 0.25022 0.98685
+O6 O 1.0631(7) 0.4250(3) 0.95329(14)
+C10 C 1.0148(12) 0.5211(4) 0.9680(2)
+H9 H 1.21151 0.55055 0.97489
+O7 O 0.8440(8) 0.5255(3) 1.00835(14)
+C11 C 0.9973(14) 0.4890(4) 1.0485(2)
+H10 H 1.15549 0.53415 1.05781
+H11 H 1.09006 0.42670 1.04089
+C12 C 0.7903(18) 0.4768(5) 1.0867(2)
+H12 H 0.70853 0.53930 1.09547
+H13 H 0.89291 0.44871 1.11349
+H14 H 0.62944 0.43428 1.07689
+C13 C 0.8643(12) 0.5812(4) 0.9309(2)
+H15 H 0.65096 0.58528 0.93982
+C14 C 1.002(3) 0.6892(7) 0.9375(5)
+H16 H 1.01421 0.70404 0.97124
+H17 H 1.20561 0.69057 0.92478
+C15 C 0.815(2) 0.7673(6) 0.9130(3)
+H18 H 0.76063 0.74543 0.88164
+H19 H 0.92982 0.82659 0.91065
+H20 H 0.63455 0.77933 0.93109
+C16 C 0.8740(13) 0.5328(4) 0.8837(2)
+H21 H 0.75645 0.57032 0.86097
+H22 H 1.08078 0.53014 0.87238
+H23? H 0.65215 0.58917 0.93990
+C17? C 0.974(4) 0.6746(9) 0.9140(4)
+H24? H 0.84274 0.70256 0.88999
+H25? H 1.17821 0.66995 0.90158
+C18? C 0.963(3) 0.7291(9) 0.9582(4)
+H26? H 0.75919 0.73119 0.96963
+H27? H 1.03435 0.79452 0.95284
+H28? H 1.08934 0.69771 0.98144
+#END

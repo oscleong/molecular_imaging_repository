@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EMITEZ
+_audit_creation_date 2004-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EMITEZ
+_database_code_depnum_ccdc_archive 'CCDC 230850'
+_chemical_formula_sum 'C8 H14 N6 O3'
+_chemical_formula_moiety
+;
+C8 H14 N6 O3
+;
+_journal_coeditor_code "IUCr NA5007"
+_journal_coden_Cambridge 622
+_journal_volume 60
+_journal_year 2004
+_journal_page_first 76
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"A.Quesada"
+"A.Marchal"
+"M.Melguizo"
+"J.N.Low"
+"C.Glidewell"
+_chemical_name_systematic
+;
+2-Amino-4,6-bis(2-hydroxyethylamino)-5-nitrosopyrimidine
+;
+_chemical_melting_point 488
+_cell_volume   1034.053
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.556
+_exptl_crystal_description 'rod'
+_exptl_crystal_preparation 'acetone/methanol'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+Both hydroxyethyl groups and the nitrosyl group are disordered over two sites 
+with occupancies 0.819:0.181 and 0.68:0.32.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0656
+_refine_ls_wR_factor_gt 0.0656
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.6487(1)
+_cell_length_b 14.8594(2)
+_cell_length_c 7.3497(2)
+_cell_angle_alpha 90
+_cell_angle_beta 101.097(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.36042(17) 0.22258(12) 0.0872(3)
+N2 N 0.36388(18) 0.06965(13) 0.0998(3)
+C1 C 0.4314(2) 0.14488(14) 0.0711(3)
+N3 N 0.56145(16) 0.13395(12) 0.0300(2)
+N4 N 0.76382(18) 0.20569(12) -0.0139(2)
+C2 C 0.6325(2) 0.20989(14) 0.0141(3)
+C3 C 0.84213(18) 0.12222(13) -0.0150(3)
+C4 C 0.98242(18) 0.13999(13) -0.0707(3)
+O1 O 1.05773(18) 0.20277(12) 0.0656(3)
+C5? C 0.9853(9) 0.1493(13) -0.048(3)
+O2? O 1.0470(9) 0.0613(6) -0.0744(11)
+C6 C 0.57073(19) 0.29767(13) 0.0296(3)
+N5 N 0.6318(7) 0.3787(3) 0.022(2)
+O3 O 0.7592(2) 0.38242(16) -0.0047(3)
+N6? N 0.6588(14) 0.3673(4) 0.025(5)
+O4? O 0.6123(5) 0.4452(3) 0.0401(8)
+C7 C 0.4282(2) 0.29869(14) 0.0661(3)
+N7 N 0.36753(17) 0.37779(13) 0.0829(2)
+C8 C 0.22774(17) 0.39091(13) 0.1253(2)
+C9 C 0.11478(17) 0.40081(13) -0.0457(2)
+O5 O 0.14364(18) 0.46683(12) -0.1692(3)
+C10? C 0.1147(9) 0.3804(15) -0.0461(11)
+O6? O -0.0344(7) 0.3610(6) -0.0706(12)
+H1 H 0.40410 0.01700 0.09160
+H2 H 0.27910 0.07250 0.12690
+H3 H 0.80610 0.25630 -0.03290
+H4 H 0.78650 0.07940 -0.10340
+H5 H 0.85810 0.09470 0.10990
+H6? H 0.79450 0.08200 -0.11520
+H7? H 0.85020 0.09050 0.10510
+H8 H 1.03650 0.08330 -0.07040
+H9 H 0.96800 0.16650 -0.19650
+H10 H 1.13690 0.21460 0.03980
+H11? H 0.97820 0.18760 -0.15930
+H12? H 1.04040 0.18130 0.06080
+H13? H 1.00870 0.02170 -0.01920
+H14 H 0.41600 0.42630 0.06700
+H15 H 0.22880 0.44550 0.20290
+H16 H 0.20460 0.33890 0.19830
+H17? H 0.22170 0.45180 0.17790
+H18? H 0.21210 0.34640 0.21960
+H19 H 0.10230 0.34230 -0.11120
+H20 H 0.02450 0.41580 -0.00770
+H21 H 0.15290 0.51700 -0.11540
+H22? H 0.11910 0.43720 -0.11540
+H23? H 0.15190 0.33330 -0.11900
+H24? H -0.04750 0.30550 -0.08760
+#END

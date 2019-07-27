@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RIBNAU
+_audit_creation_date 2018-07-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RIBNAU
+_database_code_depnum_ccdc_archive 'CCDC 1819965'
+_chemical_formula_sum 'C4 H2 N4 O4'
+_chemical_formula_moiety
+;
+C4 H2 N4 O4
+;
+_journal_coden_Cambridge 24
+_journal_volume 59
+_journal_year 2018
+_journal_page_first 3143
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"V.A.Ogurtsov"
+"P.V.Dorovatovskii"
+"Y.V.Zubavichus"
+"V.N.Khrustalev"
+"A.N.Fakhrutdinov"
+"S.G.Zlotin"
+"O.A.Rakitin"
+_chemical_name_systematic
+;
+1,5,6-trioxo-1\l^5^,5\l^5^,6\l^5^-[1,2,5]oxadiazolo[3,4-d]pyridazine
+;
+_cell_volume    616.316
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.833
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+C3A,C4,C7,C7A,N1,N3,N5,N6,O1,O2,O5,O6 disordered by symmetry over two 
+configurations with occupancy 0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.064
+_refine_ls_wR_factor_gt 0.064
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,-z
+4 1/2+x,1/2-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,z
+8 -1/2-x,-1/2+y,-1/2+z
+_cell_length_a 8.7963(18)
+_cell_length_b 11.569(2)
+_cell_length_c 6.0563(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5129(5) 0.5822(4) 0.8604(7)
+N1 N 0.5527(10) 0.6751(6) 0.7762(14)
+O2 O 0.5136(5) 0.7820(4) 0.8914(6)
+N2 N 0.5679(10) 0.8755(6) 0.7675(14)
+C1 C 0.6348(10) 0.8316(6) 0.5924(12)
+C2 C 0.7061(9) 0.8889(6) 0.4098(10)
+H1 H 0.70960 0.97100 0.40370
+N3 N 0.7649(15) 0.8284(9) 0.2553(17)
+O3 O 0.8347(9) 0.8620(6) 0.1028(9)
+N4 N 0.7571(15) 0.6843(9) 0.2567(17)
+O4 O 0.8195(9) 0.6469(6) 0.0750(9)
+C3 C 0.6874(9) 0.6329(6) 0.4309(11)
+H2 H 0.67910 0.55130 0.44410
+C4 C 0.6271(12) 0.7106(6) 0.5938(15)
+O1F O 0.5129(5) 0.9178(4) 0.8604(7)
+N1F N 0.5527(10) 0.8249(6) 0.7762(14)
+O2F O 0.5136(5) 0.7180(4) 0.8914(6)
+N2F N 0.5679(10) 0.6245(6) 0.7675(14)
+C1F C 0.6348(10) 0.6684(6) 0.5924(12)
+C2F C 0.7061(9) 0.6111(6) 0.4098(10)
+H1F H 0.70960 0.52900 0.40370
+N3F N 0.7649(15) 0.6716(9) 0.2553(17)
+O3F O 0.8347(9) 0.6380(6) 0.1028(9)
+N4F N 0.7571(15) 0.8157(9) 0.2567(17)
+O4F O 0.8195(9) 0.8531(6) 0.0750(9)
+C3F C 0.6874(9) 0.8671(6) 0.4309(11)
+H2F H 0.67910 0.94870 0.44410
+C4F C 0.6271(12) 0.7894(6) 0.5938(15)
+#END

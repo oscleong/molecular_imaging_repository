@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIWLOS
+_audit_creation_date 2000-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIWLOS
+_chemical_formula_sum 'C16 H17 N3 O3'
+_chemical_formula_moiety
+;
+C16 H17 N3 O3
+;
+_journal_coden_Cambridge 1061
+_journal_volume 14
+_journal_year 1998
+_journal_page_first 1035
+_journal_name_full 'Anal.Sci. '
+loop_
+_publ_author_name
+"I.Fujii"
+"K.Tanaka"
+"T.Deguchi"
+"N.Hirayama"
+_chemical_name_systematic
+;
+\a-(p-Butyrylamino-o-nitrobenzyl)pyridine
+;
+_chemical_name_common
+;
+KW-6055
+;
+_cell_volume    757.215
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.313
+_exptl_special_details
+;
+antiamnesic agent
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Carbon atom C15 is disordered over two sites with occupancies 0.80:0.20.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 10.9645(7)
+_cell_length_b 13.973(1)
+_cell_length_c 4.9937(7)
+_cell_angle_alpha 92.199(9)
+_cell_angle_beta 93.293(7)
+_cell_angle_gamma 82.684(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6228(1) 0.2055(1) 0.9992(3)
+O2 O 0.6661(1) 0.3486(1) 1.0707(4)
+O3 O 1.0987(1) 0.3930(1) 0.2679(2)
+N1 N 0.8362(1) 0.0009(1) 0.8673(3)
+N2 N 0.6843(1) 0.2694(1) 0.9619(3)
+N3 N 1.0648(1) 0.36582(8) 0.6970(2)
+C1 C 0.8552(2) -0.0734(1) 1.0301(4)
+C2 C 0.7674(2) -0.1306(1) 1.0790(5)
+C3 C 0.6548(2) -0.1119(2) 0.9524(5)
+C4 C 0.6313(2) -0.0343(2) 0.7845(5)
+C5 C 0.7247(1) 0.0198(1) 0.7436(3)
+C6 C 0.7021(2) 0.1019(1) 0.5507(3)
+C7 C 0.7923(1) 0.1754(1) 0.5907(3)
+C8 C 0.7868(1) 0.2510(1) 0.7813(3)
+C9 C 0.8741(1) 0.3146(1) 0.8124(3)
+C10 C 0.9726(1) 0.30439(9) 0.6501(2)
+C11 C 0.9807(2) 0.2311(1) 0.4529(3)
+C12 C 0.8916(2) 0.1688(1) 0.4270(3)
+C13 C 1.1232(1) 0.4055(1) 0.5070(3)
+C14 C 1.2195(1) 0.4675(1) 0.6112(3)
+C15 C 1.3395(2) 0.4445(2) 0.4807(5)
+C16? C 1.3408(9) 0.4047(8) 0.689(2)
+C17 C 1.4023(3) 0.3435(3) 0.5312(9)
+#END

@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FESNEW02
+_audit_creation_date 2008-03-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FESNEW02
+_database_code_depnum_ccdc_archive 'CCDC 670755'
+_database_code_depnum_ccdc_journal 1267/2064
+_chemical_formula_sum 'C7 H6 N2 O5'
+_chemical_formula_moiety
+;
+C7 H6 N2 O5
+;
+_journal_coden_Cambridge 1267
+_journal_volume 222
+_journal_year 2007
+_journal_page_first 321
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"Gang Xue"
+"Cai-Rong Gong"
+"Hong-Yu Chen"
+_chemical_name_systematic
+;
+2,4-Dinitroanisole
+;
+_cell_volume    845.559
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.556
+_exptl_special_details
+;
+Polymorph 2
+Insecticide
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The oxygen atoms of the nitro groups are disordered over two sites of equal 
+occupancy.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.047
+_refine_ls_wR_factor_gt 0.047
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 3.9793(9)
+_cell_length_b 13.7592(11)
+_cell_length_c 15.4453(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90.887(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3656(4) 0.30515(14) 0.57674(11)
+C2 C 0.4875(4) 0.24001(13) 0.51487(10)
+C3 C 0.6231(4) 0.15209(13) 0.53769(10)
+H1 H 0.70490 0.11010 0.49580
+C4 C 0.6357(4) 0.12709(13) 0.62376(10)
+C5 C 0.5184(5) 0.18889(16) 0.68647(11)
+H2 H 0.52950 0.17090 0.74450
+C6 C 0.3851(5) 0.27716(16) 0.66309(11)
+H3 H 0.30670 0.31890 0.70560
+C7 C 0.1180(6) 0.45796(18) 0.61303(16)
+H4 H 0.03360 0.51530 0.58470
+H5 H 0.29760 0.47550 0.65220
+H6 H -0.05940 0.42770 0.64470
+N1 N 0.4768(5) 0.26270(13) 0.42191(10)
+N2 N 0.7838(5) 0.03388(13) 0.64841(12)
+O1 O 0.2412(4) 0.39122(10) 0.54935(8)
+O2 O 0.5171(12) 0.1945(3) 0.3673(2)
+O3 O 0.4428(14) 0.3429(3) 0.3930(3)
+O4 O 0.826(2) -0.0296(7) 0.5877(7)
+O5 O 0.755(5) 0.0040(13) 0.7247(7)
+O6? O 0.7143(12) 0.2392(4) 0.3836(3)
+O7? O 0.2269(12) 0.3073(5) 0.3991(2)
+O8? O 0.832(5) 0.0213(13) 0.7234(8)
+O9? O 0.953(2) -0.0065(7) 0.5986(7)
+#END

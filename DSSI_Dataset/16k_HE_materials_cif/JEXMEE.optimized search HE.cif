@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEXMEE
+_audit_creation_date 1991-07-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEXMEE
+_chemical_formula_sum 'C6 H10 N8 O8'
+_chemical_formula_moiety
+;
+C6 H10 N8 O8
+;
+_journal_coden_Cambridge 1078
+_journal_year 1990
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"C.K.Lowe-Ma"
+"R.L.Willer"
+_chemical_name_systematic
+;
+1,3,7,9-Tetranitro-1,3,7,9-tetra-azaspiro(4.5)decane
+;
+_chemical_melting_point 463.15
+_cell_volume   1250.302
+_exptl_crystal_density_diffrn 1.71
+_exptl_special_details
+;
+Melting point range 463.15-465.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 7.863(2)
+_cell_length_b 10.989(2)
+_cell_length_c 14.470(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.06343(19) -0.00210(14) -0.07061(11)
+C2 C 0.10585(21) 0.06418(17) -0.05954(13)
+H1 H 0.08666(21) 0.14681(17) -0.04069(13)
+H2 H 0.16731(21) 0.06337(17) -0.11686(13)
+C3 C 0.12176(23) -0.00854(17) 0.10243(13)
+H3 H 0.10230(23) 0.07175(17) 0.12634(13)
+H4 H 0.19383(23) -0.05281(17) 0.14412(13)
+C4 C -0.15366(23) -0.01803(17) 0.02268(12)
+H5 H -0.25004(23) -0.07063(17) 0.01474(12)
+H6 H -0.19135(23) 0.06004(17) 0.04429(12)
+C5 C -0.03992(31) -0.12769(18) -0.11875(15)
+H7 H -0.10197(31) -0.19005(18) -0.08677(15)
+H8 H 0.07815(31) -0.14960(18) -0.12162(15)
+C6 C -0.21879(23) -0.00427(17) -0.22003(13)
+H9 H -0.33648(23) -0.02747(17) -0.22124(13)
+H10 H -0.19250(23) 0.04205(17) -0.27443(13)
+N1 N 0.20205(16) -0.00105(14) 0.01151(10)
+N2 N 0.37503(20) 0.01077(17) 0.01018(14)
+N3 N -0.03827(18) -0.07145(14) 0.09149(11)
+N4 N -0.03419(20) -0.19714(15) 0.09804(12)
+N5 N -0.17557(19) 0.06008(13) -0.13663(11)
+N6 N -0.23584(20) 0.17416(14) -0.12731(12)
+N7 N -0.10765(25) -0.10860(14) -0.20946(11)
+N8 N -0.14040(26) -0.20627(15) -0.26284(11)
+O1 O 0.45187(20) -0.01932(24) 0.08053(15)
+O2 O 0.44167(18) 0.04325(19) -0.06144(14)
+O3 O -0.16084(25) -0.25209(15) 0.07385(15)
+O4 O 0.08997(24) -0.24312(14) 0.13281(15)
+O5 O -0.32570(23) 0.21209(15) -0.18966(12)
+O6 O -0.19512(22) 0.23110(13) -0.05768(12)
+O7 O -0.23607(34) -0.19150(18) -0.32803(11)
+O8 O -0.06915(24) -0.30122(14) -0.24172(11)
+#END

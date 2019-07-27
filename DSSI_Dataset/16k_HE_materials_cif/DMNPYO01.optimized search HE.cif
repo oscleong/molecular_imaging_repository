@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DMNPYO01
+_audit_creation_date 1977-11-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DMNPYO01
+_chemical_formula_sum 'C7 H8 N2 O3'
+_chemical_formula_moiety
+;
+C7 H8 N2 O3
+;
+_journal_coeditor_code "IUCr A14680"
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 1549
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.Shiro"
+"M.Yamakawa"
+"T.Kubota"
+_chemical_name_systematic
+;
+3,5-Dimethyl-4-nitropyridine N-oxide
+;
+_cell_volume   1513.886
+_exptl_crystal_density_diffrn 1.48
+_exptl_special_details
+;
+orthorhombic polymorph
+Y COORDINATE OF O11 CHANGED FROM 0.3961 TO 0.3861
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.085
+_refine_ls_wR_factor_gt 0.085
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 7.329(1)
+_cell_length_b 14.912(2)
+_cell_length_c 13.852(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.36820 0.32050 0.10180
+C1 C -0.53280 0.34520 0.13680
+C2 C -0.66600 0.37870 0.07750
+C3 C -0.62610 0.38640 -0.02030
+C4 C -0.45660 0.36190 -0.05790
+C5 C -0.33020 0.32900 0.00630
+O1 O -0.24350 0.28920 0.15960
+C6 C -0.84440 0.40810 0.12210
+C7 C -0.40630 0.36510 -0.16310
+N2 N -0.76900 0.42030 -0.08610
+O2 O -0.92000 0.38610 -0.08090
+O3 O -0.72890 0.48040 -0.14070
+H1 H -0.55800 0.34000 0.20400
+H2 H -0.20800 0.31000 -0.01400
+H3 H -0.89200 0.46800 0.10800
+H4 H -0.93300 0.36000 0.11000
+H5 H -0.81700 0.41200 0.19600
+H6 H -0.27500 0.34000 -0.17800
+H7 H -0.50000 0.34000 -0.20400
+H8 H -0.42100 0.42400 -0.19000
+#END

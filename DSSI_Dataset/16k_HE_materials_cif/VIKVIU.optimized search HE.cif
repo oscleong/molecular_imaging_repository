@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIKVIU
+_audit_creation_date 1991-09-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIKVIU
+_chemical_formula_sum 'C6 H9 N1 O4'
+_chemical_formula_moiety
+;
+C6 H9 N1 O4
+;
+_journal_coden_Cambridge 1094
+_journal_volume 1
+_journal_year 1990
+_journal_page_first 491
+_journal_name_full 'Struct.Chem. '
+loop_
+_publ_author_name
+"P.E.O'Bannon"
+"P.J.Carroll"
+"W.P.Dailey"
+_chemical_name_systematic
+;
+cis,cis-2,3-Dimethyl-1-nitrocyclopropanecarboxylic acid
+;
+_chemical_melting_point 369.15
+_cell_volume    385.497
+_exptl_crystal_density_diffrn 1.371
+_exptl_special_details
+;
+Melting point range 369.15-371.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+loop_
+_citation_database_id_CSD
+_citation_special_details
+VIKVOA "is a stereoisomer of this entry"
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.697(2)
+_cell_length_b 7.164(3)
+_cell_length_c 9.281(1)
+_cell_angle_alpha 81.17(2)
+_cell_angle_beta 74.53(2)
+_cell_angle_gamma 64.04(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3230(2) -0.0692(2) 0.7491(2)
+C2 C 0.3269(3) -0.2088(2) 0.8896(2)
+C3 C 0.5348(3) -0.2634(3) 0.7644(2)
+C4 C 0.1815(3) -0.3292(3) 0.9298(2)
+C5 C 0.6146(3) -0.4438(3) 0.6667(2)
+C6 C 0.1821(2) -0.0444(2) 0.6398(2)
+N1 N 0.3262(2) 0.1310(2) 0.7636(2)
+O1 O 0.2737(2) -0.0590(2) 0.5046(1)
+O2 O -0.0255(2) -0.0062(2) 0.6941(1)
+O3 O 0.2017(2) 0.2840(2) 0.7016(2)
+O4 O 0.4497(2) 0.1342(2) 0.8378(2)
+H1 H 0.337(4) -0.145(4) 0.972(3)
+H2 H 0.659(5) -0.240(4) 0.782(3)
+H3 H 0.176(4) -0.386(4) 0.832(3)
+H4 H 0.255(4) -0.452(4) 0.997(3)
+H5 H 0.023(4) -0.244(4) 0.970(3)
+H6 H 0.484(4) -0.464(4) 0.647(3)
+H7 H 0.703(4) -0.422(4) 0.572(3)
+H8 H 0.700(4) -0.575(4) 0.716(3)
+H9 H -0.139(4) 0.023(4) 0.605(3)
+#END

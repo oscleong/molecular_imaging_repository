@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEDTUQ01
+_audit_creation_date 1999-10-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEDTUQ01
+_database_code_depnum_ccdc_archive 'CCDC 127539'
+_chemical_formula_sum 'C2 H4 N4 O4'
+_chemical_formula_moiety
+;
+C2 H4 N4 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 1999
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"R.Gilardi"
+_chemical_name_systematic
+;
+1,1-Diamino-2,2-dinitroethylene
+;
+_cell_volume    522.329
+_exptl_crystal_colour 'deep yellow'
+_exptl_crystal_density_diffrn 1.883
+_exptl_special_details
+;
+alpha polymorph
+contribution from the Laboratory for the Structure of Matter The Naval 
+Research Laboratory, Code 6030 Washington, D. C
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0302
+_refine_ls_wR_factor_gt 0.0302
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.9396(7)
+_cell_length_b 6.6374(10)
+_cell_length_c 11.3406(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90.611(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.3121(2) 0.2409(2) 0.52583(14)
+N1 N -0.5010(2) 0.2539(2) 0.51047(15)
+H1 H -0.5489(32) 0.2969(32) 0.4487(21)
+H2 H -0.5858(31) 0.2057(28) 0.5646(19)
+N2 N -0.2009(3) 0.2989(3) 0.43957(14)
+H3 H -0.0772(39) 0.2988(33) 0.4484(20)
+H4 H -0.2509(30) 0.3398(31) 0.3745(19)
+C2 C -0.2319(2) 0.1716(2) 0.63684(13)
+N3 N -0.3543(2) 0.1313(2) 0.73344(11)
+O1 O -0.3021(2) 0.1678(2) 0.83533(9)
+O2 O -0.51693(15) 0.0630(2) 0.71259(10)
+N4 N -0.0343(2) 0.1468(2) 0.65820(12)
+O3 O 0.0236(2) 0.0630(2) 0.74957(10)
+O4 O 0.0810(2) 0.2033(2) 0.58138(11)
+#END

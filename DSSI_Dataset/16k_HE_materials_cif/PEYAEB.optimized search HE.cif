@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PEYAEB
+_audit_creation_date 1979-03-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEYAEB
+_database_code_depnum_ccdc_archive 'CCDC 1231892'
+_chemical_formula_sum 'C24 H24 N2 O2'
+_chemical_formula_moiety
+;
+C24 H24 N2 O2
+;
+_journal_coeditor_code "IUCr A16702"
+_journal_coden_Cambridge 107
+_journal_volume 34
+_journal_year 1978
+_journal_page_first 3837
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"A.Gieren"
+"V.Lamm"
+_chemical_name_systematic
+;
+(1,1-bis(1-Phenylethylidenamino-oxy)ethyl)benzene
+;
+_cell_volume   2096.793
+_exptl_crystal_density_diffrn 1.18
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.064
+_refine_ls_wR_factor_gt 0.064
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'B 1 1 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2+z
+3 -x,-y,z
+4 1/2-x,-y,1/2+z
+_cell_length_a 20.253(3)
+_cell_length_b 12.981(2)
+_cell_length_c 8.253(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 104.90(4)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.11180 0.26110 0.48260
+C2 C 0.08180 0.30330 0.62870
+C3 C 0.12430 0.02700 0.67340
+C4 C 0.09660 -0.05670 0.54790
+C5 C 0.14560 -0.00310 0.83280
+C6 C 0.14350 0.05860 0.96830
+C7 C 0.16680 0.03470 1.11790
+C8 C 0.19080 -0.05640 1.13520
+C9 C 0.19230 -0.11870 1.00300
+C10 C 0.16990 -0.09450 0.85240
+C11 C 0.27140 0.36520 0.31150
+C12 C 0.30300 0.44760 0.43210
+C13 C 0.30420 0.35100 0.15490
+C14 C 0.26540 0.31170 0.02070
+C15 C 0.29470 0.29610 -0.12610
+C16 C 0.36220 0.31980 -0.14160
+C17 C 0.40310 0.35790 -0.01270
+C18 C 0.37560 0.37730 0.14040
+C19 C 0.07420 0.27020 0.32870
+C20 C 0.07970 0.37340 0.26880
+C21 C 0.04490 0.38660 0.12870
+C22 C 0.00450 0.30190 0.04770
+C23 C -0.00140 0.19910 0.10680
+C24 C 0.03310 0.18490 0.24650
+O1 O 0.10760 0.14910 0.49780
+O2 O 0.18100 0.32160 0.47850
+N1 N 0.13150 0.12850 0.65320
+N2 N 0.21110 0.30230 0.33080
+#END

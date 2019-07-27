@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LAHVIB
+_audit_creation_date 2011-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LAHVIB
+_database_code_depnum_ccdc_archive 'CCDC 769667'
+_chemical_formula_sum 'C15 H18 N4 O4'
+_chemical_formula_moiety
+;
+C15 H18 N4 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 2009
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"J.Quiroga"
+"J.Portilla"
+"M.B.Hursthouse"
+"J.Cobo"
+"C.Glidewell"
+_chemical_name_systematic
+;
+Methyl 4-(5-amino-3-t-butyl-1H-pyrazol-1-yl)-3-nitrobenzoate
+;
+_chemical_melting_point 503
+_cell_volume   1548.005
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.366
+_exptl_special_details
+;
+Melting point range 503-505K
+contribution from School of Chemistry, University of St Andrews, St Andrews, 
+Fife KY16 9ST, UK
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+C17B,C18B,O17B,O18B and C17A,C18A,O17A,O18A disordered over two sites with 
+occupancies 0.507:0.493.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0795
+_refine_ls_wR_factor_gt 0.0795
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 16.3111(7)
+_cell_length_b 8.6555(4)
+_cell_length_c 10.9773(4)
+_cell_angle_alpha 90
+_cell_angle_beta 92.745(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.29425(18) 0.2888(4) 0.7223(3)
+N2 N 0.32677(18) 0.1531(3) 0.6775(3)
+C1 C 0.3705(2) 0.0949(4) 0.7719(3)
+C2 C 0.3654(2) 0.1881(4) 0.8765(3)
+H1 H 0.39090 0.16970 0.95480
+C3 C 0.3164(2) 0.3107(4) 0.8423(3)
+C4 C 0.2426(2) 0.3819(4) 0.6458(3)
+C5 C 0.1740(2) 0.3215(4) 0.5806(3)
+C6 C 0.1293(2) 0.4097(5) 0.4970(3)
+H2 H 0.08450 0.36550 0.45090
+C7 C 0.1499(2) 0.5630(5) 0.4803(3)
+C8 C 0.2151(2) 0.6268(5) 0.5491(3)
+H3 H 0.22770 0.73330 0.54080
+C9 C 0.2617(2) 0.5364(4) 0.6296(3)
+H4 H 0.30720 0.58050 0.67420
+C10 C 0.4147(2) -0.0570(4) 0.7631(3)
+C11 C 0.4128(3) -0.1164(5) 0.6323(3)
+H5 H 0.35590 -0.13630 0.60410
+H6 H 0.44460 -0.21230 0.62910
+H7 H 0.43690 -0.03870 0.57970
+C12 C 0.3731(3) -0.1724(5) 0.8459(4)
+H8 H 0.37490 -0.13270 0.92960
+H9 H 0.40190 -0.27170 0.84420
+H10 H 0.31580 -0.18680 0.81700
+C13 C 0.5049(2) -0.0390(5) 0.8093(4)
+H11 H 0.53310 0.03140 0.75540
+H12 H 0.53190 -0.14010 0.80970
+H13 H 0.50690 0.00320 0.89220
+N3 N 0.2925(2) 0.4383(4) 0.9061(3)
+H14 H 0.26180 0.50960 0.86940
+H15 H 0.30790 0.44870 0.98350
+N4 N 0.1452(2) 0.1657(4) 0.6048(3)
+O1 O 0.1137(2) 0.0925(4) 0.5188(3)
+O2 O 0.15110(19) 0.1172(4) 0.7092(3)
+C14 C 0.1021(3) 0.6584(5) 0.3900(4)
+O3 O 0.0449(4) 0.6025(8) 0.3339(6)
+O4 O 0.1274(4) 0.7983(6) 0.3666(6)
+C15 C 0.0696(5) 0.8812(10) 0.2877(7)
+H16 H 0.05240 0.81560 0.21830
+H17 H 0.09570 0.97510 0.25780
+H18 H 0.02160 0.90950 0.33310
+C16? C 0.1021(3) 0.6584(5) 0.3900(4)
+C17? C 0.0090(6) 0.6773(11) 0.2380(6)
+H19? H 0.01250 0.79030 0.24030
+H20? H -0.04550 0.64630 0.20550
+H21? H 0.05090 0.63650 0.18550
+O5? O 0.1397(4) 0.7696(8) 0.3451(7)
+O6? O 0.0230(3) 0.6147(8) 0.3635(5)
+#END

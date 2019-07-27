@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAMVIY
+_audit_creation_date 1987-07-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAMVIY
+_chemical_formula_sum 'C9 H18 N2 O3'
+_chemical_formula_moiety
+;
+C9 H18 N2 O3
+;
+_journal_coden_Cambridge 122
+_journal_year 1985
+_journal_page_first 1341
+_journal_name_full 'Khim.Get.Soedin.,SSSR(Russ.)(Chem.Heterocycl.Compd.) '
+loop_
+_publ_author_name
+"A.B.Zolotoi"
+"O.A.D'yachenko"
+"I.I.Chervin"
+"V.F.Rudchenko"
+"L.O.Atovmyan"
+"R.G.Kostyanovskii"
+_chemical_name_systematic
+;
+\b-(2-(Perhydro-1,3,2-dioxazinyl))isovalerianic acid methylamide
+;
+_chemical_melting_point 370.15
+_cell_volume   2239.065
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.132
+_exptl_special_details
+;
+Melting point range 370.15-371.15K
+fw and dx reported as 190.180 and 1.132; we calculate 202.26 and 1.20. x(O1)= 
+.3527 not .3257. The coords. of C2 and C3 have been interchanged
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 23.829(6)
+_cell_length_b 9.555(2)
+_cell_length_c 9.834(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3527(1) 0.0934(2) 0.1862(1)
+O2 O 0.2973(1) -0.0243(2) 0.3375(2)
+O3 O 0.4509(1) 0.2085(2) 0.5376(1)
+N1 N 0.3470(1) 0.0608(2) 0.3279(1)
+N2 N 0.4383(1) 0.3099(2) 0.3339(1)
+C1 C 0.3121(1) 0.2010(3) 0.1605(2)
+C2 C 0.2542(1) 0.1420(3) 0.1842(3)
+C3 C 0.2518(1) 0.0739(3) 0.3224(3)
+C4 C 0.3956(1) -0.0316(2) 0.3603(2)
+C5 C 0.4005(1) -0.1589(2) 0.2670(3)
+C6 C 0.3885(1) -0.0763(3) 0.5077(2)
+C7 C 0.4482(1) 0.0596(2) 0.3409(2)
+C8 C 0.4458(1) 0.1993(2) 0.4138(2)
+C9 C 0.4303(1) 0.4506(2) 0.3888(2)
+H1 H 0.3209(12) 0.2878(26) 0.2352(27)
+H2 H 0.3148(10) 0.2206(24) 0.0629(25)
+H3 H 0.2454(10) 0.0646(22) 0.1141(24)
+H4 H 0.2227(11) 0.2186(26) 0.1813(27)
+H5 H 0.2557(9) 0.1479(20) 0.3962(21)
+H6 H 0.2177(10) 0.0132(25) 0.3316(25)
+H7 H 0.4376(11) -0.2080(27) 0.2881(27)
+H8 H 0.3716(11) -0.2224(26) 0.2795(28)
+H9 H 0.4014(13) -0.1274(31) 0.1695(31)
+H10 H 0.3563(9) -0.1401(22) 0.5153(22)
+H11 H 0.4230(9) -0.1211(21) 0.5376(21)
+H12 H 0.3823(9) 0.0089(23) 0.5727(26)
+H13 H 0.4794(8) 0.0066(19) 0.3765(19)
+H14 H 0.4538(7) 0.0777(17) 0.2405(18)
+H15 H 0.4372(8) 0.2967(20) 0.2414(21)
+H16 H 0.4029(12) 0.4514(26) 0.4628(28)
+H17 H 0.4189(12) 0.5128(30) 0.3160(3)
+#END

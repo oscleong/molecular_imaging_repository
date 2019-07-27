@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PAGPUL
+_audit_creation_date 2017-02-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PAGPUL
+_database_code_depnum_ccdc_archive 'CCDC 939453'
+_chemical_formula_sum 'C9 H4 N10 O8'
+_chemical_formula_moiety
+;
+C9 H4 N10 O8
+;
+_journal_coden_Cambridge 1122
+_journal_volume 31
+_journal_year 2013
+_journal_page_first 1539
+_journal_name_full 'Chin.J.Chem. '
+loop_
+_publ_author_name
+"Kehui Hou"
+"Congming Ma"
+"Zuliang Liu"
+_chemical_name_systematic
+;
+3-(2-azido-4-nitro-1H-imidazol-1-yl)-2,4,6-trinitroaniline
+;
+_cell_volume   2886.813
+_exptl_crystal_density_diffrn 1.75
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0697
+_refine_ls_wR_factor_gt 0.0697
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 10.667(2)
+_cell_length_b 12.598(3)
+_cell_length_c 21.482(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.0181(3) 0.9649(3) 0.27576(17)
+O1 O 0.1976(3) 1.0746(3) 0.15439(17)
+C1 C 0.2314(4) 0.9816(4) 0.2701(2)
+H1 H 0.31130 0.99870 0.25590
+N2 N 0.1985(3) 0.9330(3) 0.32514(16)
+C2 C 0.1204(4) 0.9985(4) 0.2416(2)
+O2 O -0.0043(4) 1.0522(3) 0.15997(17)
+N3 N 0.1022(4) 1.0445(3) 0.18150(19)
+C3 C 0.0713(4) 0.9262(4) 0.3251(2)
+O3 O 0.1738(4) 1.0774(4) 0.4138(2)
+C4 C 0.2869(4) 0.8918(4) 0.3692(2)
+N4 N 0.0166(4) 0.8783(4) 0.3766(2)
+O4 O 0.2059(5) 1.0280(4) 0.5060(2)
+C5 C 0.2980(4) 0.9312(4) 0.4285(2)
+N5 N -0.1010(4) 0.8621(4) 0.37130(19)
+O5 O 0.5776(4) 0.8186(4) 0.5402(2)
+C6 C 0.3869(5) 0.8900(4) 0.4703(3)
+H2 H 0.38920 0.91160 0.51160
+O6 O 0.6400(5) 0.7068(4) 0.4709(2)
+N6 N -0.2051(4) 0.8443(5) 0.3710(2)
+N7 N 0.2190(4) 1.0183(4) 0.4501(3)
+C7 C 0.4716(4) 0.8152(4) 0.4471(2)
+O7 O 0.4354(4) 0.7342(3) 0.25766(18)
+O8 O 0.2366(4) 0.7413(3) 0.27381(18)
+N8 N 0.5685(5) 0.7769(5) 0.4884(3)
+C8 C 0.4665(4) 0.7768(4) 0.3871(2)
+C9 C 0.3662(4) 0.8119(4) 0.3483(2)
+N9 N 0.5536(5) 0.7018(5) 0.3631(3)
+H3 H 0.61300 0.67830 0.38640
+H4 H 0.54680 0.68000 0.32530
+N10 N 0.3451(4) 0.7599(3) 0.2885(2)
+#END

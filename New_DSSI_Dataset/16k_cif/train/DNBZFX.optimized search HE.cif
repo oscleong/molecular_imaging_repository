@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DNBZFX
+_audit_creation_date 1972-07-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DNBZFX
+_chemical_formula_sum 'C6 H2 N4 O6'
+_chemical_formula_moiety
+;
+C6 H2 N4 O6
+;
+_journal_coeditor_code "IUCr A09056"
+_journal_coden_Cambridge 107
+_journal_volume 28
+_journal_year 1972
+_journal_page_first 1523
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"C.K.Prout"
+"O.J.R.Hodder"
+"D.Viterbo"
+_chemical_name_systematic
+;
+4,6-Dinitrobenzofurazan-1-oxide
+;
+_cell_volume    426.057
+_exptl_crystal_density_diffrn 1.761
+_exptl_special_details
+;
+Coordinates for atom N4 were missing from the publication and have been 
+calculated
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.063
+_refine_ls_wR_factor_gt 0.063
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+_cell_length_a 7.40(1)
+_cell_length_b 9.78(1)
+_cell_length_c 6.19(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 108.0(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.19600 0.28600 0.05500
+C2 C 0.06300 0.18600 0.18500
+C3 C -0.11900 0.14900 0.11600
+C4 C -0.17400 0.19700 -0.07900
+C5 C -0.02300 0.29700 -0.19500
+C6 C 0.16600 0.34300 -0.14000
+N1 N -0.08000 0.35600 -0.40100
+N2 N -0.26500 0.04500 0.23700
+N3 N 0.15400 0.15100 0.36000
+N4 N 0.37400 0.31300 0.15500
+O1 O 0.05500 0.42900 -0.51200
+O2 O -0.24800 0.32800 -0.43200
+O3 O -0.42600 0.00300 0.17400
+O4 O -0.20800 0.00600 0.40900
+O5 O 0.35000 0.23000 0.34500
+O6 O 0.53300 0.38300 0.09500
+#END

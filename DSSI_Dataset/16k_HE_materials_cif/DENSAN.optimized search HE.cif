@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DENSAN
+_audit_creation_date 1978-05-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DENSAN
+_database_code_depnum_ccdc_archive 'CCDC 1138830'
+_chemical_formula_sum 'C10 H14 N2 O1'
+_chemical_formula_moiety
+;
+C10 H14 N2 O1
+;
+_journal_coden_Cambridge 3
+_journal_volume 31
+_journal_year 1977
+_journal_page_first 743
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"H.J.Talberg"
+_chemical_name_systematic
+;
+N,N-Diethyl-p-nitrosoaniline
+;
+_cell_volume   1942.268
+_exptl_crystal_density_diffrn 1.218
+_exptl_special_details
+;
+Atom H72B removed for suspected coordinate errors
+
+;
+_diffrn_ambient_temperature 108.15
+_refine_special_details
+;
+The nitroso group is slightly disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.047
+_refine_ls_wR_factor_gt 0.047
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.339(5)
+_cell_length_b 9.921(2)
+_cell_length_c 13.670(4)
+_cell_angle_alpha 90
+_cell_angle_beta 87.16(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1 H -0.40860 -0.17140 0.08450
+H2 H -0.52200 -0.17000 -0.01590
+H3 H -0.72500 -0.23120 0.20800
+H4 H -0.60560 -0.23580 0.31870
+H5 H -0.29100 -0.24790 0.29750
+H6 H -0.31060 -0.25940 0.18140
+H7 H -0.39080 -0.17130 0.42030
+H8 H -0.50290 -0.16330 0.41020
+H9 H -0.22110 -0.06120 0.20690
+H10 H -0.29730 0.00010 0.29350
+H11 H -0.32330 -0.01150 0.18140
+H12 H -0.46110 -0.36520 0.49100
+H13 H -0.39060 -0.41800 0.39670
+H14 H -0.50340 -0.40680 0.39450
+O1 O -0.69632 -0.18489 -0.06229
+N1 N -0.42251 -0.20841 0.28043
+N2 N -0.71714 -0.20119 0.02700
+C1 C -0.49166 -0.20512 0.21610
+C2 C -0.47148 -0.18647 0.11429
+C3 C -0.54259 -0.18347 0.05030
+C4 C -0.63494 -0.19954 0.08307
+C5 C -0.65640 -0.21853 0.18263
+C6 C -0.58697 -0.22140 0.24847
+C7 C -0.32354 -0.20284 0.24615
+C8 C -0.44107 -0.21829 0.38615
+C9 C -0.28844 -0.05945 0.23120
+C10 C -0.44690 -0.36381 0.42144
+H15 H 0.32780 0.07870 0.12960
+H16 H 0.21050 0.08510 0.02200
+H17 H 0.23560 0.49110 -0.00840
+H18 H 0.35230 0.49080 0.10500
+H19 H 0.53180 0.17330 0.25120
+H20 H 0.49590 0.38750 0.28110
+H21 H 0.42250 0.47720 0.23720
+H22 H 0.40540 0.19020 0.37420
+H23 H 0.44200 0.04800 0.36560
+H24 H 0.34400 0.08160 0.32310
+H25 H 0.59780 0.37670 0.13540
+H26 H 0.58380 0.52670 0.17990
+H27 H 0.53090 0.47250 0.08630
+O2 O 0.10606 0.20733 -0.09534
+N3 N 0.42694 0.27905 0.19213
+N4 N 0.14028 0.31354 -0.07106
+C11 C 0.35712 0.28220 0.12994
+C12 C 0.32798 0.40527 0.08709
+C13 C 0.25671 0.40747 0.02313
+C14 C 0.21194 0.28876 -0.00124
+C15 C 0.23940 0.16687 0.03884
+C16 C 0.30925 0.16259 0.10386
+C17 C 0.47272 0.40399 0.22334
+C18 C 0.46296 0.15356 0.23373
+C19 C 0.55197 0.44626 0.15287
+C20 C 0.40899 0.11503 0.32813
+#END

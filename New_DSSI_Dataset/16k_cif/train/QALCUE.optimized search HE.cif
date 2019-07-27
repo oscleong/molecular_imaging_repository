@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QALCUE
+_audit_creation_date 2016-03-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QALCUE
+_database_code_depnum_ccdc_archive 'CCDC 707824'
+_chemical_formula_sum 'C20 H23 N1 O5'
+_chemical_formula_moiety
+;
+C20 H23 N1 O5
+;
+_journal_coden_Cambridge 151
+_journal_volume 52
+_journal_year 2009
+_journal_page_first 3174
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"J.T.Randolph"
+"C.A.Flentge"
+"P.P.Huang"
+"D.K.Hutchinson"
+"L.L.Klein"
+"H.B.Lim"
+"R.Mondal"
+"T.Reisch"
+"D.A.Montgomery"
+"W.W.Jiang"
+"S.V.Masse"
+"L.E.Hernandez"
+"R.F.Henry"
+"Yaya Liu"
+"G.Koev"
+"W.M.Kati"
+"K.D.Stewart"
+"D.W.A.Beno"
+"A.Molla"
+"D.J.Kempf"
+_chemical_name_systematic
+;
+9b-allyl-2-(2,2-dimethyl-1,3-dioxolan-4-yl)-1-methoxy-1,9b-dihydronaphtho[1,2-
+d][1,3]oxazol-5(2H)-one
+;
+_cell_volume    902.166
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.316
+_exptl_special_details
+;
+Study temperature given as 100 K and 296 K in the CIF
+
+;
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0297
+_refine_ls_wR_factor_gt 0.0297
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 7.1941(5)
+_cell_length_b 13.4023(9)
+_cell_length_c 9.4154(7)
+_cell_angle_alpha 90
+_cell_angle_beta 96.392(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.20230(13) 0.73487(7) 1.07734(10)
+O2 O 0.05510(13) 0.68294(8) 0.86695(10)
+O3 O 0.23424(12) 0.62928(7) 0.63481(9)
+O4 O 0.39570(15) 0.44172(8) 0.24324(11)
+O5 O 0.45206(12) 0.48119(6) 0.79918(9)
+N1 N 0.50980(14) 0.58397(7) 0.77904(11)
+C1 C -0.0943(2) 0.64899(14) 1.07937(18)
+H1 H -0.02880 0.58660 1.09110
+H2 H -0.21290 0.63880 1.02370
+H3 H -0.11400 0.67510 1.17150
+C2 C -0.0695(2) 0.82348(12) 0.97953(19)
+H4 H -0.08790 0.85250 1.07010
+H5 H -0.18820 0.81600 0.92290
+H6 H 0.00950 0.86620 0.93060
+C3 C 0.02132(17) 0.72283(10) 1.00293(14)
+C4 C 0.30827(17) 0.65108(10) 1.04062(14)
+H7 H 0.30110 0.59730 1.10870
+H8 H 0.43840 0.66900 1.03770
+C5 C 0.21635(17) 0.62059(9) 0.89117(13)
+H9 H 0.18120 0.54990 0.88890
+C6 C 0.33984(16) 0.64454(9) 0.77529(13)
+H10 H 0.37630 0.71490 0.78400
+C7 C 0.35119(17) 0.58557(9) 0.55109(13)
+C8 C 0.30005(18) 0.54373(10) 0.42391(13)
+H11 H 0.18030 0.55340 0.37760
+C9 C 0.43511(18) 0.48289(9) 0.35941(13)
+C10 C 0.62133(17) 0.46462(9) 0.44376(13)
+C11 C 0.7469(2) 0.39976(9) 0.38782(14)
+H12 H 0.71640 0.37180 0.29790
+C12 C 0.9164(2) 0.37695(10) 0.46540(16)
+H13 H 0.99790 0.33250 0.42860
+C13 C 0.96466(18) 0.42057(10) 0.59845(16)
+H14 H 1.07820 0.40490 0.65090
+C14 C 0.84336(17) 0.48749(10) 0.65305(14)
+H15 H 0.87760 0.51810 0.74070
+C15 C 0.67058(16) 0.50883(9) 0.57698(13)
+C16 C 0.54672(16) 0.58903(9) 0.62606(12)
+C17 C 0.55851(18) 0.44276(10) 0.92438(14)
+H16 H 0.68910 0.44430 0.91190
+H17 H 0.52120 0.37520 0.94000
+H18 H 0.53680 0.48290 1.00530
+C18 C 0.63810(17) 0.69311(9) 0.60296(14)
+H19 H 0.55120 0.74530 0.62260
+H20 H 0.74940 0.70030 0.67040
+C19 C 0.69023(18) 0.70624(9) 0.45371(14)
+H21 H 0.79800 0.67510 0.42990
+C20 C 0.5910(2) 0.75965(10) 0.35486(15)
+H22 H 0.48260 0.79160 0.37590
+H23 H 0.62940 0.76540 0.26410
+#END

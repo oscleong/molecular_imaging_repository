@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HUMHEC
+_audit_creation_date 2003-02-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HUMHEC
+_database_code_depnum_ccdc_archive 'CCDC 202315'
+_chemical_formula_sum 'C14 H12 N4 O4'
+_chemical_formula_moiety
+;
+C14 H12 N4 O4
+;
+_journal_coeditor_code "IUCr WN6122"
+_journal_coden_Cambridge 1370
+_journal_volume 58
+_journal_year 2002
+_journal_page_first o1333
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Shang Shan"
+"Duan-Jun Xu"
+"Jing-Yun Wu"
+"M.Y.Chiang"
+_chemical_name_systematic
+;
+Acetophenone (2,4-dinitrophenyl)hydrazone
+;
+_cell_volume   1369.402
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.456
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+loop_
+_citation_database_id_CSD
+_citation_special_details
+HILYEH "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.0169(15)
+_cell_length_b 13.263(3)
+_cell_length_c 14.8568(19)
+_cell_angle_alpha 90
+_cell_angle_beta 97.938(16)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7430(3) 0.37165(15) 0.12068(13)
+O2 O 0.8323(3) 0.22288(14) 0.16448(12)
+O3 O 0.5543(3) 0.45323(17) -0.18725(15)
+O4 O 0.4407(4) 0.33706(18) -0.28025(15)
+N1 N 0.7623(3) 0.28222(17) 0.10492(14)
+N2 N 0.5239(4) 0.3645(2) -0.20664(17)
+N3 N 0.7724(3) 0.07074(14) 0.05312(13)
+H1 H 0.80910 0.08790 0.10860
+N4 N 0.7777(3) -0.02839(14) 0.02828(13)
+C1 C 0.7099(3) 0.14191(18) -0.00903(15)
+C2 C 0.7036(3) 0.24505(18) 0.01353(14)
+C3 C 0.6425(3) 0.31752(18) -0.05165(17)
+H2 H 0.64060 0.38530 -0.03590
+C4 C 0.5853(3) 0.28758(19) -0.13908(16)
+C5 C 0.5862(4) 0.1867(2) -0.16370(17)
+H3 H 0.54600 0.16800 -0.22360
+C6 C 0.6456(3) 0.11521(19) -0.10039(16)
+H4 H 0.64390 0.04770 -0.11740
+C7 C 0.8440(3) -0.09124(18) 0.09082(16)
+C8 C 0.9139(4) -0.0606(2) 0.18686(17)
+H5 H 0.97440 -0.11720 0.21950
+H6 H 0.80700 -0.03840 0.21560
+H7 H 1.00530 -0.00670 0.18690
+C9 C 0.8441(3) -0.19816(18) 0.06226(17)
+C10 C 0.8947(4) -0.2760(2) 0.12382(18)
+H8 H 0.93390 -0.26110 0.18470
+C11 C 0.8870(4) -0.3757(2) 0.0952(2)
+H9 H 0.92060 -0.42710 0.13700
+C12 C 0.8307(4) -0.3987(2) 0.0064(2)
+H10 H 0.82490 -0.46570 -0.01230
+C13 C 0.7824(4) -0.3230(2) -0.0559(2)
+H11 H 0.74560 -0.33880 -0.11680
+C14 C 0.7885(4) -0.22388(19) -0.02818(17)
+H12 H 0.75490 -0.17330 -0.07070
+#END

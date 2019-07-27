@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VAPKIG01
+_audit_creation_date 1990-01-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VAPKIG01
+_database_code_depnum_ccdc_archive 'CCDC 1279988'
+_chemical_formula_sum 'C20 H16 N2 O5'
+_chemical_formula_moiety
+;
+C20 H16 N2 O5
+;
+_journal_coden_Cambridge 53
+_journal_volume 91
+_journal_year 1987
+_journal_page_first 918
+_journal_name_full 'Ber.Bunsenges.Phys.Chem. '
+loop_
+_publ_author_name
+"P.Strohriegl"
+"H.Schultes"
+"D.Heindl"
+"P.Gruner-Bauer"
+"V.Enkelmann"
+"E.Dormann"
+_chemical_name_systematic
+;
+6-(4-Methylanilinocarboxylato)-1-(4-nitrophenoxy)hexa-2,4-diyne
+;
+_chemical_melting_point 392.15
+_cell_volume   3530.732
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.37
+_exptl_special_details
+;
+Melts with decomposition.
+polymorph II
+light-sensitive
+CSD number not given
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 16.124(6)
+_cell_length_b 23.606(8)
+_cell_length_c 10.190(5)
+_cell_angle_alpha 90
+_cell_angle_beta 114.45
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.1338(3) 0.1159(2) -0.5917(5)
+C2 C 1.0579(4) 0.1282(3) -0.5382(7)
+C3 C 1.0128(3) 0.0851(2) -0.4989(5)
+C4 C 0.9509(4) 0.0974(3) -0.4442(7)
+C5 C 0.9267(4) 0.1526(3) -0.4346(7)
+C6 C 0.9675(4) 0.1954(3) -0.4764(7)
+C7 C 1.0319(4) 0.1826(3) -0.5305(7)
+N1 N 0.8595(3) 0.1616(2) -0.3800(6)
+C8 C 0.8341(4) 0.2112(3) -0.3472(7)
+O1 O 0.8564(3) 0.2583(2) -0.3576(5)
+O2 O 0.7706(3) 0.1988(2) -0.2923(4)
+C9 C 0.7406(4) 0.2452(3) -0.2356(7)
+C10 C 0.6804(4) 0.2200(3) -0.1743(7)
+C11 C 0.6329(4) 0.1972(3) -0.1285(7)
+C12 C 0.5754(4) 0.1732(3) -0.0736(7)
+C13 C 0.5238(4) 0.1556(3) -0.0290(7)
+C14 C 0.4546(4) 0.1392(3) 0.0234(7)
+O3 O 0.4576(3) 0.0801(2) 0.0412(4)
+C15 C 0.3998(4) 0.0569(3) 0.0929(7)
+C16 C 0.4022(4) 0.0012(3) 0.1011(7)
+C17 C 0.3483(4) -0.0289(3) 0.1552(7)
+C18 C 0.2918(4) 0.0022(3) 0.1997(7)
+C19 C 0.2889(4) 0.0596(3) 0.1911(7)
+C20 C 0.3433(4) 0.0882(3) 0.1378(7)
+N2 N 0.2345(3) -0.0277(2) 0.2569(5)
+O4 O 0.2447(3) -0.0788(2) 0.2757(5)
+O5 O 0.1789(3) -0.0009(2) 0.2817(5)
+#END

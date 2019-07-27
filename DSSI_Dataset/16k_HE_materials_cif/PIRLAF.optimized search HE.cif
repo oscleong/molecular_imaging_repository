@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIRLAF
+_audit_creation_date 2013-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIRLAF
+_database_code_depnum_ccdc_archive 'CCDC 945470'
+_chemical_formula_sum 'C8 H11 N1 O5'
+_chemical_formula_moiety
+;
+C8 H11 N1 O5
+;
+_journal_coden_Cambridge 1336
+_journal_volume 15
+_journal_year 2013
+_journal_page_first 6098
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"C.D.Schmidt"
+"J.Kaschel"
+"T.F.Schneider"
+"D.Kratzert"
+"D.Stalke"
+"D.B.Werz"
+_chemical_name_systematic
+;
+Ethyl 3a,4,5,6a-tetrahydrofuro[3,2-d][1,2]oxazole-3-carboxylate 2-oxide
+;
+_cell_volume    908.964
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.47
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+C1,C2,C3,C4,C5,C6,C7,C8,N1,O1,O2,O3,O4,O5 and C1',C2', 
+C3',C4',C5',C6',C7',C8',N1',O1',O2',O3',O4',O5' disordered over two sites 
+with occupancies 0.949:0.051.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0433
+_refine_ls_wR_factor_gt 0.0433
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.8071(18)
+_cell_length_b 17.361(5)
+_cell_length_c 6.722(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.918(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7583(2) 0.33192(9) 0.8118(3)
+H1 H 0.78150 0.30240 0.93860
+O1 O 0.58159(15) 0.32094(6) 0.7341(2)
+O2 O 0.87127(18) 0.31010(7) 0.6718(2)
+C2 C 0.9206(2) 0.37796(11) 0.5644(3)
+H2 H 0.83520 0.38960 0.45290
+H3 H 1.03440 0.37080 0.51060
+C3 C 0.9264(2) 0.4417(1) 0.7186(3)
+H4 H 0.90520 0.49260 0.65530
+H5 H 1.03840 0.44280 0.79700
+C4 C 0.7805(2) 0.41947(9) 0.8496(3)
+H6 H 0.80910 0.43140 0.99360
+C5 C 0.60901(19) 0.45036(9) 0.7774(3)
+N1 N 0.50350(19) 0.39567(8) 0.7121(2)
+O3 O 0.35437(16) 0.39541(9) 0.6402(3)
+C6 C 0.5509(2) 0.53088(10) 0.7716(3)
+O4 O 0.40797(16) 0.55320(8) 0.7157(2)
+O5 O 0.67961(18) 0.57674(7) 0.8419(2)
+C7 C 0.6414(3) 0.65924(10) 0.8369(5)
+H7 H 0.54170 0.67040 0.91570
+H8 H 0.61380 0.67640 0.69790
+C8 C 0.7977(3) 0.70015(15) 0.9241(5)
+H9 H 0.82310 0.68300 1.06190
+H10 H 0.77700 0.75580 0.92230
+H11 H 0.89550 0.68840 0.84530
+C9? C 0.7421(19) 0.3509(9) 0.590(3)
+H12? H 0.78580 0.34340 0.45470
+O6? O 0.5572(18) 0.3395(8) 0.585(3)
+O7? O 0.824(3) 0.3015(9) 0.728(3)
+C10? C 0.832(4) 0.3406(12) 0.920(3)
+H13? H 0.91930 0.31690 1.01520
+H14? H 0.71930 0.34010 0.97940
+C11? C 0.883(3) 0.4218(11) 0.864(3)
+H15? H 1.00780 0.42530 0.84630
+H16? H 0.85270 0.45970 0.96630
+C12? C 0.7764(19) 0.4341(8) 0.666(3)
+H17? H 0.83690 0.46650 0.57010
+C13? C 0.599(2) 0.4619(9) 0.696(5)
+N2? N 0.4814(19) 0.4098(11) 0.650(5)
+O8? O 0.323(2) 0.4112(18) 0.643(8)
+C14? C 0.551(2) 0.5395(9) 0.759(4)
+O9? O 0.406(3) 0.5588(15) 0.790(5)
+O10? O 0.694(3) 0.5827(12) 0.777(5)
+C15? C 0.667(5) 0.6648(13) 0.813(12)
+H18? H 0.57520 0.67190 0.90590
+H19? H 0.63280 0.69140 0.68650
+C16? C 0.833(7) 0.697(3) 0.902(12)
+H20? H 0.84380 0.68560 1.04540
+H21? H 0.83460 0.75280 0.88200
+H22? H 0.92880 0.67340 0.83760
+#END

@@ -1,0 +1,157 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DBZCOR
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DBZCOR
+_database_code_depnum_ccdc_archive 'CCDC 1137348'
+_chemical_formula_sum 'C32 H16'
+_chemical_formula_moiety
+;
+C32 H16
+;
+_journal_coden_Cambridge 2
+_journal_year 1961
+_journal_page_first 1115
+_journal_name_full 'J.Chem.Soc. '
+loop_
+_publ_author_name
+"J.M.Robertson"
+"J.Trotter"
+_chemical_name_systematic
+;
+1,2:7,8-Dibenzocoronene
+;
+_cell_volume   1824.318
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.12
+_refine_ls_wR_factor_gt 0.12
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 22.83
+_cell_length_b 5.22
+_cell_length_c 15.77
+_cell_angle_alpha 90
+_cell_angle_beta 103.9
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.26040 -0.22500 0.16410
+C2 C 0.23410 -0.57000 0.05950
+C3 C 0.29190 -0.57300 0.04270
+C4 C 0.30990 -0.75200 -0.01350
+C5 C 0.36800 -0.75600 -0.02850
+C6 C 0.38420 -0.92300 -0.08620
+C7 C 0.44340 -0.92300 -0.09780
+C8 C 0.45980 -1.09100 -0.15740
+C9 C 0.31750 -0.23000 0.15040
+C10 C 0.33510 -0.39300 0.09200
+C11 C 0.39290 -0.40000 0.07850
+C12 C 0.40980 -0.57000 0.02080
+C13 C 0.41630 -1.26900 -0.20200
+C14 C 0.35950 -1.27600 -0.18840
+C15 C 0.34110 -1.10100 -0.13210
+C16 C 0.21700 -0.40100 0.11700
+C4E C 0.19010 -0.74800 0.01350
+C2E C 0.26590 -0.93000 -0.05950
+C16E C 0.28300 -1.09900 -0.11700
+C15E C 0.15890 -0.39900 0.13210
+C3E C 0.20810 -0.92700 -0.04270
+C5E C 0.13200 -0.74400 0.02850
+C1E C 0.23960 -1.27500 -0.16410
+C6E C 0.11580 -0.57700 0.08620
+C14E C 0.14050 -0.22400 0.18840
+C10E C 0.16490 -1.10700 -0.09200
+C12E C 0.09020 -0.93000 -0.02080
+C9E C 0.18250 -1.27000 -0.15040
+C7E C 0.05660 -0.57700 0.09780
+C13E C 0.08370 -0.23100 0.20200
+C11E C 0.10710 -1.10000 -0.07850
+C8E C 0.04020 -0.40900 0.15740
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C9 1.372 1_555 1_555
+C2 C3 1.407 1_555 1_555
+C3 C4 1.415 1_555 1_555
+C4 C5 1.402 1_555 1_555
+C5 C6 1.373 1_555 1_555
+C6 C7 1.407 1_555 1_555
+C7 C8 1.401 1_555 1_555
+C8 C13 1.417 1_555 1_555
+C9 C10 1.383 1_555 1_555
+C10 C3 1.446 1_555 1_555
+C11 C10 1.387 1_555 1_555
+C12 C5 1.450 1_555 1_555
+C13 C14 1.365 1_555 1_555
+C14 C15 1.407 1_555 1_555
+C15 C6 1.419 1_555 1_555
+C16 C1 1.423 1_555 1_555
+C4E C2 1.431 1_555 1_555
+C2E C4 1.431 1_555 1_555
+C16E C15 1.403 1_555 1_555
+C15E C16 1.403 1_555 1_555
+C3E C4E 1.415 1_555 1_555
+C5E C4E 1.402 1_555 1_555
+C1E C16E 1.423 1_555 1_555
+C6E C15E 1.419 1_555 1_555
+C14E C15E 1.407 1_555 1_555
+C10E C3E 1.446 1_555 1_555
+C12E C5E 1.450 1_555 1_555
+C9E C1E 1.372 1_555 1_555
+C7E C6E 1.407 1_555 1_555
+C13E C14E 1.365 1_555 1_555
+C11E C10E 1.387 1_555 1_555
+C8E C7E 1.401 1_555 1_555
+C2 C16 1.387 1_555 1_555
+C11 C12 1.390 1_555 1_555
+C2E C16E 1.387 1_555 1_555
+C2E C3E 1.407 1_555 1_555
+C5E C6E 1.373 1_555 1_555
+C10E C9E 1.383 1_555 1_555
+C12E C11E 1.390 1_555 1_555
+C13E C8E 1.417 1_555 1_555
+#END

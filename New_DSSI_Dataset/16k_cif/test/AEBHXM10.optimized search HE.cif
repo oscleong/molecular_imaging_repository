@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AEBHXM10
+_audit_creation_date 1972-05-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AEBHXM10
+_database_code_depnum_ccdc_archive 'CCDC 1101390'
+_chemical_formula_sum 'C9 H11 N1 O2'
+_chemical_formula_moiety
+;
+C9 H11 N1 O2
+;
+_journal_coden_Cambridge 3
+_journal_volume 25
+_journal_year 1971
+_journal_page_first 2409
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"I.K.Larsen"
+_chemical_name_systematic
+;
+anti-Ethyl-benzohydroximate
+;
+_chemical_melting_point 340.15
+_cell_volume    905.346
+_exptl_crystal_density_diffrn 1.196
+_exptl_special_details
+;
+Melting point range 340.15-341.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.088
+_refine_ls_wR_factor_gt 0.088
+loop_
+_citation_database_id_CSD
+_citation_special_details
+SEBHXM "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.52(1)
+_cell_length_b 6.373(9)
+_cell_length_c 15.87(1)
+_cell_angle_alpha 90
+_cell_angle_beta 129.01(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.28610 -0.09370 0.45600
+C2 C -0.12580 -0.52460 0.65750
+C3 C -0.17610 -0.56380 0.71990
+C4 C -0.42370 -0.08300 0.43060
+C5 C -0.52160 0.08130 0.36800
+C6 C -0.47360 0.23720 0.33440
+C7 C -0.33590 0.22820 0.36240
+C8 C -0.23820 0.06350 0.42340
+C9 C -0.18580 -0.27320 0.52130
+H1 H -0.15600 -0.65400 0.60000
+H2 H -0.00500 -0.51000 0.70900
+H3 H -0.12600 -0.70700 0.76300
+H4 H -0.29000 -0.55000 0.68000
+H5 H -0.20000 -0.45000 0.76000
+H6 H -0.45600 -0.20600 0.46100
+H7 H -0.63400 0.08400 0.34500
+H8 H -0.54800 0.36800 0.28400
+H9 H -0.29900 0.35500 0.33500
+H10 H -0.12700 0.05500 0.44500
+H11 H -0.03100 -0.39400 0.41700
+N1 N -0.09930 -0.37360 0.51320
+O1 O -0.19910 -0.32920 0.59640
+O2 O -0.10510 -0.30850 0.42570
+#END

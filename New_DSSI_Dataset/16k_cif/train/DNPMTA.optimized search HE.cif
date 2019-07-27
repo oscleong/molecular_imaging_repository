@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DNPMTA
+_audit_creation_date 1974-09-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DNPMTA
+_chemical_formula_sum 'C5 H10 N6 O4'
+_chemical_formula_moiety
+;
+C5 H10 N6 O4
+;
+_journal_coeditor_code "IUCr A11098"
+_journal_coden_Cambridge 107
+_journal_volume 30
+_journal_year 1974
+_journal_page_first 1576
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"C.S.Choi"
+"S.Bulusu"
+_chemical_name_systematic
+;
+N,N'-Dinitropentamethylenetetramine
+;
+_cell_volume    862.387
+_exptl_crystal_density_diffrn 1.682
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.345(5)
+_cell_length_b 8.284(5)
+_cell_length_c 11.566(5)
+_cell_angle_alpha 90
+_cell_angle_beta 105.6(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.06500 -0.02850 0.19850
+C2 C 0.24090 0.19180 0.21170
+C3 C 0.44390 0.01630 0.32860
+C4 C 0.27210 -0.20550 0.32490
+C5 C 0.22030 0.05640 0.38840
+H1 H 0.02300 -0.00100 0.11100
+H2 H 0.27300 0.15600 0.43600
+H3 H -0.01300 -0.06700 0.23300
+H4 H 0.19100 0.21900 0.13100
+H5 H 0.28200 0.29000 0.26300
+H6 H 0.49100 0.10500 0.37900
+H7 H 0.51400 -0.06600 0.31400
+H8 H 0.34900 -0.28200 0.31300
+H9 H 0.21700 -0.25900 0.37300
+H10 H 0.15100 0.00100 0.42400
+N1 N 0.17100 -0.16530 0.20570
+N2 N 0.13950 0.10830 0.26680
+N3 N 0.37500 0.09590 0.21140
+N4 N 0.33750 -0.05860 0.38320
+N5 N 0.13070 -0.28630 0.12580
+N6 N 0.36910 0.00810 0.10820
+O1 O 0.19350 -0.41780 0.15140
+O2 O 0.03680 -0.25750 0.03070
+O3 O 0.45810 -0.10240 0.11520
+O4 O 0.28020 0.04990 0.01470
+#END

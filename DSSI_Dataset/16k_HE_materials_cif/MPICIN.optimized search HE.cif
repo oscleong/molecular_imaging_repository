@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MPICIN
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MPICIN
+_chemical_formula_sum 'C15 H11 N5 O6'
+_chemical_formula_moiety
+;
+C15 H11 N5 O6
+;
+_journal_coden_Cambridge 87
+_journal_year 1970
+_journal_page_first 956
+_journal_name_full 'J.Chem.Soc.C '
+loop_
+_publ_author_name
+"A.S.Bailey"
+"W.A.Warr"
+"G.B.Allison"
+"C.K.Prout"
+_chemical_name_systematic
+;
+1-Methyl-2-picrylimino-indoline
+;
+_cell_volume    777.615
+_exptl_crystal_density_diffrn 1.52
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.01(1)
+_cell_length_b 13.20(1)
+_cell_length_c 7.79(1)
+_cell_angle_alpha 92.7(2)
+_cell_angle_beta 107.5(2)
+_cell_angle_gamma 96.5(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.58179 -0.38507 0.29440
+C2 C 0.34007 -0.14115 0.44050
+C3 C 0.36876 -0.10370 0.62165
+C4 C 0.31625 -0.01467 0.67402
+C5 C 0.22145 0.03950 0.53834
+C6 C 0.18272 0.00827 0.35722
+C7 C 0.24546 -0.07982 0.31276
+C8 C 0.32627 -0.31272 0.34656
+C9 C 0.13524 -0.34943 0.33253
+C10 C 0.11678 -0.46202 0.27172
+C11 C -0.02229 -0.53900 0.23713
+C12 C -0.00064 -0.63843 0.18048
+C13 C 0.15994 -0.65735 0.16101
+C14 C 0.30168 -0.58033 0.19599
+C15 C 0.27705 -0.48327 0.25201
+N1 N 0.39844 -0.39331 0.29688
+N2 N 0.41584 -0.22369 0.39855
+N3 N 0.46647 -0.16402 0.76468
+N4 N 0.15798 0.13374 0.58843
+N5 N 0.21094 -0.10753 0.11848
+O1 O 0.06535 -0.09977 0.01858
+O2 O 0.32875 -0.13579 0.06845
+O3 O 0.59838 -0.11848 0.87691
+O4 O 0.40911 -0.25394 0.76075
+O5 O 0.18881 0.15887 0.74822
+O6 O 0.07491 0.18024 0.46642
+#END

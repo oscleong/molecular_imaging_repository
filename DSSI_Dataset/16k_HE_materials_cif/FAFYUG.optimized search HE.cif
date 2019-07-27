@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAFYUG
+_audit_creation_date 1987-07-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAFYUG
+_database_code_depnum_ccdc_archive 'CCDC 1151649'
+_chemical_formula_sum 'C9 H19 N1 O2'
+_chemical_formula_moiety
+;
+C9 H19 N1 O2
+;
+_journal_coden_Cambridge 48
+_journal_volume 119
+_journal_year 1986
+_journal_page_first 1441
+_journal_name_full 'Chem.Ber. '
+loop_
+_publ_author_name
+"H.G.Aurich"
+"H.Grigat"
+"W.Massa"
+"K.-D.Mogendorf"
+"G.Zinner"
+_chemical_name_systematic
+;
+s-trans-N-t-Butylpivalohydroxamic acid
+;
+_chemical_melting_point 417.15
+_cell_volume   1049.959
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.096
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+C and N of the pivalohydroxamic acid are statistically disordered about a 
+centre of symmetry. One position is reported.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.067
+_refine_ls_wR_factor_gt 0.067
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.74(2)
+_cell_length_b 6.179(3)
+_cell_length_c 10.344(10)
+_cell_angle_alpha 90
+_cell_angle_beta 112.18(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4790(2) 0.0759(7) 1.0216(4)
+O1 O 0.5203(2) 0.1766(7) 1.1390(3)
+C2 C 0.3963(3) 0.1563(9) 0.9309(4)
+C3 C 0.4018(4) 0.2664(14) 0.8006(6)
+C4 C 0.3334(3) -0.0206(13) 0.8912(7)
+C5 C 0.3709(4) 0.3337(12) 1.0110(6)
+H1 H 0.425(4) 0.179(11) 0.770(7)
+H2 H 0.450(3) 0.421(9) 0.848(6)
+H3 H 0.347(4) 0.348(9) 0.739(6)
+H4 H 0.351(4) -0.133(10) 0.843(6)
+H5 H 0.276(3) 0.056(9) 0.837(6)
+H6 H 0.324(4) -0.122(10) 0.952(6)
+H7 H 0.314(4) 0.386(9) 0.943(6)
+H8 H 0.413(3) 0.484(11) 1.032(6)
+H9 H 0.367(3) 0.259(10) 1.097(7)
+C1D C 0.5210(2) -0.0759(7) 0.9784(4)
+O1D O 0.4797(2) -0.1766(7) 0.8610(3)
+C2D C 0.6037(3) -0.1563(9) 1.0691(4)
+C3D C 0.5982(4) -0.2664(14) 1.1994(6)
+H1D H 0.575(4) -0.179(11) 1.230(7)
+H2D H 0.550(3) -0.421(9) 1.152(6)
+H3D H 0.653(4) -0.348(9) 1.261(6)
+C4D C 0.6666(3) 0.0206(13) 1.1088(7)
+H4D H 0.649(4) 0.133(10) 1.157(6)
+H5D H 0.724(3) -0.056(9) 1.163(6)
+H6D H 0.676(4) 0.122(10) 1.048(6)
+C5D C 0.6291(4) -0.3337(12) 0.9890(6)
+H7D H 0.686(4) -0.386(9) 1.057(6)
+H8D H 0.587(3) -0.484(11) 0.968(6)
+H9D H 0.633(3) -0.259(10) 0.903(7)
+#END

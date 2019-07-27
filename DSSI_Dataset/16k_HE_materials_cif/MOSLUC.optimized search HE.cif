@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MOSLUC
+_audit_creation_date 2009-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MOSLUC
+_database_code_depnum_ccdc_archive 'CCDC 726358'
+_chemical_formula_sum 'C14 H12 N2 O4'
+_chemical_formula_moiety
+;
+C14 H12 N2 O4
+;
+_journal_coeditor_code "IUCr BT2883"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o737
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"I.Kilic"
+"E.Agar"
+"F.Ersahin"
+"S.Isik"
+_chemical_name_systematic
+;
+2-((4-Methoxyphenyl)iminomethyl)-4-nitrophenol
+;
+_chemical_melting_point 445
+_cell_volume   1275.098
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.418
+_exptl_special_details
+;
+Melting point range 445-446K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0382
+_refine_ls_wR_factor_gt 0.0382
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 3.8883(3)
+_cell_length_b 21.6202(17)
+_cell_length_c 15.3127(11)
+_cell_angle_alpha 90
+_cell_angle_beta 97.887(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1 H 0.080(7) 0.5420(15) 0.3247(17)
+C1 C 0.1593(4) 0.54973(7) 0.17787(9)
+C2 C 0.1968(4) 0.55582(7) 0.08919(9)
+H2 H 0.29590 0.52400 0.06030
+C3 C 0.0878(4) 0.60869(7) 0.04447(9)
+C4 C -0.0560(4) 0.65778(8) 0.08562(10)
+H3 H -0.12800 0.69330 0.05410
+C5 C -0.0899(4) 0.65300(8) 0.17316(10)
+H4 H -0.18150 0.68600 0.20140
+C6 C 0.0109(4) 0.59926(7) 0.22101(9)
+C7 C 0.2677(4) 0.49350(7) 0.22438(9)
+H5 H 0.36800 0.46200 0.19510
+C8 C 0.3240(4) 0.43228(7) 0.35558(9)
+C9 C 0.2812(4) 0.43386(7) 0.44334(9)
+H6 H 0.19540 0.46970 0.46610
+C10 C 0.3611(4) 0.38411(8) 0.49849(9)
+H7 H 0.33000 0.38630 0.55760
+C11 C 0.4880(4) 0.33088(7) 0.46477(9)
+C12 C 0.5339(4) 0.32849(8) 0.37667(10)
+H8 H 0.62060 0.29270 0.35410
+C13 C 0.4526(4) 0.37842(8) 0.32228(9)
+H9 H 0.48360 0.37620 0.26320
+C14 C 0.5188(5) 0.27857(8) 0.60288(10)
+H10 H 0.59160 0.23970 0.62950
+H11 H 0.27600 0.28460 0.60590
+H12 H 0.64950 0.31140 0.63390
+N1 N 0.2277(3) 0.48627(6) 0.30559(7)
+N2 N 0.1205(4) 0.61313(7) -0.04865(8)
+O1 O -0.0338(3) 0.59470(6) 0.30459(7)
+O2 O 0.5770(3) 0.27862(5) 0.51285(7)
+O3 O 0.2895(3) 0.57320(6) -0.08103(7)
+O4 O -0.0247(4) 0.65529(6) -0.09199(7)
+#END

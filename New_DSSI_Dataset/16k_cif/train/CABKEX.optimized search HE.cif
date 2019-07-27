@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CABKEX
+_audit_creation_date 2011-01-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CABKEX
+_database_code_depnum_ccdc_archive 'CCDC 789311'
+_database_code_depnum_ccdc_journal 1267/2953
+_chemical_formula_sum 'C16 H21 N1 O3'
+_chemical_formula_moiety
+;
+C16 H21 N1 O3
+;
+_journal_coden_Cambridge 1267
+_journal_volume 225
+_journal_year 2010
+_journal_page_first 245
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"W.Frey"
+"A.Baskakova"
+"V.Jager"
+_chemical_name_systematic
+;
+2,3-O-Cyclohexylidene-D-glyceraldehyde N-benzylnitrone
+;
+_chemical_melting_point 370.15
+_cell_volume    730.968
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.251
+_exptl_special_details
+;
+Melting point range 370.15-373.15K
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethyl acetate/petroleum ether'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0616
+_refine_ls_wR_factor_gt 0.0616
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.882(3)
+_cell_length_b 5.4217(16)
+_cell_length_c 13.168(3)
+_cell_angle_alpha 90
+_cell_angle_beta 109.80(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.3467(2) 0.1502(4) 1.01395(18)
+O1 O 0.3472(2) -0.0864(4) 1.00198(17)
+C1 C 0.3468(2) 0.3042(5) 0.9394(2)
+H1 H 0.34110 0.47250 0.95080
+O2 O 0.3425(2) 0.4223(4) 0.76623(15)
+C2 C 0.3558(3) 0.2162(6) 0.8355(2)
+H2 H 0.44150 0.14000 0.84870
+O3 O 0.2558(3) 0.0858(4) 0.66211(19)
+C3 C 0.2507(4) 0.0446(6) 0.7677(3)
+H3 H 0.27030 -0.12570 0.78980
+H4 H 0.16590 0.08770 0.77150
+C4 C 0.2954(3) 0.3336(5) 0.6567(2)
+C5 C 0.4043(4) 0.3325(11) 0.6098(3)
+H5 H 0.47020 0.21390 0.64870
+H6 H 0.44490 0.49410 0.61940
+C6 C 0.3559(4) 0.2674(10) 0.4902(3)
+H7 H 0.42730 0.28400 0.46220
+H8 H 0.32740 0.09680 0.48130
+C7 C 0.2465(4) 0.4281(8) 0.4274(3)
+H9 H 0.21460 0.37410 0.35280
+H10 H 0.27750 0.59620 0.42910
+C8 C 0.1370(4) 0.4210(9) 0.4722(3)
+H11 H 0.09940 0.25680 0.46290
+H12 H 0.06930 0.53550 0.43250
+C9 C 0.1839(4) 0.4885(7) 0.5915(3)
+H13 H 0.21010 0.66040 0.59960
+H14 H 0.11220 0.46930 0.61900
+C10 C 0.3488(3) 0.2387(6) 1.1211(2)
+H15 H 0.36380 0.41540 1.12590
+H16 H 0.42050 0.16060 1.17700
+C11 C 0.2227(3) 0.1828(5) 1.1400(2)
+C12 C 0.2088(3) -0.0233(5) 1.1981(2)
+H17 H 0.27790 -0.13310 1.22490
+C13 C 0.0931(3) -0.0654(7) 1.2160(3)
+H18 H 0.08500 -0.20260 1.25570
+C14 C -0.0100(3) 0.0924(7) 1.1762(3)
+H19 H -0.08750 0.06370 1.18940
+C15 C 0.0011(3) 0.2935(7) 1.1166(2)
+H20 H -0.06960 0.39870 1.08770
+C16 C 0.1175(3) 0.3396(6) 1.0995(2)
+H21 H 0.12500 0.47790 1.06020
+#END

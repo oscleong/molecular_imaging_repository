@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUBNES
+_audit_creation_date 1985-09-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUBNES
+_chemical_formula_sum 'C13 H7 N1 O3'
+_chemical_formula_moiety
+;
+C13 H7 N1 O3
+;
+_journal_coden_Cambridge 41
+_journal_volume 30
+_journal_year 1985
+_journal_page_first 82
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"N.G.Furmanova"
+"V.I.Andrianov"
+"A.M.Andrievskii"
+"A.N.Poplavskii"
+_chemical_name_systematic
+;
+2-Nitrofluorenone
+;
+_chemical_melting_point 495.65
+_cell_volume    493.447
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.523
+_exptl_special_details
+;
+Melting point range 495.65-496.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 16.937(4)
+_cell_length_b 7.694(1)
+_cell_length_c 3.790(6)
+_cell_angle_alpha 90
+_cell_angle_beta 92.42(10)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2831(2) 0.4205(6) 0.4089(10)
+C2 C 0.3617(2) 0.4270(6) 0.322(1)
+C3 C 0.3954(2) 0.5706(6) 0.1793(10)
+C4 C 0.3506(2) 0.7183(5) 0.1087(10)
+C5 C 0.2115(2) 1.0152(6) 0.018(1)
+C6 C 0.1422(3) 1.1129(6) 0.0165(12)
+C7 C 0.0733(2) 1.0404(6) 0.1410(11)
+C8 C 0.0708(2) 0.8754(5) 0.2712(10)
+C9 C 0.1540(2) 0.6014(5) 0.4024(10)
+C10 C 0.2397(2) 0.5654(5) 0.3341(9)
+C11 C 0.2715(2) 0.7163(6) 0.1899(10)
+C12 C 0.2092(2) 0.8471(5) 0.1505(10)
+C13 C 0.1389(2) 0.7801(6) 0.2737(10)
+N1 N 0.4111(2) 0.2728(5) 0.3943(9)
+O1 O 0.3830(2) 0.1523(6) 0.5529(11)
+O2 O 0.4780(2) 0.2718(6) 0.2890(9)
+O3 O 0.1090(2) 0.50000 0.5364(8)
+H1 H 0.262(2) 0.320(4) 0.473(7)
+H2 H 0.452(2) 0.566(6) 0.153(9)
+H3 H 0.376(2) 0.819(6) 0.019(9)
+H4 H 0.261(2) 1.057(4) -0.082(7)
+H5 H 0.143(2) 1.222(5) -0.088(9)
+H6 H 0.032(2) 1.114(6) 0.120(9)
+H7 H 0.021(2) 0.822(4) 0.364(7)
+#END

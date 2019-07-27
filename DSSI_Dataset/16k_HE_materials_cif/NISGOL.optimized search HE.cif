@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NISGOL
+_audit_creation_date 1998-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NISGOL
+_chemical_formula_sum 'C3 H3 N5 O5'
+_chemical_formula_moiety
+;
+C3 H3 N5 O5
+;
+_journal_coden_Cambridge 388
+_journal_volume 33
+_journal_year 1997
+_journal_page_first 1209
+_journal_name_full 'Zh.Org.Khim.(Russ.)(Russ.J.Org.Chem.) '
+loop_
+_publ_author_name
+"T.I.Godovikova"
+"E.L.Ignat'eva"
+"S.P.Golova"
+"V.S.Kuz'min"
+"L.I.Khmel'nitsky"
+_chemical_name_systematic
+;
+2-Methyl-4,5-dinitro-1,2,3-triazole-1-oxide
+;
+_chemical_melting_point 405.15
+_cell_volume   1451.842
+_exptl_crystal_density_diffrn 1.732
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The oxide atom O1 is disordered over two positions with the s.o.f.'s of 0.7 
+and 0.3. H atoms of the methyl group C3 are disordered over two positions 
+with s.o.f.'s of 0.7 and 0.3.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.061
+_refine_ls_wR_factor_gt 0.061
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a b'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 1/2+x,-y,1/2-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,-1/2+y,-1/2-z
+7 -1/2-x,y,-1/2+z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 8.706(2)
+_cell_length_b 10.649(5)
+_cell_length_c 15.660(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0881(5) 0.6642(4) 0.2051(3)
+C2 C 0.1601(5) 0.5501(4) 0.2002(3)
+C3 C 0.1779(7) 0.6165(5) 0.4211(3)
+N1 N 0.2026(4) 0.5201(3) 0.2796(3)
+N2 N 0.0864(5) 0.7037(3) 0.2849(3)
+N3 N 0.1567(5) 0.6146(4) 0.3299(3)
+N4 N 0.1909(6) 0.4675(4) 0.1302(3)
+N5 N 0.0322(5) 0.7444(5) 0.1377(3)
+O1 O 0.0937(6) 0.4609(4) 0.0751(3)
+O2 O 0.3103(4) 0.4108(3) 0.1306(3)
+O3 O 0.0830(6) 0.7266(4) 0.0672(3)
+O4 O -0.0554(5) 0.8279(4) 0.1579(3)
+O5 O 0.2703(5) 0.4238(4) 0.3088(3)
+O6? O 0.0118(16) 0.7944(13) 0.3095(9)
+H1 H 0.12750 0.52690 0.43790
+H2 H 0.10010 0.67410 0.44870
+H3 H 0.25310 0.63870 0.44120
+H4? H 0.25480 0.55100 0.44540
+H5? H 0.22890 0.74430 0.45350
+H6? H 0.13920 0.57020 0.46200
+#END

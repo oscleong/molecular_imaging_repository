@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOJGED01
+_audit_creation_date 1995-10-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOJGED01
+_database_code_depnum_ccdc_archive 'CCDC 1022363'
+_chemical_formula_sum 'C5 H4 N2 O4'
+_chemical_formula_moiety
+;
+C5 H4 N2 O4
+;
+_journal_coeditor_code "IUCr NA1116"
+_journal_coden_Cambridge 591
+_journal_volume 51
+_journal_year 1995
+_journal_page_first 1304
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"T.A.Olszak"
+"O.M.Peeters"
+"N.M.Blaton"
+"C.J.De Ranter"
+_chemical_name_systematic
+;
+(E)-5-Nitrofuran-2-aldoxime
+;
+_cell_volume    636.955
+_exptl_crystal_colour 'Colorless'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0255
+_refine_ls_wR_factor_gt 0.0255
+loop_
+_citation_database_id_CSD
+_citation_special_details
+YUYCOK "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 5.3330(4)
+_cell_length_b 5.6330(6)
+_cell_length_c 21.203(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0306(2) 0.4555(1) 0.11689(4)
+C1 C 0.1844(2) 0.2700(2) 0.10019(5)
+C2 C 0.0793(2) 0.1147(2) 0.05255(6)
+N1 N 0.1849(2) -0.0599(2) 0.02526(5)
+O2 O 0.4288(2) -0.0945(2) 0.04624(5)
+C3 C 0.3979(2) 0.2736(3) 0.13548(6)
+C4 C 0.3785(2) 0.4712(2) 0.17634(6)
+C5 C 0.1566(2) 0.5710(2) 0.16251(5)
+N2 N 0.0398(2) 0.7762(2) 0.18854(5)
+O3 O -0.1643(2) 0.8378(2) 0.16800(5)
+O4 O 0.1553(2) 0.8787(2) 0.23016(5)
+H1 H -0.089(3) 0.141(3) 0.0426(7)
+H2 H 0.492(4) -0.202(4) 0.0221(9)
+H3 H 0.521(3) 0.167(3) 0.1324(8)
+H4 H 0.484(3) 0.525(3) 0.2071(7)
+#END

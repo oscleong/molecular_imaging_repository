@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAZTIV
+_audit_creation_date 1997-08-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAZTIV
+_chemical_formula_sum 'C7 H10 N4 O3'
+_chemical_formula_moiety
+;
+C7 H10 N4 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 52
+_journal_year 1996
+_journal_page_first 14905
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"J.Suwinski"
+"W.Szczepankiewicz"
+"E.M.Holt"
+_chemical_name_systematic
+;
+1-(N-Morpholino)-4-nitroimidazole
+;
+_chemical_melting_point 493.15
+_cell_volume    876.448
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.502
+_exptl_special_details
+;
+Melting point range 493.15-495.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The structure appears to be disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0629
+_refine_ls_wR_factor_gt 0.0629
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a m'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,y,-1/2-z
+7 -1/2-x,-1/2+y,-1/2+z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 18.912(1)
+_cell_length_b 6.919(1)
+_cell_length_c 6.698(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.1496(2) 0.6173(5) 0.25000
+C1 C 0.1508(2) 0.4967(5) 0.4304(5)
+C2 C 0.2167(2) 0.3731(6) 0.4221(7)
+O1 O 0.2175(3) 0.2558(6) 0.25000
+C3 C -0.0009(3) 0.9177(6) 0.25000
+N2? N 0.0973(7) 0.7650(15) 0.25000
+C4 C 0.0691(6) 0.8938(16) 0.25000
+N3 N -0.0382(4) 0.7410(11) 0.25000
+O2 O -0.0076(4) 1.2398(10) 0.25000
+O3 O -0.0968(3) 1.1208(9) 0.25000
+N4? N 0.0531(4) 1.0588(11) 0.25000
+O4? O -0.1163(3) 0.8490(11) 0.25000
+C5? C 0.0259(6) 0.7373(15) 0.25000
+N5? N -0.0743(5) 0.9775(13) 0.25000
+C6? C 0.1114(5) 0.9553(14) 0.25000
+N6 N -0.0426(5) 1.0899(17) 0.25000
+N7 N 0.0794(7) 0.6977(16) 0.25000
+C7 C 0.0131(4) 0.6150(15) 0.25000
+H1 H 0.10990 0.41470 0.43550
+H2 H 0.15070 0.57850 0.54610
+H3 H 0.21820 0.29000 0.53680
+H4 H 0.25750 0.45550 0.42530
+H5 H 0.10490 0.99220 0.25000
+H6? H 0.00020 0.61770 0.25000
+H7? H 0.15840 1.00750 0.25000
+H8 H 0.00400 0.47850 0.25000
+C2E C 0.2167(2) 0.3731(6) 0.0779(7)
+C1E C 0.1508(2) 0.4967(5) 0.0696(5)
+H1E H 0.10990 0.41470 0.06450
+H2E H 0.15070 0.57850 -0.04610
+H3E H 0.21820 0.29000 -0.03680
+H4E H 0.25750 0.45550 0.07470
+#END

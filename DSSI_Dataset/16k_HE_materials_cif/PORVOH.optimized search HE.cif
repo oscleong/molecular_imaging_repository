@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PORVOH
+_audit_creation_date 1995-11-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PORVOH
+_chemical_formula_sum 'C13 H16 N2 O1'
+_chemical_formula_moiety
+;
+C13 H16 N2 O1
+;
+_journal_coden_Cambridge 122
+_journal_year 1992
+_journal_page_first 183
+_journal_name_full 'Khim.Get.Soedin.,SSSR(Russ.)(Chem.Heterocycl.Compd.) '
+loop_
+_publ_author_name
+"A.A.Tolmachev"
+"L.N.Babichenko"
+"I.V.Komarov"
+"S.V.Sereda"
+"A.K.Sheinkman"
+_chemical_name_systematic
+;
+1,3,3-Trimethyl-2-methyleneiminohydroxyindoline
+;
+_chemical_melting_point 406.15
+_cell_volume   1203.024
+_exptl_crystal_density_diffrn 1.19
+_exptl_special_details
+;
+Melting point range 406.15-407.15K
+x(C4) is 1.3169 not 1.1369. y(N2) is 0.0089 not 0.089
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.14
+_cell_length_b 10.478
+_cell_length_c 12.571
+_cell_angle_alpha 90
+_cell_angle_beta 92.2
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5216(2) 0.0341(2) 0.6235(4)
+N1 N 0.9334(2) 0.1312(1) 0.8759(1)
+N2 N 0.6437(2) 0.0089(2) 0.5624(1)
+C1 C 0.9185(2) 0.0846(2) 0.7738(1)
+C2 C 1.0717(2) 0.0577(2) 0.7345(1)
+C3 C 1.1674(2) 0.0879(2) 0.8322(1)
+C4 C 1.3169(2) 0.0816(2) 0.8493(2)
+C5 C 1.3763(2) 0.1192(2) 0.9489(2)
+C6 C 1.2876(2) 0.1604(2) 1.0269(2)
+C7 C 1.1376(2) 0.1683(2) 1.0110(2)
+C8 C 1.0804(2) 0.1315(2) 0.9121(1)
+C9 C 0.7867(2) 0.0696(2) 0.7227(2)
+C10 C 0.7646(2) 0.0278(2) 0.6150(2)
+C11 C 0.8151(2) 0.1739(2) 0.9392(2)
+C12 C 1.0920(3) -0.0817(2) 0.7015(2)
+C13 C 1.1117(2) 0.1499(2) 0.6439(2)
+#END

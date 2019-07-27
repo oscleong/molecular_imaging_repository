@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_REZNER
+_audit_creation_date 2013-07-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD REZNER
+_database_code_depnum_ccdc_archive 'CCDC 950378'
+_chemical_formula_sum 'C13 H11 N5 O3'
+_chemical_formula_moiety
+;
+C13 H11 N5 O3
+;
+_journal_coeditor_code "IUCr SK3484"
+_journal_coden_Cambridge 591
+_journal_volume 69
+_journal_year 2013
+_journal_page_first 549
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"L.R.Gomes"
+"J.N.Low"
+"A.S.M.C.Rodrigues"
+"J.L.Wardell"
+"C.H.da S.Lima"
+"M.V.N.de Souza"
+_chemical_name_systematic
+;
+N-Methyl-N'-(4-nitrobenzylidene)pyrazine-2-carbohydrazide
+;
+_cell_volume   2628.687
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.442
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0604
+_refine_ls_wR_factor_gt 0.0604
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.510(2)
+_cell_length_b 10.5421(11)
+_cell_length_c 14.9638(14)
+_cell_angle_alpha 90
+_cell_angle_beta 107.887(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.57061(8) 0.47908(13) 0.45169(10)
+O2 O 0.86046(10) -0.34850(14) 0.71616(12)
+O3 O 0.95959(9) -0.26236(14) 0.82272(11)
+N1 N 0.69672(9) 0.24637(14) 0.58377(11)
+N2 N 0.67240(9) 0.36628(15) 0.55006(11)
+N3 N 0.89617(10) -0.25541(15) 0.75878(12)
+N4 N 0.57793(10) 0.16583(15) 0.41024(12)
+N5 N 0.42373(10) 0.15461(17) 0.43127(13)
+C1 C 0.76619(11) 0.23431(18) 0.64385(13)
+H1 H 0.79790 0.30710 0.66770
+C2 C 0.59832(11) 0.37657(17) 0.48461(13)
+C3 C 0.79675(11) 0.10698(18) 0.67581(13)
+C4 C 0.75341(11) -0.00272(18) 0.63833(13)
+H2 H 0.70150 0.00470 0.59390
+C5 C 0.78555(12) -0.12142(19) 0.66549(14)
+H3 H 0.75660 -0.19600 0.63980
+C6 C 0.86118(11) -0.12919(18) 0.73113(13)
+C7 C 0.90534(11) -0.02318(19) 0.77173(13)
+H4 H 0.95630 -0.03140 0.81780
+C8 C 0.87229(11) 0.09528(19) 0.74256(14)
+H5 H 0.90150 0.16950 0.76840
+C9 C 0.54957(11) 0.25722(17) 0.45338(12)
+C10 C 0.47319(11) 0.25233(18) 0.46330(14)
+H6 H 0.45570 0.32040 0.49370
+C11 C 0.45238(13) 0.0629(2) 0.38884(16)
+H7 H 0.41950 -0.00880 0.36510
+C12 C 0.52813(12) 0.06823(19) 0.37812(15)
+H8 H 0.54530 0.00050 0.34700
+C13 C 0.72305(12) 0.47763(18) 0.58082(14)
+H9 H 0.69580 0.55260 0.54690
+H10 H 0.77410 0.46520 0.56780
+H11 H 0.73330 0.49000 0.64840
+#END

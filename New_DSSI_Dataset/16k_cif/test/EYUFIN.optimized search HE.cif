@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EYUFIN
+_audit_creation_date 2004-10-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EYUFIN
+_database_code_depnum_ccdc_archive 'CCDC 248890'
+_chemical_formula_sum 'C8 H12 N4 O6'
+_chemical_formula_moiety
+;
+C8 H12 N4 O6
+;
+_journal_coden_Cambridge 95
+_journal_year 2003
+_journal_page_first 2097
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"A.G.Korepin"
+"P.V.Galkin"
+"E.K.Perepelkina"
+"N.M.Glushakova"
+"V.P.Lodygina"
+"I.L.Eremenko"
+"S.E.Nefedov"
+"L.T.Eremenko"
+_chemical_name_systematic
+;
+1-(2-Nitroso-5-nitroxy-2-azapentyl)pyrrolidine-2,5-dione
+;
+_chemical_melting_point 366.15
+_cell_volume    595.305
+_exptl_crystal_density_diffrn 1.441
+_exptl_special_details
+;
+Melts with decomposition.
+The N atom in the pyrrolidine ring has been incorrectly labelled as a C atom 
+in the supplementary data and in the 3D diagram in the paper
+;
+_exptl_crystal_preparation 'carbon tetrachloride/chloroform'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The nitrosomethyl fragment is disordered equally over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.067
+_refine_ls_wR_factor_gt 0.067
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 9.180(3)
+_cell_length_b 6.233(2)
+_cell_length_c 10.730(3)
+_cell_angle_alpha 90
+_cell_angle_beta 104.16(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.53210(37) 0.39900 0.21207(32)
+O2 O 0.87698(43) -0.11979(98) 0.37542(37)
+O3 O 0.58762(50) 0.4667(14) 0.64507(45)
+O4 O 1.0301(14) -0.2074(25) 0.8220(11)
+O5? O 0.9319(12) -0.0586(27) 0.93367(76)
+O6 O 1.1909(18) -0.1140(38) 0.9864(15)
+O7? O 1.1687(23) -0.0518(32) 1.0425(12)
+O8 O 0.9659(22) -0.0557(31) 0.9908(14)
+O9? O 1.1153(14) -0.1526(29) 0.8460(15)
+N1 N 0.70589(43) 0.2928(11) 0.52728(35)
+N2 N 0.64449(55) 0.4727(12) 0.55347(50)
+N3 N 1.07352(63) -0.1031(12) 0.94135(52)
+N4 N 0.71428(35) 0.16476(90) 0.3184(3)
+C1 C 0.59444(48) 0.2269(10) 0.21645(40)
+C2 C 0.56129(55) 0.0455(12) 0.12215(41)
+C3 C 0.68019(68) -0.1255(11) 0.17433(49)
+C4 C 0.77038(52) -0.0379(11) 0.29997(44)
+C5 C 0.78245(49) 0.3015(10) 0.42534(41)
+C6 C 0.70574(58) 0.0996(11) 0.60422(44)
+C7 C 0.84376(68) 0.0931(14) 0.71582(60)
+C8 C 0.8727(20) -0.1551(27) 0.7583(15)
+C9? C 0.8245(12) -0.0790(24) 0.8115(10)
+H1 H 0.44163 0.00445 0.12294
+H2 H 0.60924 0.07936 0.06342
+H3 H 0.74522 -0.14544 0.11356
+H4 H 0.63693 -0.26214 0.18348
+H5 H 0.76978 0.41927 0.38088
+H6 H 0.89549 0.26553 0.45234
+H7 H 0.70540 0.00508 0.56666
+H8 H 0.61225 0.08598 0.66006
+H9 H 0.92740 0.16290 0.68100
+H10 H 0.82954 0.18513 0.78552
+H11 H 0.79280 -0.18432 0.81625
+H12 H 0.81904 -0.24592 0.68264
+H13? H 0.72838 -0.08023 0.82403
+H14? H 0.84364 -0.21957 0.77603
+#END

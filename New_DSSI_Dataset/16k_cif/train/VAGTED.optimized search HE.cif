@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VAGTED
+_audit_creation_date 2003-03-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VAGTED
+_database_code_depnum_ccdc_archive 'CCDC 204702'
+_chemical_formula_sum 'C3 H8 N4 O2'
+_chemical_formula_moiety
+;
+C3 H8 N4 O2
+;
+_journal_coeditor_code "IUCr BT6224"
+_journal_coden_Cambridge 1370
+_journal_volume 59
+_journal_year 2003
+_journal_page_first o193
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"A.D.Vasiliev"
+"A.M.Astachov"
+"M.S.Molokeev"
+"L.A.Kruglyakova"
+"R.S.Stepanov"
+_chemical_name_systematic
+;
+1-Ethyl-2-nitroguanidine
+;
+_cell_volume    616.925
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.423
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0358
+_refine_ls_wR_factor_gt 0.0358
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 8.9336(9)
+_cell_length_b 16.087(2)
+_cell_length_c 4.3173(4)
+_cell_angle_alpha 90
+_cell_angle_beta 96.119(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.57727(12) 0.09681(6) 0.0506(3)
+O1 O 0.77500(13) 0.12035(7) -0.1876(3)
+O2 O 0.69759(14) 0.22180(6) 0.0805(3)
+C1 C 0.46666(14) 0.12472(7) 0.2220(3)
+N2 N 0.37411(13) 0.06484(7) 0.2869(3)
+H1 H 0.3882(18) 0.0184(12) 0.219(4)
+N3 N 0.68449(13) 0.14855(7) -0.0192(3)
+N4 N 0.44819(16) 0.20158(8) 0.3154(3)
+H2 H 0.367(2) 0.2150(12) 0.399(5)
+H3 H 0.518(2) 0.2338(13) 0.271(5)
+C2 C 0.24698(15) 0.07412(8) 0.4678(3)
+H4 H 0.27000 0.11680 0.62200
+H5 H 0.23290 0.02290 0.57600
+C3 C 0.10261(18) 0.09622(12) 0.2744(4)
+H6 H 0.11560 0.14680 0.16600
+H7 H 0.02470 0.10290 0.40600
+H8 H 0.07610 0.05300 0.12800
+#END

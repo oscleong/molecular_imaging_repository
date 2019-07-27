@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOBLER
+_audit_creation_date 1992-04-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOBLER
+_database_code_depnum_ccdc_archive 'CCDC 1187866'
+_chemical_formula_sum 'C13 H12 N2 O5'
+_chemical_formula_moiety
+;
+C13 H12 N2 O5
+;
+_journal_coden_Cambridge 16
+_journal_volume 47
+_journal_year 1991
+_journal_page_first 8079
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"S.Tsubotani"
+"Y.Funabashi"
+"M.Takamoto"
+"S.Hakoda"
+"S.Harada"
+_chemical_name_systematic
+;
+(S) N-Benzoyl 2-amino-3-(isoxazolin-5-on-4-yl)-propanoic acid
+;
+_chemical_melting_point 420.15
+_cell_volume   1239.888
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.48
+_exptl_special_details
+;
+Melts with decomposition.
+possible antifungal activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.076
+_refine_ls_wR_factor_gt 0.076
+_chemical_compound_source
+;
+Streptomyces platensis A-136
+;
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 17.991(3)
+_cell_length_b 10.216(1)
+_cell_length_c 6.746(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.0690(6) 0.8430(11) 0.4267(22)
+N1 N -0.1364(5) 0.7881(9) 0.4504(18)
+O1 O -0.1292(4) 0.6535(7) 0.4356(13)
+C2 C -0.0533(5) 0.6245(11) 0.4149(17)
+O2 O -0.0341(4) 0.5101(7) 0.4223(14)
+C3 C -0.0160(5) 0.745(1) 0.4149(18)
+C4 C 0.0671(5) 0.7611(10) 0.3841(19)
+C5 C 0.1150(5) 0.7063(11) 0.5576(23)
+C6 C 0.0849(5) 0.7429(10) 0.7550(18)
+O3 O 0.0652(4) 0.6725(8) 0.8835(15)
+O4 O 0.0826(5) 0.8738(8) 0.7760(17)
+N2 N 0.1215(4) 0.5631(8) 0.5388(15)
+C7 C 0.1867(5) 0.5016(11) 0.5744(19)
+O5 O 0.2438(4) 0.5652(7) 0.6122(15)
+C8 C 0.1872(5) 0.3576(10) 0.5733(17)
+C9 C 0.1228(5) 0.2836(10) 0.5606(18)
+C10 C 0.1277(6) 0.1469(10) 0.5534(22)
+C11 C 0.1970(7) 0.0850(11) 0.5679(28)
+C12 C 0.2597(6) 0.1618(11) 0.5824(26)
+C13 C 0.2558(6) 0.2957(10) 0.5828(23)
+H1 H -0.05800 0.94700 0.42300
+H2 H -0.18700 0.84000 0.43100
+H3 H 0.07800 0.86400 0.36000
+H4 H 0.08400 0.71600 0.24800
+H5 H 0.16800 0.75200 0.55400
+H6 H 0.06100 0.93100 0.89200
+H7 H 0.07500 0.50800 0.49800
+H8 H 0.07000 0.33100 0.55700
+H9 H 0.07900 0.09200 0.53100
+H10 H 0.20000 -0.02100 0.56700
+H11 H 0.31200 0.11800 0.59900
+H12 H 0.30400 0.35400 0.58700
+#END

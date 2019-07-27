@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QICVAZ01
+_audit_creation_date 2010-10-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QICVAZ01
+_database_code_depnum_ccdc_archive 'CCDC 743057'
+_chemical_formula_sum 'C3 H3 N3 O2'
+_chemical_formula_moiety
+;
+C3 H3 N3 O2
+;
+_journal_coden_Cambridge 222
+_journal_volume 39
+_journal_year 2010
+_journal_page_first 749
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"N.Gerasimchuk"
+"A.N.Esaulenko"
+"N.K.Dalley"
+"C.Moore"
+_chemical_name_systematic
+;
+2-Cyano-2-(hydroxyimino)acetamide
+;
+_chemical_name_common
+;
+2-Cyano-2-isonitrosoacetamide; 1-Carbamoyl-1-cyanomethanone oxime
+;
+_chemical_melting_point 449
+_cell_volume    956.442
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.571
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'acetone/water'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0405
+_refine_ls_wR_factor_gt 0.0405
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.0010(17)
+_cell_length_b 6.3458(16)
+_cell_length_c 21.804(6)
+_cell_angle_alpha 90
+_cell_angle_beta 99.119(17)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7477(3) 0.1553(4) 0.68247(9)
+C2 C 0.8204(4) 0.0549(4) 0.74064(11)
+C3 C 0.6522(3) 0.3650(4) 0.68284(10)
+N1 N 0.7573(3) 0.0729(3) 0.62970(8)
+N2 N 0.8773(3) -0.0251(4) 0.78622(10)
+N3 N 0.5985(3) 0.4542(3) 0.62842(9)
+H1 H 0.61600 0.39370 0.58980
+H2 H 0.52840 0.59130 0.62980
+O1 O 0.8406(3) -0.1203(3) 0.63339(8)
+H3 H 0.84700 -0.16410 0.59030
+O2 O 0.6249(3) 0.4446(3) 0.73207(7)
+C4 C 0.7479(3) 0.9534(3) 0.43071(9)
+C5 C 0.6811(3) 1.1160(4) 0.46789(10)
+C6 C 0.8495(3) 0.7661(3) 0.46148(9)
+N4 N 0.7299(3) 0.9659(3) 0.37153(8)
+N5 N 0.6259(3) 1.2492(4) 0.49532(9)
+N6 N 0.9012(3) 0.6203(3) 0.42483(8)
+H4 H 0.86670 0.62990 0.38020
+H5 H 0.96910 0.50500 0.44030
+O3 O 0.6430(2) 1.1440(3) 0.34771(7)
+H6 H 0.63950 1.12560 0.29970
+O4 O 0.8817(2) 0.7560(3) 0.51884(7)
+#END

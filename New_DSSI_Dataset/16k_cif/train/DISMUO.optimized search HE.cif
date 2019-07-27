@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DISMUO
+_audit_creation_date 2008-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DISMUO
+_database_code_depnum_ccdc_archive 'CCDC 638974'
+_chemical_formula_sum 'C20 H20 N4 O6'
+_chemical_formula_moiety
+;
+C20 H20 N4 O6
+;
+_journal_coden_Cambridge 1489
+_journal_volume 473
+_journal_year 2007
+_journal_page_first 67
+_journal_name_full 'Mol.Cryst.Liq.Cryst. '
+loop_
+_publ_author_name
+"S.P.Anthony"
+"M.J.Prakash"
+"T.P.Radhakrishnan"
+_chemical_name_systematic
+;
+N,N'-bis(4-nitrobenzoyl)-(1R,2R)-1,2-diaminocyclohexane
+;
+_chemical_melting_point 613.15
+_cell_volume   1978.102
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.385
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_description 'Cuboid'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+A benzoyl O atom is disordered equally over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0494
+_refine_ls_wR_factor_gt 0.0494
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 5.0133(9)
+_cell_length_b 17.922(3)
+_cell_length_c 22.016(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.9146(5) -0.00691(13) 0.81089(11)
+H1 H 1.10140 -0.02280 0.81310
+C2 C 0.7422(5) -0.06764(13) 0.83828(11)
+H2 H 0.55550 -0.05210 0.83470
+C3 C 0.7762(6) -0.13972(14) 0.80305(12)
+H3 H 0.66310 -0.17790 0.82070
+H4 H 0.95980 -0.15630 0.80630
+C4 C 0.7043(7) -0.12981(17) 0.73632(14)
+H5 H 0.73900 -0.17600 0.71470
+H6 H 0.51550 -0.11880 0.73280
+C5 C 0.8637(7) -0.06733(17) 0.70765(13)
+H7 H 0.79900 -0.05840 0.66680
+H8 H 1.04960 -0.08200 0.70500
+C6 C 0.8413(6) 0.00388(14) 0.74447(12)
+H9 H 0.65970 0.02230 0.74190
+H10 H 0.95760 0.04140 0.72690
+N1 N 0.8884(4) 0.06374(11) 0.84263(9)
+H11 H 0.73070 0.07910 0.85160
+N2 N 0.7994(4) -0.08009(11) 0.90249(9)
+H12 H 0.95860 -0.07310 0.91580
+C7 C 1.0949(5) 0.10609(15) 0.85865(12)
+O1 O 1.3254(9) 0.0803(2) 0.86362(19)
+O2? O 1.3275(9) 0.0908(2) 0.84316(19)
+C8 C 0.6094(6) -0.10212(15) 0.94079(13)
+O3 O 0.3740(4) -0.1102(1) 0.92549(9)
+C9 C 1.0334(5) 0.18259(14) 0.88255(12)
+C10 C 0.8233(5) 0.22501(14) 0.86102(11)
+H13 H 0.70780 0.20530 0.83210
+C11 C 0.7845(6) 0.29686(15) 0.88241(12)
+H14 H 0.64490 0.32590 0.86780
+C12 C 0.9555(6) 0.32460(16) 0.92558(13)
+C13 C 1.1659(6) 0.28403(16) 0.94710(12)
+H15 H 1.28110 0.30410 0.97590
+C14 C 1.2040(5) 0.21251(15) 0.92523(11)
+H16 H 1.34640 0.18420 0.93950
+C15 C 0.6934(5) -0.11965(15) 1.00431(12)
+C16 C 0.8982(6) -0.08271(14) 1.03336(13)
+H17 H 0.98930 -0.04510 1.01290
+C17 C 0.9715(6) -0.10024(16) 1.09221(14)
+H18 H 1.10650 -0.07410 1.11190
+C18 C 0.8393(7) -0.15730(17) 1.12070(13)
+C19 C 0.6365(7) -0.19534(17) 1.09329(15)
+H19 H 0.54790 -0.23340 1.11370
+C20 C 0.5655(6) -0.17648(16) 1.03510(14)
+H20 H 0.42860 -0.20250 1.01600
+N3 N 0.9104(7) 0.40100(15) 0.94859(14)
+O4 O 0.7296(6) 0.43609(13) 0.92726(12)
+O5 O 1.0602(6) 0.42402(13) 0.98802(12)
+N4 N 0.9182(7) -0.17786(16) 1.18309(14)
+O6 O 1.1186(6) -0.15076(14) 1.20378(11)
+O7 O 0.7765(6) -0.22067(14) 1.21118(10)
+#END

@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AYAMET
+_audit_creation_date 2011-10-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AYAMET
+_database_code_depnum_ccdc_archive 'CCDC 816279'
+_chemical_formula_sum 'C12 H13 N3 O7'
+_chemical_formula_moiety
+;
+C12 H13 N3 O7
+;
+_journal_coden_Cambridge 95
+_journal_year 2010
+_journal_page_first 1026
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"L.B.Romanova"
+"L.S.Barinova"
+"V.V.Zakharov"
+"L.T.Eremenko"
+"G.G.Aleksandrov"
+"I.L.Eremenko"
+_chemical_name_systematic
+;
+(4-((2-(Nitrooxy)ethyl)carbamoyl)pentacyclo[4.2.0.0^2,5^.0^3,8^.0^4,7^]oct-1-y
+l)methyl nitrate
+;
+_chemical_name_common
+;
+4-((2-(Nitrooxy)ethyl)carbamoyl)-1-((nitrooxy)methyl)cubane
+;
+_chemical_melting_point 375.65
+_cell_volume   1352.975
+_exptl_crystal_density_diffrn 1.528
+_exptl_special_details
+;
+Melts with decomposition.
+coronary protector
+
+;
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+One nitrate fragment is disordered over two sites (O2, O3,O4 and O2A,O3A,O4A) 
+with occupancies 0.50:0.50.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0584
+_refine_ls_wR_factor_gt 0.0584
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 2/c'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,-1/2+z
+_cell_length_a 15.9757(12)
+_cell_length_b 5.2872(4)
+_cell_length_c 16.3633(12)
+_cell_angle_alpha 90
+_cell_angle_beta 101.794(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.26495(14) -0.2020(3) -0.31563(12)
+O2 O 0.4423(4) 0.4229(13) -0.3691(6)
+O3 O 0.5789(5) 0.280(2) -0.3600(7)
+O4 O 0.5447(14) 0.660(3) -0.359(2)
+O5 O 0.11620(12) 0.4358(3) 0.02146(10)
+O6 O 0.04281(14) 0.2973(4) 0.11409(12)
+O7 O 0.08748(15) 0.6830(4) 0.11734(14)
+N1 N 0.29076(15) 0.2151(4) -0.32622(14)
+H1 H 0.28830 0.36310 -0.30500
+N2 N 0.5279(5) 0.4410(18) -0.3694(8)
+N3 N 0.07924(14) 0.4723(4) 0.09051(12)
+C1 C 0.15542(16) 0.1585(4) -0.07940(14)
+C2 C 0.11858(17) 0.2574(4) -0.17019(15)
+H2 H 0.06670 0.35960 -0.18690
+C3 C 0.13318(17) -0.0099(5) -0.20487(15)
+H3 H 0.09170 -0.10180 -0.24680
+C4 C 0.17075(17) -0.1058(5) -0.11581(15)
+H4 H 0.15640 -0.26780 -0.09300
+C5 C 0.26173(17) -0.0259(4) -0.12436(15)
+H5 H 0.31350 -0.12870 -0.10790
+C6 C 0.24732(17) 0.2423(4) -0.08891(16)
+H6 H 0.28870 0.33370 -0.04670
+C7 C 0.20993(17) 0.3382(4) -0.17861(15)
+H7 H 0.22430 0.50020 -0.20140
+C8 C 0.22445(16) 0.0743(4) -0.21536(14)
+C9 C 0.26207(16) 0.0166(4) -0.28940(15)
+C10 C 0.3256(2) 0.1892(7) -0.40032(18)
+H8 H 0.31020 0.33780 -0.43490
+H9 H 0.29910 0.04410 -0.43160
+C11 C 0.4173(3) 0.1583(12) -0.3855(4)
+H10 H 0.43070 0.17880 -0.44070
+H11? H 0.42540 -0.02340 -0.37500
+C12 C 0.11627(17) 0.1727(4) -0.00475(16)
+H12 H 0.05820 0.10860 -0.01810
+H13 H 0.14880 0.07060 0.04000
+H14 H 0.43830 0.05000 -0.33820
+H15? H 0.43600 0.09090 -0.43370
+O8? O 0.4774(8) 0.274(3) -0.3358(7)
+O9? O 0.5050(18) 0.409(5) -0.4460(9)
+O10? O 0.5647(11) 0.601(3) -0.3279(9)
+#END

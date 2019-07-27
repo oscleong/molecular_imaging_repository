@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PAWCOI
+_audit_creation_date 2017-06-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PAWCOI
+_database_code_depnum_ccdc_archive 'CCDC 1555910'
+_chemical_formula_sum 'C4 H6 N10 O2'
+_chemical_formula_moiety
+;
+C4 H6 N10 O2
+;
+_journal_coeditor_code "lh5843"
+_journal_coden_Cambridge 1828
+_journal_volume 73
+_journal_year 2017
+_journal_page_first 1056
+_journal_name_full 'Acta Crystallogr.,Sect.E:Cryst.Commun. '
+loop_
+_publ_author_name
+"L.A.Mitchell"
+"G.H.Imler"
+"D.A.Parrish"
+"J.R.Deschamps"
+"P.W.Leonard"
+"D.E.Chavez"
+_chemical_name_systematic
+;
+bis((1H-tetrazol-5-yl)methyl)nitramide
+;
+_cell_volume    411.559
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.825
+_exptl_crystal_description 'thin plate'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0362
+_refine_ls_wR_factor_gt 0.0362
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.3640(17)
+_cell_length_b 9.627(3)
+_cell_length_c 6.8627(18)
+_cell_angle_alpha 90
+_cell_angle_beta 101.805(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.0174(5) 0.3550(3) 0.2473(5)
+N2 N -0.0013(5) 0.3439(4) 0.0467(5)
+N3 N 0.0000(5) 0.4659(4) -0.0356(5)
+N4 N 0.0208(5) 0.5581(4) 0.1139(5)
+H1 H 0.028(7) 0.640(7) 0.099(6)
+C1 C 0.0317(6) 0.4901(4) 0.2851(5)
+C2 C 0.0466(6) 0.5533(4) 0.4880(5)
+H2 H -0.05420 0.63260 0.47690
+H3 H 0.00090 0.48340 0.57680
+N5 N 0.2620(5) 0.6017(3) 0.5783(5)
+C3 C 0.4251(6) 0.5139(4) 0.6986(5)
+H4 H 0.55730 0.51780 0.64380
+H5 H 0.37380 0.41650 0.68890
+C4 C 0.4788(5) 0.5559(5) 0.9148(5)
+N6 N 0.5184(5) 0.6848(3) 0.9857(5)
+H6 H 0.510(7) 0.764(3) 0.924(6)
+N7 N 0.5665(5) 0.6792(3) 1.1860(5)
+N8 N 0.5574(5) 0.5489(4) 1.2341(4)
+N9 N 0.5023(5) 0.4701(4) 1.0666(4)
+N10 N 0.3273(5) 0.7226(3) 0.5122(4)
+O1 O 0.2034(4) 0.7844(3) 0.3794(4)
+O2 O 0.5086(4) 0.7636(3) 0.5919(4)
+#END

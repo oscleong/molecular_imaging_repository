@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAZHUA
+_audit_creation_date 2017-08-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAZHUA
+_database_code_depnum_ccdc_archive 'CCDC 1486108'
+_chemical_formula_sum 'C12 H19 N4 O2'
+_chemical_formula_moiety
+;
+C12 H19 N4 O2
+;
+_journal_coden_Cambridge 95
+_journal_volume 66
+_journal_year 2017
+_journal_page_first 222
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"R.Z.Sagdeev"
+"S.E.Tolstikov"
+"S.V.Fokin"
+"I.V.Obsharova"
+"S.v.Tumanov"
+"S.L.Veber"
+"G.V.Romanenko"
+"A.S.Bogomyakov"
+"M.V.Fedin"
+"E.V.Tretyakov"
+"M.Halcrow"
+"V.I.Ovcharenko"
+_chemical_name_systematic
+;
+2-(1-ethylimidazol-4-yl)-4,4,5,5-tetramethyl-4,5-dihydro-1H-imidazole 
+3-oxide-1-oxyl radical
+;
+_chemical_melting_point 394.15
+_cell_volume   1334.037
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.251
+_exptl_special_details
+;
+Melting point range 394.15-395.15K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0481
+_refine_ls_wR_factor_gt 0.0481
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.488(2)
+_cell_length_b 11.371(2)
+_cell_length_c 12.058(2)
+_cell_angle_alpha 90
+_cell_angle_beta 111.923(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.86687(13) 0.35791(11) 0.5375(1)
+O2 O 0.57818(12) 0.58383(9) 0.22568(9)
+N1 N 0.66997(12) 0.51014(10) 0.28617(10)
+N2 N 0.66547(14) 0.61591(11) 0.65851(10)
+N3 N 0.80505(13) 0.40137(11) 0.43268(10)
+N4 N 0.61408(16) 0.66449(12) 0.46880(11)
+C1 C 0.6555(2) 0.39731(17) 0.10635(14)
+H1 H 0.57660 0.35930 0.11250
+H2 H 0.70380 0.34270 0.07550
+H3 H 0.62620 0.46350 0.05340
+C2 C 0.75006(16) 0.43913(14) 0.22920(12)
+C3 C 0.71688(15) 0.49256(12) 0.40523(12)
+C4 C 0.68186(16) 0.55799(12) 0.49231(12)
+C5 C 0.71446(18) 0.52843(13) 0.60929(13)
+H4 H 0.76110 0.46140 0.64770
+C6 C 0.67471(18) 0.62292(16) 0.78283(13)
+H5 H 0.62670 0.55630 0.79940
+H6 H 0.62900 0.69400 0.79290
+C7 C 0.8197(2) 0.6236(2) 0.87097(16)
+H7 H 0.86360 0.55100 0.86540
+H8 H 0.82000 0.63210 0.95030
+H9 H 0.86850 0.68810 0.85380
+C8 C 0.9499(2) 0.2983(2) 0.34183(18)
+H10 H 1.01290 0.36300 0.36740
+H11 H 0.95100 0.26730 0.26810
+H12 H 0.97680 0.23790 0.40180
+C9 C 0.80655(17) 0.34013(14) 0.32326(13)
+C10 C 0.85886(19) 0.52158(18) 0.21909(17)
+H13 H 0.81550 0.59080 0.17570
+H14 H 0.90910 0.48270 0.17750
+H15 H 0.92080 0.54350 0.29760
+C11 C 0.6079(2) 0.69494(15) 0.57111(14)
+H16 H 0.56760 0.76450 0.58240
+C12 C 0.7081(2) 0.23646(16) 0.30391(17)
+H17 H 0.74260 0.18370 0.37070
+H18 H 0.70070 0.19570 0.23210
+H19 H 0.61920 0.26480 0.29680
+#END

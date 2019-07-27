@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VERXOG
+_audit_creation_date 2007-03-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VERXOG
+_database_code_depnum_ccdc_archive 'CCDC 630216'
+_chemical_formula_sum 'C9 H8 N2 O3'
+_chemical_formula_moiety
+;
+C9 H8 N2 O3
+;
+_journal_coeditor_code "IUCr RN2015"
+_journal_coden_Cambridge 1370
+_journal_volume 62
+_journal_year 2006
+_journal_page_first o5414
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"A.Decken"
+"L.Botelho"
+"A.L.Sadowy"
+"P.N.Yadav"
+"R.A.Gossage"
+_chemical_name_systematic
+;
+2-(3-Nitrophenyl)-2-oxazoline
+;
+_cell_volume    852.883
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.497
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 198.0
+_refine_special_details
+;
+The N and O positions in the oxazoline ring are disordered equally over two 
+sites.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0365
+_refine_ls_wR_factor_gt 0.0365
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.0910(5)
+_cell_length_b 19.7825(18)
+_cell_length_c 7.1119(7)
+_cell_angle_alpha 90
+_cell_angle_beta 95.584(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.24042(17) 0.10833(5) 0.30583(15)
+O1 O 0.31635(18) 0.05341(5) 0.35663(15)
+O2 O 0.05629(16) 0.11549(5) 0.22320(15)
+C1 C 0.37635(18) 0.16858(6) 0.34727(16)
+C2 C 0.28217(19) 0.23123(6) 0.31350(16)
+C3 C 0.40887(18) 0.28843(6) 0.35840(16)
+C4 C 0.6275(2) 0.28106(7) 0.43408(17)
+C5 C 0.7169(2) 0.21749(7) 0.46451(18)
+C6 C 0.5925(2) 0.16040(7) 0.42235(17)
+C7 C 0.3088(2) 0.35532(6) 0.32997(16)
+N2 N 0.11211(16) 0.36198(5) 0.24134(14)
+O3? O 0.11211(16) 0.36198(5) 0.24134(14)
+C8 C 0.0574(2) 0.43370(7) 0.2513(2)
+C9 C 0.2657(3) 0.46592(8) 0.3420(3)
+O4 O 0.41284(17) 0.40924(5) 0.39606(15)
+N3? N 0.41284(17) 0.40924(5) 0.39606(15)
+H1 H 0.134(3) 0.2372(7) 0.266(2)
+H2 H 0.714(2) 0.3197(8) 0.462(2)
+H3 H 0.865(3) 0.2127(8) 0.515(2)
+H4 H 0.652(2) 0.1162(8) 0.4451(19)
+H5 H 0.013(2) 0.4510(8) 0.125(2)
+H6 H -0.069(2) 0.4382(8) 0.3281(19)
+H7 H 0.336(3) 0.4922(9) 0.258(2)
+H8 H 0.244(3) 0.4909(9) 0.458(2)
+#END

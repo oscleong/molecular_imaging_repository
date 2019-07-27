@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VEVJIQ
+_audit_creation_date 2007-03-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VEVJIQ
+_database_code_depnum_ccdc_archive 'CCDC 258876'
+_chemical_formula_sum 'C7 H12 N2 O1'
+_chemical_formula_moiety
+;
+C7 H12 N2 O1
+;
+_journal_coden_Cambridge 1094
+_journal_volume 17
+_journal_year 2006
+_journal_page_first 337
+_journal_name_full 'Struct.Chem. '
+loop_
+_publ_author_name
+"R.Odzak"
+"S.Tomic"
+"H.Cicak"
+"Z.Mihalic"
+"B.Prugovecki"
+"D.Matkovic-Calogovic"
+_chemical_name_systematic
+;
+3-Hydroxyiminoquinuclidine
+;
+_cell_volume    727.759
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.279
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'isopropanol/diisopropyl ether'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0649
+_refine_ls_wR_factor_gt 0.0649
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,-1/2+z
+8 x,-1/2-y,z
+_cell_length_a 11.7494(15)
+_cell_length_b 9.4830(13)
+_cell_length_c 6.5317(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.41577(15) 0.25000 0.6745(3)
+H1 H 0.35320 0.25000 0.61900
+N1 N 0.40154(17) 0.25000 0.8887(3)
+C1 C 0.51145(19) 0.25000 1.2028(4)
+H2 H 0.43670 0.25000 1.26960
+N2 N 0.70635(15) 0.25000 1.0187(3)
+C2 C 0.69544(15) 0.3762(2) 1.1491(3)
+H3 H 0.70310 0.46000 1.06490
+H4 H 0.75650 0.37690 1.24890
+C3 C 0.6128(2) 0.25000 0.8673(4)
+H5 H 0.61880 0.16720 0.78090
+H6 H 0.61880 0.33280 0.78090
+C4 C 0.57994(16) 0.38072(19) 1.2619(3)
+H7 H 0.59220 0.38240 1.40870
+H8 H 0.53850 0.46520 1.22380
+C5 C 0.49960(19) 0.25000 0.9746(4)
+C2G C 0.69544(15) 0.1238(2) 1.1491(3)
+H3G H 0.70310 0.04000 1.06490
+H4G H 0.75650 0.12310 1.24890
+C4G C 0.57994(16) 0.11928(19) 1.2619(3)
+H7G H 0.59220 0.11760 1.40870
+H8G H 0.53850 0.03480 1.22380
+#END

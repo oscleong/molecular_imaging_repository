@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VICREE
+_audit_creation_date 1991-08-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VICREE
+_chemical_formula_sum 'C2 H6 N2 O2'
+_chemical_formula_moiety
+;
+C2 H6 N2 O2
+;
+_journal_coden_Cambridge 582
+_journal_volume 15
+_journal_year 1985
+_journal_page_first 621
+_journal_name_full 'J.Crystallogr.Spectrosc.Res. '
+loop_
+_publ_author_name
+"T.Glowiak"
+"M.Koralewicz"
+_chemical_name_systematic
+;
+Glycinehydroxamic acid
+;
+_cell_volume    374.737
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.597
+_exptl_special_details
+;
+biological activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.685(2)
+_cell_length_b 7.133(2)
+_cell_length_c 9.540(3)
+_cell_angle_alpha 90
+_cell_angle_beta 104.38(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3016(3) 0.3297(2) 0.0456(2)
+O2 O 0.2402(3) 0.1017(2) 0.2523(2)
+N1 N 0.0605(3) 0.2668(3) 0.0420(2)
+N2 N -0.2830(3) 0.2008(3) 0.2638(2)
+C1 C 0.0584(3) 0.1572(3) 0.1497(2)
+C2 C -0.1959(4) 0.0940(3) 0.1521(2)
+H1 H 0.273(5) 0.368(4) -0.053(3)
+H2 H -0.302(5) 0.123(4) 0.057(3)
+H3 H -0.207(5) -0.053(4) 0.175(3)
+H4 H -0.280(5) 0.330(4) 0.254(3)
+H5 H -0.448(6) 0.171(4) 0.259(3)
+H6 H -0.188(6) 0.177(4) 0.361(4)
+#END

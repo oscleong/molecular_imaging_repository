@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XADPEA
+_audit_creation_date 2016-01-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XADPEA
+_database_code_depnum_ccdc_archive 'CCDC 989308'
+_chemical_formula_sum 'C5 H12 N2 O3'
+_chemical_formula_moiety
+;
+C5 H12 N2 O3
+;
+_journal_coden_Cambridge 95
+_journal_year 2015
+_journal_page_first 62
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"V.G.Shtamburg"
+"R.G.Kostyanovsky"
+"A.V.Tsygankov"
+"V.V.Shtamburg"
+"O.V.Shishkin"
+"R.I.Zubatyuk"
+"A.V.Mazepa"
+"S.V.Kravchenko"
+_chemical_name_systematic
+;
+1-Isopropoxy-1-methoxyurea
+;
+_cell_volume    832.564
+_exptl_crystal_density_diffrn 1.182
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0597
+_refine_ls_wR_factor_gt 0.0597
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 5.2528(8)
+_cell_length_b 11.2347(12)
+_cell_length_c 14.108(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3652(5) -0.1626(2) 0.0395(2)
+O2 O 0.2313(5) 0.0459(2) 0.10791(18)
+O3 O 0.6519(4) 0.07962(19) 0.14178(15)
+N1 N 0.4593(5) -0.0073(2) 0.13712(18)
+N2 N 0.7791(6) -0.1238(3) 0.0706(2)
+H1 H 0.823(9) -0.183(4) 0.043(3)
+H2 H 0.894(9) -0.076(4) 0.094(3)
+C1 C 0.5348(6) -0.1038(2) 0.0751(2)
+C2 C 0.2471(11) 0.0999(4) 0.0173(3)
+H3 H 0.29850 0.04160 -0.02870
+H4 H 0.36990 0.16320 0.01900
+H5 H 0.08370 0.13150 0.00010
+C3 C 0.6640(7) 0.1273(3) 0.2367(3)
+H6 H 0.49250 0.14750 0.25880
+C4 C 0.7824(15) 0.0392(5) 0.3020(3)
+H7 H 0.68380 -0.03270 0.30190
+H8 H 0.78710 0.07150 0.36500
+H9 H 0.95260 0.02220 0.28130
+C5 C 0.822(1) 0.2388(4) 0.2276(3)
+H10 H 0.98730 0.21870 0.20340
+H11 H 0.83940 0.27550 0.28870
+H12 H 0.73970 0.29310 0.18490
+#END

@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RERXES03
+_audit_creation_date 2012-04-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RERXES03
+_database_code_depnum_ccdc_archive 'CCDC 840782'
+_chemical_formula_sum 'C23 H21 N2 O1'
+_chemical_formula_moiety
+;
+C23 H21 N2 O1
+;
+_journal_coden_Cambridge 1350
+_journal_volume 14
+_journal_year 2012
+_journal_page_first 1515
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"H.Akpinar"
+"J.T.Mague"
+"M.A.Novak"
+"J.A.Friedman"
+"P.M.Lahti"
+_chemical_name_systematic
+;
+2-(1-Pyrenyl)-4,4,5,5-tetramethyl-4,5-dihydro-1H-imidazole-3-1-oxyl
+;
+_cell_volume   1764.260
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.285
+_exptl_crystal_description 'slab'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+An oxygen is present on the second nitrogen with an occupancy of 0.097.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0453
+_refine_ls_wR_factor_gt 0.0453
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.322(5)
+_cell_length_b 7.181(3)
+_cell_length_c 24.037(11)
+_cell_angle_alpha 90
+_cell_angle_beta 98.018(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.06211(11) 0.20041(15) -0.00926(4)
+O2? O -0.1157(12) 0.0556(16) 0.17504(12)
+N1 N -0.10803(12) 0.13264(17) 0.03304(5)
+N2 N -0.11671(13) 0.04466(18) 0.12207(5)
+C1 C -0.24943(14) 0.0859(2) 0.03253(6)
+C2 C -0.31975(16) 0.2723(2) 0.03731(7)
+H1 H -0.30530 0.35290 0.00590
+H2 H -0.28510 0.33280 0.07280
+H3 H -0.41370 0.25010 0.03630
+C3 C -0.30338(15) -0.0135(2) -0.02114(6)
+H4 H -0.39350 -0.05280 -0.01910
+H5 H -0.24950 -0.12310 -0.02600
+H6 H -0.30210 0.07080 -0.05310
+C4 C -0.23709(14) -0.0312(2) 0.08757(6)
+C5 C -0.20987(16) -0.2371(2) 0.07719(7)
+H7 H -0.13900 -0.24740 0.05420
+H8 H -0.28900 -0.29570 0.05750
+H9 H -0.18420 -0.29990 0.11320
+C6 C -0.35272(15) -0.0132(2) 0.11993(6)
+H10 H -0.33630 -0.08700 0.15450
+H11 H -0.43200 -0.05900 0.09670
+H12 H -0.36450 0.11780 0.12940
+C7 C -0.04547(14) 0.1247(2) 0.08878(6)
+C8 C 0.08318(14) 0.2123(2) 0.10562(6)
+C9 C 0.10395(15) 0.3903(2) 0.08510(6)
+H13 H 0.03800 0.44700 0.05900
+C10 C 0.21927(15) 0.4849(2) 0.10230(6)
+H14 H 0.23100 0.60620 0.08810
+C11 C 0.31883(15) 0.4051(2) 0.14018(6)
+C12 C 0.43785(16) 0.5025(2) 0.16006(7)
+H15 H 0.45210 0.62260 0.14550
+C13 C 0.52994(16) 0.4269(2) 0.19898(7)
+H16 H 0.60640 0.49660 0.21210
+C14 C 0.51491(15) 0.2440(2) 0.22094(6)
+C15 C 0.60942(16) 0.1616(2) 0.26081(7)
+H17 H 0.68630 0.22930 0.27460
+C16 C 0.59283(16) -0.0163(2) 0.28052(6)
+H18 H 0.65840 -0.06950 0.30750
+C17 C 0.48111(16) -0.1180(2) 0.26119(6)
+H19 H 0.47120 -0.24070 0.27470
+C18 C 0.38304(15) -0.0408(2) 0.22189(6)
+C19 C 0.26454(14) -0.1389(2) 0.20177(6)
+H20 H 0.25330 -0.26230 0.21450
+C20 C 0.16841(15) -0.0607(2) 0.16515(6)
+H21 H 0.09080 -0.12960 0.15340
+C21 C 0.18106(14) 0.1246(2) 0.14359(6)
+C22 C 0.30008(14) 0.2229(2) 0.16130(6)
+C23 C 0.39958(14) 0.1414(2) 0.20096(6)
+#END

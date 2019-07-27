@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HMBQOX10
+_audit_creation_date 1978-06-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HMBQOX10
+_database_code_depnum_ccdc_archive 'CCDC 1176989'
+_chemical_formula_sum 'C8 H9 N1 O5'
+_chemical_formula_moiety
+;
+C8 H9 N1 O5
+;
+_journal_coeditor_code "IUCr A15937"
+_journal_coden_Cambridge 107
+_journal_volume 34
+_journal_year 1978
+_journal_page_first 1029
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"P.G.Jones"
+"O.Kennard"
+"G.M.Sheldrick"
+_chemical_name_systematic
+;
+(E)-3,6-Dihydroxy-2-methyl-1,4-benzoquinone 4-methoxyimine N-oxide
+;
+_cell_volume    432.537
+_exptl_crystal_density_diffrn 1.529
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+THE METHYL HYDROGEN ATOMS ARE TWOFOLD DISORDERED. POSITIONS WITH HIGHER 
+OCCUPANCY ARE RETAINED.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0492
+_refine_ls_wR_factor_gt 0.0492
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 4.470(4)
+_cell_length_b 9.733(6)
+_cell_length_c 10.526(6)
+_cell_angle_alpha 103.88(5)
+_cell_angle_beta 100.20(5)
+_cell_angle_gamma 95.84(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4685(4) 0.1628(2) 0.1196(2)
+C2 C 0.7170(5) 0.2788(2) 0.1451(2)
+C3 C 0.9148(5) 0.3220(2) 0.2657(2)
+C4 C 0.8796(5) 0.2489(2) 0.3698(2)
+C5 C 0.6361(5) 0.1325(2) 0.3454(2)
+C6 C 0.4394(5) 0.0916(2) 0.2270(2)
+C7 C 0.7504(6) 0.3503(3) 0.0355(2)
+C8 C 1.2538(7) 0.2598(3) 0.7003(2)
+N1 N 1.0806(4) 0.2910(2) 0.4851(2)
+O1 O 1.3016(4) 0.3921(2) 0.5202(2)
+O2 O 1.0395(4) 0.2106(2) 0.5761(2)
+O3 O 1.1422(4) 0.4312(2) 0.2868(2)
+O4 O 0.2779(4) 0.1214(2) 0.0125(2)
+O5 O 0.2073(4) -0.0170(2) 0.2002(2)
+H1 H 1.2556(52) 0.4430(25) 0.3666(24)
+H2 H 0.0954(22) -0.0267(25) 0.1174(24)
+H3 H 0.6090(49) 0.0898(24) 0.4104(22)
+H4 H 1.19080 0.19250 0.76220
+H5 H 1.24010 0.36980 0.74770
+H6 H 1.48580 0.25060 0.68740
+H7 H 0.57450 0.30530 -0.05390
+H8 H 0.97380 0.33900 0.01220
+H9 H 0.73690 0.46240 0.07360
+H10? H 1.12530 0.29140 0.77750
+H11? H 1.42030 0.34940 0.70270
+H12? H 1.37110 0.17220 0.71720
+H13? H 0.78660 0.27540 -0.05230
+H14? H 0.94900 0.43250 0.07520
+H15? H 0.54970 0.39880 0.00900
+#END

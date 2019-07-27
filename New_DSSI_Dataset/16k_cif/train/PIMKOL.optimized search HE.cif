@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIMKOL
+_audit_creation_date 1994-10-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIMKOL
+_database_code_depnum_ccdc_archive 'CCDC 1233905'
+_chemical_formula_sum 'C6 H8 N2 O8'
+_chemical_formula_moiety
+;
+C6 H8 N2 O8
+;
+_journal_coden_Cambridge 119
+_journal_volume 298
+_journal_year 1993
+_journal_page_first 113
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"J.A.Kanters"
+"A.Schouten"
+"G.J.Sterk"
+"M.H.de Jong"
+_chemical_name_systematic
+;
+1,4:3,6-Dianhydro-D-glucitol-2,5-dinitrate
+;
+_chemical_name_common
+;
+Isosorbide dinitrate; Carvasin; Dilatrate-SR; Flindix; Isoket; Isorbid; 
+Isordil; Nitrosorbide; Sorbidilat; DrugBank: DB00883
+;
+_cell_volume    922.683
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.7
+_exptl_special_details
+;
+vasodilatory activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 2 21 21'
+_symmetry_Int_Tables_number 18
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,1/2+y,1/2-z
+4 -x,1/2-y,1/2+z
+_cell_length_a 5.7535(2)
+_cell_length_b 10.9393(5)
+_cell_length_c 14.6599(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4312(3) 0.3437(2) 0.08837(9)
+O2 O -0.0560(2) 0.3541(1) 0.01717(8)
+O3 O -0.1925(3) 0.1636(2) 0.0123(1)
+O4 O -0.2616(3) 0.2923(2) -0.0963(1)
+O5 O 0.5559(2) 0.3498(1) 0.25799(9)
+O6 O 0.0639(2) 0.4390(2) 0.24511(9)
+O7 O 0.6851(3) 0.4433(2) 0.3846(1)
+O8 O 0.7617(3) 0.2527(2) 0.3578(1)
+N1 N -0.1810(3) 0.2604(2) -0.0245(1)
+N2 N 0.6781(3) 0.3507(2) 0.3409(1)
+C1 C 0.2562(4) 0.2535(2) 0.1044(2)
+C2 C 0.0294(3) 0.3231(2) 0.1080(1)
+C3 C 0.0997(3) 0.4449(2) 0.1488(1)
+C4 C 0.3651(3) 0.4522(2) 0.1339(1)
+C5 C 0.4649(3) 0.4685(2) 0.2323(1)
+C6 C 0.2512(3) 0.5025(2) 0.2873(1)
+H1 H 0.275(5) 0.201(2) 0.054(2)
+H2 H 0.266(5) 0.208(2) 0.168(2)
+H3 H -0.091(5) 0.278(2) 0.138(2)
+H4 H 0.015(5) 0.515(2) 0.119(2)
+H5 H 0.424(5) 0.522(2) 0.101(2)
+H6 H 0.597(5) 0.533(2) 0.239(2)
+H7 H 0.269(5) 0.473(2) 0.344(2)
+H8 H 0.214(4) 0.584(2) 0.287(2)
+#END

@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JERVUY01
+_audit_creation_date 2007-10-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JERVUY01
+_database_code_depnum_ccdc_archive 'CCDC 634692'
+_chemical_formula_sum 'C5 H3 N3 O5'
+_chemical_formula_moiety
+;
+C5 H3 N3 O5
+;
+_journal_coden_Cambridge 1078
+_journal_year 2007
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"H.S.Yathirajan"
+"S.Bindya"
+"B.K.Sarojini"
+"B.Narayana"
+"M.Bolte"
+_chemical_name_systematic
+;
+3,5-dinitropyridin-2(1H)-one
+;
+_cell_volume    677.106
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.816
+_exptl_special_details
+;
+contribution from Institut fur Anorganische Chemie, J. W. Goethe-Universitat, 
+Max-von-Laue-Str. 7, 60438 Frankfurt/Main, Germany
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0286
+_refine_ls_wR_factor_gt 0.0286
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,1/2+y,1/2+z
+_cell_length_a 12.3243(11)
+_cell_length_b 9.6543(11)
+_cell_length_c 5.6908(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.46007(10) 0.86286(12) 0.3049(3)
+H1 H 0.504(2) 0.936(3) 0.307(7)
+C1 C 0.38439(12) 0.85538(15) 0.4883(3)
+C2 C 0.31026(11) 0.73802(14) 0.4611(3)
+C3 C 0.31878(11) 0.64395(13) 0.2811(3)
+H2 H 0.26960 0.56850 0.26920
+C4 C 0.40177(11) 0.66184(14) 0.1152(3)
+C5 C 0.47161(11) 0.77260(14) 0.1285(3)
+H3 H 0.52710 0.78480 0.01440
+O1 O 0.38633(9) 0.94292(12) 0.6449(3)
+N2 N 0.22429(9) 0.71644(13) 0.6354(3)
+O2 O 0.15338(10) 0.63038(15) 0.5888(3)
+O3 O 0.22687(10) 0.78136(13) 0.8202(2)
+N3 N 0.41331(10) 0.56873(13) -0.0836(3)
+O4 O 0.48514(10) 0.59463(12) -0.2281(3)
+O5 O 0.34994(11) 0.47092(13) -0.1011(3)
+#END

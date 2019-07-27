@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UFOWIV
+_audit_creation_date 2002-09-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UFOWIV
+_database_code_depnum_ccdc_archive 'CCDC 177834'
+_chemical_formula_sum 'C18 H22 N2 O3'
+_chemical_formula_moiety
+;
+C18 H22 N2 O3
+;
+_journal_coden_Cambridge 35
+_journal_volume 67
+_journal_year 2002
+_journal_page_first 4337
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"Pu Sun"
+"Cuixiang Sun"
+"S.M.Weinreb"
+_chemical_name_systematic
+;
+(2-Nitrophenyl)(6-vinyl-1-azaspiro(4.5)dec-1-yl)methanone
+;
+_chemical_melting_point 356.15
+_cell_volume   1642.091
+_exptl_crystal_density_diffrn 1.272
+_exptl_special_details
+;
+Melting point range 356.15-357.15K
+
+;
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+Atom C3 is disordered over two positions with occupancies 0.8:0.2.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.757(1)
+_cell_length_b 19.479(3)
+_cell_length_c 11.135(2)
+_cell_angle_alpha 90
+_cell_angle_beta 102.58(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2298(2) -0.1255(1) 0.3137(2)
+O2 O 0.2827(3) 0.0999(1) 0.3762(2)
+O3 O 0.1659(3) 0.0245(1) 0.2462(2)
+N1 N 0.2705(3) -0.1067(1) 0.1196(2)
+N2 N 0.2919(3) 0.0480(1) 0.3178(2)
+C1 C 0.3068(3) -0.0978(1) 0.2414(2)
+C2 C 0.3564(4) -0.0656(1) 0.0395(2)
+C3 C 0.2452(5) -0.0753(2) -0.0866(3)
+C4 C 0.1683(4) -0.1484(2) -0.0799(2)
+C5 C 0.1322(3) -0.1534(1) 0.0503(2)
+C6 C 0.1519(3) -0.2269(1) 0.1038(2)
+C7 C 0.0062(4) -0.2732(2) 0.0315(3)
+C8 C -0.1755(4) -0.2458(2) 0.0359(3)
+C9 C -0.1992(4) -0.1725(2) -0.0143(4)
+C10 C -0.0507(4) -0.1255(2) 0.0546(3)
+C11 C 0.3307(4) -0.2569(1) 0.1088(3)
+C12 C 0.4516(4) -0.2647(2) 0.2103(3)
+C13 C 0.4677(3) -0.0541(1) 0.2924(2)
+C14 C 0.4619(3) 0.0125(1) 0.3353(2)
+C15 C 0.6130(4) 0.0487(1) 0.3913(2)
+C16 C 0.7735(4) 0.0175(2) 0.4007(3)
+C17 C 0.7855(4) -0.0484(2) 0.3569(3)
+C18 C 0.6332(4) -0.0837(1) 0.3046(2)
+C19? C 0.305(2) -0.1033(7) -0.089(1)
+H1 H 0.47900 -0.08200 0.04400
+H2 H 0.36000 -0.01600 0.06400
+H3 H 0.31800 -0.07300 -0.15000
+H4 H 0.14900 -0.04000 -0.10500
+H5 H 0.25600 -0.18400 -0.09200
+H6 H 0.05600 -0.15400 -0.14400
+H7 H 0.13900 -0.22400 0.19100
+H8 H 0.02000 -0.32000 0.06800
+H9 H 0.01800 -0.27500 -0.05600
+H10 H -0.19000 -0.24600 0.12300
+H11 H -0.26700 -0.27600 -0.01500
+H12 H -0.31600 -0.15400 -0.00400
+H13 H -0.19700 -0.17300 -0.10400
+H14 H -0.06500 -0.07900 0.01600
+H15 H -0.06000 -0.12200 0.14200
+H16 H 0.36000 -0.27200 0.03000
+H17 H 0.56900 -0.28500 0.20700
+H18 H 0.42700 -0.25000 0.29100
+H19 H 0.60400 0.09600 0.42400
+H20 H 0.88400 0.04300 0.44000
+H21 H 0.90400 -0.07000 0.36300
+H22 H 0.64300 -0.13200 0.27500
+H23? H 0.48700 -0.06500 0.07100
+H24? H 0.31100 -0.01700 0.03300
+H25? H 0.40900 -0.12900 -0.10500
+H26? H 0.26400 -0.06900 -0.15600
+H27? H 0.20000 -0.19500 -0.10500
+H28? H 0.05800 -0.13200 -0.13700
+#END

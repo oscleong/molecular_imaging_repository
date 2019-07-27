@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PUBMUU22
+_audit_creation_date 2008-03-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PUBMUU22
+_database_code_depnum_ccdc_archive 'CCDC 679946'
+_chemical_formula_sum 'C6 H6 N12 O12'
+_chemical_formula_moiety
+;
+C6 H6 N12 O12
+;
+_journal_coeditor_code "IUCr BS5048"
+_journal_coden_Cambridge 622
+_journal_volume 64
+_journal_year 2008
+_journal_page_first 42
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"A.Meents"
+"B.Dittrich"
+"S.K.J.Johnas"
+"V.Thome"
+"E.Weckert"
+_chemical_name_systematic
+;
+2,4,6,8,10,12-Hexanitro-2,4,6,8,10,12-hexa-azatetracyclo[5.5.0.0^3,11^.0^5,9^]
+dodecane
+;
+_chemical_name_common
+;
+CL-20; HNIW; Hexanitro-hexa-azaisowurtzitane
+;
+_cell_volume   1395.314
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.08
+_exptl_special_details
+;
+explosive
+monoclinic epsilon polymorph
+impact-sensitive
+
+;
+_exptl_crystal_description 'rectangular'
+_exptl_crystal_preparation '2-propanol'
+_diffrn_ambient_temperature 100
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+The authors observed disorder of one nitro group over two sites with 
+occupancies approximately 0.95:0.05 and additional electron density close to 
+another oxygen atom. Modelling this disorder did not improve the structural 
+model and so it was not included.
+Refinement using a pseudoatom scattering model and the Hansen and Coppens 
+multipole formalism.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.028
+_refine_ls_wR_factor_gt 0.028
+loop_
+_citation_database_id_CSD
+_citation_special_details
+PUBMUU25 "is a reinterpretation of this cif"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.789(1)
+_cell_length_b 12.474(1)
+_cell_length_c 13.279(1)
+_cell_angle_alpha 90
+_cell_angle_beta 106.578(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.08987(3) 0.61182(2) 0.35504(3)
+O2 O -0.26363(3) 0.72388(2) 0.38327(2)
+O3 O -0.34843(3) 0.73615(2) 0.15074(2)
+O4 O -0.28990(3) 0.79812(2) 0.01228(2)
+O5 O 0.07974(3) 1.11271(2) 0.11098(2)
+O6 O 0.09800(3) 1.16082(2) 0.27229(2)
+O7 O 0.30886(3) 0.94544(2) 0.51124(2)
+O8 O 0.12322(3) 1.06521(2) 0.49096(2)
+O9 O 0.46340(3) 0.88244(2) 0.27417(2)
+O10 O 0.35068(3) 0.90223(2) 0.10622(2)
+O11 O 0.09773(3) 0.67837(2) 0.03994(2)
+O12 O 0.09723(3) 0.58507(2) 0.17845(2)
+N1 N -0.14830(3) 0.70052(2) 0.35472(2)
+N2 N -0.06949(3) 0.78652(2) 0.32188(2)
+N3 N -0.28694(3) 0.80023(2) 0.10500(2)
+N4 N -0.20831(3) 0.88574(2) 0.16283(2)
+N5 N 0.04928(3) 1.10367(2) 0.19532(2)
+N6 N -0.05252(3) 1.02319(2) 0.20331(2)
+N7 N 0.18681(3) 0.98863(2) 0.46207(2)
+N8 N 0.11037(3) 0.94578(2) 0.36423(2)
+N9 N 0.35017(3) 0.89290(2) 0.19742(2)
+N10 N 0.19820(3) 0.90273(2) 0.21599(2)
+N11 N 0.08105(3) 0.66692(2) 0.12686(2)
+N12 N 0.02713(3) 0.75811(2) 0.17128(2)
+C1 C 0.06797(3) 0.76375(2) 0.28698(2)
+C2 C -0.16053(3) 0.88079(2) 0.27894(2)
+C3 C -0.08676(3) 0.93829(2) 0.12516(2)
+C4 C -0.04681(3) 0.98132(2) 0.30786(2)
+C5 C 0.18339(3) 0.86343(2) 0.31731(2)
+C6 C 0.06223(3) 0.86242(2) 0.13295(2)
+H1 H -0.13559 0.96918 0.04550
+H2 H 0.08777 0.85813 0.05725
+H3 H -0.26335 0.88575 0.30938
+H4 H -0.08608 1.04119 0.35502
+H5 H 0.29816 0.84247 0.37177
+H6 H 0.12363 0.68842 0.32005
+#END

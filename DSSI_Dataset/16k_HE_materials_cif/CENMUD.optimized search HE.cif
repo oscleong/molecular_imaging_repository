@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CENMUD
+_audit_creation_date 1984-11-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CENMUD
+_database_code_depnum_ccdc_archive 'CCDC 1123112'
+_chemical_formula_sum 'C18 H21 N1 O7'
+_chemical_formula_moiety
+;
+C18 H21 N1 O7
+;
+_journal_coden_Cambridge 24
+_journal_volume 25
+_journal_year 1984
+_journal_page_first 1373
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"M.Nakata"
+"M.Kinoshita"
+"S.Ohba"
+"Y.Saito"
+_chemical_name_systematic
+;
+2,4,5,8-Tetramethoxy-3-methyl-6-nitro-1-propionaphthone
+;
+_chemical_melting_point 399.15
+_cell_volume    909.587
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.33
+_exptl_special_details
+;
+Melting point range 399.15-400.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The nitro group is disordered over 2 positions; oxygen positions of 0.9 
+occupancy are retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 10.056(2)
+_cell_length_b 12.901(5)
+_cell_length_c 7.359(2)
+_cell_angle_alpha 88.27(3)
+_cell_angle_beta 107.58(2)
+_cell_angle_gamma 89.67(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.14850 0.35900 0.30510
+C2 C 0.28790 0.37230 0.38510
+C3 C 0.39160 0.32210 0.32830
+C4 C 0.35110 0.25530 0.18380
+C5 C 0.16510 0.16900 -0.06510
+C6 C 0.02620 0.16000 -0.16030
+C7 C -0.07910 0.21560 -0.11350
+C8 C -0.03920 0.27970 0.04020
+C9 C 0.10320 0.29320 0.14610
+C10 C 0.20660 0.23830 0.08750
+C11 C 0.26290 0.10010 -0.13060
+C12 C 0.31510 0.14080 -0.28870
+C13 C 0.41100 0.06560 -0.34500
+C14 C -0.23020 0.20320 -0.22690
+C15 C 0.00570 0.35270 0.50440
+C16 C 0.58660 0.22180 0.18780
+C17 C -0.05220 -0.00640 -0.27500
+C18 C -0.17980 0.43050 0.01020
+N1 N 0.33560 0.44310 0.54490
+O1 O 0.31070 0.53220 0.52110
+O2 O 0.41780 0.40990 0.69140
+O3 O 0.44070 0.20140 0.11720
+O4 O 0.28590 0.01260 -0.06380
+O5 O -0.01050 0.09620 -0.31550
+O6 O -0.14430 0.32870 0.09080
+O7 O 0.05700 0.41210 0.37370
+H1 H 0.50000 0.34000 0.40000
+H2 H 0.35600 0.20800 -0.26000
+H3 H 0.23100 0.17200 -0.39200
+H4 H 0.43400 0.09400 -0.44900
+H5 H 0.50000 0.04000 -0.24000
+H6 H 0.34000 0.00000 -0.42000
+H7 H -0.24400 0.18400 -0.34900
+H8 H -0.28900 0.15300 -0.13800
+H9 H -0.26000 0.25500 -0.24200
+H10 H -0.04000 0.28800 0.44500
+H11 H -0.06500 0.37100 0.53200
+H12 H 0.06700 0.33200 0.61300
+H13 H 0.58000 0.27600 0.13500
+H14 H 0.63900 0.18000 0.10700
+H15 H 0.61400 0.20700 0.33700
+H16 H -0.14000 0.00000 -0.24000
+H17 H -0.07700 -0.03400 -0.40600
+H18 H 0.03300 -0.04400 -0.19400
+H19 H -0.19700 0.44000 -0.11700
+H20 H -0.09900 0.48000 0.05100
+H21 H -0.23900 0.46200 0.05300
+#END

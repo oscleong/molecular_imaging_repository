@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAGGOX
+_audit_creation_date 2012-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAGGOX
+_database_code_depnum_ccdc_archive 'CCDC 833595'
+_chemical_formula_sum 'C6 H10 N2 O2'
+_chemical_formula_moiety
+;
+C6 H10 N2 O2
+;
+_journal_coden_Cambridge 95
+_journal_year 2010
+_journal_page_first 2028
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"V.A.Golubev"
+"G.V.Shilov"
+"V.D.Sen'"
+_chemical_name_systematic
+;
+5,5-dimethyl-3-hydroxyimino-1-pyrroline-1-oxide
+;
+_chemical_melting_point 149
+_cell_volume    357.858
+_exptl_crystal_density_diffrn 1.319
+_exptl_special_details
+;
+Melting point range 149-150K
+
+;
+_exptl_crystal_preparation 'benzene'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0551
+_refine_ls_wR_factor_gt 0.0551
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.970(1)
+_cell_length_b 7.872(1)
+_cell_length_c 8.012(3)
+_cell_angle_alpha 77.02(1)
+_cell_angle_beta 77.30(1)
+_cell_angle_gamma 88.29(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3444(4) 0.9966(3) 0.8436(3)
+O2 O 0.1645(4) 1.7162(3) 0.7866(3)
+H1 H 0.21020 1.80950 0.79740
+N1 N 0.2821(4) 1.1563(3) 0.8196(3)
+N2 N 0.2799(5) 1.5790(3) 0.8758(3)
+C1 C 0.2404(5) 1.4375(4) 0.8320(4)
+C2 C 0.3340(5) 1.2736(3) 0.8986(4)
+H2 H 0.41910 1.25320 0.98520
+C3 C 0.1461(5) 1.2274(4) 0.6807(4)
+C4 C -0.0731(6) 1.1191(4) 0.7174(5)
+H3 H -0.03480 1.00160 0.70890
+H4 H -0.16280 1.16810 0.63320
+H5 H -0.16000 1.11920 0.83340
+C5 C 0.1006(6) 1.4145(4) 0.7054(5)
+H6 H 0.14800 1.49840 0.59460
+H7 H -0.06120 1.42920 0.75220
+C6 C 0.2981(7) 1.2207(5) 0.5053(5)
+H8 H 0.33750 1.10200 0.50300
+H9 H 0.43560 1.28880 0.48740
+H10 H 0.21800 1.26700 0.41390
+#END

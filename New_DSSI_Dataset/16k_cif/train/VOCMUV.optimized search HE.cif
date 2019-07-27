@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOCMUV
+_audit_creation_date 1992-04-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOCMUV
+_chemical_formula_sum 'C8 H14 N2 O10'
+_chemical_formula_moiety
+;
+C8 H14 N2 O10
+;
+_journal_coden_Cambridge 41
+_journal_volume 35
+_journal_year 1990
+_journal_page_first 1139
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"A.V.Nikitin"
+"T.A.Shibanova"
+"T.S.Chernaya"
+"I.A.Verin"
+"A.I.Usov"
+"S.I.Firgang"
+"R.M.Myasnikova"
+_chemical_name_systematic
+;
+Methyl-4-O-methyl-\b-D-glucopyranoside 3,6-dinitrate
+;
+_chemical_melting_point 394.15
+_cell_volume   1370.450
+_exptl_crystal_density_diffrn 1.445
+_exptl_special_details
+;
+x(C6) is -0.0819, not 0.0819
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The hydroxy H atom on O2 is disordered over two equivalent positions.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0568
+_refine_ls_wR_factor_gt 0.0568
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 17.114(8)
+_cell_length_b 16.406(6)
+_cell_length_c 4.881(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1208(5) 0.3964(6) 0.2835(27)
+C2 C 0.1305(5) 0.4862(5) 0.2493(24)
+C3 C 0.0894(5) 0.5325(6) 0.4843(22)
+C4 C 0.0054(5) 0.5053(6) 0.5252(23)
+C5 C 0.0015(6) 0.4130(6) 0.5353(24)
+C6 C -0.0819(6) 0.3780(6) 0.5413(28)
+C7 C 0.1586(8) 0.2768(8) 0.0846(11)
+C8 C -0.0836(10) 0.5866(10) 0.7787(37)
+O1 O 0.1514(4) 0.3602(4) 0.0510(18)
+O2 O 0.2109(3) 0.5116(4) 0.2576(16)
+O3 O 0.0863(4) 0.6182(3) 0.4053(17)
+O4 O -0.0211(3) 0.5345(4) 0.7808(17)
+O5 O 0.0394(4) 0.3781(4) 0.2934(16)
+O6 O -0.1197(4) 0.4157(5) 0.3064(18)
+O7 O 0.1607(6) 0.6460(5) 0.7702(23)
+O8 O 0.1208(7) 0.7417(5) 0.4785(27)
+O9 O -0.2270(6) 0.3506(6) 0.4445(28)
+O10 O -0.2285(5) 0.4220(7) 0.0765(27)
+N1 N 0.1269(7) 0.6731(6) 0.5733(23)
+N2 N -0.1975(7) 0.3943(9) 0.2783(33)
+H1 H 0.15000 0.37500 0.46600
+H2 H 0.10500 0.50500 0.05600
+H3 H 0.12200 0.52600 0.67300
+H4 H -0.03100 0.52800 0.36200
+H5 H 0.03200 0.39200 0.71600
+H6 H -0.08100 0.31300 0.52100
+H7 H -0.11100 0.39400 0.72900
+H8 H 0.18300 0.24800 -0.09700
+H9 H 0.10200 0.25100 0.12500
+H10 H 0.19700 0.26500 0.25600
+H11 H -0.10400 0.60900 0.97400
+H12 H -0.13200 0.55500 0.68200
+H13 H -0.06800 0.63900 0.65700
+H14 H 0.24600 0.47800 0.41800
+H15? H 0.24900 0.54700 0.41600
+#END

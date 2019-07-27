@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MOPQUD
+_audit_creation_date 2002-09-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MOPQUD
+_database_code_depnum_ccdc_archive 'CCDC 192996'
+_chemical_formula_sum 'C14 H15 N5 O2'
+_chemical_formula_moiety
+;
+C14 H15 N5 O2
+;
+_journal_coeditor_code "IUCr NA1579"
+_journal_coden_Cambridge 591
+_journal_volume 58
+_journal_year 2002
+_journal_page_first o442
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"E.J.MacLean"
+"J.N.Low"
+"A.Quesada"
+"M.Melguizo"
+"M.Nogueras"
+"C.Glidewell"
+_chemical_name_systematic
+;
+4-(Allylamino)-2-amino-6-benzyloxy-5-nitrosopyrimidine
+;
+_cell_volume   1402.705
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 1.351
+_exptl_special_details
+;
+potential in vitro inhibitor of human DNA repair protein 
+O$6!-alkylguanine-DNA-transferase
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'water/ethanol'
+_diffrn_ambient_temperature 150
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0474
+_refine_ls_wR_factor_gt 0.0474
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 8.0338(6)
+_cell_length_b 24.627(2)
+_cell_length_c 7.4087(5)
+_cell_angle_alpha 90
+_cell_angle_beta 106.872(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.3161(2) 0.46034(7) 0.5285(2)
+N2 N 0.2980(2) 0.47602(7) 0.8268(2)
+C1 C 0.2614(3) 0.49352(8) 0.6499(2)
+N3 N 0.1769(2) 0.54067(6) 0.6094(2)
+N4 N 0.0524(2) 0.60415(7) 0.3854(2)
+C2 C 0.1377(2) 0.55755(8) 0.4302(2)
+C3 C 0.1880(2) 0.52673(7) 0.2880(2)
+N5 N 0.1612(2) 0.53997(7) 0.1038(2)
+O1 O 0.07881(19) 0.58396(6) 0.04541(18)
+O2 O 0.32262(18) 0.44649(5) 0.22616(17)
+C4 C 0.2778(2) 0.47725(7) 0.3543(2)
+C5 C -0.0030(3) 0.63751(9) 0.5207(3)
+C6 C 0.0868(3) 0.69082(10) 0.5583(3)
+C7 C 0.2027(4) 0.70983(11) 0.4840(4)
+C8 C 0.4035(3) 0.39442(8) 0.2922(3)
+C9 C 0.4135(3) 0.36349(8) 0.1208(3)
+C10 C 0.5526(3) 0.37115(8) 0.0485(3)
+C11 C 0.5595(3) 0.34374(9) -0.1137(3)
+C12 C 0.4301(3) 0.30761(9) -0.2002(3)
+C13 C 0.2915(3) 0.29946(9) -0.1286(3)
+C14 C 0.2818(3) 0.32760(9) 0.0314(3)
+H1 H 0.26670 0.49530 0.91140
+H2 H 0.35370 0.44510 0.85930
+H3 H 0.02890 0.61220 0.27060
+H4 H 0.01930 0.61730 0.64100
+H5 H -0.12990 0.64380 0.47200
+H6 H 0.05590 0.71360 0.64680
+H7 H 0.23870 0.68880 0.39460
+H8 H 0.25140 0.74480 0.51920
+H9 H 0.33300 0.37420 0.35930
+H10 H 0.52150 0.40000 0.37980
+H11 H 0.64380 0.39520 0.10980
+H12 H 0.65360 0.35000 -0.16460
+H13 H 0.43620 0.28830 -0.30910
+H14 H 0.20230 0.27460 -0.18860
+H15 H 0.18540 0.32220 0.07920
+#END

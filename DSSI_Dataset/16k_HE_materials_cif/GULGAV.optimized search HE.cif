@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GULGAV
+_audit_creation_date 2001-04-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GULGAV
+_database_code_depnum_ccdc_archive 'CCDC 1170613'
+_database_code_depnum_ccdc_journal 1003/5355 not deposited at CCDC
+_chemical_formula_sum 'C3 H2 N4 O4'
+_chemical_formula_moiety
+;
+C3 H2 N4 O4
+;
+_journal_coden_Cambridge 1003
+_journal_volume 28
+_journal_year 1998
+_journal_page_first 367
+_journal_name_full 'J.Chem.Cryst. '
+loop_
+_publ_author_name
+"A.J.Bracuti"
+_chemical_name_systematic
+;
+4,5-Dinitroimidazole
+;
+_cell_volume   1178.921
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.781
+_exptl_special_details
+;
+z coordinate of C21 should be 0.2853 (not 0.2583)
+
+;
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.039
+_refine_ls_wR_factor_gt 0.039
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.5360(8)
+_cell_length_b 9.071(1)
+_cell_length_c 11.822(1)
+_cell_angle_alpha 90
+_cell_angle_beta 107.640(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.0736(1) 0.2161(2) 0.7451(2)
+O2 O 1.0574(2) 0.1947(2) 0.5600(2)
+O3 O 0.7483(2) 0.3904(2) 0.8119(2)
+O4 O 0.9304(1) 0.4330(2) 0.8042(2)
+N1 N 0.6948(2) 0.2381(2) 0.6063(2)
+N2 N 0.8158(2) 0.1417(2) 0.5130(2)
+N3 N 1.0140(2) 0.2098(2) 0.6414(3)
+N4 N 0.8322(6) 0.3712(2) 0.7696(2)
+C1 C 0.7021(2) 0.1590(3) 0.5140(3)
+C2 C 0.8826(2) 0.2126(2) 0.6118(3)
+C3 C 0.8105(2) 0.2738(2) 0.6707(3)
+H1 H 0.635(3) 0.261(3) 0.634(3)
+H2 H 0.634(6) 0.124(3) 0.461(3)
+O5 O 0.9318(2) 0.1357(2) -0.0569(2)
+O6 O 0.7448(2) 0.0880(2) -0.0714(2)
+O7 O 0.6845(2) -0.0212(2) 0.2731(2)
+O8 O 0.6540(2) -0.0507(3) 0.0849(2)
+N5 N 0.8850(2) 0.1303(2) 0.3000(3)
+N6 N 0.9832(2) 0.1968(2) 0.1740(3)
+N7 N 0.8491(2) 0.1155(2) -0.0142(2)
+N8 N 0.7093(2) -0.0002(2) 0.1807(2)
+C4 C 0.9833(2) 0.1982(3) 0.2853(3)
+C5 C 0.8786(2) 0.1296(2) 0.1137(3)
+C6 C 0.8166(2) 0.0871(2) 0.1891(3)
+H3 H 0.876(3) 0.104(5) 0.367(5)
+H4 H 1.046(2) 0.229(3) 0.356(2)
+#END

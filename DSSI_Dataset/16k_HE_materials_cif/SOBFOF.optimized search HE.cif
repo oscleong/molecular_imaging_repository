@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOBFOF
+_audit_creation_date 2008-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOBFOF
+_database_code_depnum_ccdc_archive 'CCDC 672235'
+_chemical_formula_sum 'C21 H16 N2 O2'
+_chemical_formula_moiety
+;
+C21 H16 N2 O2
+;
+_journal_coden_Cambridge 16
+_journal_volume 64
+_journal_year 2008
+_journal_page_first 6002
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"K.M.Gericke"
+"D.I.Chai"
+"M.Lautens"
+_chemical_name_systematic
+;
+7-(2-Nitrophenyl)-5,6-dihydro-4H-benzo(de)pyrrolo(1,2-a)quinoline
+;
+_chemical_melting_point 458.15
+_cell_volume   1562.774
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.396
+_exptl_special_details
+;
+Melting point range 458.15-460.15K
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+One propylene fragment is disordered with occupancies 0.648:0.352.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0576
+_refine_ls_wR_factor_gt 0.0576
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.4632(5)
+_cell_length_b 7.7735(4)
+_cell_length_c 18.2085(8)
+_cell_angle_alpha 90
+_cell_angle_beta 105.600(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.24970(15) 0.5079(2) 0.44451(9)
+O2 O 0.16109(14) 0.3645(2) 0.51536(9)
+N1 N 0.37115(14) 0.5774(2) 0.26886(9)
+N2 N 0.22585(15) 0.3727(2) 0.47126(9)
+C1 C 0.26388(17) 0.5887(3) 0.20964(10)
+C2 C 0.17714(17) 0.4571(3) 0.20379(10)
+C3 C 0.19436(18) 0.3246(3) 0.26224(11)
+C4 C 0.29372(18) 0.3307(3) 0.32321(10)
+C5 C 0.38675(17) 0.4563(3) 0.32664(10)
+C6 C 0.50137(19) 0.4804(3) 0.37536(11)
+H1 H 0.53660 0.41730 0.42060
+C7 C 0.55598(19) 0.6160(3) 0.34536(12)
+H2 H 0.63540 0.65950 0.36660
+C8 C 0.47533(18) 0.6745(3) 0.28039(11)
+H3 H 0.48870 0.76570 0.24890
+C9 C 0.24342(19) 0.7268(3) 0.15887(11)
+H4 H 0.30150 0.81640 0.16460
+C10 C 0.13831(19) 0.7323(3) 0.10032(11)
+H5 H 0.12310 0.82710 0.06610
+C11 C 0.05426(19) 0.5989(3) 0.09115(11)
+H6 H -0.01660 0.60230 0.04960
+C12 C 0.07195(18) 0.4611(3) 0.14148(11)
+C13 C -0.01925(19) 0.3172(3) 0.12986(12)
+H7 H -0.04780 0.29060 0.07480
+H8 H -0.09000 0.35610 0.14680
+H9? H -0.10110 0.36420 0.10630
+H10? H -0.00090 0.23190 0.09420
+C14 C 0.0314(3) 0.1550(5) 0.17282(19)
+H11 H -0.03600 0.07440 0.17160
+H12 H 0.08680 0.09880 0.14690
+C15? C -0.0190(6) 0.2293(8) 0.2030(3)
+H13? H -0.06270 0.30340 0.23100
+H14? H -0.06540 0.12090 0.19050
+C16 C 0.0976(2) 0.1893(3) 0.25306(13)
+H15 H 0.13540 0.08100 0.27660
+H16 H 0.03890 0.22640 0.28110
+H17? H 0.12730 0.08290 0.23430
+H18? H 0.08680 0.16370 0.30410
+C17 C 0.31364(17) 0.1968(3) 0.38474(10)
+C18 C 0.27853(17) 0.2117(3) 0.45248(11)
+C19 C 0.28867(17) 0.0768(3) 0.50375(11)
+H19 H 0.26340 0.09110 0.54900
+C20 C 0.33571(19) -0.0779(3) 0.48846(12)
+H20 H 0.34230 -0.17130 0.52290
+C21 C 0.37348(18) -0.0972(3) 0.42281(11)
+H21 H 0.40720 -0.20330 0.41260
+C22 C 0.36205(19) 0.0388(3) 0.37187(12)
+H22 H 0.38800 0.02360 0.32690
+#END

@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AKUPOM
+_audit_creation_date 2011-04-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AKUPOM
+_database_code_depnum_ccdc_archive 'CCDC 813626'
+_chemical_formula_sum 'C11 H12 N2 O3'
+_chemical_formula_moiety
+;
+C11 H12 N2 O3
+;
+_journal_coden_Cambridge 35
+_journal_volume 75
+_journal_year 2010
+_journal_page_first 5882
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"M.Angelin"
+"M.Rahm"
+"A.Fischer"
+"T.Brinck"
+"O.Ramstrom"
+_chemical_name_systematic
+;
+3-(1-Nitropropyl)-2,3-dihydro-1H-isoindol-1-one
+;
+_cell_volume   5942.382
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.108
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 299
+_refine_special_details
+;
+The ethyl moiety is equally disordered over two sets of positions.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.095
+_refine_ls_wR_factor_gt 0.095
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3'
+_symmetry_Int_Tables_number 148
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 2/3+x,1/3+y,1/3+z
+5 2/3-y,1/3+x-y,1/3+z
+6 2/3-x+y,1/3-x,1/3+z
+7 1/3+x,2/3+y,2/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-x+y,2/3-x,2/3+z
+10 -x,-y,-z
+11 y,-x+y,-z
+12 x-y,x,-z
+13 -2/3-x,-1/3-y,-1/3-z
+14 -2/3+y,-1/3-x+y,-1/3-z
+15 -2/3+x-y,-1/3+x,-1/3-z
+16 -1/3-x,-2/3-y,-2/3-z
+17 -1/3+y,-2/3-x+y,-2/3-z
+18 -1/3+x-y,-2/3+x,-2/3-z
+_cell_length_a 35.530(5)
+_cell_length_b 35.530(5)
+_cell_length_c 5.4355(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 18
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.29658(15) 0.02733(15) -0.1163(9)
+C2 C 0.27456(17) -0.00779(16) 0.0353(10)
+C3 C 0.25046(18) -0.00633(17) 0.2304(10)
+C4 C 0.24691(18) 0.03011(17) 0.2755(9)
+C5 C 0.26885(16) 0.06515(14) 0.1217(9)
+C6 C 0.29335(15) 0.06388(15) -0.0694(8)
+C7 C 0.31343(16) 0.10611(15) -0.1992(10)
+C8 C 0.27054(19) 0.10850(16) 0.1234(9)
+C9 C 0.2269(3) 0.1064(2) 0.1019(13)
+C10 C 0.2382(5) 0.1553(5) 0.161(4)
+C11 C 0.1959(6) 0.1560(7) 0.176(5)
+C12? C 0.2206(6) 0.1434(5) 0.031(2)
+C13? C 0.232(1) 0.1709(5) 0.260(3)
+N1 N 0.30051(15) 0.13078(13) -0.0781(9)
+N2 N 0.2044(3) 0.0792(4) -0.1300(16)
+O1 O 0.33736(12) 0.11754(11) -0.3803(7)
+O2 O 0.1745(4) 0.0445(4) -0.086(2)
+O3 O 0.2157(3) 0.0942(5) -0.3155(15)
+H1 H 0.31330 0.02660 -0.24730
+H2 H 0.27580 -0.03320 0.00650
+H3 H 0.23630 -0.03050 0.33410
+H4 H 0.23020 0.03090 0.40610
+H5 H 0.28460 0.12370 0.27710
+H6 H 0.20940 0.08860 0.24180
+H7? H 0.26520 0.17660 0.08050
+H8? H 0.21480 0.14650 0.04090
+H9? H 0.18700 0.13790 0.32130
+H10? H 0.17290 0.16170 0.12800
+H11? H 0.22210 0.18330 0.21090
+H12? H 0.22120 0.15680 -0.12630
+H13? H 0.19380 0.13430 0.12370
+H14? H 0.22580 0.16170 0.42930
+H15? H 0.24510 0.20230 0.25160
+H16? H 0.25180 0.16230 0.19280
+H17 H 0.30410 0.15530 -0.11490
+#END

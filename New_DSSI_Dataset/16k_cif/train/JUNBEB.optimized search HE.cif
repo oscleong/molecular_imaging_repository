@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUNBEB
+_audit_creation_date 2015-08-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUNBEB
+_database_code_depnum_ccdc_archive 'CCDC 1412578'
+_chemical_formula_sum 'C5 H2 N8 O6'
+_chemical_formula_moiety
+;
+C5 H2 N8 O6
+;
+_journal_coden_Cambridge 1699
+_journal_volume 3
+_journal_year 2015
+_journal_page_first 17963
+_journal_name_full 'J.Mater.Chem.A '
+loop_
+_publ_author_name
+"M.C.Schulze"
+"B.L.Scott"
+"D.E.Chavez"
+_chemical_name_systematic
+;
+3,7,8-Trinitropyrazolo[5,1-c][1,2,4]triazin-4-amine
+;
+_chemical_name_common
+;
+4-Amino-3,7,8-trinitropyrazolo[5,1-c][1,2,4]triazine; PTX
+;
+_chemical_melting_point 533.15
+_cell_volume    921.988
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.946
+_exptl_special_details
+;
+Melting point range 533.15-543.15K
+Explosive
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0361
+_refine_ls_wR_factor_gt 0.0361
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 5.2626(15)
+_cell_length_b 8.591(2)
+_cell_length_c 20.393(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.2439(4) 0.1768(2) 0.02881(9)
+N2 N -0.2454(4) 0.2977(2) 0.06795(10)
+N3 N 0.1052(4) 0.1794(2) 0.12338(8)
+N4 N 0.2714(4) 0.2032(2) 0.17372(9)
+N5 N -0.1064(4) -0.0623(2) -0.01209(10)
+N6 N 0.2726(5) -0.0589(3) 0.09742(11)
+N7 N -0.1111(5) 0.5582(3) 0.16977(11)
+N8 N 0.3288(5) 0.3974(2) 0.25519(11)
+O1 O 0.0465(4) -0.1690(2) -0.01039(9)
+O2 O -0.2778(4) -0.0559(2) -0.0514(1)
+O3 O -0.3309(4) 0.5763(3) 0.15217(11)
+O4 O 0.0266(4) 0.6604(2) 0.19053(11)
+O5 O 0.2103(4) 0.4795(2) 0.29303(10)
+O6 O 0.5483(4) 0.3559(2) 0.26364(9)
+C1 C -0.0797(5) 0.0607(3) 0.03633(11)
+C2 C 0.1091(5) 0.0497(3) 0.08480(11)
+C3 C -0.0677(5) 0.2975(3) 0.11555(11)
+C4 C -0.0051(4) 0.4048(3) 0.16389(12)
+C5 C 0.2017(4) 0.3405(3) 0.19634(11)
+H1 H 0.271(5) -0.148(3) 0.0712(12)
+H2 H 0.354(6) -0.047(4) 0.1221(13)
+#END

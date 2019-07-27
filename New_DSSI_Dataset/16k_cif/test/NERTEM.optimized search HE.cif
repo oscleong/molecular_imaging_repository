@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NERTEM
+_audit_creation_date 2017-12-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NERTEM
+_database_code_depnum_ccdc_archive 'CCDC 1564286'
+_chemical_formula_sum 'C20 H18 N2 O6'
+_chemical_formula_moiety
+;
+C20 H18 N2 O6
+;
+_journal_coden_Cambridge 35
+_journal_volume 82
+_journal_year 2017
+_journal_page_first 12590
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"M.J.V.da Silva"
+"J.Poletto"
+"A.P.Jacomini"
+"K.E.Pianoski"
+"D.S.Goncalves"
+"G.M.Ribeiro"
+"S.M.de S.Melo"
+"D.F.Back"
+"S.Moura"
+"F.A.Rosa"
+_chemical_name_systematic
+;
+(Z)-4-(benzylamino)-3-(4-nitrobenzoyl)-2-oxobut-3-enoic acid ethyl ester
+;
+_chemical_name_common
+;
+ethyl 4-(benzylamino)-3-(4-nitrobenzene-1-carbonyl)-2-oxobut-3-enoate
+;
+_cell_volume   1858.265
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.367
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0592
+_refine_ls_wR_factor_gt 0.0592
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.0033(10)
+_cell_length_b 11.9445(10)
+_cell_length_c 14.1463(11)
+_cell_angle_alpha 90
+_cell_angle_beta 91.849(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.71224(17) 0.25163(14) -0.10123(12)
+O2 O 0.85764(17) 0.13925(14) -0.15903(12)
+O3 O 0.96927(17) 0.32665(14) -0.04323(12)
+O4 O 0.77924(17) 0.32003(14) -0.29281(13)
+O5 O 0.8630(2) 0.73141(17) -0.62840(14)
+N1 N 1.0920(2) 0.49951(17) -0.11420(14)
+H1 H 1.08310 0.45840 -0.06500
+O6 O 0.7722(2) 0.84164(15) -0.53187(15)
+C1 C 1.0103(2) 0.4931(2) -0.18236(17)
+H2 H 1.01340 0.54640 -0.23020
+C2 C 1.2958(3) 0.4395(2) -0.23097(19)
+H3 H 1.21890 0.42130 -0.25550
+C3 C 0.8410(2) 0.4043(2) -0.27523(17)
+N2 N 0.8185(2) 0.75134(19) -0.55186(16)
+C4 C 0.9177(2) 0.4125(2) -0.18986(17)
+C5 C 0.9083(2) 0.3280(2) -0.11814(17)
+C6 C 1.3076(2) 0.5149(2) -0.15596(17)
+C7 C 0.8364(2) 0.4974(2) -0.34514(17)
+C8 C 0.8088(2) 0.6073(2) -0.31964(18)
+H4 H 0.79650 0.62480 -0.25660
+C9 C 0.8538(3) 0.4724(2) -0.43991(18)
+H5 H 0.86860 0.39880 -0.45760
+C10 C 0.7996(2) 0.6903(2) -0.38755(18)
+H6 H 0.77870 0.76300 -0.37130
+C11 C 0.8221(3) 0.6627(2) -0.48002(18)
+C12 C 0.8222(2) 0.2295(2) -0.13234(16)
+C13 C 1.1981(2) 0.5725(2) -0.11658(18)
+H7 H 1.21810 0.59830 -0.05290
+H8 H 1.17820 0.63770 -0.15500
+C14 C 0.5269(3) 0.1840(3) -0.0395(2)
+H9 H 0.46620 0.12630 -0.04390
+H10 H 0.48980 0.25540 -0.05220
+H11 H 0.56370 0.18420 0.02290
+C15 C 1.3974(3) 0.3917(2) -0.2691(2)
+H12 H 1.38820 0.34110 -0.31880
+C16 C 0.6221(3) 0.1622(2) -0.1103(2)
+H13 H 0.66020 0.09010 -0.09830
+H14 H 0.58590 0.16150 -0.17370
+C17 C 1.4237(3) 0.5412(2) -0.1213(2)
+H15 H 1.43340 0.59130 -0.07130
+C18 C 1.5121(3) 0.4181(3) -0.2345(2)
+H16 H 1.58010 0.38570 -0.26070
+C19 C 1.5257(3) 0.4931(3) -0.1606(2)
+H17 H 1.60300 0.51150 -0.13710
+C20 C 0.8493(3) 0.5551(2) -0.50775(19)
+H18 H 0.86420 0.53880 -0.57060
+#END

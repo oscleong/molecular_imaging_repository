@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUKCAM23
+_audit_creation_date 2013-05-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUKCAM23
+_database_code_depnum_ccdc_archive 'CCDC 930118'
+_chemical_formula_sum 'C7 H4 N2 O6'
+_chemical_formula_moiety
+;
+C7 H4 N2 O6
+;
+_journal_coden_Cambridge 1147
+_journal_volume 13
+_journal_year 2013
+_journal_page_first 497
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"A.O.F.Jones"
+"N.Blagden"
+"G.J.McIntyre"
+"A.Parkin"
+"C.C.Seaton"
+"L.H.Thomas"
+"C.C.Wilson"
+_chemical_name_systematic
+;
+3,5-Dinitrobenzoic acid
+;
+_cell_volume   1672.289
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.684
+_exptl_special_details
+;
+C2/c polymorph
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 300
+_diffrn_radiation_probe 'neutron'
+_refine_special_details
+;
+H41 and H42 disordered over two sites with occupancies 0.81:0.19.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0431
+_refine_ls_wR_factor_gt 0.0431
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.040(5)
+_cell_length_b 8.730(5)
+_cell_length_c 9.760(5)
+_cell_angle_alpha 90
+_cell_angle_beta 111.12(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+H1 H 0.05212(17) 0.0672(3) 0.1943(3)
+H2 H 0.19730(18) 0.3059(3) 0.5577(3)
+H3 H 0.10766(17) 0.5333(3) 0.1420(3)
+H4 H 0.2223(3) 0.7714(6) 0.3714(5)
+O1 O 0.17184(12) 0.0468(2) 0.6035(2)
+O2 O 0.23097(11) 0.5792(2) 0.55246(19)
+O3 O 0.03523(11) 0.3994(2) -0.07786(19)
+O4 O 0.1957(1) 0.67998(17) 0.32711(18)
+N1 N 0.02745(6) 0.30325(12) 0.00389(11)
+O5 O -0.01844(12) 0.2101(3) -0.0299(2)
+O6 O 0.10164(14) -0.0731(2) 0.4184(2)
+N2 N 0.13376(6) 0.03960(11) 0.47520(13)
+C1 C 0.08126(7) 0.17014(13) 0.23876(14)
+C2 C 0.19787(7) 0.57276(12) 0.41859(15)
+C3 C 0.15776(7) 0.43309(12) 0.35517(13)
+C4 C 0.12633(7) 0.17578(13) 0.38288(13)
+C5 C 0.07606(7) 0.30129(13) 0.15577(13)
+C6 C 0.11364(7) 0.43216(12) 0.20976(14)
+C7 C 0.16416(8) 0.30468(13) 0.44411(16)
+H5? H 0.2553(12) 0.655(3) 0.595(2)
+#END

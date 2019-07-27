@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAMSAZ
+_audit_creation_date 2001-11-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAMSAZ
+_database_code_depnum_ccdc_archive 'CCDC 163069'
+_chemical_formula_sum 'C12 H14 N2 O4'
+_chemical_formula_moiety
+;
+C12 H14 N2 O4
+;
+_journal_coden_Cambridge 109
+_journal_volume 74
+_journal_year 2001
+_journal_page_first 667
+_journal_name_full 'Croat.Chem.Acta '
+loop_
+_publ_author_name
+"M.Oresic"
+"D.Filic"
+"B.Prugovecki"
+"M.Vinkovic"
+"M.Dumic"
+_chemical_name_systematic
+;
+1-(4-Nitrobenzyl)-1a,2,6,6a-tetrahydro-1H,4H-(1,3)-dioxepino(5,6-b)azirine
+;
+_chemical_melting_point 363
+_cell_volume   2426.748
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.37
+_exptl_special_details
+;
+Melting point range 363-365K
+
+;
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0791
+_refine_ls_wR_factor_gt 0.0791
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'A 2/n'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,-y,1/2+z
+4 1/2+x,1/2-y,z
+5 -x,-y,-z
+6 -x,-1/2-y,-1/2-z
+7 -1/2-x,y,-1/2-z
+8 -1/2-x,-1/2+y,-z
+_cell_length_a 19.5207(9)
+_cell_length_b 5.6245(4)
+_cell_length_c 24.0942(9)
+_cell_angle_alpha 90
+_cell_angle_beta 113.459(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.67220(15) 0.0936(5) 0.39939(13)
+N2 N 0.5634(2) -0.2294(8) 0.60908(18)
+O1 O 0.5799(2) -0.1454(7) 0.65922(16)
+O2 O 0.5246(2) -0.4036(7) 0.59147(15)
+O3 O 0.6038(2) -0.2383(6) 0.29772(15)
+O4 O 0.7196(2) -0.1101(8) 0.30730(15)
+C1 C 0.6813(2) 0.2280(7) 0.45322(18)
+H1 H 0.65730 0.38140 0.44120
+H2 H 0.73410 0.25600 0.47640
+C2 C 0.64914(19) 0.1049(6) 0.49327(17)
+C3 C 0.6651(2) 0.1926(7) 0.55086(18)
+H3 H 0.69580 0.32510 0.56430
+C4 C 0.6366(2) 0.0885(7) 0.58823(18)
+H4 H 0.64680 0.15070 0.62650
+C5 C 0.5924(2) -0.1104(7) 0.56825(18)
+C6 C 0.5760(2) -0.2059(7) 0.51227(18)
+H5 H 0.54640 -0.34110 0.49970
+C7 C 0.6046(2) -0.0966(7) 0.47493(17)
+H6 H 0.59390 -0.15900 0.43660
+C8 C 0.6058(2) 0.1500(7) 0.34433(18)
+H7 H 0.57460 0.27560 0.35030
+C9 C 0.5622(2) -0.0434(9) 0.3037(2)
+H8 H 0.52580 -0.10130 0.31860
+H9 H 0.53470 0.02340 0.26390
+C10 C 0.6503(3) -0.1904(10) 0.2672(2)
+H10 H 0.65660 -0.33380 0.24740
+H11 H 0.62720 -0.07090 0.23640
+C11 C 0.7231(3) 0.1381(11) 0.3172(2)
+H12 H 0.70560 0.21650 0.27810
+H13 H 0.77500 0.18180 0.33890
+C12 C 0.6800(2) 0.2333(8) 0.35092(19)
+H14 H 0.68830 0.40320 0.36020
+#END

@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FIZDAV
+_audit_creation_date 2014-01-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FIZDAV
+_database_code_depnum_ccdc_archive 'CCDC 975721'
+_chemical_formula_sum 'C12 H12 N2 O2'
+_chemical_formula_moiety
+;
+C12 H12 N2 O2
+;
+_journal_coeditor_code "IUCr rz5100"
+_journal_coden_Cambridge 1370
+_journal_volume 70
+_journal_year 2014
+_journal_page_first o94
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"L.Wang"
+"Y.-J.Li"
+"Z.-W.Li"
+"K.-G.Liu"
+"S.-H.Zhang"
+_chemical_name_systematic
+;
+N,N-Dimethyl-3-phenyl-1,2-oxazole-5-carboxamide
+;
+_cell_volume   1110.701
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.287
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'Dichloromethane'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0469
+_refine_ls_wR_factor_gt 0.0469
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.596(3)
+_cell_length_b 12.377(6)
+_cell_length_c 12.123(6)
+_cell_angle_alpha 90
+_cell_angle_beta 102.964(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.4029(3) 0.01587(14) 0.33843(15)
+O1 O 0.3706(2) 0.11427(10) 0.27668(12)
+O2 O 0.1335(2) 0.15233(11) -0.00766(12)
+C1 C 0.3700(3) -0.19723(17) 0.43043(18)
+H1 H 0.42270 -0.14410 0.48150
+C2 C 0.3675(3) -0.30437(19) 0.4660(2)
+H2 H 0.42060 -0.32240 0.54050
+C3 C 0.2870(3) -0.38412(18) 0.3915(2)
+H3 H 0.28470 -0.45520 0.41600
+C4 C 0.2103(3) -0.35728(18) 0.2807(2)
+H4 H 0.15630 -0.41080 0.23050
+C5 C 0.2126(3) -0.25108(17) 0.24309(18)
+H5 H 0.16060 -0.23410 0.16810
+C6 C 0.2930(3) -0.16985(15) 0.31781(16)
+C7 C 0.2953(3) -0.05662(15) 0.27653(16)
+C8 C 0.1948(3) -0.00969(15) 0.17427(16)
+H6 H 0.11230 -0.04400 0.11660
+C9 C 0.2449(3) 0.09524(15) 0.17905(16)
+C10 C 0.1868(3) 0.18267(15) 0.09211(17)
+N2 N 0.1934(2) 0.28752(12) 0.12311(13)
+C11 C 0.1405(4) 0.36960(17) 0.03430(19)
+H7 H 0.14690 0.33930 -0.03760
+H8 H 0.22090 0.43030 0.05060
+H9 H 0.01920 0.39290 0.03190
+C12 C 0.2324(3) 0.32936(17) 0.23967(17)
+H10 H 0.23150 0.27080 0.29150
+H11 H 0.14210 0.38140 0.24720
+H12 H 0.34910 0.36320 0.25640
+#END

@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SABCOP
+_audit_creation_date 2010-09-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SABCOP
+_database_code_depnum_ccdc_archive 'CCDC 792491'
+_chemical_formula_sum 'C12 H12 N2 O2'
+_chemical_formula_moiety
+;
+C12 H12 N2 O2
+;
+_journal_coeditor_code "IUCr NK2042"
+_journal_coden_Cambridge 1370
+_journal_volume 66
+_journal_year 2010
+_journal_page_first o2425
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Tao Sun"
+"Jianye Li"
+"Hongwei Qiao"
+"Aiyou Hao"
+"Yueming Li"
+_chemical_name_systematic
+;
+1,2,3,4-Tetrahydrophenazine 5,10-dioxide
+;
+_cell_volume   1018.795
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.41
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+A C atom is disordered by symmetry over two sites with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0402
+_refine_ls_wR_factor_gt 0.0402
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -x,y,1/2-z
+4 x,-y,-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2-x,1/2+y,1/2-z
+8 1/2+x,1/2-y,-z
+9 -x,-y,-z
+10 x,y,-1/2-z
+11 x,-y,-1/2+z
+12 -x,y,z
+13 -1/2-x,-1/2-y,-z
+14 -1/2+x,-1/2+y,-1/2-z
+15 -1/2+x,-1/2-y,-1/2+z
+16 -1/2-x,-1/2+y,z
+_cell_length_a 11.7780(2)
+_cell_length_b 13.1938(3)
+_cell_length_c 6.5561(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.55922(13) -0.1433(1) 0.25000
+H1 H 0.59830 -0.20450 0.25000
+C2 C 0.61858(12) -0.05388(9) 0.25000
+H2 H 0.69750 -0.05440 0.25000
+C3 C 0.55938(11) 0.03818(9) 0.25000
+C4 C 0.55932(10) 0.21722(9) 0.25000
+C5 C 0.62708(12) 0.31337(10) 0.25000
+H3 H 0.6753(10) 0.3113(9) 0.131(2)
+C6 C 0.55334(19) 0.40485(17) 0.3133(4)
+H4? H 0.593(2) 0.4669(19) 0.301(5)
+H5? H 0.532(3) 0.3993(19) 0.460(4)
+N1 N 0.61839(10) 0.12976(7) 0.25000
+O1 O 0.72839(9) 0.12938(6) 0.25000
+C1B C 0.44078(13) -0.1433(1) 0.25000
+H1B H 0.40170 -0.20450 0.25000
+C2B C 0.38142(12) -0.05388(9) 0.25000
+H2B H 0.30250 -0.05440 0.25000
+C3B C 0.44062(11) 0.03818(9) 0.25000
+C4B C 0.44068(10) 0.21722(9) 0.25000
+C5B C 0.37292(12) 0.31337(10) 0.25000
+H3B H 0.3247(10) 0.3113(9) 0.369(2)
+H3K H 0.3247(10) 0.3113(9) 0.131(2)
+H3I H 0.6753(10) 0.3113(9) 0.369(2)
+C6B C 0.44666(19) 0.40485(17) 0.1867(4)
+C6I C 0.55334(19) 0.40485(17) 0.1867(4)
+C6K C 0.44666(19) 0.40485(17) 0.3133(4)
+N1B N 0.38161(10) 0.12976(7) 0.25000
+O1B O 0.27161(9) 0.12938(6) 0.25000
+#END

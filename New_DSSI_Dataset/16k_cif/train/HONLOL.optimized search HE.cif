@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HONLOL
+_audit_creation_date 1999-10-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HONLOL
+_chemical_formula_sum 'C27 H33 N1 O3'
+_chemical_formula_moiety
+;
+C27 H33 N1 O3
+;
+_journal_coden_Cambridge 35
+_journal_volume 63
+_journal_year 1998
+_journal_page_first 8397
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"S.Aoyagi"
+"R.Tanaka"
+"M.Naruse"
+"C.Kibayashi"
+_chemical_name_systematic
+;
+(1R,2S,5R)-5-Methyl-2-(1-methyl-1-(2-naphthyl)ethyl)cyclohexyl 
+(1R,4S)-2-oxa-3-azabicyclo(2.2.2)oct-5-ene-3-carboxylate
+;
+_chemical_melting_point 395.15
+_cell_volume   1189.592
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.169
+_exptl_special_details
+;
+Melting point range 395.15-396.15K
+
+;
+_exptl_crystal_description 'needles'
+_exptl_crystal_preparation 'chloroform/hexane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 17.78(1)
+_cell_length_b 6.062(4)
+_cell_length_c 11.292(6)
+_cell_angle_alpha 90
+_cell_angle_beta 102.20(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.79457(5) -0.08900 0.80092(7)
+C1 C 0.61107(6) -0.10357(29) 0.85962(11)
+O2 O 0.87415(8) -0.46632(25) 1.02285(11)
+C2 C 0.64239(6) 0.05360(28) 0.79728(11)
+N1 N 0.82239(7) -0.29785(27) 0.96550(11)
+O3 O 0.84988(8) -0.42034(26) 0.78741(11)
+C3 C 0.72052(7) 0.11166(28) 0.63247(10)
+C4 C 0.66358(8) 0.28818(31) 0.97620(12)
+C5 C 0.64325(7) 0.02900(28) 0.66201(11)
+C6 C 0.66845(8) 0.25253(30) 0.85904(12)
+C7 C 0.60305(6) -0.06948(30) 0.98110(11)
+C8 C 0.62943(7) 0.13063(32) 1.04022(11)
+C9 C 0.78773(7) -0.04713(28) 0.67232(11)
+C10 C 0.71593(8) 0.16244(37) 0.49816(12)
+C11 C 0.82686(8) -0.27961(29) 0.84495(12)
+C12 C 0.56699(7) -0.22831(34) 1.04231(13)
+C13 C 0.86284(8) 0.04941(36) 0.65199(13)
+C14 C 0.62668(9) -0.20855(33) 0.61836(13)
+C15 C 0.57529(8) 0.17171(35) 0.59516(13)
+C16 C 0.95891(10) -0.17037(42) 1.10754(17)
+C17 C 0.90895(11) -0.01936(36) 1.05980(15)
+C18 C 0.79073(9) 0.25833(41) 0.47494(14)
+C19 C 0.82817(9) -0.09773(34) 1.04099(13)
+C20 C 0.61925(8) 0.16462(39) 1.16026(13)
+C21 C 0.55692(9) -0.18825(40) 1.15601(14)
+C22 C 0.85834(9) 0.10612(39) 0.51954(14)
+C23 C 0.92292(10) -0.37876(39) 1.13414(16)
+C24 C 0.81031(11) -0.16751(53) 1.16196(16)
+C25 C 0.86990(14) -0.33675(51) 1.22078(17)
+C26 C 0.58294(9) 0.00859(46) 1.21523(14)
+C27 C 0.93268(11) 0.21398(61) 0.50110(24)
+H1 H 0.80053 0.39583 0.51754
+H2 H 0.73412 0.24986 0.67287
+H3 H 0.97458 0.11338 0.52780
+H4 H 0.66498 -0.30455 0.66426
+H5 H 0.59407 -0.24057 0.82032
+H6 H 0.85104 -0.02698 0.47244
+H7 H 0.70483 0.02894 0.45206
+H8 H 0.68955 0.36583 0.81634
+H9 H 0.67493 0.26584 0.47156
+H10 H 0.52769 0.11751 0.61136
+H11 H 0.57579 0.15731 0.51066
+H12 H 0.90334 -0.05559 0.67819
+H13 H 0.68468 0.42078 1.01650
+H14 H 0.63805 0.29722 1.20286
+H15 H 0.62718 -0.22295 0.53396
+H16 H 0.57698 -0.25115 0.63116
+H17 H 0.58159 0.32321 0.61996
+H18 H 0.87414 0.18131 0.69949
+H19 H 0.57494 0.03499 1.29553
+H20 H 0.53292 -0.29725 1.19741
+H21 H 0.78573 0.28483 0.38984
+H22 H 1.01361 -0.14897 1.12274
+H23 H 0.79347 0.01347 1.00890
+H24 H 0.94218 0.34708 0.54800
+H25 H 0.92958 0.24858 0.41720
+H26 H 0.54939 -0.36491 1.00311
+H27 H 0.77793 -0.18243 0.62752
+H28 H 0.96252 -0.48366 1.16534
+H29 H 0.92325 0.12584 1.03870
+H30 H 0.81291 -0.04211 1.21456
+H31 H 0.75961 -0.22941 1.14886
+H32 H 0.89846 -0.28351 1.29721
+H33 H 0.84436 -0.47133 1.23379
+#END

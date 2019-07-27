@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FOCXUR
+_audit_creation_date 2005-06-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FOCXUR
+_database_code_depnum_ccdc_archive 'CCDC 177049'
+_chemical_formula_sum 'C14 H13 N3 O2'
+_chemical_formula_moiety
+;
+C14 H13 N3 O2
+;
+_journal_coden_Cambridge 1048
+_journal_volume 4
+_journal_year 2002
+_journal_page_first 245
+_journal_name_full 'Green Chemistry '
+loop_
+_publ_author_name
+"W.H.Correa"
+"S.Papadopoulos"
+"P.Radnidge"
+"B.A.Roberts"
+"J.L.Scott"
+_chemical_name_systematic
+;
+2-(2'-Nitrophenyl)-1,2,3,4-tetrahydroquinazoline
+;
+_chemical_melting_point 390.75
+_cell_volume   1197.300
+_exptl_crystal_colour 'light orange'
+_exptl_crystal_density_diffrn 1.416
+_exptl_special_details
+;
+Melting point range 390.75-392.35K
+
+;
+_exptl_crystal_description 'needles'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.1392(2)
+_cell_length_b 7.7897(2)
+_cell_length_c 13.5753(3)
+_cell_angle_alpha 90
+_cell_angle_beta 111.140(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.19022(10) 0.85021(16) 0.10337(9)
+N1 N 0.30096(11) 0.36801(17) 0.01808(10)
+N2 N 0.13792(11) 0.87534(16) 0.00853(10)
+C1 C 0.06107(13) 0.44055(19) -0.11251(11)
+H1 H 0.09340 0.32860 -0.10860
+O2 O 0.13086(11) 1.01721(15) -0.03325(10)
+C2 C 0.37301(12) 0.14733(19) -0.06968(12)
+H2 H 0.36610 0.06380 -0.02130
+N3 N 0.32777(11) 0.66747(16) -0.01247(11)
+C3 C 0.34123(11) 0.31842(18) -0.06130(11)
+C4 C -0.05328(13) 0.4717(2) -0.18229(12)
+H3 H -0.09830 0.38070 -0.22440
+C5 C 0.07553(12) 0.73152(19) -0.05824(11)
+C6 C 0.12928(12) 0.56983(19) -0.04829(11)
+C7 C 0.42427(12) 0.2199(2) -0.22060(12)
+H4 H 0.45110 0.18640 -0.27540
+C8 C 0.39423(12) 0.3891(2) -0.21132(12)
+H5 H 0.40080 0.47150 -0.26050
+C9 C 0.32698(13) 0.62672(19) -0.11838(13)
+H6 H 0.38560 0.70050 -0.13320
+H7 H 0.24820 0.65470 -0.17100
+C10 C -0.03659(12) 0.7661(2) -0.12858(12)
+H8 H -0.06860 0.87850 -0.13430
+C11 C 0.35468(12) 0.44140(18) -0.13191(11)
+C12 C 0.41444(12) 0.1000(2) -0.14839(12)
+H9 H 0.43640 -0.01590 -0.15310
+C13 C -0.10192(13) 0.6337(2) -0.19095(12)
+H10 H -0.17970 0.65450 -0.23940
+C14 C 0.25946(13) 0.54257(19) 0.02138(11)
+H11 H 0.26880 0.56930 0.09600
+H12 H 0.2736(17) 0.288(3) 0.0481(16)
+H13 H 0.4047(15) 0.665(2) 0.0323(14)
+#END

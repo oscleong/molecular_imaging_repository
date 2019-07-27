@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LEZXAQ
+_audit_creation_date 2007-05-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LEZXAQ
+_database_code_depnum_ccdc_archive 'CCDC 633158'
+_chemical_formula_sum 'C12 H14 N4 O3'
+_chemical_formula_moiety
+;
+C12 H14 N4 O3
+;
+_journal_coden_Cambridge 440
+_journal_volume 31
+_journal_year 2007
+_journal_page_first 429
+_journal_name_full 'New J.Chem. '
+loop_
+_publ_author_name
+"P.Simunek"
+"M.Svobodova"
+"V.Bertolasi"
+"L.Pretto"
+"A.Lycka"
+"V.Machacek"
+_chemical_name_systematic
+;
+4-methylamino-3-(4-nitrophenyldiazenyl)pent-3-en-2-one
+;
+_chemical_melting_point 425.65
+_cell_volume   1234.355
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.411
+_exptl_special_details
+;
+Melting point range 425.65-428.15K
+
+;
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'n-hexane/toluene'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+The amino H atom is disordered between two N atoms with occupancies of 
+0.14:0.86.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0396
+_refine_ls_wR_factor_gt 0.0396
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.2904(2)
+_cell_length_b 8.7167(2)
+_cell_length_c 14.0155(3)
+_cell_angle_alpha 90
+_cell_angle_beta 100.9315(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.41470(9) 0.33492(11) 0.26151(6)
+O2 O -0.1427(1) -0.43311(11) 0.53272(8)
+O3 O -0.06157(11) -0.40646(13) 0.68569(8)
+N1 N 0.29796(10) 0.06688(11) 0.51741(7)
+H1? H 0.342(11) 0.086(13) 0.562(9)
+N2 N 0.29432(9) 0.09777(11) 0.42666(6)
+N3 N 0.50769(10) 0.23486(11) 0.56212(7)
+H2 H 0.4460(18) 0.179(2) 0.5813(12)
+N4 N -0.06574(10) -0.37281(12) 0.60004(8)
+C1 C 0.38448(11) 0.19739(12) 0.40221(8)
+C2 C 0.49389(11) 0.26356(12) 0.46839(8)
+C3 C 0.35953(11) 0.23044(14) 0.29735(8)
+C4 C 0.59620(13) 0.36125(16) 0.43491(10)
+C5 C 0.25984(15) 0.13214(18) 0.23114(9)
+C6 C 0.20115(11) -0.04071(12) 0.53247(7)
+C7 C 0.19491(11) -0.07137(13) 0.62960(8)
+C8 C 0.10695(12) -0.17911(14) 0.65246(8)
+C9 C 0.02562(11) -0.25592(12) 0.57719(8)
+C10 C 0.02764(11) -0.22500(13) 0.48011(8)
+C11 C 0.11496(11) -0.11675(13) 0.45776(8)
+C12 C 0.61647(12) 0.28738(17) 0.63732(9)
+H3 H 0.615(2) 0.322(3) 0.3734(16)
+H4 H 0.564(2) 0.462(3) 0.4207(16)
+H5 H 0.684(2) 0.349(3) 0.4781(17)
+H6 H 0.2569(16) 0.162(2) 0.1642(13)
+H7 H 0.171(2) 0.147(2) 0.2459(14)
+H8 H 0.281(2) 0.026(3) 0.2400(15)
+H9 H 0.2519(15) -0.0150(17) 0.6790(11)
+H10 H 0.0996(16) -0.1990(18) 0.7175(12)
+H11 H -0.0304(17) -0.2789(19) 0.4293(12)
+H12 H 0.1158(14) -0.0943(17) 0.3905(10)
+H13 H 0.698(2) 0.246(3) 0.6292(16)
+H14 H 0.604(2) 0.250(3) 0.6991(19)
+H15 H 0.619(3) 0.394(3) 0.6435(18)
+#END

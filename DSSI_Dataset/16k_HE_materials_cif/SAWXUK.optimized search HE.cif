@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAWXUK
+_audit_creation_date 2006-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAWXUK
+_database_code_depnum_ccdc_archive 'CCDC 284713'
+_chemical_formula_sum 'C15 H11 N1 O2'
+_chemical_formula_moiety
+;
+C15 H11 N1 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2005
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"W.Clegg"
+"M.R.J.Elsegood"
+_chemical_name_systematic
+;
+6-Methyl-1-oxy-2-phenyl-3H-indol-3-one
+;
+_chemical_name_common
+;
+2-Phenyl-6-methylisatogen
+;
+_cell_volume   2363.914
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.333
+_exptl_special_details
+;
+contribution from School of Natural Sciences (Chemistry), University of 
+Newcastle, Newcastle upon Tyne NE1 7RU, UK
+;
+_exptl_crystal_description 'thin plate'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+The molecule is disordered over two orientations in the ratio 0.86:0.14.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0532
+_refine_ls_wR_factor_gt 0.0532
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 11.638(4)
+_cell_length_b 7.868(2)
+_cell_length_c 25.816(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2659(2) -0.0227(3) 0.42536(9)
+N1 N 0.1795(2) 0.0743(3) 0.43248(9)
+C1? C 0.1795(2) 0.0743(3) 0.43248(9)
+C2 C 0.1105(2) 0.1472(3) 0.39678(10)
+C3 C 0.0255(2) 0.2475(3) 0.42618(11)
+N2? N 0.0255(2) 0.2475(3) 0.42618(11)
+O2 O -0.05241(19) 0.3354(3) 0.40817(8)
+C4 C -0.0024(3) 0.2815(4) 0.52615(12)
+H1 H -0.06580 0.35330 0.52470
+C5 C 0.0441(3) 0.2278(4) 0.57349(12)
+H2 H 0.00990 0.26450 0.60410
+C6? C -0.022(2) 0.283(3) 0.6184(9)
+H3? H -0.08360 0.35480 0.60730
+H4? H 0.02730 0.34400 0.64160
+H5? H -0.05270 0.18480 0.63580
+C7 C 0.1390(3) 0.1222(4) 0.57646(11)
+H6? H 0.16790 0.08960 0.60850
+C8 C 0.1860(4) 0.0653(5) 0.62805(12)
+H7 H 0.25580 0.12580 0.63540
+H8 H 0.20160 -0.05450 0.62690
+H9 H 0.13070 0.08830 0.65470
+C9 C 0.1913(3) 0.0646(3) 0.53082(11)
+H10 H 0.25510 -0.00650 0.53150
+C10 C 0.1437(2) 0.1184(3) 0.48493(10)
+C11 C 0.0503(2) 0.2231(3) 0.48177(11)
+C12 C 0.1192(2) 0.1252(3) 0.34118(11)
+C13 C 0.2061(3) 0.0315(4) 0.31768(14)
+H11 H 0.26290 -0.01800 0.33800
+C14 C 0.2094(4) 0.0109(5) 0.26449(14)
+H12 H 0.26840 -0.05190 0.24950
+C15 C 0.1270(4) 0.0819(4) 0.23386(13)
+H13 H 0.12900 0.06620 0.19820
+C16 C 0.0414(3) 0.1764(5) 0.25595(13)
+H14 H -0.01450 0.22600 0.23510
+C17 C 0.0371(3) 0.1986(4) 0.30876(12)
+H15 H -0.02150 0.26360 0.32310
+#END

@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CEGWUG
+_audit_creation_date 1984-10-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CEGWUG
+_database_code_depnum_ccdc_archive 'CCDC 1122446'
+_chemical_formula_sum 'C16 H13 N1 O4'
+_chemical_formula_moiety
+;
+C16 H13 N1 O4
+;
+_journal_coden_Cambridge 54
+_journal_volume 92
+_journal_year 1983
+_journal_page_first 865
+_journal_name_full 'Bull.Soc.Chim.Belg. '
+loop_
+_publ_author_name
+"B.Tinant"
+"R.Touillaux"
+"J.P.Declercq"
+"M.van Meerssche"
+"G.Leroy"
+"J.Weiler"
+_chemical_name_systematic
+;
+(E)-Methyl \b-p-nitrophenyl-\a-phenylacrylate
+;
+_cell_volume   1426.400
+_exptl_crystal_density_diffrn 1.32
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.038
+_refine_ls_wR_factor_gt 0.038
+loop_
+_citation_database_id_CSD
+_citation_special_details
+CEGWIU "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 5.819(2)
+_cell_length_b 16.610(5)
+_cell_length_c 14.843(4)
+_cell_angle_alpha 90
+_cell_angle_beta 96.14(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.11410 0.03260 0.13480
+C2 C -0.08160 -0.03380 0.20450
+C3 C -0.24580 -0.04640 0.26280
+C4 C -0.21660 -0.10660 0.32770
+C5 C -0.02120 -0.15380 0.33470
+C6 C 0.14210 -0.14190 0.27630
+C7 C 0.11550 -0.08220 0.21150
+C8 C -0.28140 0.03380 0.06600
+C9 C -0.45380 -0.02580 0.03320
+C10 C -0.43460 -0.10830 0.05020
+C11 C -0.60410 -0.16200 0.01680
+C12 C -0.79260 -0.13130 -0.03570
+C13 C -0.81750 -0.05240 -0.05740
+C14 C -0.64820 0.00070 -0.02300
+N1 N -0.97600 -0.18880 -0.07150
+O1 O -1.12460 -0.16430 -0.12860
+O2 O -0.97130 -0.25730 -0.04180
+C15 C 0.04340 0.10320 0.14380
+O3 O 0.02720 0.16040 0.09620
+O4 O 0.21590 0.09480 0.20880
+C16 C 0.37230 0.16330 0.22260
+#END

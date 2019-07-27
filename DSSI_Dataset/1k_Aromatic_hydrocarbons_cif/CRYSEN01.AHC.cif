@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CRYSEN01
+_audit_creation_date 1995-06-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CRYSEN01
+_database_code_depnum_ccdc_archive 'CCDC 1131739'
+_chemical_formula_sum 'C18 H12'
+_chemical_formula_moiety
+;
+C18 H12
+;
+_journal_coden_Cambridge 456
+_journal_volume 68
+_journal_year 1994
+_journal_page_first 2097
+_journal_name_full 'Pol.J.Chem. '
+loop_
+_publ_author_name
+"T.M.Krygowski"
+"A.Ciesielski"
+"B.Swirska"
+"P.Leszczynski"
+_chemical_name_systematic
+;
+Chrysene
+;
+_cell_volume   1175.691
+_exptl_crystal_density_diffrn 1.29
+_exptl_special_details
+;
+z coordinate of C9 should probably be negative
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0512
+_refine_ls_wR_factor_gt 0.0512
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 22.803(5)
+_cell_length_b 6.216(1)
+_cell_length_c 8.348(2)
+_cell_angle_alpha 90
+_cell_angle_beta 96.49(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3255(1) 1.8304(2) -0.5559(2)
+C2 C 0.3544(1) 1.9929(2) -0.6347(2)
+C3 C 0.4135(1) 1.9795(3) -0.6496(2)
+C4 C 0.4468(1) 1.8050(3) -0.5868(2)
+C5 C 0.4204(1) 1.6447(3) -0.5102(2)
+C6 C 0.3594(1) 1.6521(2) -0.4931(2)
+C7 C 0.3320(1) 1.4847(2) -0.4135(2)
+C8 C 0.2745(1) 1.4908(2) -0.3990(2)
+C9 C 0.2628(1) 1.8348(2) -0.5391(2)
+C9F C 0.2372(1) 1.6652(2) -0.4609(2)
+C8F C 0.2255(1) 2.0092(2) -0.6010(2)
+C1F C 0.1745(1) 1.6696(2) -0.4441(2)
+C7F C 0.1680(1) 2.0153(2) -0.5865(2)
+C2F C 0.1456(1) 1.5071(2) -0.3653(2)
+C6F C 0.1406(1) 1.8479(2) -0.5069(2)
+C3F C 0.0865(1) 1.5205(3) -0.3504(2)
+C5F C 0.0796(1) 1.8553(3) -0.4898(2)
+C4F C 0.0532(1) 1.6950(3) -0.4132(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.409 1_555 1_555
+C2 C3 1.370 1_555 1_555
+C3 C4 1.392 1_555 1_555
+C4 C5 1.361 1_555 1_555
+C5 C6 1.415 1_555 1_555
+C6 C1 1.417 1_555 1_555
+C7 C6 1.417 1_555 1_555
+C8 C7 1.331 1_555 1_555
+C9 C1 1.453 1_555 1_555
+C9F C8 1.437 1_555 1_555
+C8F C9 1.437 1_555 1_555
+C1F C9F 1.453 1_555 1_555
+C7F C8F 1.331 1_555 1_555
+C2F C1F 1.409 1_555 1_555
+C6F C1F 1.417 1_555 1_555
+C3F C2F 1.370 1_555 1_555
+C5F C6F 1.415 1_555 1_555
+C4F C3F 1.392 1_555 1_555
+C9 C9F 1.402 1_555 1_555
+C7F C6F 1.417 1_555 1_555
+C5F C4F 1.361 1_555 1_555
+#END

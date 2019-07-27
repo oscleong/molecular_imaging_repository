@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUPSAO
+_audit_creation_date 1993-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUPSAO
+_database_code_depnum_ccdc_archive 'CCDC 1190989'
+_chemical_formula_sum 'C6 H4 N4 O8'
+_chemical_formula_moiety
+;
+C6 H4 N4 O8
+;
+_journal_coden_Cambridge 440
+_journal_volume 16
+_journal_year 1992
+_journal_page_first 679
+_journal_name_full 'New J.Chem. '
+loop_
+_publ_author_name
+"R.J.Butcher"
+"R.Gilardi"
+"J.L.Flippen-Anderson"
+"C.George"
+_chemical_name_systematic
+;
+3,5-Dihydroxy-2,4,6-trinitroaniline
+;
+_cell_volume    911.386
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.896
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Nitro group oxygens O(4A) and O(4B) are disordered over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0476
+_refine_ls_wR_factor_gt 0.0476
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.3902(9)
+_cell_length_b 9.688(2)
+_cell_length_c 14.824(2)
+_cell_angle_alpha 90
+_cell_angle_beta 96.74(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.3123(5) 0.3390(3) 0.1825(2)
+N1 N -0.2003(5) 0.3661(3) 0.2604(2)
+C2 C -0.2412(4) 0.2461(3) 0.1173(2)
+N2 N -0.0444(4) 0.1779(3) 0.1366(2)
+O1 O 0.0017(4) 0.0813(3) 0.0869(2)
+O2 O 0.0832(3) 0.2118(2) 0.2010(2)
+C3 C -0.3635(4) 0.2160(3) 0.0349(2)
+O3 O -0.3087(4) 0.1268(3) -0.0254(2)
+C4 C -0.5546(5) 0.2841(3) 0.0130(2)
+N3 N -0.6729(5) 0.2587(3) -0.0750(2)
+O4 O -0.5831(6) 0.2818(5) -0.1426(2)
+O5 O -0.8508(10) 0.2176(9) -0.0781(5)
+C5 C -0.6333(5) 0.3749(3) 0.0733(2)
+O6 O -0.8168(4) 0.4338(3) 0.0453(2)
+C6 C -0.5171(5) 0.4001(3) 0.1582(2)
+N4 N -0.6054(5) 0.4885(3) 0.2211(2)
+O7 O -0.5095(5) 0.5156(3) 0.2960(2)
+O8 O -0.7846(4) 0.5382(3) 0.1989(2)
+H1 H -0.2731(59) 0.4196(41) 0.3014(26)
+H2 H -0.0811(61) 0.3275(42) 0.2675(27)
+H3 H -0.1945(59) 0.0825(39) 0.0008(26)
+H4 H -0.8592(66) 0.4888(42) 0.0855(28)
+O9? O -0.746(11) 0.3570(38) -0.1174(22)
+O10? O -0.7818(75) 0.1548(30) -0.0902(26)
+#END

@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_INEROI
+_audit_creation_date 2004-04-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD INEROI
+_database_code_depnum_ccdc_archive 'CCDC 228162'
+_chemical_formula_sum 'C13 H13 N3 O4'
+_chemical_formula_moiety
+;
+C13 H13 N3 O4
+;
+_journal_coden_Cambridge 35
+_journal_volume 68
+_journal_year 2003
+_journal_page_first 9711
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"M.Hamaguchi"
+"M.Nakaishi"
+"T.Nagai"
+"H.Tamura"
+_chemical_name_systematic
+;
+3-(Methoxycarbonyl)-4-(methylene)-3-(p-nitrobenzyl)-1-pyrazoline
+;
+_chemical_melting_point 398.15
+_cell_volume   1329.072
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.376
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'benzene'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0556
+_refine_ls_wR_factor_gt 0.0556
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 7.3658(5)
+_cell_length_b 13.203(1)
+_cell_length_c 13.713(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.722(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1753(2) -0.04432(19) 1.13097(13)
+O2 O 0.1453(3) 0.11947(19) 1.14981(13)
+O3 O 0.26601(15) 0.18675(11) 0.47544(9)
+O4 O 0.53524(16) 0.12291(12) 0.53176(9)
+N1 N 0.04478(19) 0.22809(11) 0.67469(11)
+N2 N 0.21004(19) 0.23656(10) 0.66486(10)
+N3 N 0.1855(2) 0.0443(2) 1.10209(12)
+C1 C 0.29645(19) 0.13549(11) 0.64148(11)
+C2 C 0.13775(18) 0.06224(12) 0.63274(10)
+C3 C -0.0228(2) 0.12284(14) 0.65877(14)
+H1 H -0.12110 0.12070 0.60500
+H2 H -0.07090 0.09600 0.71890
+C4 C 0.1428(2) -0.03472(13) 0.60778(13)
+H3 H 0.03480 -0.07430 0.60490
+H4 H 0.25450 -0.06460 0.59280
+C5 C 0.44604(19) 0.11008(12) 0.72364(11)
+H5 H 0.51140 0.04840 0.70500
+H6 H 0.53520 0.16630 0.72930
+C6 C 0.37416(18) 0.09288(11) 0.82237(11)
+C7 C 0.3428(2) 0.17530(13) 0.88365(13)
+H7 H 0.36600 0.24220 0.86240
+C8 C 0.2787(2) 0.16010(15) 0.97466(13)
+H8 H 0.25610 0.21580 1.01580
+C9 C 0.24802(19) 0.06129(16) 1.00419(11)
+C10 C 0.2773(2) -0.02216(14) 0.94590(12)
+H9 H 0.25510 -0.08890 0.96790
+C11 C 0.3398(2) -0.00538(12) 0.85489(11)
+H10 H 0.35980 -0.06150 0.81370
+C12 C 0.38278(19) 0.14706(12) 0.54431(11)
+C13 C 0.3301(3) 0.19563(18) 0.37835(13)
+H11 H 0.34720 0.12790 0.35140
+H12 H 0.44620 0.23220 0.38260
+H13 H 0.24000 0.23280 0.33560
+#END

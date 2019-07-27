@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OBOBOW
+_audit_creation_date 2001-09-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OBOBOW
+_database_code_depnum_ccdc_archive 'CCDC 116485'
+_chemical_formula_sum 'C9 H7 N3 O3'
+_chemical_formula_moiety
+;
+C9 H7 N3 O3
+;
+_journal_coden_Cambridge 1255
+_journal_volume 6
+_journal_year 2000
+_journal_page_first 35
+_journal_name_full 'Heterocyclic Communications '
+loop_
+_publ_author_name
+"I.V.Tselinsky"
+"S.F.Melnikova"
+"S.V.Pirogov"
+"S.D.Shaposhnikov"
+"C.Nather"
+"T.Traulsen"
+"W.Friedrichsen"
+_chemical_name_systematic
+;
+4,5-bis(Hydroxyimino)-3-phenyl-1,2-oxazole
+;
+_chemical_melting_point 445.15
+_cell_volume    918.159
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.484
+_exptl_special_details
+;
+Melting point range 445.15-448.15K
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 12.567(4)
+_cell_length_b 6.231(1)
+_cell_length_c 12.563(5)
+_cell_angle_alpha 90
+_cell_angle_beta 111.04(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.33248(13) 0.6036(2) 0.58741(12)
+O2 O 0.45645(15) 0.9407(3) 0.60929(12)
+H1 H 0.5041(24) 1.0427(46) 0.6003(24)
+O3 O 0.42358(14) 0.6439(3) 0.30994(13)
+H2 H 0.4292(22) 0.6198(48) 0.2431(25)
+N1 N 0.2664(2) 0.4102(3) 0.5531(2)
+N2 N 0.43700(15) 0.8205(3) 0.50978(13)
+N3 N 0.35406(15) 0.4805(3) 0.32061(14)
+C1 C 0.3748(2) 0.6564(3) 0.5056(2)
+C2 C 0.3365(2) 0.4977(3) 0.4151(2)
+C3 C 0.2685(2) 0.3498(3) 0.4553(2)
+C4 C 0.2072(2) 0.1538(3) 0.4014(2)
+C5 C 0.2075(2) 0.0830(4) 0.2971(2)
+H3 H 0.2462(2) 0.1610(4) 0.2591(2)
+C6 C 0.1505(2) -0.1035(4) 0.2490(2)
+H4 H 0.1516(2) -0.1511(4) 0.1792(2)
+C7 C 0.0925(2) -0.2183(4) 0.3038(2)
+H5 H 0.0535(2) -0.3425(4) 0.2708(2)
+C8 C 0.0920(2) -0.1496(4) 0.4074(2)
+H6 H 0.0529(2) -0.2283(4) 0.4446(2)
+C9 C 0.1488(2) 0.0348(4) 0.4569(2)
+H7 H 0.1482(2) 0.0798(4) 0.5273(2)
+#END

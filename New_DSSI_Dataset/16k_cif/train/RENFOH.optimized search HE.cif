@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RENFOH
+_audit_creation_date 2013-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RENFOH
+_database_code_depnum_ccdc_archive 'CCDC 912000'
+_chemical_formula_sum 'C15 H24 N1 O3'
+_chemical_formula_moiety
+;
+C15 H24 N1 O3
+;
+_journal_coden_Cambridge 1336
+_journal_volume 14
+_journal_year 2012
+_journal_page_first 5322
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"J.T.Paletta"
+"M.Pink"
+"B.Foley"
+"S.Rajca"
+"A.Rajca"
+_chemical_name_systematic
+;
+(14-Carboxy-7-azadispiro[5.1.5.2]pentadec-7-yl)oxidanyl radical
+;
+_cell_volume    711.705
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.238
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'acetone/pentane'
+_diffrn_ambient_temperature 150
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+_refine_special_details
+;
+C2,C5,C6,C7,C8,C9,O2,O3 disordered by symmetry over two sites with occupancy 
+0.5000; C11,C12,C13,C14,C15 disordered by symmetry over two sites with 
+occupancy 0.5000.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0963
+_refine_ls_wR_factor_gt 0.0963
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 8.0250(4)
+_cell_length_b 9.9052(5)
+_cell_length_c 8.9614(4)
+_cell_angle_alpha 90
+_cell_angle_beta 92.410(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.52
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.48655(14) 0.75000 -0.12927(15)
+O2 O -0.20301(19) 0.66928(19) -0.0742(2)
+O3 O -0.1435(2) 0.8656(2) 0.0411(3)
+N1 N 0.35505(14) 0.75000 -0.05400(14)
+C1 C 0.18810(14) 0.75000 -0.13225(15)
+C2 C 0.0797(2) 0.7094(2) -0.0006(2)
+H1 H 0.07930 0.60840 0.00010
+C3 C 0.17262(19) 0.75000(1) 0.13932(19)
+H2? H 0.14900 0.68590 0.22050
+H3? H 0.13710 0.84120 0.17000
+C4 C 0.35809(16) 0.75000 0.11078(16)
+C5 C 0.1929(3) 0.6527(3) -0.2612(3)
+H4? H 0.29420 0.67040 -0.31740
+H5? H 0.20020 0.55930 -0.22240
+C6 C 0.0385(4) 0.6661(5) -0.3696(5)
+H6? H -0.06230 0.64090 -0.31610
+H7? H 0.04930 0.60250 -0.45390
+C7 C 0.0190(4) 0.8058(5) -0.4295(4)
+H8? H 0.11620 0.82930 -0.48890
+H9? H -0.08260 0.81130 -0.49590
+C8 C 0.0048(3) 0.5918(4) -0.3005(4)
+H10? H -0.09890 0.89020 -0.24780
+H11? H -0.00150 1.00130 -0.34040
+C9 C 0.1535(3) 0.8972(2) -0.1909(3)
+H12? H 0.25380 0.93060 -0.23980
+H13? H 0.13470 0.95640 -0.10410
+C10 C -0.09907(16) 0.75000 -0.00925(18)
+C11 C 0.4678(4) 0.6403(3) 0.1790(3)
+H14? H 0.41870 0.55110 0.15380
+H15? H 0.57930 0.64480 0.13580
+C12 C 0.4859(4) 0.6532(4) 0.3489(3)
+H16? H 0.56170 0.58200 0.38940
+H17? H 0.37580 0.64050 0.39270
+C13 C 0.5542(4) 0.7935(4) 0.3942(3)
+H18? H 0.55940 0.80140 0.50450
+H19? H 0.66890 0.80300 0.35900
+C14 C 0.4452(4) 0.5941(4) 0.3267(3)
+H20? H 0.49550 0.99450 0.35250
+H21? H 0.33390 0.90190 0.37010
+C15 C 0.4254(3) 0.8931(3) 0.1572(3)
+H22? H 0.34700 0.96280 0.11770
+H23? H 0.53470 0.90830 0.11250
+O2C O -0.20301(19) 0.83072(19) -0.0742(2)
+O3C O -0.1435(2) 0.6344(2) 0.0411(3)
+C2C C 0.0797(2) 0.7906(2) -0.0006(2)
+H1C H 0.07930 0.89160 0.00010
+C5C C 0.1929(3) 0.8473(3) -0.2612(3)
+C6C C 0.0385(4) 0.8339(5) -0.3696(5)
+C7C C 0.0190(4) 0.6942(5) -0.4295(4)
+C8C C 0.0048(3) 0.9082(4) -0.3005(4)
+C9C C 0.1535(3) 0.6028(2) -0.1909(3)
+C11C C 0.4678(4) 0.8597(3) 0.1790(3)
+C12C C 0.4859(4) 0.8468(4) 0.3489(3)
+C13C C 0.5542(4) 0.7065(4) 0.3942(3)
+C14C C 0.4452(4) 0.9059(4) 0.3267(3)
+C15C C 0.4254(3) 0.6069(3) 0.1572(3)
+#END

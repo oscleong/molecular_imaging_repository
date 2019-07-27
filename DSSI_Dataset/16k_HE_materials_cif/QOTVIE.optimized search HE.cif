@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOTVIE
+_audit_creation_date 2001-08-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOTVIE
+_chemical_formula_sum 'C15 H13 N1 O4'
+_chemical_formula_moiety
+;
+C15 H13 N1 O4
+;
+_journal_coden_Cambridge 35
+_journal_volume 65
+_journal_year 2000
+_journal_page_first 3530
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"E.S.Koltun"
+"S.R.Kass"
+_chemical_name_systematic
+;
+syn-Tricyclo(5.1.0.0^1,4^)oct-5-en-2-yl p-nitrobenzoate
+;
+_chemical_melting_point 355.15
+_cell_volume   2610.183
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.381
+_exptl_special_details
+;
+Melting point range 355.15-357.15K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethanol/pentane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0476
+_refine_ls_wR_factor_gt 0.0476
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 7.215(1)
+_cell_length_b 12.496(2)
+_cell_length_c 28.951(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0623(2) 0.4314(1) 0.1487(1)
+O2 O 0.0776(2) 0.2737(1) 0.1861(1)
+O3 O 0.2951(2) 0.6903(2) 0.3485(1)
+O4 O 0.1252(3) 0.5789(2) 0.3867(1)
+N1 N 0.1963(3) 0.6109(2) 0.3510(1)
+C1 C 0.2129(3) 0.3351(2) 0.0840(1)
+C2 C 0.0367(3) 0.3756(2) 0.1046(1)
+C3 C 0.0334(4) 0.4615(2) 0.0658(1)
+C4 C 0.2403(4) 0.4345(2) 0.0546(1)
+C5 C 0.2904(4) 0.3912(3) 0.0076(1)
+C6 C 0.2807(4) 0.2867(3) 0.0067(1)
+C7 C 0.2249(4) 0.2402(2) 0.0516(1)
+C8 C 0.3526(5) 0.2498(3) 0.0927(1)
+C9 C 0.0812(3) 0.3706(2) 0.1862(1)
+C10 C 0.1066(3) 0.4360(2) 0.2288(1)
+C11 C 0.1635(3) 0.5418(2) 0.2265(1)
+C12 C 0.1936(3) 0.5992(2) 0.2666(1)
+C13 C 0.1616(3) 0.5499(2) 0.3083(1)
+C14 C 0.1019(3) 0.4455(2) 0.3119(1)
+C15 C 0.0764(3) 0.3880(2) 0.2714(1)
+H1 H -0.0712(29) 0.3258(17) 0.1084(7)
+H2 H -0.0500(35) 0.4335(19) 0.0368(8)
+H3 H 0.0084(36) 0.5358(21) 0.0774(8)
+H4 H 0.3245(34) 0.4916(18) 0.0679(8)
+H5 H 0.3310(38) 0.4387(21) -0.0157(9)
+H6 H 0.2976(38) 0.2406(21) -0.0219(9)
+H7 H 0.1268(38) 0.1765(21) 0.0526(9)
+H8 H 0.3250(35) 0.2018(20) 0.1211(9)
+H9 H 0.4777(46) 0.2754(20) 0.0878(9)
+H10 H 0.1860(31) 0.5717(17) 0.1978(7)
+H11 H 0.2363(30) 0.6714(18) 0.2653(7)
+H12 H 0.0823(32) 0.4185(18) 0.3402(8)
+H13 H 0.0352(35) 0.3134(20) 0.2731(8)
+#END

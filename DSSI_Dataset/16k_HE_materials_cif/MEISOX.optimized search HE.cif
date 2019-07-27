@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEISOX
+_audit_creation_date 1981-12-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEISOX
+_database_code_depnum_ccdc_archive 'CCDC 1210886'
+_chemical_formula_sum 'C13 H13 N3 O3'
+_chemical_formula_moiety
+;
+C13 H13 N3 O3
+;
+_journal_coden_Cambridge 34
+_journal_volume 18
+_journal_year 1981
+_journal_page_first 19
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"A.Albinati"
+"S.Bruckner"
+"L.Malpezzi"
+"S.V.Meille"
+_chemical_name_systematic
+;
+3-(3-Methyl-5-isoxazolyl)-methyl-5-(3-methyl-5-isoxazolyl)-methylisoxazole
+;
+_cell_volume   1295.580
+_exptl_crystal_density_diffrn 1.33
+_exptl_special_details
+;
+C(11) y 0.0442, not 0.0042
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.846(4)
+_cell_length_b 26.688(7)
+_cell_length_c 9.081(4)
+_cell_angle_alpha 90
+_cell_angle_beta 142.82(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.29890 0.32740 0.68290
+N2 N -0.19720 0.14490 0.27200
+N3 N -0.42120 0.00100 -0.16050
+O1 O 0.24480 0.28860 0.53820
+O2 O -0.05590 0.18610 0.32670
+O3 O -0.38500 0.04030 -0.02930
+C1 C 0.08700 0.39760 0.63170
+C2 C 0.09200 0.35320 0.53640
+C3 C -0.09840 0.33260 0.29770
+C4 C 0.00280 0.29360 0.30870
+C5 C -0.09470 0.25560 0.12600
+C6 C -0.20230 0.21070 0.11570
+C7 C -0.42540 0.18730 -0.06900
+C8 C -0.41520 0.14730 0.03590
+C9 C -0.60810 0.10760 -0.08030
+C10 C -0.60640 0.06500 -0.18560
+C11 C -0.77920 0.04420 -0.40520
+C12 C -0.65430 0.00450 -0.37980
+C13 C -0.76160 -0.03210 -0.57240
+#END

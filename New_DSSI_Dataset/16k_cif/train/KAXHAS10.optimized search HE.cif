@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KAXHAS10
+_audit_creation_date 2004-05-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KAXHAS10
+_chemical_formula_sum 'C13 H16 N3 O4'
+_chemical_formula_moiety
+;
+C13 H16 N3 O4
+;
+_journal_coden_Cambridge 61
+_journal_volume 72
+_journal_year 2003
+_journal_page_first 1735
+_journal_name_full 'J.Phys.Soc.Jpn. '
+loop_
+_publ_author_name
+"M.Tamura"
+"Y.Hosokoshi"
+"D.Shiomi"
+"M.Kinoshita"
+"Y.Nakasawa"
+"M.Ishikawa"
+"H.Sawa"
+"T.Kitazawa"
+"A.Eguchi"
+"Y.Nishio"
+"K.Kajita"
+_chemical_name_systematic
+;
+2-(4-Nitrophenyl)-4,4,5,5-tetramethyl-4,5-dihydro-1H-imidazol-1-oxyl 3-N-oxide
+;
+_chemical_name_common
+;
+p-Nitrophenyl nitronyl nitroxide radical
+;
+_cell_volume   1370.155
+_exptl_crystal_density_diffrn 1.35
+_exptl_special_details
+;
+alpha polymorph
+crystals are unstable at or below room temperature, losing their lustre and 
+forming the polycrystalline beta-phase in the crystal
+;
+_exptl_crystal_description 'thin plates'
+_exptl_crystal_preparation 'wet diethyl ether or 1,1,2-trichloroethane or benzene'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.304(4)
+_cell_length_b 7.617(4)
+_cell_length_c 24.677(5)
+_cell_angle_alpha 90
+_cell_angle_beta 93.62(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1604(4) -0.0557(3) 0.43189(9)
+O2 O 0.4178(4) 0.4400(3) 0.35932(9)
+N1 N 0.2363(4) 0.0505(3) 0.40007(9)
+N2 N 0.3536(3) 0.2857(3) 0.36538(9)
+C1 C 0.2806(4) 0.2196(3) 0.4103(1)
+C2 C 0.2560(4) 0.3155(4) 0.4606(1)
+C3 C 0.2093(5) 0.2273(4) 0.5076(1)
+C4 C 0.1854(5) 0.3165(4) 0.5548(1)
+C5 C 0.2035(4) 0.4959(4) 0.5552(1)
+C6 C 0.2456(4) 0.5882(4) 0.5102(1)
+C7 C 0.2727(4) 0.4974(4) 0.4628(1)
+N3 N 0.1720(4) 0.5921(5) 0.6056(1)
+O3 O 0.1346(4) 0.5080(4) 0.6454(1)
+O4 O 0.1829(4) 0.7528(4) 0.6050(1)
+C8 C 0.3075(4) -0.0154(4) 0.3478(1)
+C9 C 0.3332(4) 0.1620(4) 0.3181(1)
+C10 C 0.4848(5) -0.1089(4) 0.3637(1)
+C11 C 0.1677(6) -0.1393(6) 0.3208(2)
+C12 C 0.1647(6) 0.2229(6) 0.2840(1)
+C13 C 0.5040(6) 0.1718(5) 0.2860(1)
+H1 H 0.21230 0.12180 0.50630
+H2 H 0.16160 0.24780 0.58610
+H3 H 0.26390 0.71100 0.50840
+H4 H 0.29080 0.55550 0.43350
+H5 H 0.46260 -0.20890 0.38750
+H6 H 0.57950 -0.03540 0.38300
+H7 H 0.54830 -0.15050 0.33400
+H8 H 0.03440 -0.06890 0.31850
+H9 H 0.16900 -0.23350 0.33730
+H10 H 0.19480 -0.16860 0.28530
+H11 H 0.18520 0.32750 0.27340
+H12 H 0.04370 0.21090 0.30020
+H13 H 0.13720 0.16240 0.25360
+H14 H 0.52160 0.28160 0.27110
+H15 H 0.62760 0.16120 0.30590
+H16 H 0.47760 0.11470 0.25510
+#END

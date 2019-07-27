@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WITSIB
+_audit_creation_date 2000-11-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WITSIB
+_database_code_depnum_ccdc_archive 'CCDC 148718'
+_chemical_formula_sum 'C5 H6 N2 O3'
+_chemical_formula_moiety
+;
+C5 H6 N2 O3
+;
+_journal_coden_Cambridge 367
+_journal_volume 26
+_journal_year 2000
+_journal_page_first 235
+_journal_name_full 'Koord.Khim.(Russ.)(Coord.Chem.) '
+loop_
+_publ_author_name
+"L.Kh.Minacheva"
+"I.V.Raspertova"
+"T.Yu.Sliva"
+"R.D.Lampeka"
+_chemical_name_systematic
+;
+Ethyl 2-cyano-2-hydroxyiminoacetate
+;
+_cell_volume    708.110
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.333
+_exptl_crystal_preparation 'water/methanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The C5 and C9 atoms of Et fragments of two independent molecules are 
+disordered each over two positions related by the mirror plane and were 
+refined with the s.o.f.'s equal to 0.5.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0424
+_refine_ls_wR_factor_gt 0.0424
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P m c 21'
+_symmetry_Int_Tables_number 26
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,1/2+z
+4 -x,y,z
+_cell_length_a 6.512(1)
+_cell_length_b 13.589(3)
+_cell_length_c 8.002(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.52
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.00000 0.2950(8) 0.6523(13)
+N2 N 0.00000 0.0752(7) 0.8581(12)
+O1 O 0.00000 0.0526(7) 0.6994(10)
+H1 H 0.00000 -0.0096(7) 0.689(1)
+O2 O 0.00000 0.1460(8) 1.1871(10)
+O3 O 0.00000 0.2943(5) 1.0754(7)
+C1 C 0.00000 0.2406(8) 0.7623(14)
+C2 C 0.00000 0.1701(7) 0.8915(12)
+C3 C 0.00000 0.1966(7) 1.0716(14)
+C4 C 0.00000 0.3371(11) 1.2487(14)
+H2 H 0.12020 0.3155(11) 1.3077(14)
+C5 C 0.0355(26) 0.4486(11) 1.2367(16)
+N3 N 0.50000 0.4289(8) 0.8076(12)
+N4 N 0.50000 0.2047(10) 1.0154(16)
+O4 O 0.50000 0.4462(7) 0.979(1)
+H3 H 0.50000 0.5080(7) 0.9955(10)
+O5 O 0.50000 0.3559(8) 0.4877(12)
+O6 O 0.50000 0.2022(5) 0.6000(9)
+C6 C 0.50000 0.2649(10) 0.9163(11)
+C7 C 0.50000 0.3375(8) 0.7873(13)
+C8 C 0.50000 0.2975(9) 0.6104(13)
+C9 C 0.5434(14) 0.1591(9) 0.4345(15)
+C10 C 0.50000 0.0556(11) 0.4564(16)
+H4 H 0.50000 0.0275(11) 0.3464(16)
+H5 H 0.62040 0.0344(11) 0.5156(16)
+H2C H -0.12020 0.3155(11) 1.3077(14)
+C5C C -0.0355(26) 0.4486(11) 1.2367(16)
+C9C C 0.4566(14) 0.1591(9) 0.4345(15)
+H5C H 0.37960 0.0344(11) 0.5156(16)
+#END

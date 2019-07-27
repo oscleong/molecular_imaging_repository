@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEWLIL
+_audit_creation_date 2013-05-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEWLIL
+_database_code_depnum_ccdc_archive 'CCDC 935517'
+_chemical_formula_sum 'C10 H9 N3 O3'
+_chemical_formula_moiety
+;
+C10 H9 N3 O3
+;
+_journal_coeditor_code "IUCr tk5200"
+_journal_coden_Cambridge 1370
+_journal_volume 69
+_journal_year 2013
+_journal_page_first o431
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Y.Ouzidan"
+"Y.Kandri Rodi"
+"A.Kandri Rodi"
+"E.M.Essassi"
+"M.Saadi"
+"L.El Ammari"
+_chemical_name_systematic
+;
+1-Allyl-5-nitro-1H-benzimidazol-2(3H)-one
+;
+_cell_volume   2047.680
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.422
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0565
+_refine_ls_wR_factor_gt 0.0565
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 8.3246(3)
+_cell_length_b 14.9567(6)
+_cell_length_c 16.4461(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1801(3) -0.05403(17) 0.37164(15)
+C2 C 0.1529(3) 0.02563(16) 0.41211(15)
+H1 H 0.05020 0.04390 0.42690
+C3 C 0.2866(3) 0.07620(16) 0.42913(14)
+C4 C 0.4416(3) 0.04786(16) 0.40696(14)
+C5 C 0.4658(3) -0.03268(18) 0.36771(16)
+H2 H 0.56850 -0.05160 0.35380
+C6 C 0.3328(3) -0.08415(18) 0.34984(16)
+H3 H 0.34490 -0.13870 0.32340
+C7 C 0.4612(3) 0.18307(17) 0.46777(15)
+C8 C 0.7198(3) 0.11726(18) 0.41762(15)
+H4 H 0.76130 0.05670 0.41520
+H5 H 0.77140 0.14740 0.46280
+C9 C 0.7608(4) 0.1651(3) 0.3401(2)
+H6 H 0.73050 0.22490 0.33800
+C10 C 0.8257(7) 0.1378(4) 0.2815(3)
+H7 H 0.85930 0.07860 0.27940
+H8 H 0.84340 0.17550 0.23750
+N1 N 0.0402(3) -0.10842(16) 0.34996(15)
+N2 N 0.3035(2) 0.15796(14) 0.46649(13)
+H9 H 0.22570 0.18890 0.48630
+N3 N 0.5459(2) 0.11428(13) 0.43179(12)
+O1 O 0.0603(3) -0.17533(15) 0.30908(16)
+O2 O -0.0927(2) -0.08426(14) 0.37286(15)
+O3 O 0.5177(2) 0.25247(13) 0.49549(13)
+#END

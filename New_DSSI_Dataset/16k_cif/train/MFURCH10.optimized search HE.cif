@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MFURCH10
+_audit_creation_date 1973-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MFURCH10
+_database_code_depnum_ccdc_archive 'CCDC 1211642'
+_chemical_formula_sum 'C4 H6 N4 O3'
+_chemical_formula_moiety
+;
+C4 H6 N4 O3
+;
+_journal_coeditor_code "IUCr A10142"
+_journal_coden_Cambridge 107
+_journal_volume 29
+_journal_year 1973
+_journal_page_first 1618
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.Calleri"
+"G.Chiari"
+"G.Germain"
+"D.Viterbo"
+_chemical_name_systematic
+;
+4-Methyl-3-furoxancarbohydrazide
+;
+_chemical_melting_point 402.15
+_cell_volume    660.458
+_exptl_crystal_density_diffrn 1.59
+_exptl_special_details
+;
+Melting point range 402.15-404.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.151(3)
+_cell_length_b 7.531(2)
+_cell_length_c 7.236(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.11(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.33700 0.35480 0.17640
+C2 C -0.24660 0.24600 0.24110
+C3 C -0.13660 0.29870 0.32400
+C4 C -0.34430 0.55250 0.17580
+H1 H -0.27950 0.59820 0.10030
+H2 H -0.32890 0.59230 0.30980
+H3 H -0.41380 0.58580 0.12690
+H4 H -0.08840 0.05750 0.37460
+H5 H 0.08470 0.20120 0.38350
+H6 H 0.03320 0.31620 0.50490
+N1 N -0.42000 0.25810 0.11040
+N2 N -0.27790 0.07910 0.21180
+N3 N -0.06760 0.16860 0.37770
+N4 N 0.03760 0.20590 0.46590
+O1 O -0.38790 0.08170 0.12830
+O2 O -0.23410 -0.06640 0.24200
+O3 O -0.11540 0.45720 0.34160
+#END

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LEDHOS
+_audit_creation_date 2006-07-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LEDHOS
+_database_code_depnum_ccdc_archive 'CCDC 288953'
+_chemical_formula_sum 'C18 H19 N1 O4'
+_chemical_formula_moiety
+;
+C18 H19 N1 O4
+;
+_journal_coden_Cambridge 644
+_journal_volume 61
+_journal_year 2006
+_journal_page_first 179
+_journal_name_full 'Z.Naturforsch.,B:Chem.Sci. '
+loop_
+_publ_author_name
+"A.S.K.Hashmi"
+"T.Burkert"
+"J.W.Bats"
+"A.Martyniak"
+_chemical_name_systematic
+;
+2-(4-n-Propylphenyl)ethyl 4-nitrobenzoate
+;
+_chemical_melting_point 322.15
+_cell_volume   3233.739
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.287
+_exptl_crystal_description 'rod'
+_exptl_crystal_preparation 'petroleum ether/dichloromethane'
+_diffrn_ambient_temperature 156
+_refine_special_details
+;
+A number of atoms from the structure are disordered over two sites with 
+occupancies 0.881:0.119.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0576
+_refine_ls_wR_factor_gt 0.0576
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 24.732(6)
+_cell_length_b 6.9064(9)
+_cell_length_c 18.974(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.818(12)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.50141(5) -0.0694(2) -0.12928(6)
+C2 C 0.44387(7) 0.1778(4) -0.04944(9)
+C3 C 0.26214(5) 0.8946(2) 0.15174(7)
+H1 H 0.27550 1.01580 0.16900
+C4 C 0.27261(6) 0.6147(2) 0.07703(6)
+C5 C 0.42953(11) -0.0184(5) -0.05371(14)
+H2 H 0.40000 -0.06550 -0.02910
+C6 C 0.29085(6) 0.7927(2) 0.10294(7)
+H3 H 0.32340 0.84580 0.08720
+C7 C 0.19636(6) 0.6433(2) 0.14949(7)
+H4 H 0.16390 0.58990 0.16520
+C8 C 0.18134(5) 0.9354(2) 0.22553(6)
+H5 H 0.20620 1.00080 0.26110
+H6 H 0.15830 0.84520 0.25080
+C9 C 0.21434(5) 0.82135(19) 0.17543(6)
+C10 C 0.11095(6) 1.1981(2) 0.23584(7)
+H7 H 0.08900 1.29330 0.20840
+H8 H 0.13440 1.26500 0.27170
+H9 H 0.08700 1.10830 0.25890
+N1 N 0.53320(6) -0.2013(2) -0.17148(7)
+O1 O 0.56628(6) -0.1339(2) -0.20806(8)
+C11 C 0.14562(6) 1.0861(2) 0.18704(7)
+H10 H 0.16890 1.17820 0.16290
+H11 H 0.12170 1.02080 0.15040
+C12 C 0.51563(6) 0.1227(2) -0.12555(8)
+H12 H 0.54510 0.16940 -0.15030
+C13 C 0.48686(8) 0.2459(3) -0.08585(12)
+H13 H 0.49640 0.37910 -0.08320
+C14 C 0.30382(8) 0.4921(3) 0.02729(8)
+H14 H 0.27850 0.40820 -0.00150
+H15 H 0.32290 0.57670 -0.00510
+C15 C 0.45905(6) -0.1449(2) -0.09450(8)
+H16 H 0.45010 -0.27840 -0.09800
+C16 C 0.22498(6) 0.5418(2) 0.10099(7)
+H17 H 0.21170 0.42030 0.08390
+O2 O 0.52470(7) -0.37440(18) -0.16692(8)
+C17 C 0.41463(6) 0.3188(3) -0.00673(7)
+C18 C 0.34442(7) 0.3687(2) 0.07024(8)
+H18 H 0.37050 0.45400 0.09720
+H19 H 0.32520 0.29090 0.10460
+O3 O 0.37392(5) 0.23947(18) 0.02582(6)
+O4 O 0.42626(5) 0.4890(2) -0.00249(7)
+C19? C 0.4383(6) 0.121(2) -0.0458(7)
+O5? O 0.3683(5) 0.131(2) 0.0384(6)
+O6? O 0.4096(5) 0.4130(19) 0.0141(6)
+C20? C 0.3998(6) 0.2234(19) 0.0067(6)
+C21? C 0.3725(5) 0.5103(17) 0.0621(6)
+C22? C 0.3182(5) 0.5566(18) 0.0251(6)
+C23? C 0.4344(14) -0.058(5) -0.0601(18)
+C24? C 0.4784(10) 0.218(3) -0.0694(10)
+#END

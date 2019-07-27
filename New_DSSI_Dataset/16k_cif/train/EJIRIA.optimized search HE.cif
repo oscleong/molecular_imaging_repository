@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EJIRIA
+_audit_creation_date 2016-03-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EJIRIA
+_database_code_depnum_ccdc_archive 'CCDC 1037883'
+_chemical_formula_sum 'C12 H9 N3 O1'
+_chemical_formula_moiety
+;
+C12 H9 N3 O1
+;
+_journal_coden_Cambridge 222
+_journal_volume 45
+_journal_year 2016
+_journal_page_first 7067
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"K.Murashima"
+"S.Karasawa"
+"Kenji Yoza"
+"Yuji Inagaki"
+"N.Koga"
+_chemical_name_systematic
+;
+4-(Diazo(phenyl)methyl)pyridine 1-oxide
+;
+_cell_volume   1000.036
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.403
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0439
+_refine_ls_wR_factor_gt 0.0439
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.582(4)
+_cell_length_b 11.591(5)
+_cell_length_c 9.149(4)
+_cell_angle_alpha 90
+_cell_angle_beta 100.212(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.93825(12) 0.11316(10) 0.19075(13)
+O1 O 0.99744(11) 0.15970(9) 0.08525(12)
+N2 N 0.77599(14) -0.24597(10) 0.56600(14)
+N3 N 0.76960(12) -0.14855(10) 0.55581(13)
+C1 C 0.75971(15) -0.03544(12) 0.54140(16)
+C2 C 0.81876(14) 0.01541(12) 0.41971(15)
+C3 C 0.83651(15) 0.13486(12) 0.40879(16)
+C4 C 0.86422(15) -0.05259(12) 0.30993(16)
+C5 C 0.89497(15) 0.18121(12) 0.29552(16)
+C6 C 0.70953(15) -0.01160(13) 0.79860(17)
+C7 C 0.54354(16) 0.13149(13) 0.85339(18)
+C8 C 0.68752(15) 0.02433(12) 0.65029(16)
+C9 C 0.63679(16) 0.04143(14) 0.89887(18)
+C10 C 0.92230(15) -0.00345(12) 0.19808(16)
+C11 C 0.59325(15) 0.11490(13) 0.60496(17)
+C12 C 0.52299(16) 0.16863(13) 0.70717(18)
+H1 H 0.8572(17) -0.1359(14) 0.3134(19)
+H2 H 0.9105(16) 0.2632(15) 0.2856(19)
+H3 H 0.7761(18) -0.0717(14) 0.831(2)
+H4 H 0.653(2) 0.0193(16) 1.001(2)
+H5 H 0.8118(19) 0.1896(15) 0.481(2)
+H6 H 0.4598(19) 0.2323(16) 0.678(2)
+H7 H 0.5744(19) 0.1369(15) 0.499(2)
+H8 H 0.4922(19) 0.1677(15) 0.921(2)
+H9 H 0.9555(18) -0.0461(14) 0.127(2)
+#END

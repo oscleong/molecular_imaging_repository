@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TEVGAF
+_audit_creation_date 2017-12-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TEVGAF
+_database_code_depnum_ccdc_archive 'CCDC 1476712'
+_chemical_formula_sum 'C13 H14 N4 O3'
+_chemical_formula_moiety
+;
+C13 H14 N4 O3
+;
+_journal_coden_Cambridge 34
+_journal_volume 54
+_journal_year 2017
+_journal_page_first 3626
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"S.A.Carvalho"
+"L.F.B.Osorio"
+"K.Salomao"
+"Solange Lisboa de Castro"
+"S.M.S.V.Wardell"
+"J.L.Wardell"
+"E.F.da Silva"
+"C.A.M.Fraga"
+_chemical_name_systematic
+;
+N-((4-methylbenzyl)oxy)-1-(1-methyl-5-nitro-1H-imidazol-2-yl)methanimine
+;
+_cell_volume   1287.585
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.415
+_exptl_special_details
+;
+trypanocidal activity
+
+;
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 100
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0578
+_refine_ls_wR_factor_gt 0.0578
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.2106(5)
+_cell_length_b 13.7834(10)
+_cell_length_c 13.0568(9)
+_cell_angle_alpha 90
+_cell_angle_beta 97.148(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7512(3) 0.06706(13) 0.52485(14)
+O2 O 0.5557(3) -0.47774(13) 0.36440(15)
+N1 N 0.7303(3) -0.02194(15) 0.47265(16)
+N2 N 0.6740(3) -0.25659(15) 0.57360(16)
+N3 N 0.5937(3) -0.22301(15) 0.40533(15)
+N4 N 0.5448(3) -0.39115(16) 0.33934(16)
+O3 O 0.4980(3) -0.36295(15) 0.25073(15)
+C1 C 0.5911(3) -0.32213(17) 0.41913(19)
+C2 C 0.8239(4) 0.31882(18) 0.4841(2)
+H1 H 0.76580 0.32410 0.41490
+C3 C 0.8683(3) 0.22758(18) 0.52547(19)
+C4 C 0.9886(4) 0.30517(19) 0.6868(2)
+H2 H 1.04410 0.29970 0.75640
+C5 C 0.9433(4) 0.39690(18) 0.6451(2)
+C6 C 0.8629(4) 0.40213(19) 0.5422(2)
+H3 H 0.83460 0.46380 0.51160
+C7 C 0.6412(4) -0.34099(19) 0.52151(19)
+H4 H 0.65140 -0.40380 0.55160
+C8 C 0.8286(4) 0.13799(18) 0.46066(19)
+H5 H 0.73840 0.15280 0.39910
+H6 H 0.94510 0.11310 0.43730
+C9 C 0.9775(4) 0.4878(2) 0.7102(2)
+H7 H 0.97890 0.54450 0.66500
+H8 H 1.09810 0.48250 0.75360
+H9 H 0.87760 0.49520 0.75410
+C10 C 0.6744(4) -0.08607(18) 0.5320(2)
+H10 H 0.641(4) -0.067(2) 0.600(2)
+C11 C 0.6459(3) -0.18726(18) 0.50124(18)
+C12 C 0.9530(4) 0.22188(18) 0.6272(2)
+H11 H 0.98700 0.16030 0.65630
+C13 C 0.5406(4) -0.16723(19) 0.31012(19)
+H12 H 0.55890 -0.09790 0.32450
+H13 H 0.40900 -0.17950 0.28490
+H14 H 0.61870 -0.18720 0.25760
+#END

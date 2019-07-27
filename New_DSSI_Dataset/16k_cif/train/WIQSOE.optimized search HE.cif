@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WIQSOE
+_audit_creation_date 2000-11-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WIQSOE
+_database_code_depnum_ccdc_archive 'CCDC 119101'
+_chemical_formula_sum 'C8 H11 N1 O5'
+_chemical_formula_moiety
+;
+C8 H11 N1 O5
+;
+_journal_coden_Cambridge 16
+_journal_volume 55
+_journal_year 1999
+_journal_page_first 7129
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"S.Marumoto"
+"H.Kogen"
+"S.Naruto"
+_chemical_name_systematic
+;
+N-Methoxy-N-methyl 
+(1S,4R,5R)-4-methyl-2-oxo-3,6-dioxabicyclo(3.1.0)hexane-1-carboxamide
+;
+_chemical_name_common
+;
+5-Methyl-3,4-epoxy-3-(N-methyl-N-methoxyacetamido)tetrahydrofuran-2-one
+;
+_chemical_melting_point 387.15
+_cell_volume    939.956
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.421
+_exptl_special_details
+;
+Melting point range 387.15-388.15K
+
+;
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0389
+_refine_ls_wR_factor_gt 0.0389
+loop_
+_citation_database_id_CSD
+_citation_special_details
+NUFRUB "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 9.4090(7)
+_cell_length_b 16.526(1)
+_cell_length_c 6.045(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6694(2) 0.3067(1) 1.0287(3)
+O2 O 0.4882(2) 0.24571(9) 0.7199(4)
+O3 O 0.4863(2) 0.3835(1) 1.1288(3)
+O4 O 0.2823(2) 0.3597(1) 0.5762(4)
+O5 O 0.5815(2) 0.47813(9) 0.6536(3)
+N1 N 0.4350(2) 0.4633(1) 0.6241(3)
+C1 C 0.7344(3) 0.2761(1) 0.8220(4)
+C2 C 0.6197(3) 0.2848(1) 0.6521(4)
+C3 C 0.5047(3) 0.3315(1) 0.7520(4)
+C4 C 0.5478(3) 0.3451(1) 0.9900(3)
+C5 C 0.8623(3) 0.3256(2) 0.7714(6)
+C6 C 0.3965(2) 0.3844(1) 0.6386(4)
+C7 C 0.3626(4) 0.5199(2) 0.4855(5)
+C8 C 0.6027(4) 0.5385(1) 0.8200(6)
+H1 H 0.753(3) 0.222(2) 0.850(6)
+H2 H 0.636(3) 0.287(2) 0.498(6)
+H3 H 0.529(4) 0.534(2) 0.95(1)
+H4 H 0.829(2) 0.383(2) 0.757(5)
+H5 H 0.926(4) 0.323(2) 0.879(7)
+H6 H 0.938(4) 0.312(2) 0.673(7)
+H7 H 0.282(3) 0.493(2) 0.458(7)
+H8 H 0.353(6) 0.564(4) 0.55(1)
+H9 H 0.403(4) 0.523(3) 0.339(9)
+H10 H 0.584(3) 0.590(2) 0.775(6)
+H11 H 0.703(4) 0.543(2) 0.804(8)
+#END

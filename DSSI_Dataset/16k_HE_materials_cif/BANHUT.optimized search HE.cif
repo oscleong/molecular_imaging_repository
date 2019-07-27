@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BANHUT
+_audit_creation_date 1982-05-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BANHUT
+_database_code_depnum_ccdc_archive 'CCDC 1105935'
+_chemical_formula_sum 'C15 H15 N1 O4'
+_chemical_formula_moiety
+;
+C15 H15 N1 O4
+;
+_journal_coden_Cambridge 16
+_journal_volume 37
+_journal_year 1981
+_journal_page_first 3847
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"L.Nicolas"
+"M.Beugelmans-Verrier"
+"J.Guilhem"
+_chemical_name_systematic
+;
+3-Methoxycarbonyl-2-p-nitrophenyl-endo-bicyclo(2.2.1)hept-5-ene
+;
+_cell_volume   1359.417
+_exptl_crystal_density_diffrn 1.33
+_exptl_special_details
+;
+The cell parameters for this compound (7e) were mistakenly listed as those 
+for 3b
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BANHIH "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.958(2)
+_cell_length_b 15.023(4)
+_cell_length_c 11.432(3)
+_cell_angle_alpha 90
+_cell_angle_beta 95.93(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.10440 0.83550 0.56020
+C2 C 0.28630 0.82920 0.52300
+C3 C 0.31180 0.72610 0.50530
+C4 C 0.13740 0.68940 0.53770
+C5 C 0.12590 0.70710 0.66640
+C6 C 0.10640 0.79260 0.68000
+C7 C 0.01820 0.76160 0.48420
+C8 C 0.41730 0.87600 0.60430
+O1 O 0.40050 0.90280 0.70160
+O2 O 0.55960 0.88800 0.55280
+C9 C 0.46510 0.68030 0.56590
+C10 C 0.55920 0.62510 0.50030
+C11 C 0.69550 0.57770 0.55070
+C12 C 0.74020 0.58600 0.67010
+C13 C 0.65080 0.64000 0.73880
+C14 C 0.51590 0.68710 0.68670
+N1 N 0.88670 0.53630 0.72460
+O3 O 0.92670 0.54650 0.83040
+O4 O 0.96470 0.48870 0.66250
+C15 C 0.69490 0.93280 0.62210
+#END

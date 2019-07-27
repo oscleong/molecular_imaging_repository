@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAMNAT
+_audit_creation_date 2001-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAMNAT
+_database_code_depnum_ccdc_archive 'CCDC 155855'
+_chemical_formula_sum 'C14 H9 N1 O2'
+_chemical_formula_moiety
+;
+C14 H9 N1 O2
+;
+_journal_coeditor_code "IUCr CF6012"
+_journal_coden_Cambridge 1370
+_journal_volume 57
+_journal_year 2001
+_journal_page_first o9
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"M.R.Taylor"
+"M.J.Thompson"
+_chemical_name_systematic
+;
+4-Nitrophenanthrene
+;
+_chemical_melting_point 354.5
+_cell_volume   1051.530
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.41
+_exptl_special_details
+;
+Melting point range 354.5-355.0K
+low temperature (TT) polymorph
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'hexane'
+_diffrn_ambient_temperature 168
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 8.061(2)
+_cell_length_b 12.449(3)
+_cell_length_c 11.132(3)
+_cell_angle_alpha 90
+_cell_angle_beta 109.73(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.75013(19) 0.30657(11) 0.08041(14)
+O1 O 0.85095(16) 0.25134(10) 0.04507(13)
+O2 O 0.79833(18) 0.38205(11) 0.15553(15)
+C1 C 0.2069(2) 0.25122(14) -0.10627(17)
+C2 C 0.2871(3) 0.34201(15) -0.12965(17)
+C3 C 0.4662(2) 0.35883(14) -0.06233(17)
+C4 C 0.5578(2) 0.28431(12) 0.02590(15)
+C5 C 0.7442(2) 0.12262(14) 0.24429(16)
+C6 C 0.8270(2) 0.04098(15) 0.32569(17)
+C7 C 0.7421(2) -0.05733(14) 0.32257(16)
+C8 C 0.5714(2) -0.06978(13) 0.24207(16)
+C9 C 0.3012(2) -0.00034(13) 0.07995(16)
+C10 C 0.2131(2) 0.07775(14) 0.00120(16)
+C11 C 0.4819(2) 0.19059(11) 0.05832(14)
+C12 C 0.5727(2) 0.11059(12) 0.15396(14)
+C13 C 0.4823(2) 0.01289(12) 0.15837(14)
+C14 C 0.2999(2) 0.17500(12) -0.01412(15)
+H1 H 0.084(3) 0.2316(15) -0.1558(18)
+H2 H 0.223(3) 0.3906(17) -0.1983(19)
+H3 H 0.525(2) 0.4204(16) -0.0779(17)
+H4 H 0.803(3) 0.1915(16) 0.2473(19)
+H5 H 0.949(3) 0.0541(15) 0.3881(18)
+H6 H 0.800(2) -0.1151(16) 0.3780(18)
+H7 H 0.506(2) -0.1367(15) 0.2402(18)
+H8 H 0.248(2) -0.0656(16) 0.0863(18)
+H9 H 0.092(3) 0.0680(16) -0.0524(19)
+#END

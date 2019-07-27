@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUTDAL
+_audit_creation_date 1998-03-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUTDAL
+_database_code_depnum_ccdc_archive 'CCDC 114571'
+_database_code_depnum_ccdc_journal 423/4
+_chemical_formula_sum 'C13 H16 N4 O5'
+_chemical_formula_moiety
+;
+C13 H16 N4 O5
+;
+_journal_coden_Cambridge 423
+_journal_year 1997
+_journal_page_first 170
+_journal_name_full 'J.Chem.Res. '
+loop_
+_publ_author_name
+"D.Donati"
+"S.Fusi"
+"F.Ponticelli"
+_chemical_name_systematic
+;
+N-(7-Acetyl-6,8-dimethoxy-3-methyl-7,8-dihydro-4H-isoxazolo(4,5-e)(1,3)diazepi
+n-4-ylidene)acetamide
+;
+_chemical_melting_point 414.15
+_cell_volume   3105.113
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.317
+_exptl_special_details
+;
+Melting point range 414.15-415.15K
+Cell length a is 16.158, not 16.580
+
+;
+_exptl_crystal_preparation 'cyclohexane/diethyl ether'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.051
+_refine_ls_wR_factor_gt 0.051
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 16.158(1)
+_cell_length_b 11.750(1)
+_cell_length_c 16.664(1)
+_cell_angle_alpha 90
+_cell_angle_beta 101.05(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1051(1) 0.8654(1) 0.3566(1)
+N1 N 0.1249(1) 0.9512(1) 0.4180(1)
+C1 C 0.2064(1) 0.9470(2) 0.4434(1)
+C2 C 0.2429(1) 0.8591(1) 0.4016(1)
+C3 C 0.3320(1) 0.8266(1) 0.4102(1)
+N2 N 0.3531(1) 0.7156(1) 0.3907(1)
+C4 C 0.3206(1) 0.6666(1) 0.3250(1)
+N3 N 0.2543(1) 0.7083(1) 0.2636(1)
+C5 C 0.1716(1) 0.7231(1) 0.2862(1)
+C6 C 0.1772(1) 0.8132(1) 0.3497(1)
+O2 O 0.1430(1) 0.6241(1) 0.3176(1)
+C7 C 0.1183(2) 0.5374(2) 0.2571(2)
+C8 C 0.2640(1) 0.7304(2) 0.1839(1)
+O3 O 0.2041(1) 0.7579(2) 0.1327(1)
+C9 C 0.3522(2) 0.7235(2) 0.1681(2)
+O4 O 0.3455(1) 0.5647(1) 0.3048(1)
+C10 C 0.4213(2) 0.5197(2) 0.3560(2)
+N4 N 0.3895(1) 0.8979(1) 0.4391(1)
+C11 C 0.4746(1) 0.8659(2) 0.4480(1)
+O5 O 0.5141(1) 0.8888(2) 0.3964(1)
+C12 C 0.5114(2) 0.8140(3) 0.5280(2)
+C13 C 0.2494(2) 1.0266(2) 0.5073(1)
+H1 H 0.1333(11) 0.7487(13) 0.2361(10)
+H2 H 0.0938(20) 0.4789(29) 0.2824(18)
+H3 H 0.0763(21) 0.5695(27) 0.2143(19)
+H4 H 0.1618(21) 0.5119(27) 0.2337(19)
+H5 H 0.3560(21) 0.7532(26) 0.1227(20)
+H6 H 0.3643(19) 0.6449(30) 0.1588(18)
+H7 H 0.3942(22) 0.7544(26) 0.2139(19)
+H8 H 0.4672(20) 0.5741(28) 0.3572(17)
+H9 H 0.4331(20) 0.4536(28) 0.3357(18)
+H10 H 0.4147(20) 0.5127(27) 0.4104(19)
+H11 H 0.5643(22) 0.8186(27) 0.5414(18)
+H12 H 0.4877(21) 0.7371(27) 0.5299(18)
+H13 H 0.4958(20) 0.8535(27) 0.5731(20)
+H14 H 0.2083(19) 1.0693(27) 0.5257(17)
+H15 H 0.2882(20) 1.0721(28) 0.4859(18)
+H16 H 0.2826(19) 0.9843(27) 0.5541(18)
+#END

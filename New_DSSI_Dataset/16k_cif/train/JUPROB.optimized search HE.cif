@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUPROB
+_audit_creation_date 1993-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUPROB
+_database_code_depnum_ccdc_archive 'CCDC 1190987'
+_chemical_formula_sum 'C7 H6 N4 O6'
+_chemical_formula_moiety
+;
+C7 H6 N4 O6
+;
+_journal_coden_Cambridge 440
+_journal_volume 16
+_journal_year 1992
+_journal_page_first 679
+_journal_name_full 'New J.Chem. '
+loop_
+_publ_author_name
+"R.J.Butcher"
+"R.Gilardi"
+"J.L.Flippen-Anderson"
+"C.George"
+_chemical_name_systematic
+;
+N-Methyl-2,4,6-trinitroaniline
+;
+_cell_volume    978.930
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.643
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0459
+_refine_ls_wR_factor_gt 0.0459
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.5379(9)
+_cell_length_b 16.947(2)
+_cell_length_c 8.927(1)
+_cell_angle_alpha 90
+_cell_angle_beta 98.22(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.1142(4) 0.3655(1) 0.2330(3)
+N1 N -0.1655(4) 0.3718(1) 0.0835(2)
+C2 C -0.3066(6) 0.4281(2) -0.0011(4)
+C3 C 0.0577(4) 0.3188(1) 0.3007(3)
+N2 N 0.1644(3) 0.2649(1) 0.2113(2)
+O1 O 0.1181(3) 0.2634(1) 0.0727(2)
+O2 O 0.2958(3) 0.2216(1) 0.2775(2)
+C4 C 0.1325(4) 0.3225(2) 0.4515(3)
+C5 C 0.0424(4) 0.3714(1) 0.5454(3)
+N3 N 0.1314(4) 0.3761(1) 0.7043(2)
+O3 O 0.0584(3) 0.4254(1) 0.7825(2)
+O4 O 0.2734(3) 0.3324(1) 0.7515(2)
+C6 C -0.1347(4) 0.4124(1) 0.4925(3)
+C7 C -0.2140(4) 0.4067(1) 0.3415(3)
+N4 N -0.4195(4) 0.4408(2) 0.3013(4)
+O5 O -0.4517(3) 0.5072(1) 0.3480(2)
+O6 O -0.5508(3) 0.3996(1) 0.2260(3)
+H1 H -0.0765(41) 0.3422(16) 0.0344(31)
+H2 H -0.2744(44) 0.4339(16) -0.0977(37)
+H3 H -0.2937(47) 0.4805(18) 0.0508(35)
+H4 H -0.4523(56) 0.4086(18) -0.0195(37)
+H5 H 0.2407(42) 0.2954(15) 0.4852(28)
+H6 H -0.198(4) 0.4406(14) 0.5644(32)
+#END

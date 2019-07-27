@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HQUINO10
+_audit_creation_date 1972-10-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HQUINO10
+_chemical_formula_sum 'C9 H7 N1 O2'
+_chemical_formula_moiety
+;
+C9 H7 N1 O2
+;
+_journal_coeditor_code "IUCr A08440"
+_journal_coden_Cambridge 107
+_journal_volume 27
+_journal_year 1971
+_journal_page_first 2443
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"R.Desiderato"
+"J.C.Terry"
+"G.R.Freeman"
+"H.A.Levy"
+_chemical_name_systematic
+;
+8-Hydroxyquinoline-N-oxide
+;
+_cell_volume    740.766
+_exptl_crystal_density_diffrn 1.449
+_exptl_special_details
+;
+bacterial inhibitor, precursor to a number of antimalarial and cancer drugs
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.1364(4)
+_cell_length_b 4.9211(2)
+_cell_length_c 13.1384(4)
+_cell_angle_alpha 90
+_cell_angle_beta 109.26(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.24160 0.17470 0.32700
+C2 C 0.41850 -0.21150 0.38890
+C3 C 0.40410 -0.05170 0.29810
+C4 C 0.31760 0.13760 0.26620
+C5 C 0.15150 0.36990 0.29880
+C6 C 0.08040 0.39260 0.35950
+C7 C 0.09480 0.22630 0.44880
+C8 C 0.18130 0.03810 0.47890
+C9 C 0.25690 0.00940 0.41840
+H1 H 0.48100 -0.34670 0.41480
+H2 H 0.45840 -0.08780 0.25820
+H3 H 0.30520 0.25310 0.20010
+H4 H 0.14210 0.48630 0.23880
+H5 H 0.01880 0.53090 0.34420
+H6 H 0.04890 0.23860 0.49360
+H7 H 0.26480 -0.26000 0.56140
+N1 N 0.34720 -0.18350 0.44750
+O1 O 0.36320 -0.34090 0.53390
+O2 O 0.19370 -0.12190 0.56570
+#END

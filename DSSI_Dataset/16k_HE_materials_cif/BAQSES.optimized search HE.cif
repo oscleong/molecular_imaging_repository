@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAQSES
+_audit_creation_date 2003-09-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAQSES
+_database_code_depnum_ccdc_archive 'CCDC 212301'
+_chemical_formula_sum 'C13 H17 N1 O6'
+_chemical_formula_moiety
+;
+C13 H17 N1 O6
+;
+_journal_coden_Cambridge 1336
+_journal_volume 5
+_journal_year 2003
+_journal_page_first 1475
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"F.Cardona"
+"A.Goti"
+"A.Brandi"
+_chemical_name_systematic
+;
+8,8-Dimethyl-3,7,9,16,17-pentaoxa-4-azapentacyclo(12.2.1.0^2,12^.0^4,11^.0^6,1
+0^)heptadecan-13-one
+;
+_cell_volume   1314.993
+_exptl_crystal_density_diffrn 1.431
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0508
+_refine_ls_wR_factor_gt 0.0508
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 7.141(1)
+_cell_length_b 8.937(1)
+_cell_length_c 20.605(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -1.0828(3) -0.3512(2) -0.2686(1)
+O1 O -1.4874(3) -0.2962(3) -0.10846(9)
+O2 O -1.0109(3) -0.2389(2) -0.08948(9)
+O3 O -0.9779(4) -0.4717(3) -0.04901(9)
+O4 O -0.9416(2) -0.3772(2) -0.21970(8)
+O5 O -1.4499(3) -0.22994(18) -0.31967(8)
+O6 O -1.3583(4) -0.4232(2) -0.38215(9)
+C1 C -0.9376(4) -0.3815(4) -0.10379(13)
+H1 H -0.797(6) -0.373(5) -0.1139(17)
+C2 C -1.0307(4) -0.4452(3) -0.16390(12)
+H2 H -1.010(5) -0.557(3) -0.1661(14)
+C3 C -1.2386(3) -0.4060(3) -0.16879(11)
+H3 H -1.306(5) -0.491(4) -0.1729(14)
+C4 C -1.3198(4) -0.3216(3) -0.11186(10)
+C5 C -1.1860(4) -0.2748(3) -0.05990(11)
+H4 H -1.220(4) -0.182(3) -0.0365(13)
+C6 C -1.1364(4) -0.4081(4) -0.01690(12)
+H5 H -1.10460 -0.37600 0.02670
+H6 H -1.23910 -0.47900 -0.01470
+C7 C -1.2488(4) -0.3089(3) -0.2317(1)
+H7 H -1.256(4) -0.208(3) -0.2217(11)
+C8 C -1.4127(4) -0.3472(3) -0.27457(11)
+H8 H -1.515(6) -0.365(4) -0.2497(17)
+C9 C -1.3388(5) -0.4772(3) -0.31775(12)
+H9 H -1.400(5) -0.560(4) -0.3145(16)
+C10 C -1.1335(4) -0.4942(3) -0.30043(14)
+H10 H -1.11510 -0.57780 -0.27110
+H11 H -1.05850 -0.51020 -0.33910
+C11 C -1.4820(4) -0.2987(3) -0.38134(11)
+C12 C -1.6837(5) -0.3473(5) -0.38754(15)
+H12 H -1.76340 -0.26080 -0.38690
+H13 H -1.71540 -0.41190 -0.35200
+H14 H -1.70050 -0.40010 -0.42770
+C13 C -1.4232(6) -0.1936(4) -0.43426(14)
+H15 H -1.50500 -0.10830 -0.43470
+H16 H -1.43000 -0.24390 -0.47540
+H17 H -1.29690 -0.16110 -0.42660
+#END

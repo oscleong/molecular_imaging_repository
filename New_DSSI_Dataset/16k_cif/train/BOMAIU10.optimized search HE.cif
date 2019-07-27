@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOMAIU10
+_audit_creation_date 1980-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOMAIU10
+_chemical_formula_sum 'C17 H17 N5 O6'
+_chemical_formula_moiety
+;
+C17 H17 N5 O6
+;
+_journal_coden_Cambridge 188
+_journal_year 1980
+_journal_page_first 867
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"A.F.Hegarty"
+"M.T.McCormack"
+"K.Brady"
+"G.Ferguson"
+"P.J.Roberts"
+_chemical_name_systematic
+;
+O-Benzoyl-N,N-dimethyl-N'-(N-methyl-2,4-dinitroanilino)-isourea
+;
+_chemical_melting_point 396.15
+_cell_volume   1844.028
+_exptl_crystal_density_diffrn 1.39
+_exptl_special_details
+;
+Melting point range 396.15-398.15K
+H17 appears to be in error, it's position has not been retained
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 15.732(3)
+_cell_length_b 16.246(5)
+_cell_length_c 7.628(1)
+_cell_angle_alpha 90
+_cell_angle_beta 108.94(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.51610 0.36560 0.33370
+C2 C 0.42910 0.36010 0.33020
+C3 C 0.39250 0.28360 0.33300
+C4 C 0.44180 0.21280 0.33810
+C5 C 0.52920 0.21790 0.33720
+C6 C 0.56950 0.29530 0.33140
+C7 C 0.70750 0.22800 0.31930
+C8 C 0.74200 0.41330 0.32100
+C9 C 0.82980 0.53920 0.36090
+C10 C 0.71700 0.50520 0.06180
+C11 C 0.87880 0.36570 0.53690
+C12 C 0.93030 0.36740 0.73620
+C13 C 0.89700 0.40300 0.86470
+C14 C 0.94980 0.40280 1.04920
+C15 C 1.03400 0.36830 1.10240
+C16 C 1.06710 0.33280 0.97380
+C17 C 1.01610 0.33250 0.78820
+N1 N 0.55470 0.44950 0.36520
+N2 N 0.30120 0.27860 0.34010
+N3 N 0.65500 0.30120 0.32430
+N4 N 0.67210 0.37170 0.23030
+N5 N 0.76730 0.48030 0.24970
+O1 O 0.51400 0.50390 0.26330
+O2 O 0.62100 0.45960 0.50040
+O3 O 0.27050 0.21040 0.35330
+O4 O 0.25910 0.34180 0.33370
+O5 O 0.79220 0.39470 0.50200
+O6 O 0.90450 0.34290 0.41360
+H1 H 0.39600 0.41100 0.33500
+H2 H 0.42000 0.15600 0.34400
+H3 H 0.56700 0.16600 0.35200
+H4 H 0.67200 0.19000 0.21600
+H5 H 0.72000 0.19400 0.42500
+H6 H 0.77100 0.24500 0.33200
+H7 H 0.88800 0.52200 0.37100
+H8 H 0.81800 0.59400 0.29800
+H9 H 0.82100 0.55100 0.48900
+H10 H 0.69100 0.45700 -0.01900
+H11 H 0.66700 0.54200 0.06500
+H12 H 0.75800 0.53500 0.00800
+H13 H 0.83700 0.43500 0.82500
+H14 H 0.92900 0.43300 1.13400
+H15 H 1.08000 0.37800 1.22900
+H16 H 1.13200 0.30500 1.01100
+#END

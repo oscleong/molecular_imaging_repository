@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KANQAR01
+_audit_creation_date 2003-01-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KANQAR01
+_database_code_depnum_ccdc_archive 'CCDC 197999'
+_chemical_formula_sum 'C4 H4 N8 O3'
+_chemical_formula_moiety
+;
+C4 H4 N8 O3
+;
+_journal_coden_Cambridge 1271
+_journal_volume 25
+_journal_year 2000
+_journal_page_first 277
+_journal_name_full 'Propellants,Explos.,Pyrotech. '
+loop_
+_publ_author_name
+"R.W.Beal"
+"C.D.Incarvito"
+"B.J.Rhatigan"
+"A.L.Rheingold"
+"T.B.Brill"
+_chemical_name_systematic
+;
+trans-(D,D)-3,3'-Diamino-4,4'-azoxyfurazan
+;
+_cell_volume    798.924
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.764
+_exptl_special_details
+;
+low temperature polymorph
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 233
+_refine_special_details
+;
+The azoxy oxygen atom, O3, is disordered over two sites with occupancies of 
+0.80:0.20.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0825
+_refine_ls_wR_factor_gt 0.0825
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.3212(8)
+_cell_length_b 9.6326(9)
+_cell_length_c 8.9004(8)
+_cell_angle_alpha 90
+_cell_angle_beta 91.3434(19)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7765(4) 0.5970(3) 0.1043(4)
+O2 O 0.7355(4) 1.3501(3) -0.0907(4)
+N1 N 0.8869(4) 0.6291(4) 0.2090(4)
+N2 N 0.7265(4) 0.7134(5) 0.0328(4)
+N3 N 0.9961(5) 0.8379(5) 0.2850(5)
+N4 N 0.6249(4) 1.3286(4) -0.1978(4)
+N5 N 0.7734(4) 1.2299(4) -0.0195(4)
+N6 N 0.4987(4) 1.1299(4) -0.2779(5)
+N7 N 0.6961(4) 0.9940(4) -0.0379(4)
+N8 N 0.7953(4) 0.9580(4) 0.0536(4)
+C1 C 0.8031(4) 0.8171(5) 0.0900(5)
+C2 C 0.9034(4) 0.7645(4) 0.2005(5)
+C3 C 0.6912(4) 1.1369(4) -0.0804(4)
+C4 C 0.5963(4) 1.1956(4) -0.1921(5)
+O3 O 0.6016(4) 0.9115(4) -0.0976(4)
+O4? O 0.8937(15) 1.0549(15) 0.1040(15)
+H1 H 0.464(5) 1.163(5) -0.344(5)
+H2 H 0.488(4) 1.043(5) -0.271(4)
+H3 H 1.039(5) 0.800(5) 0.339(5)
+H4 H 1.002(5) 0.923(6) 0.271(5)
+#END

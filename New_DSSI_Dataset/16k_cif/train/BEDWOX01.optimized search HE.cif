@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEDWOX01
+_audit_creation_date 2004-03-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEDWOX01
+_database_code_depnum_ccdc_archive 'CCDC 226980'
+_chemical_formula_sum 'C10 H6 N2 O4'
+_chemical_formula_moiety
+;
+C10 H6 N2 O4
+;
+_journal_coeditor_code "IUCr CF6281"
+_journal_coden_Cambridge 1370
+_journal_volume 59
+_journal_year 2003
+_journal_page_first o1717
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"R.Moreno-Fuquen"
+"H.Valencia"
+"R.Abonia"
+"A.R.Kennedy"
+"D.Graham"
+_chemical_name_systematic
+;
+p-Nitrophenylmaleimide
+;
+_chemical_melting_point 436.0
+_cell_volume    939.453
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.543
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'chloroform'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0302
+_refine_ls_wR_factor_gt 0.0302
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 10.535(2)
+_cell_length_b 11.624(3)
+_cell_length_c 8.148(2)
+_cell_angle_alpha 90
+_cell_angle_beta 109.69(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.50000 0.21145(13) 0.25000
+N2 N 0.50000 -0.27159(14) 0.25000
+C1 C 0.50000 0.08902(15) 0.25000
+C2 C 0.50000 -0.14578(15) 0.25000
+C3 C 0.39783(13) 0.03000(11) 0.12627(18)
+H1 H 0.32940 0.07030 0.04380
+O1 O 0.43544(12) -0.32156(9) 0.11594(15)
+C4 C 0.39760(13) -0.08862(12) 0.12539(17)
+H2 H 0.32970 -0.12920 0.04240
+O2 O 0.27411(10) 0.24654(10) 0.20227(15)
+C5 C 0.38614(15) 0.28100(12) 0.22655(18)
+C6 C 0.43556(17) 0.40155(13) 0.2380(2)
+H3 H 0.38280 0.46690 0.22930
+O1F O 0.56456(12) -0.32156(9) 0.38406(15)
+C4F C 0.60240(13) -0.08862(12) 0.37461(17)
+C3F C 0.60217(13) 0.03000(11) 0.37373(18)
+H1F H 0.67060 0.07030 0.45620
+H2F H 0.67030 -0.12920 0.45760
+C6F C 0.56444(17) 0.40155(13) 0.2620(2)
+C5F C 0.61386(15) 0.28100(12) 0.27345(18)
+O2F O 0.72589(10) 0.24654(10) 0.29773(15)
+H3F H 0.61720 0.46690 0.27070
+#END

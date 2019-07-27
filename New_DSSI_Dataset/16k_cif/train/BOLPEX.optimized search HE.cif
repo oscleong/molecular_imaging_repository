@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOLPEX
+_audit_creation_date 1983-07-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOLPEX
+_database_code_depnum_ccdc_archive 'CCDC 1113560'
+_chemical_formula_sum 'C14 H6 N2 O8'
+_chemical_formula_moiety
+;
+C14 H6 N2 O8
+;
+_journal_coeditor_code "IUCr A22318"
+_journal_coden_Cambridge 591
+_journal_volume 39
+_journal_year 1983
+_journal_page_first 300
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"C.J.Brown"
+"M.L.Colclough"
+_chemical_name_systematic
+;
+1,8-Dinitro-4,5-dihydroxy-anthraquinone
+;
+_chemical_name_common
+;
+1,8-Dihydroxy-4,5-dinitro-anthraquinone
+;
+_cell_volume   1262.618
+_exptl_crystal_density_diffrn 1.737
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 15.664(8)
+_cell_length_b 12.056(7)
+_cell_length_c 6.704(5)
+_cell_angle_alpha 90
+_cell_angle_beta 94.20(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.02180 0.21270 0.39130
+C2 C -0.03750 0.19840 0.53350
+C3 C -0.04300 0.27560 0.68220
+C4 C 0.01250 0.36570 0.69370
+C5 C 0.24500 0.58520 0.41820
+C6 C 0.30370 0.59970 0.27580
+C7 C 0.31280 0.52050 0.13170
+C8 C 0.26160 0.42670 0.12810
+C9 C 0.13690 0.31900 0.23730
+C10 C 0.12910 0.47760 0.56090
+C11 C 0.19200 0.49170 0.41210
+C12 C 0.19950 0.41200 0.26170
+C13 C 0.07610 0.30330 0.39570
+C14 C 0.07240 0.38140 0.54880
+N1 N 0.02460 0.12460 0.23990
+N2 N 0.28070 0.34070 -0.01780
+O1 O 0.07820 0.05070 0.27850
+O2 O -0.02590 0.12920 0.09600
+O3 O 0.30750 0.25120 0.04840
+O4 O 0.27510 0.36590 -0.19320
+O5 O 0.00260 0.43790 0.84190
+O6 O 0.24280 0.66520 0.55860
+O7 O 0.13010 0.26450 0.08390
+O8 O 0.12420 0.54670 0.69690
+H1 H -0.08900 0.13100 0.49300
+H2 H -0.08800 0.26300 0.78600
+H3 H 0.34100 0.66700 0.27400
+H4 H 0.34100 0.53000 0.00500
+H5 H 0.04400 0.49100 0.86000
+H6 H 0.18100 0.64700 0.62400
+#END

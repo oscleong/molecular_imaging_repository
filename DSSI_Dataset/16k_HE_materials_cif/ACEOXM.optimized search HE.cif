@@ -1,0 +1,93 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ACEOXM
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ACEOXM
+_database_code_depnum_ccdc_archive 'CCDC 1100630'
+_chemical_formula_sum 'C3 H7 N1 O1'
+_chemical_formula_moiety
+;
+C3 H7 N1 O1
+;
+_journal_coeditor_code "IUCr A00487"
+_journal_coden_Cambridge 1
+_journal_volume 4
+_journal_year 1951
+_journal_page_first 450
+_journal_name_full 'Acta Crystallogr. '
+loop_
+_publ_author_name
+"T.K.Bierlein"
+"E.C.Lingafelter"
+_chemical_name_systematic
+;
+Acetoxime
+;
+_cell_volume    684.382
+_exptl_crystal_density_diffrn 1.057
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.2
+_refine_ls_wR_factor_gt 0.2
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 x,y,-1/2-z
+11 -y,x-y,-1/2-z
+12 -x+y,-x,-1/2-z
+_cell_length_a 10.61
+_cell_length_b 10.61
+_cell_length_c 7.02
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.43200 0.24500 0.25000
+N1 N 0.47400 0.14300 0.25000
+C1 C 0.36200 0.01300 0.25000
+C2 C 0.20300 -0.03700 0.25000
+C3 C 0.40300 -0.10800 0.25000
+#END

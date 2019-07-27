@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CILSUL
+_audit_creation_date 1985-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CILSUL
+_chemical_formula_sum 'C8 H14 N4 O2'
+_chemical_formula_moiety
+;
+C8 H14 N4 O2
+;
+_journal_coden_Cambridge 35
+_journal_volume 49
+_journal_year 1984
+_journal_page_first 1481
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"R.L.Willer"
+"C.K.Lowe-Ma"
+"D.W.Moore"
+_chemical_name_systematic
+;
+trans-1,8-Dinitroso-1,8-diazadecalin
+;
+_chemical_melting_point 341.15
+_cell_volume    972.669
+_exptl_crystal_colour 'light-yellow'
+_exptl_special_details
+;
+Melting point range 341.15-343.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.074
+_refine_ls_wR_factor_gt 0.074
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.444(2)
+_cell_length_b 9.546(3)
+_cell_length_c 13.801(6)
+_cell_angle_alpha 90
+_cell_angle_beta 97.34(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.18778(66) -0.05285(52) 0.90479(33)
+C2 C 0.26964(65) 0.08013(50) 0.94724(34)
+C3 C 0.35981(61) 0.16657(47) 0.87396(29)
+C4 C 0.43498(57) 0.17846(44) 0.69868(26)
+C5 C 0.42587(57) 0.09849(48) 0.60261(30)
+C6 C 0.23592(62) 0.04851(51) 0.56759(33)
+C7 C 0.16232(49) 0.05245(40) 0.73707(25)
+C8 C 0.35573(47) 0.09336(41) 0.77568(24)
+N1 N 0.08012(49) -0.02381(36) 0.81013(26)
+N2 N 0.16323(44) -0.02600(35) 0.64623(22)
+N3 N -0.09736(63) -0.03881(50) 0.80553(38)
+N4 N 0.12727(49) -0.15986(40) 0.64653(26)
+O1 O -0.18106(49) 0.00060(44) 0.72838(34)
+O2 O 0.14657(51) -0.22241(39) 0.56961(25)
+#END

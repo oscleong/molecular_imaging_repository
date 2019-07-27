@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MACBIC
+_audit_creation_date 2003-06-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MACBIC
+_database_code_depnum_ccdc_archive 'CCDC 210885'
+_chemical_formula_sum 'C14 H18 N6 O2'
+_chemical_formula_moiety
+;
+C14 H18 N6 O2
+;
+_journal_coeditor_code "IUCr NA0145"
+_journal_coden_Cambridge 622
+_journal_volume 59
+_journal_year 2003
+_journal_page_first 263
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"M.Melguizo"
+"A.Quesada"
+"J.N.Low"
+"C.Glidewell"
+_chemical_name_systematic
+;
+2-Amino-4-(n-butylamino)-6-((pyrid-3-yl)methoxy)-5-nitrosopyrimidine
+;
+_chemical_melting_point 429
+_cell_volume   2979.389
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.348
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'acetonitrile'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0601
+_refine_ls_wR_factor_gt 0.0601
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 28.3925(6)
+_cell_length_b 8.1627(3)
+_cell_length_c 15.1540(5)
+_cell_angle_alpha 90
+_cell_angle_beta 121.9700(13)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.09435(10) 0.6293(2) 0.35945(17)
+C1 C 0.11846(12) 0.5643(3) 0.4580(2)
+N2 N 0.11195(10) 0.6559(3) 0.52305(17)
+N3 N 0.14601(10) 0.4235(2) 0.49342(16)
+N4 N 0.17926(9) 0.1942(3) 0.45739(16)
+C2 C 0.12872(11) 0.3883(3) 0.31959(19)
+N5 N 0.1325(1) 0.3120(3) 0.24433(17)
+O1 O 0.15774(8) 0.1743(2) 0.26680(14)
+C3 C 0.15148(11) 0.3341(3) 0.4253(2)
+C4 C 0.20508(12) 0.1292(3) 0.5627(2)
+C5 C 0.22718(12) -0.0406(3) 0.5669(2)
+C6 C 0.25527(14) -0.1174(3) 0.6742(2)
+C7 C 0.27919(15) -0.2858(4) 0.6761(3)
+C8 C 0.10045(11) 0.5410(3) 0.29452(19)
+C9 C 0.04640(12) 0.8031(3) 0.0687(2)
+C10 C 0.07416(13) 0.9390(3) 0.0682(2)
+N6 N 0.07286(11) 0.9978(3) -0.01612(19)
+C11 C 0.04292(13) 0.9130(4) -0.1035(2)
+C12 C 0.01361(13) 0.7776(4) -0.1114(2)
+C13 C 0.01435(13) 0.7223(3) -0.0246(2)
+C14 C 0.05078(14) 0.7497(3) 0.1677(2)
+O2 O 0.07952(8) 0.5934(2) 0.19662(13)
+H1 H 0.12530 0.62390 0.58600
+H2 H 0.09430 0.74740 0.50230
+H3 H 0.18230 0.13750 0.41280
+H4 H 0.17800 0.12520 0.58310
+H5 H 0.23520 0.20050 0.61080
+H6 H 0.25360 -0.03520 0.54490
+H7 H 0.19670 -0.11030 0.51810
+H8 H 0.22850 -0.12820 0.69520
+H9 H 0.28490 -0.04620 0.72380
+H10 H 0.24940 -0.36050 0.63390
+H11 H 0.30010 -0.32550 0.74630
+H12 H 0.30300 -0.27720 0.64920
+H13 H 0.09560 0.99510 0.13060
+H14 H 0.04210 0.94880 -0.16250
+H15 H -0.00680 0.72230 -0.17440
+H16 H -0.00660 0.63140 -0.02900
+H17 H 0.07140 0.83000 0.22210
+H18 H 0.01410 0.73820 0.15700
+#END

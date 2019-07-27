@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EGUQIG
+_audit_creation_date 2002-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EGUQIG
+_database_code_depnum_ccdc_archive 'CCDC 186323'
+_chemical_formula_sum 'C13 H14 N2 O4'
+_chemical_formula_moiety
+;
+C13 H14 N2 O4
+;
+_journal_coden_Cambridge 16
+_journal_volume 58
+_journal_year 2002
+_journal_page_first 7303
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"A.G.M.Barrett"
+"P.Dozzo"
+"A.J.P.White"
+"D.J.Williams"
+_chemical_name_systematic
+;
+(3S,5R)-3-((1R)-Hydroxy(4-nitrophenyl)methyl)-1-azabicyclo(3.2.0)heptan-2-one
+;
+_chemical_melting_point 395.15
+_cell_volume   1253.409
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.39
+_exptl_special_details
+;
+Melting point range 395.15-399.15K
+
+;
+_exptl_crystal_description 'needles'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0372
+_refine_ls_wR_factor_gt 0.0372
+loop_
+_citation_database_id_CSD
+_citation_special_details
+EGUQOM "is a stereoisomer of this entry"
+EGUQUS "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 5.7636(4)
+_cell_length_b 9.3935(5)
+_cell_length_c 23.1511(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2843(5) 0.7162(3) 0.19163(9)
+C1 C 0.3585(5) 0.6619(3) 0.24208(11)
+O1 O 0.4716(5) 0.5525(3) 0.24829(10)
+C2 C 0.2703(5) 0.7588(3) 0.2900(1)
+H1 H 0.3753(5) 0.8405(3) 0.29343(10)
+C3 C 0.0401(7) 0.8101(4) 0.26508(13)
+H2 H -0.0006(7) 0.9036(4) 0.27975(13)
+H3 H -0.0844(7) 0.7440(4) 0.27372(13)
+C4 C 0.0916(7) 0.8149(3) 0.19971(12)
+H4 H 0.1266(7) 0.9111(3) 0.18586(12)
+C5 C -0.0496(8) 0.7268(4) 0.15583(14)
+H5 H -0.1724(8) 0.6705(4) 0.17312(14)
+H6 H -0.1071(8) 0.7817(4) 0.12334(14)
+C6 C 0.1703(7) 0.6427(3) 0.14277(11)
+H7 H 0.1539(7) 0.5408(3) 0.14820(11)
+H8 H 0.2383(7) 0.6641(3) 0.10544(11)
+C7 C 0.2567(5) 0.6843(2) 0.34814(10)
+H9 H 0.1465(5) 0.6052(2) 0.3451(1)
+O2 O 0.4772(4) 0.6288(3) 0.36401(10)
+H10 H 0.5288(81) 0.5694(40) 0.3363(15)
+C8 C 0.1765(4) 0.7829(3) 0.39553(9)
+C9 C 0.3155(5) 0.8970(3) 0.41210(11)
+H11 H 0.4581(5) 0.9110(3) 0.39419(11)
+C10 C 0.2436(6) 0.9898(3) 0.45502(13)
+H12 H 0.3376(6) 1.0651(3) 0.46661(13)
+C11 C 0.0307(6) 0.9683(3) 0.48003(10)
+C12 C -0.1112(5) 0.8563(3) 0.46483(10)
+H13 H -0.2542(5) 0.8434(3) 0.48271(10)
+C13 C -0.0361(5) 0.7639(3) 0.42244(10)
+H14 H -0.1296(5) 0.6876(3) 0.41176(10)
+N2 N -0.0552(7) 1.0690(3) 0.52388(12)
+O3 O 0.0836(8) 1.1497(4) 0.54516(15)
+O4 O -0.2583(6) 1.0649(4) 0.53714(13)
+#END

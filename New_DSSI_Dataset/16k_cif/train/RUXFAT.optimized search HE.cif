@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUXFAT
+_audit_creation_date 2015-12-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUXFAT
+_database_code_depnum_ccdc_archive 'CCDC 1439811'
+_chemical_formula_sum 'C9 H8 N4 O7'
+_chemical_formula_moiety
+;
+C9 H8 N4 O7
+;
+_journal_coden_Cambridge 1078
+_journal_year 2015
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"A.L.Rheingold"
+"D.H.Evans"
+_chemical_name_systematic
+;
+2-(3,4-dinitro-1H-pyrazol-1-yl)-6,8-dioxabicyclo[3.2.1]octan-4-one
+;
+_cell_volume   1117.038
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.69
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0371
+_refine_ls_wR_factor_gt 0.0371
+loop_
+_citation_database_id_CSD
+_citation_special_details
+ROFHAV "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.512(2)
+_cell_length_b 8.546(3)
+_cell_length_c 20.072(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -1.3097(5) 0.0415(4) -0.48115(17)
+O2 O -1.0123(3) -0.0614(2) -0.35230(9)
+O3 O -0.9888(4) -0.2390(2) -0.43541(11)
+O4 O -1.3204(3) 0.5178(3) -0.36752(11)
+O5 O -1.1811(4) 0.6021(3) -0.27708(12)
+O6 O -0.7686(4) 0.6707(3) -0.26030(12)
+O7 O -0.5929(4) 0.4773(3) -0.22128(11)
+N1 N -0.8334(4) 0.2382(2) -0.37915(12)
+N2 N -1.0181(4) 0.3092(3) -0.38177(11)
+N3 N -1.1804(4) 0.5225(3) -0.32743(12)
+N4 N -0.7179(4) 0.5331(3) -0.25953(12)
+C1 C -0.7936(5) 0.0977(3) -0.42023(14)
+H1 H -0.65700 0.10420 -0.43800
+C2 C -0.9470(6) 0.0879(4) -0.47761(15)
+H2 H -0.88570 0.02980 -0.51340
+H3 H -0.97700 0.19120 -0.49370
+C3 C -1.1436(6) 0.0089(4) -0.45829(16)
+C4 C -1.1163(5) -0.1217(3) -0.40816(18)
+H4 H -1.24710 -0.16330 -0.39510
+C5 C -0.8064(4) -0.0485(3) -0.37692(14)
+H5 H -0.71050 -0.04380 -0.34070
+C6 C -0.7810(5) -0.1985(3) -0.41744(16)
+H6 H -0.69920 -0.17930 -0.45640
+H7 H -0.71830 -0.27970 -0.39140
+C7 C -1.0011(4) 0.4263(3) -0.33886(12)
+C8 C -0.8077(5) 0.4278(3) -0.30808(13)
+C9 C -0.7050(5) 0.3039(3) -0.33512(14)
+H8 H -0.56850 0.26950 -0.32440
+#END

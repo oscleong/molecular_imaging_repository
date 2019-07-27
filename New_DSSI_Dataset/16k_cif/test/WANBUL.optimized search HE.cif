@@ -1,0 +1,170 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WANBUL
+_audit_creation_date 2017-04-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WANBUL
+_database_code_depnum_ccdc_archive 'CCDC 1430550'
+_chemical_formula_sum 'C36 H46 N4 O2'
+_chemical_formula_moiety
+;
+C36 H46 N4 O2
+;
+_journal_coden_Cambridge 1291
+_journal_year 2017
+_journal_page_first 1820
+_journal_name_full 'Eur.J.Org.Chem. '
+loop_
+_publ_author_name
+"Ruoshi Li"
+"M.Zeller"
+"C.Bruckner"
+_chemical_name_systematic
+;
+3,3,7,8,12,13,17,18-Octaethyl-2-oxochlorin 22-N-oxide unknown solvate
+;
+_cell_volume   3424.981
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.099
+_exptl_crystal_description 'rod'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0523
+_refine_ls_wR_factor_gt 0.0523
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 17.597(2)
+_cell_length_b 8.2343(12)
+_cell_length_c 23.977(3)
+_cell_angle_alpha 90
+_cell_angle_beta 99.660(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.51101(9) 0.7346(2) -0.00860(6)
+C2 C 0.54672(9) 0.8065(2) -0.05327(7)
+C3 C 0.61885(10) 0.8560(2) -0.02997(7)
+C4 C 0.63026(9) 0.8184(2) 0.02996(7)
+C5 C 0.69352(9) 0.8586(2) 0.07072(7)
+H1 H 0.73990 0.87930 0.05660
+C6 C 0.69889(9) 0.8731(2) 0.12913(7)
+C7 C 0.7644(1) 0.9247(2) 0.16947(7)
+C8 C 0.74041(10) 0.9424(2) 0.22063(7)
+C9 C 0.66013(10) 0.8986(2) 0.21306(7)
+C10 C 0.61135(10) 0.8957(2) 0.25336(7)
+H2 H 0.63380 0.92920 0.29040
+C11 C 0.53498(10) 0.8508(2) 0.24655(7)
+C12 C 0.49003(11) 0.8618(2) 0.29351(8)
+C13 C 0.40869(10) 0.8059(2) 0.27003(7)
+C14 C 0.41822(10) 0.7611(2) 0.20980(7)
+C15 C 0.35748(10) 0.7008(2) 0.17108(7)
+H3 H 0.31160 0.67850 0.18560
+C16 C 0.35459(9) 0.6681(2) 0.11324(7)
+C17 C 0.28932(9) 0.6145(2) 0.07334(7)
+C18 C 0.31157(9) 0.6024(2) 0.02126(7)
+C19 C 0.39131(9) 0.6519(2) 0.02827(7)
+C20 C 0.43601(9) 0.6750(2) -0.01347(7)
+H4 H 0.41220 0.64610 -0.05070
+C21 C 0.50686(10) 0.8265(2) -0.11354(7)
+H5 H 0.52750 0.92410 -0.12990
+H6 H 0.45110 0.84400 -0.11400
+C22 C 0.51744(11) 0.6796(2) -0.15027(7)
+H7 H 0.49160 0.69960 -0.18910
+H8 H 0.49500 0.58340 -0.13530
+H9 H 0.57250 0.66140 -0.15000
+C23 C 0.67687(10) 0.9419(2) -0.05869(7)
+H10 H 0.70300 1.02630 -0.03290
+H11 H 0.64960 0.99710 -0.09300
+C24 C 0.73738(11) 0.8282(3) -0.07555(9)
+H12 H 0.71190 0.74260 -0.10030
+H13 H 0.76720 0.77910 -0.04150
+H14 H 0.77200 0.88980 -0.09570
+C25 C 0.84419(10) 0.9440(2) 0.15645(8)
+H15 H 0.87340 1.02100 0.18370
+H16 H 0.84130 0.99010 0.11800
+C26 C 0.88651(11) 0.7818(3) 0.15972(9)
+H17 H 0.85710 0.70490 0.13330
+H18 H 0.89180 0.73880 0.19830
+H19 H 0.93770 0.79750 0.14970
+C27 C 0.78729(10) 0.9935(2) 0.27601(7)
+H20 H 0.75620 1.06860 0.29530
+H21 H 0.83320 1.05360 0.26850
+C28 C 0.81350(11) 0.8518(2) 0.31529(7)
+H22 H 0.84420 0.77660 0.29650
+H23 H 0.76830 0.79490 0.32450
+H24 H 0.84490 0.89260 0.35010
+C29 C 0.38525(11) 0.6617(3) 0.30382(8)
+H25 H 0.38150 0.69900 0.34250
+H26 H 0.33340 0.62440 0.28590
+C30 C 0.43983(13) 0.5208(3) 0.30789(10)
+H27 H 0.41910 0.43040 0.32730
+H28 H 0.48990 0.55330 0.32930
+H29 H 0.44620 0.48670 0.26980
+C31 C 0.35180(12) 0.9487(3) 0.27129(9)
+H30 H 0.29920 0.91040 0.25560
+H31 H 0.35200 0.97960 0.31120
+C32 C 0.36852(13) 1.0979(3) 0.23912(10)
+H32 H 0.36640 1.07020 0.19910
+H33 H 0.42000 1.13890 0.25470
+H34 H 0.33000 1.18160 0.24260
+C33 C 0.2109(1) 0.5833(2) 0.08790(8)
+H35 H 0.21640 0.51290 0.12180
+H36 H 0.17940 0.52400 0.05630
+C34 C 0.16866(11) 0.7383(3) 0.09944(9)
+H37 H 0.16090 0.80660 0.06550
+H38 H 0.19940 0.79770 0.13080
+H39 H 0.11850 0.71030 0.10940
+C35 C 0.26283(10) 0.5581(2) -0.03388(7)
+H40 H 0.22650 0.47100 -0.02740
+H41 H 0.29640 0.51490 -0.05970
+C36 C 0.21699(11) 0.7024(3) -0.06221(8)
+H42 H 0.25270 0.78560 -0.07150
+H43 H 0.18500 0.74820 -0.03630
+H44 H 0.18390 0.66600 -0.09700
+N1 N 0.56397(7) 0.74438(17) 0.04023(5)
+N2 N 0.63808(8) 0.85827(18) 0.15763(6)
+H45 H 0.5952(9) 0.810(2) 0.1440(8)
+N3 N 0.48949(8) 0.79274(18) 0.19866(6)
+N4 N 0.41366(8) 0.69031(18) 0.08441(6)
+H46 H 0.4592(11) 0.704(2) 0.0982(8)
+O1 O 0.55959(6) 0.66001(14) 0.08798(5)
+O2 O 0.51296(8) 0.9090(2) 0.34156(5)
+#END

@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EAZOBZ01
+_audit_creation_date 1975-10-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EAZOBZ01
+_database_code_depnum_ccdc_archive 'CCDC 1148087'
+_chemical_formula_sum 'C18 H18 N2 O5'
+_chemical_formula_moiety
+;
+C18 H18 N2 O5
+;
+_journal_coden_Cambridge 209
+_journal_volume 28
+_journal_year 1974
+_journal_page_first 85
+_journal_name_full 'Mol.Cryst.Liq.Cryst. (Discontinued) '
+loop_
+_publ_author_name
+"W.R.Krigbaum"
+"T.Taga"
+_chemical_name_systematic
+;
+Ethyl p-azoxybenzoate
+;
+_cell_volume   3396.916
+_exptl_crystal_density_diffrn 1.325
+_exptl_special_details
+;
+high temperature polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Disorder of azoxy group due to presence of trans- cis and cis-trans 
+rotational conformers.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.14
+_refine_ls_wR_factor_gt 0.14
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 23.36
+_cell_length_b 4.58
+_cell_length_c 32.24
+_cell_angle_alpha 90
+_cell_angle_beta 100.0
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.03390 -0.49220 -0.19740
+C2 C 0.15440 0.16070 -0.04200
+C3 C 0.14080 -0.02500 -0.07800
+C4 C -0.00090 -0.66260 -0.16930
+C5 C 0.06510 -0.33280 -0.12660
+C6 C 0.08460 -0.13890 -0.08890
+C7 C 0.04330 -0.06210 -0.06630
+C8 C 0.05110 0.11460 -0.03270
+C9 C 0.10890 0.24260 -0.02170
+O1 O 0.01310 -0.39780 -0.13460
+O2 O 0.10440 -0.43830 -0.14110
+C10 C 0.15450 -0.26480 0.06520
+C11 C 0.21120 -0.15890 0.06890
+C12 C 0.23260 0.02600 0.10180
+C13 C 0.19760 0.09050 0.12980
+C14 C 0.13990 -0.02050 0.12480
+C15 C 0.11660 -0.20860 0.09330
+C16 C 0.21770 0.27360 0.16560
+C17 C 0.29320 0.60480 0.20150
+C18 C 0.34290 0.45510 0.22170
+O3 O 0.18510 0.35300 0.18900
+O4 O 0.26940 0.37260 0.16980
+#END

@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOSHES
+_audit_creation_date 2002-10-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOSHES
+_database_code_depnum_ccdc_archive 'CCDC 177114'
+_chemical_formula_sum 'C8 H6 N2 O2'
+_chemical_formula_moiety
+;
+C8 H6 N2 O2
+;
+_journal_coeditor_code "IUCr FG1652"
+_journal_coden_Cambridge 591
+_journal_volume 58
+_journal_year 2002
+_journal_page_first o528
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"S.Boitsov"
+"J.Songstad"
+"K.W.Tornroos"
+_chemical_name_systematic
+;
+(3-Nitrophenyl)acetonitrile
+;
+_chemical_melting_point 335
+_cell_volume    741.188
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.453
+_exptl_special_details
+;
+Melting point range 335-336K
+
+;
+_exptl_crystal_description 'irregular prism'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.039
+_refine_ls_wR_factor_gt 0.039
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 5.3641(4)
+_cell_length_b 11.5157(9)
+_cell_length_c 12.1981(10)
+_cell_angle_alpha 90
+_cell_angle_beta 100.369(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.31273(16) 0.06697(8) 0.27428(7)
+N1 N 0.33325(19) -0.10745(8) 0.03996(8)
+O1 O 0.20019(14) 0.11412(7) 0.59595(6)
+O2 O 0.55242(14) 0.20912(7) 0.63996(6)
+C2 C 0.27305(16) 0.07688(7) 0.38389(7)
+H1 H 0.13580 0.03800 0.40750
+N2 N 0.39360(15) 0.15698(7) 0.57222(6)
+C3 C 0.43914(16) 0.14500(7) 0.45747(7)
+C4 C 0.64376(17) 0.20269(8) 0.42789(8)
+H2 H 0.75620 0.24720 0.48080
+C5 C 0.67872(18) 0.19320(8) 0.31799(8)
+H3 H 0.81570 0.23270 0.29470
+C6 C 0.51416(17) 0.12620(8) 0.24186(7)
+H4 H 0.53960 0.12080 0.16690
+C7 C 0.12750(18) -0.00451(9) 0.19274(8)
+H5 H 0.05000 -0.06400 0.23460
+H6 H -0.00990 0.04680 0.15530
+C8 C 0.24486(19) -0.06250(9) 0.10756(8)
+#END

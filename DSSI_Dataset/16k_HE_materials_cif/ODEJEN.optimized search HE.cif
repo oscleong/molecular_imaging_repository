@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ODEJEN
+_audit_creation_date 2006-07-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ODEJEN
+_database_code_depnum_ccdc_archive 'CCDC 610768'
+_chemical_formula_sum 'C10 H15 N3 O13'
+_chemical_formula_moiety
+;
+C10 H15 N3 O13
+;
+_journal_coeditor_code "IUCr FL2029"
+_journal_coden_Cambridge 1370
+_journal_volume 62
+_journal_year 2006
+_journal_page_first o2446
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"J.R.Deschamps"
+"P.T.Charles"
+"A.W.Kusterbeck"
+_chemical_name_systematic
+;
+Pentaerythritol trinitrate succinate
+;
+_chemical_name_common
+;
+2,2-bis(Nitratomethyl)-3-nitratopropyl succinate
+;
+_cell_volume   1663.451
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.537
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'chloroform'
+_diffrn_ambient_temperature 306
+_diffrn_special_details
+;
+crystal is a three component twin but the refinement against the 
+non-overlapped data is reported
+;
+_refine_special_details
+;
+One nitratomethyl group is disordered over two sites with occupancies 
+0.673:0.327.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0425
+_refine_ls_wR_factor_gt 0.0425
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.3592(9)
+_cell_length_b 11.9156(10)
+_cell_length_c 13.4905(11)
+_cell_angle_alpha 90
+_cell_angle_beta 92.637(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.66792(13) 0.16667(12) 0.70113(9)
+C2 C 0.6652(7) 0.1661(6) 0.8168(4)
+H1 H 0.58110 0.18910 0.83820
+H2 H 0.68470 0.09200 0.84300
+O1 O 0.7643(10) 0.2463(8) 0.8495(5)
+N1 N 0.7935(8) 0.2392(7) 0.9504(2)
+O2 O 0.7132(9) 0.1861(8) 1.0010(5)
+O3? O 0.8768(10) 0.3032(10) 0.9761(4)
+C3? C 0.6714(12) 0.1560(12) 0.8109(10)
+H3? H 0.58460 0.14900 0.83420
+H4? H 0.72080 0.09040 0.83200
+O4? O 0.732(2) 0.2577(17) 0.8498(10)
+N2? N 0.7531(12) 0.2648(9) 0.9517(8)
+O5? O 0.7636(15) 0.1654(11) 0.9931(10)
+O6 O 0.8125(16) 0.3457(10) 0.978(1)
+C4 C 0.80146(13) 0.12840(14) 0.66994(10)
+H5 H 0.86880 0.17120 0.70500
+H6 H 0.81430 0.04950 0.68510
+O7 O 0.80551(10) 0.1471(1) 0.56424(7)
+N3 N 0.92841(14) 0.13775(13) 0.52746(10)
+O8 O 1.01292(14) 0.10376(19) 0.58251(10)
+O9 O 0.93322(14) 0.16550(13) 0.44252(9)
+C5 C 0.56085(14) 0.09001(12) 0.65865(11)
+H7 H 0.47660 0.12100 0.67140
+H8 H 0.56750 0.08150 0.58760
+O10 O 0.57847(10) -0.01702(8) 0.70795(8)
+N4 N 0.47722(15) -0.09157(12) 0.68768(12)
+O11 O 0.39650(14) -0.06608(13) 0.62542(12)
+O12 O 0.48580(14) -0.1741(1) 0.73902(14)
+C6 C 0.64075(14) 0.28536(13) 0.66194(11)
+H9 H 0.70960 0.33580 0.68420
+H10 H 0.63570 0.28520 0.59000
+O13 O 0.51993(10) 0.32176(8) 0.69940(8)
+C7 C 0.48627(14) 0.42864(12) 0.67899(10)
+O14 O 0.55590(11) 0.49160(9) 0.63719(9)
+C8 C 0.35646(14) 0.45552(13) 0.71725(10)
+H11 H 0.35700 0.43760 0.78740
+H12 H 0.29200 0.40840 0.68340
+C9 C 0.31788(15) 0.57775(13) 0.70310(11)
+H13 H 0.24420 0.59310 0.74290
+H14 H 0.38870 0.62480 0.72790
+C10 C 0.28353(14) 0.61033(13) 0.59673(11)
+H15 H 0.28180 0.69160 0.59210
+H16 H 0.35100 0.58360 0.55520
+C11 C 0.15711(13) 0.56562(11) 0.55702(10)
+O15 O 0.08165(10) 0.51459(10) 0.60732(7)
+O16 O 0.13294(10) 0.58726(10) 0.46251(7)
+H17 H 0.06650 0.55500 0.44340
+#END

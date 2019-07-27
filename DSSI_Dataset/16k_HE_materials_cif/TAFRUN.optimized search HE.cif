@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAFRUN
+_audit_creation_date 1991-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAFRUN
+_chemical_formula_sum 'C11 H15 N1 O2'
+_chemical_formula_moiety
+;
+C11 H15 N1 O2
+;
+_journal_coden_Cambridge 207
+_journal_year 1990
+_journal_page_first 2391
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"D.Christensen"
+"K.A.Jorgensen"
+"R.G.Hazell"
+_chemical_name_systematic
+;
+N-t-Butyl-\a(o-hydroxyphenyl)nitrone
+;
+_cell_volume   1091.259
+_exptl_crystal_colour 'pale yellow'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 15.478(5)
+_cell_length_b 12.054(3)
+_cell_length_c 5.849(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.69
+H 0.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.9083(2) 0.1322(3) 1.2061(6)
+O2 O 1.0307(2) 0.1100(3) 0.9381(6)
+N1 N 1.0003(2) 0.0393(3) 0.7850(7)
+C1 C 0.9193(3) 0.0322(4) 0.7363(8)
+C2 C 0.8480(3) 0.0954(3) 0.8328(8)
+C3 C 0.8448(3) 0.1448(4) 1.0508(8)
+C4 C 0.7718(4) 0.2047(5) 1.1149(10)
+C5 C 0.7026(3) 0.2142(4) 0.9706(11)
+C6 C 0.7025(3) 0.1617(4) 0.7608(10)
+C7 C 0.7744(3) 0.1035(4) 0.6948(9)
+C8 C 1.0697(3) -0.0280(4) 0.6674(9)
+C9 C 1.0330(4) -0.1024(6) 0.4862(12)
+C10 C 1.1297(5) 0.0556(9) 0.5489(18)
+C11 C 1.1154(6) -0.0934(9) 0.8521(14)
+H1 H 0.904(3) -0.019(4) 0.606(9)
+H2 H 0.774(3) 0.240(4) 1.243(9)
+H3 H 0.651(3) 0.256(3) 1.006(9)
+H4 H 0.650(3) 0.165(3) 0.664(8)
+H5 H 0.779(3) 0.068(3) 0.545(8)
+H6 H 1.083(3) -0.138(4) 0.414(9)
+H7 H 0.999(4) -0.063(5) 0.376(11)
+H8 H 0.992(3) -0.160(4) 0.547(19)
+H9 H 1.183(4) 0.003(5) 0.447(13)
+H10 H 1.174(6) 0.062(9) 0.746(22)
+H11 H 1.145(6) 0.108(7) 0.597(18)
+H12 H 1.170(4) -0.138(5) 0.785(13)
+H13 H 1.070(4) -0.147(4) 0.892(19)
+H14 H 1.139(5) -0.037(6) 0.961(14)
+H15 H 0.959(3) 0.124(4) 1.116(9)
+#END

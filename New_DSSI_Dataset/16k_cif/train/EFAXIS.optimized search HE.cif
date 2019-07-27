@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EFAXIS
+_audit_creation_date 2002-04-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EFAXIS
+_database_code_depnum_ccdc_archive 'CCDC 182029'
+_chemical_formula_sum 'C16 H21 N3 O7'
+_chemical_formula_moiety
+;
+C16 H21 N3 O7
+;
+_journal_coeditor_code "IUCr TA1354"
+_journal_coden_Cambridge 591
+_journal_volume 58
+_journal_year 2002
+_journal_page_first o94
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.Spiniello"
+"J.M.White"
+_chemical_name_systematic
+;
+cis-2-(4-t-butylcyclohexyloxy)-1,3,5-trinitrobenzene
+;
+_chemical_melting_point 382
+_cell_volume   1815.451
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.344
+_exptl_special_details
+;
+Melting point range 382-385K
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 130.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.039
+_refine_ls_wR_factor_gt 0.039
+loop_
+_citation_database_id_CSD
+_citation_special_details
+EFAXOY "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 15.257(3)
+_cell_length_b 8.954(2)
+_cell_length_c 13.623(2)
+_cell_angle_alpha 90
+_cell_angle_beta 102.71(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.35406(7) 0.10294(13) 0.38706(8)
+O2 O 0.42741(9) -0.11097(14) 0.27609(9)
+O3 O 0.52807(8) -0.01119(14) 0.20653(8)
+O4 O 0.76546(9) 0.2442(2) 0.44099(13)
+O5 O 0.74124(9) 0.32672(17) 0.58197(11)
+O6 O 0.38102(12) 0.20593(17) 0.60027(12)
+O7 O 0.38321(9) 0.41883(14) 0.53021(10)
+N1 N 0.48488(9) -0.01663(16) 0.27262(10)
+N2 N 0.71656(10) 0.26895(19) 0.49872(13)
+N3 N 0.40736(9) 0.29034(15) 0.54415(9)
+C1 C 0.29548(11) 0.1294(2) 0.28506(11)
+H1 H 0.33020 0.11100 0.23190
+C2 C 0.26267(12) 0.2886(2) 0.27957(13)
+H2 H 0.23250 0.31150 0.20910
+H3 H 0.31520 0.35590 0.29850
+C3 C 0.19776(12) 0.3215(2) 0.34719(13)
+H4 H 0.17270 0.42300 0.33230
+H5 H 0.23110 0.31980 0.41830
+C4 C 0.12040(11) 0.2088(2) 0.33325(12)
+H6 H 0.08760 0.21530 0.26120
+C5 C 0.16018(11) 0.0509(2) 0.34915(12)
+H7 H 0.19570 0.04130 0.41900
+H8 H 0.11080 -0.02310 0.33960
+C6 C 0.22027(11) 0.0175(2) 0.27564(13)
+H9 H 0.24600 -0.08390 0.28890
+H10 H 0.18360 0.01930 0.20600
+C7 C 0.05095(12) 0.2445(2) 0.39792(14)
+C8 C -0.03041(15) 0.1422(3) 0.3667(2)
+H11 H -0.01130 0.03790 0.37760
+H12 H -0.05780 0.15790 0.29540
+H13 H -0.07440 0.16530 0.40720
+C9 C 0.01795(11) 0.4061(2) 0.37967(11)
+H14 H 0.06890 0.47450 0.39910
+H15 H -0.02640 0.42720 0.42000
+H16 H -0.00970 0.41980 0.30820
+C10 C 0.09208(11) 0.2259(2) 0.51114(11)
+H17 H 0.14430 0.29190 0.53060
+H18 H 0.11100 0.12200 0.52500
+H19 H 0.04720 0.25200 0.54980
+C11 C 0.44102(10) 0.14076(17) 0.40586(11)
+C12 C 0.50619(11) 0.09297(17) 0.35444(11)
+C13 C 0.59502(11) 0.13768(18) 0.38259(12)
+H20 H 0.63730 0.10720 0.34480
+C14 C 0.62135(11) 0.22707(19) 0.46628(12)
+C15 C 0.56138(11) 0.27694(18) 0.52143(12)
+H21 H 0.58010 0.33810 0.57920
+C16 C 0.47322(11) 0.23401(17) 0.48883(11)
+#END

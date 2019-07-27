@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMFZNO
+_audit_creation_date 1980-07-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMFZNO
+_chemical_formula_sum 'C5 H6 N2 O2'
+_chemical_formula_moiety
+;
+C5 H6 N2 O2
+;
+_journal_coden_Cambridge 423
+_journal_volume 314
+_journal_year 1979
+_journal_page_first 3601
+_journal_name_full 'J.Chem.Res. '
+loop_
+_publ_author_name
+"J.F.Barnes"
+"M.J.Barrow"
+"M.M.Harding"
+"R.M.Paton"
+"P.L.Ashcroft"
+"J.Crosby"
+"C.J.Joyce"
+_chemical_name_systematic
+;
+Trimethylene-furazan-N-oxide
+;
+_chemical_melting_point 289.15
+_cell_volume   1118.704
+_exptl_crystal_density_diffrn 1.5
+_diffrn_ambient_temperature 143.15
+_refine_special_details
+;
+C7 is disordered. A position with occupancy 0.86 is retained.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 9.44
+_cell_length_b 11.78
+_cell_length_c 10.06
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.29100 0.46421 0.49787
+O2 O 0.23956 0.64704 0.58082
+N1 N 0.30183 0.59066 0.49248
+N2 N 0.36664 0.42101 0.39179
+C1 C 0.37889 0.61251 0.38868
+C2 C 0.41730 0.50947 0.33008
+C3 C 0.50931 0.52903 0.21228
+C4 C 0.48527 0.65663 0.18572
+C5 C 0.43766 0.71308 0.31864
+H1 H 0.48300 0.48400 0.13700
+H2 H 0.60400 0.51000 0.23300
+H3 H 0.40500 0.66600 0.12100
+H4 H 0.56400 0.68600 0.14700
+H5 H 0.36000 0.77200 0.30600
+H6 H 0.51600 0.74300 0.37100
+#END

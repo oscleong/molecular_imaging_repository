@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VESRAP
+_audit_creation_date 2018-01-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VESRAP
+_database_code_depnum_ccdc_archive 'CCDC 1588578'
+_chemical_formula_sum 'C13 H16 N2 O5'
+_chemical_formula_moiety
+;
+C13 H16 N2 O5
+;
+_journal_coden_Cambridge 177
+_journal_volume 16
+_journal_year 2018
+_journal_page_first 1126
+_journal_name_full 'Org.Biomol.Chem. '
+loop_
+_publ_author_name
+"Yeong-Chan Ahn"
+"C.Fischer"
+"M.J.van Belkum"
+"J.C.Vederas"
+_chemical_name_systematic
+;
+(1S)-1-phenylethyl (2R)-2-([(carbamoylamino)oxy]methyl)oxirane-2-carboxylate
+;
+_cell_volume    688.633
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.352
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'benzene/ethyl acetate'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.083
+_refine_ls_wR_factor_gt 0.083
+loop_
+_citation_database_id_CSD
+_citation_special_details
+VESRET "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 5.9509(12)
+_cell_length_b 7.1789(12)
+_cell_length_c 16.121(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.821(18)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1885(9) -0.3259(8) 0.2379(4)
+O2 O 0.1420(11) 0.1344(9) 0.3203(4)
+O3 O 0.2967(10) 0.0322(7) 0.2020(4)
+O4 O -0.1522(9) -0.1901(8) 0.3665(4)
+O5 O -0.5045(9) -0.0176(8) 0.5189(4)
+N1 N -0.2619(12) -0.1849(10) 0.4439(5)
+H1 H -0.26530 -0.28180 0.47720
+N2 N -0.2906(12) 0.1322(9) 0.4247(5)
+H2 H -0.34410 0.24240 0.43780
+H3 H -0.18910 0.12210 0.38580
+C1 C 0.3950(12) -0.3082(11) 0.2821(5)
+H4 H 0.52220 -0.24880 0.25330
+H5 H 0.43750 -0.40880 0.32120
+C2 C 0.2019(11) -0.1909(11) 0.3029(5)
+C3 C 0.2103(11) 0.0113(10) 0.2763(5)
+C4 C 0.0799(13) -0.2293(11) 0.3817(6)
+H6 H 0.09970 -0.36120 0.39810
+H7 H 0.13920 -0.14930 0.42690
+C5 C -0.3628(11) -0.0186(12) 0.4636(6)
+C6 C 0.3517(14) 0.2248(11) 0.1765(6)
+H8 H 0.24970 0.31340 0.20550
+C7 C 0.5908(15) 0.2615(14) 0.2044(7)
+H9 H 0.63580 0.38660 0.18680
+H10 H 0.69050 0.16900 0.17950
+H11 H 0.60150 0.25280 0.26500
+C8 C 0.3062(11) 0.2361(10) 0.0846(5)
+C9 C 0.1039(12) 0.3119(11) 0.0546(6)
+H12 H -0.00340 0.35630 0.09300
+C10 C 0.0568(13) 0.3237(12) -0.0291(6)
+H13 H -0.08170 0.37540 -0.04800
+C11 C 0.2104(14) 0.2606(12) -0.0849(6)
+H14 H 0.17700 0.26650 -0.14270
+C12 C 0.4121(14) 0.1890(11) -0.0580(6)
+H15 H 0.51870 0.14790 -0.09730
+C13 C 0.4622(11) 0.1757(10) 0.0269(5)
+H16 H 0.60230 0.12570 0.04510
+#END

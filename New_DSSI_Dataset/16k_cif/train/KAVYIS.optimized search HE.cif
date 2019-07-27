@@ -1,0 +1,209 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KAVYIS
+_audit_creation_date 2017-03-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KAVYIS
+_database_code_depnum_ccdc_archive 'CCDC 1525777'
+_chemical_formula_sum 'C48 H54 N2 O6'
+_chemical_formula_moiety
+;
+C48 H54 N2 O6
+;
+_journal_coden_Cambridge 1350
+_journal_volume 19
+_journal_year 2017
+_journal_page_first 1771
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"N.Aguilar-Valdez"
+"M.Maldonado-Dominguez"
+"R.Arcos-Ramos"
+"M.Romero-Avila"
+"R.Santillan"
+"N.Farfan"
+_chemical_name_systematic
+;
+2,5-Bis(17\a-ethynyl-estra-1,3,5-(10)-trien-17\b-ol-3-methyl 
+ether)-4-nitroaniline unknown solvate
+;
+_chemical_name_common
+;
+21,21'-(2-amino-5-nitro-1,4-phenylene)bis(3-methoxy-19-norpregna-1,3,5(10)-tri
+en-20-yn-17-ol) unknown solvate
+;
+_chemical_melting_point 468
+_cell_volume   4319.666
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.161
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 173
+_diffrn_special_details
+;
+twin
+
+;
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0547
+_refine_ls_wR_factor_gt 0.0547
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 11.8249(2)
+_cell_length_b 13.9462(3)
+_cell_length_c 26.1937(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0904(3) -0.3902(2) 0.27736(12)
+H1 H 0.05400 -0.33890 0.26000
+C2 C 0.8680(3) 0.5568(3) 0.51512(14)
+H2 H 0.80490 0.59510 0.50570
+C3 C 0.1115(3) -0.4739(2) 0.25156(13)
+H3 H 0.08950 -0.48010 0.21680
+C4 C 0.9270(4) 0.5803(3) 0.55784(16)
+H4 H 0.90450 0.63410 0.57770
+C5 C 0.1640(3) -0.5481(2) 0.27562(14)
+C6 C 1.0184(4) 0.5271(4) 0.57246(16)
+C7 C 0.1958(3) -0.5395(2) 0.32616(14)
+H5 H 0.23170 -0.59160 0.34310
+C8 C 1.0516(4) 0.4489(4) 0.54313(17)
+H6 H 1.11590 0.41240 0.55290
+C9 C 0.1750(3) -0.4536(2) 0.35243(12)
+C10 C 0.9901(3) 0.4233(3) 0.49888(15)
+C11 C 0.2081(4) -0.4490(2) 0.40854(14)
+H7 H 0.15950 -0.49400 0.42790
+H8 H 0.28720 -0.47140 0.41200
+C12 C 1.0287(3) 0.3375(3) 0.46937(18)
+H9 H 1.04560 0.28500 0.49370
+H10 H 1.09980 0.35380 0.45140
+C13 C 0.1984(3) -0.3507(2) 0.43240(12)
+H11 H 0.26540 -0.31190 0.42310
+H12 H 0.19670 -0.35700 0.47000
+C14 C 0.9428(4) 0.3009(3) 0.43007(17)
+H13 H 0.98140 0.25800 0.40550
+H14 H 0.88360 0.26330 0.44770
+C15 C 0.0910(3) -0.2999(2) 0.41421(11)
+C16 C 0.8879(3) 0.3837(3) 0.40119(15)
+C17 C 0.0979(3) -0.28404(19) 0.35607(11)
+C18 C 0.8237(3) 0.4481(2) 0.43940(14)
+C19 C 0.1210(3) -0.3785(2) 0.32827(11)
+C20 C 0.8968(3) 0.4780(2) 0.48439(14)
+C21 C -0.0050(3) -0.2301(2) 0.33546(13)
+C22 C 0.7656(3) 0.5311(2) 0.41164(16)
+H15 H 0.82370 0.57200 0.39540
+H16 H 0.72440 0.57080 0.43680
+C23 C -0.0259(3) -0.1352(2) 0.36377(12)
+C24 C 0.6824(3) 0.4961(2) 0.37076(15)
+H17 H 0.61970 0.46060 0.38720
+H18 H 0.64990 0.55190 0.35250
+C25 C -0.0328(2) -0.15066(18) 0.42102(11)
+C26 C 0.7422(3) 0.4316(2) 0.33318(14)
+C27 C 0.0733(3) -0.20307(19) 0.44003(11)
+C28 C 0.8035(3) 0.3507(2) 0.36091(14)
+C29 C 0.0657(3) -0.1972(2) 0.49841(11)
+H19 H 0.14200 -0.19670 0.51400
+H20 H 0.02240 -0.25200 0.51240
+C30 C 0.8420(4) 0.2830(3) 0.31778(17)
+H21 H 0.84520 0.21570 0.32970
+H22 H 0.91740 0.30170 0.30460
+C31 C 0.0039(3) -0.1021(2) 0.50823(12)
+C32 C 0.7490(4) 0.2962(3) 0.27612(16)
+H23 H 0.78330 0.31750 0.24360
+H24 H 0.70870 0.23510 0.27010
+C33 C -0.0260(2) -0.0590(2) 0.45531(12)
+C34 C 0.6675(3) 0.3721(3) 0.29623(14)
+C35 C -0.1421(3) -0.2046(2) 0.43461(14)
+H25 H -0.14580 -0.26450 0.41500
+H26 H -0.20760 -0.16460 0.42630
+H27 H -0.14260 -0.21930 0.47120
+C36 C 0.8234(4) 0.4931(3) 0.29974(18)
+H28 H 0.88000 0.52390 0.32160
+H29 H 0.77990 0.54230 0.28170
+H30 H 0.86160 0.45170 0.27490
+C37 C 0.2317(6) -0.7090(3) 0.2695(2)
+H31 H 0.18640 -0.72960 0.29880
+H32 H 0.30780 -0.69150 0.28100
+H33 H 0.23670 -0.76150 0.24470
+C38 C 1.1567(5) 0.4940(6) 0.6372(2)
+H34 H 1.18210 0.52050 0.66990
+H35 H 1.22070 0.49130 0.61350
+H36 H 1.12680 0.42930 0.64250
+C39 C 0.0648(3) 0.0050(2) 0.43777(11)
+C40 C 0.5744(3) 0.3230(2) 0.32416(13)
+C41 C 0.1409(2) 0.05528(19) 0.42489(12)
+C42 C 0.5026(3) 0.2806(2) 0.34665(13)
+C43 C 0.2341(2) 0.11244(18) 0.40655(11)
+C44 C 0.2920(3) 0.08420(19) 0.36212(11)
+C45 C 0.3814(3) 0.1408(2) 0.34420(12)
+H37 H 0.42050 0.12190 0.31420
+C46 C 0.4143(2) 0.2247(2) 0.36953(12)
+C47 C 0.3575(2) 0.24912(18) 0.41438(11)
+C48 C 0.2683(2) 0.19382(19) 0.43265(12)
+H38 H 0.23060 0.21200 0.46320
+N1 N 0.3866(3) 0.33065(19) 0.44485(12)
+N2 N 0.2624(3) 0.0030(2) 0.33656(14)
+O1 O -0.13175(18) -0.01047(16) 0.45433(9)
+O2 O 0.6186(3) 0.4253(2) 0.25468(10)
+O3 O 0.3248(3) 0.35463(18) 0.47984(11)
+O4 O 0.4734(4) 0.3724(3) 0.43663(16)
+O5 O 0.1804(3) -0.62943(19) 0.24644(12)
+O6 O 1.0715(3) 0.5529(3) 0.61668(13)
+H39 H -0.139(3) 0.028(2) 0.4794(9)
+H40 H 0.568(5) 0.469(4) 0.263(3)
+H41 H 0.203(5) -0.038(4) 0.351(2)
+H42 H 0.306(4) -0.024(3) 0.3096(18)
+H43 H 0.024(2) -0.3438(19) 0.4225(10)
+H44 H 0.945(3) 0.420(3) 0.3862(13)
+H45 H 0.165(2) -0.2457(19) 0.3505(10)
+H46 H 0.754(3) 0.411(2) 0.4521(13)
+H47 H -0.077(3) -0.271(3) 0.3391(14)
+H48 H 0.010(3) -0.219(2) 0.3010(14)
+H49 H -0.094(3) -0.102(2) 0.3510(12)
+H50 H 0.036(2) -0.089(2) 0.3565(11)
+H51 H 0.138(2) -0.163(2) 0.4311(10)
+H52 H 0.743(3) 0.316(2) 0.3797(13)
+H53 H -0.062(3) -0.110(3) 0.5300(14)
+H54 H 0.053(3) -0.062(3) 0.5247(15)
+#END

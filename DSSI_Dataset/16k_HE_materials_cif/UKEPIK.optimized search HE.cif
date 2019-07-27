@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UKEPIK
+_audit_creation_date 2011-04-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UKEPIK
+_database_code_depnum_ccdc_archive 'CCDC 794373'
+_chemical_formula_sum 'C12 H13 N1 O4'
+_chemical_formula_moiety
+;
+C12 H13 N1 O4
+;
+_journal_coden_Cambridge 177
+_journal_volume 9
+_journal_year 2011
+_journal_page_first 382
+_journal_name_full 'Org.Biomol.Chem. '
+loop_
+_publ_author_name
+"Bor-Cherng Hong"
+"P.Kotame"
+"Ju-Hsiou Liao"
+_chemical_name_systematic
+;
+(-)-cis-3-Ethyl-4-(nitromethyl)chroman-2-one
+;
+_chemical_melting_point 364.15
+_cell_volume    544.624
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.434
+_exptl_special_details
+;
+Melting point range 364.15-366.15K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0369
+_refine_ls_wR_factor_gt 0.0369
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 5.6540(9)
+_cell_length_b 7.4586(12)
+_cell_length_c 13.100(2)
+_cell_angle_alpha 90
+_cell_angle_beta 99.649(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4710(3) 0.7116(2) 0.13997(11)
+O2 O 0.6099(3) 0.9757(2) 0.19217(12)
+O3 O 0.6371(3) 0.6838(3) 0.37246(14)
+O4 O 0.5219(3) 0.4232(2) 0.41492(14)
+N1 N 0.4827(4) 0.5806(3) 0.39161(14)
+C1 C 0.1235(4) 0.5779(3) 0.19827(15)
+C2 C -0.0463(4) 0.4409(3) 0.18495(17)
+H1 H -0.16710 0.43800 0.22730
+C3 C -0.0420(4) 0.3085(3) 0.11078(17)
+H2 H -0.15950 0.21630 0.10240
+C4 C 0.1345(4) 0.3113(3) 0.04891(17)
+H3 H 0.13930 0.21990 -0.00120
+C5 C 0.3040(4) 0.4473(3) 0.06025(17)
+H4 H 0.42490 0.45040 0.01790
+C6 C 0.2945(4) 0.5783(3) 0.13387(17)
+C7 C 0.4522(4) 0.8683(3) 0.19313(17)
+C8 C 0.2326(4) 0.8969(3) 0.24235(17)
+H5 H 0.10700 0.94440 0.18590
+C9 C 0.1272(4) 0.7220(3) 0.27916(16)
+H6 H -0.04480 0.74880 0.28220
+C10 C 0.2354(4) 0.6520(3) 0.38676(17)
+H7 H 0.23860 0.75050 0.43760
+H8 H 0.13120 0.55580 0.40660
+C11 C 0.2777(4) 1.0468(3) 0.32295(17)
+H9 H 0.41250 1.01100 0.37750
+H10 H 0.32720 1.15610 0.28920
+C12 C 0.0616(4) 1.0920(3) 0.37381(18)
+H11 H 0.02040 0.98810 0.41310
+H12 H -0.07520 1.12290 0.32030
+H13 H 0.10050 1.19410 0.42070
+#END

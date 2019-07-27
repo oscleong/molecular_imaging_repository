@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ACUJOX
+_audit_creation_date 2002-02-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ACUJOX
+_database_code_depnum_ccdc_archive 'CCDC 168302'
+_chemical_formula_sum 'C17 H17 N1 O7'
+_chemical_formula_moiety
+;
+C17 H17 N1 O7
+;
+_journal_coden_Cambridge 207
+_journal_year 2001
+_journal_page_first 3382
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"F.Heaney"
+"J.Fenlon"
+"C.O'Mahony"
+"P.McArdle"
+"D.Cunningham"
+_chemical_name_systematic
+;
+Dimethyl 
+7-methyl-4-oxo-3a-phenyl-3a,4,6,7-tetrahydroisoxazolo(3,2-c)(1,4)oxazine-2,3-d
+icarboxylate
+;
+_chemical_melting_point 432.15
+_cell_volume   1605.096
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.437
+_exptl_special_details
+;
+Melting point range 432.15-435.15K
+The space group is reported as P21 in the paper, with the beta angle being 
+89.976. We have used the orthorhombic unit cell parameters from the 
+supplementary information
+;
+_exptl_crystal_description 'cubic'
+_exptl_crystal_preparation 'chloroform/hexane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0501
+_refine_ls_wR_factor_gt 0.0501
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 9.023(3)
+_cell_length_b 11.0408(16)
+_cell_length_c 16.112(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5265(3) 0.7280(3) 0.07200(16)
+N1 N 0.4586(4) 0.8282(3) 0.1189(2)
+O2 O 0.8581(3) 0.5735(3) 0.11777(19)
+O3 O 0.3991(3) 0.9218(3) 0.2802(2)
+O4 O 0.6774(4) 0.5221(3) 0.0293(2)
+O5 O 0.8021(3) 0.6748(3) 0.28551(19)
+O6 O 0.9253(3) 0.8304(3) 0.2280(2)
+O7 O 0.6328(4) 0.9509(4) 0.30550(19)
+C1 C 0.5852(4) 0.8794(4) 0.1692(2)
+C2 C 0.6471(4) 0.9882(4) 0.1224(2)
+C3 C 0.5746(5) 1.0983(4) 0.1248(3)
+H1 H 0.49250 1.10730 0.15910
+C4 C 0.6207(5) 1.1948(4) 0.0776(3)
+H2 H 0.57100 1.26850 0.08080
+C5 C 0.7416(5) 1.1818(4) 0.0255(3)
+H3 H 0.77280 1.24640 -0.00710
+C6 C 0.8146(5) 1.0737(4) 0.0221(3)
+H4 H 0.89550 1.06460 -0.01310
+C7 C 0.7688(5) 0.9776(4) 0.0708(2)
+H5 H 0.82050 0.90480 0.06890
+C8 C 0.5406(5) 0.9202(4) 0.2562(3)
+C9 C 0.2884(5) 0.8762(4) 0.2233(3)
+H6 H 0.25690 0.94130 0.18690
+H7 H 0.20270 0.84940 0.25460
+C10 C 0.3444(5) 0.7730(4) 0.1715(3)
+H8 H 0.38820 0.71050 0.20700
+C11 C 0.2220(5) 0.7195(5) 0.1191(3)
+H9 H 0.18240 0.78090 0.08320
+H10 H 0.14480 0.68940 0.15450
+H11 H 0.26100 0.65430 0.08630
+C12 C 0.6514(4) 0.6944(4) 0.1152(2)
+C13 C 0.6893(4) 0.7726(4) 0.1738(2)
+C14 C 0.7259(5) 0.5863(4) 0.0814(3)
+C15 C 0.9490(5) 0.4744(4) 0.0883(3)
+H12 H 0.89280 0.40060 0.09000
+H13 H 1.03490 0.46670 0.12300
+H14 H 0.97940 0.49030 0.03220
+C16 C 0.8203(5) 0.7640(4) 0.2312(3)
+C17 C 0.9281(6) 0.6501(5) 0.3387(3)
+H15 H 1.00780 0.61770 0.30600
+H16 H 0.90020 0.59240 0.38040
+H17 H 0.95980 0.72380 0.36480
+#END

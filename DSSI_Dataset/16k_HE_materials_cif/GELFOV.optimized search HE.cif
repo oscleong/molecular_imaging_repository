@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GELFOV
+_audit_creation_date 2017-11-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GELFOV
+_database_code_depnum_ccdc_archive 'CCDC 1469586'
+_chemical_formula_sum 'C18 H15 N1 O2'
+_chemical_formula_moiety
+;
+C18 H15 N1 O2
+;
+_journal_coden_Cambridge 315
+_journal_volume 187
+_journal_year 2017
+_journal_page_first 198
+_journal_name_full 'Spectrochim.Acta,Part A '
+loop_
+_publ_author_name
+"A.Szemik - Hojniak"
+"I.Deperasinska"
+"Y.P.Nizhnik"
+_chemical_name_systematic
+;
+2-(2-(4-methoxyphenyl)ethen-1-yl) quinoline-1-oxide
+;
+_chemical_name_common
+;
+2-(4-methoxystyryl)quinoline-N-oxide
+;
+_chemical_melting_point 415.65
+_cell_volume   2746.133
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.341
+_exptl_special_details
+;
+Melting point range 415.65-416.15K
+
+;
+_exptl_crystal_description 'plates'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0349
+_refine_ls_wR_factor_gt 0.0349
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 13.0541(2)
+_cell_length_b 6.7506(1)
+_cell_length_c 31.1625(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.60973(7) 0.23513(15) 0.44101(3)
+C2 C 0.59093(8) 0.35065(16) 0.47770(3)
+H1 H 0.57200 0.48600 0.47500
+C3 C 0.60023(8) 0.26534(18) 0.51760(3)
+H2 H 0.58720 0.34230 0.54250
+C4 C 0.62889(8) 0.06483(18) 0.52190(3)
+H3 H 0.63530 0.00770 0.54960
+C5 C 0.64754(8) -0.04761(17) 0.48612(3)
+H4 H 0.66720 -0.18230 0.48930
+C6 C 0.63794(7) 0.03387(15) 0.44442(3)
+C7 C 0.65625(7) -0.07636(15) 0.40653(3)
+H5 H 0.67320 -0.21300 0.40810
+C8 C 0.64920(7) 0.01640(15) 0.36783(3)
+H6 H 0.66330 -0.05670 0.34250
+C9 C 0.62161(7) 0.21818(15) 0.36432(3)
+C10 C 0.61836(7) 0.32644(15) 0.32403(3)
+H7 H 0.62510 0.46650 0.32500
+C11 C 0.60643(7) 0.24046(16) 0.28541(3)
+H8 H 0.59440 0.10170 0.28500
+C12 C 0.61040(7) 0.34185(15) 0.24392(3)
+C13 C 0.65309(7) 0.53045(15) 0.23866(3)
+H9 H 0.68040 0.59700 0.26300
+C14 C 0.65655(7) 0.62300(16) 0.19882(3)
+H10 H 0.68630 0.75070 0.19600
+C15 C 0.61588(7) 0.52631(15) 0.16307(3)
+C16 C 0.57372(7) 0.33719(16) 0.16732(3)
+H11 H 0.54640 0.27100 0.14300
+C17 C 0.57187(7) 0.24653(15) 0.20721(3)
+H12 H 0.54400 0.11710 0.20980
+C18 C 0.65771(9) 0.79613(16) 0.11639(3)
+H13 H 0.62070 0.89170 0.13430
+H14 H 0.65140 0.83400 0.08610
+H15 H 0.73020 0.79510 0.12460
+N1 N 0.59982(6) 0.32230(12) 0.40040(3)
+O1 O 0.56976(6) 0.50638(10) 0.39810(2)
+O2 O 0.61524(5) 0.60305(11) 0.12250(2)
+#END

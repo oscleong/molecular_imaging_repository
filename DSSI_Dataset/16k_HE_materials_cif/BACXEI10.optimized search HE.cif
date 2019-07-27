@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BACXEI10
+_audit_creation_date 1982-07-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BACXEI10
+_chemical_formula_sum 'C8 H10 N4 O5'
+_chemical_formula_moiety
+;
+C8 H10 N4 O5
+;
+_journal_coeditor_code "IUCr A20938"
+_journal_coden_Cambridge 107
+_journal_volume 38
+_journal_year 1982
+_journal_page_first 627
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"X.Solans"
+"M.Font-Altaba"
+_chemical_name_systematic
+;
+N(\a)-Acetyl-5-nitro-L-histidine
+;
+_cell_volume   1026.618
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.56
+_exptl_special_details
+;
+H(C(2)) and H(C(14)C) have been removed because of suspected error
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.063
+_refine_ls_wR_factor_gt 0.063
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 15.425(3)
+_cell_length_b 9.756(2)
+_cell_length_c 6.822(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.47960 0.21350 0.70480
+C1 C 0.51940 0.10150 0.78250
+N2 N 0.46820 -0.00660 0.77560
+C2 C 0.39460 0.04040 0.68700
+C3 C 0.40020 0.17730 0.63740
+C4 C 0.34360 0.27360 0.52730
+C5 C 0.36690 0.27560 0.31060
+C6 C 0.31090 0.37760 0.19720
+O1 O 0.32610 0.37490 0.00780
+O2 O 0.25740 0.45070 0.27140
+N3 N 0.45740 0.31380 0.28050
+C7 C 0.52030 0.22090 0.26160
+O3 O 0.50420 0.09630 0.25440
+C8 C 0.61030 0.27690 0.26100
+N4 N 0.32320 -0.04790 0.65220
+O4 O 0.32980 -0.16830 0.71400
+O5 O 0.25900 -0.00600 0.56680
+H1 H 0.27700 0.24100 0.54300
+H2 H 0.35100 0.37600 0.58700
+H3 H 0.35600 0.17300 0.25600
+H4 H 0.48900 0.28000 0.65600
+H5 H 0.48500 0.38000 0.28200
+H6 H 0.60400 0.36000 0.22600
+H7 H 0.64800 0.23000 0.25100
+#END

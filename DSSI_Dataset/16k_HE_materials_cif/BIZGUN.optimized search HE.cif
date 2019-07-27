@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BIZGUN
+_audit_creation_date 1984-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BIZGUN
+_database_code_depnum_ccdc_archive 'CCDC 1112381'
+_chemical_formula_sum 'C15 H24 N2 O3'
+_chemical_formula_moiety
+;
+C15 H24 N2 O3
+;
+_journal_coden_Cambridge 188
+_journal_year 1983
+_journal_page_first 1259
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"Z.F.Khan"
+"D.K.MacAlpine"
+"A.L.Porte"
+"G.A.Sim"
+_chemical_name_systematic
+;
+2,6,6,9-Tetramethyl-1-nitro-2-nitroso-cycloundeca-4,8-diene
+;
+_chemical_name_common
+;
+Humulene nitrosite
+;
+_cell_volume   1557.883
+_exptl_special_details
+;
+conformational isomer ii
+
+;
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.059
+_refine_ls_wR_factor_gt 0.059
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BIZGUM "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.873(6)
+_cell_length_b 16.660(9)
+_cell_length_c 12.140(6)
+_cell_angle_alpha 90
+_cell_angle_beta 101.94(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.17970 0.14810 0.76050
+C2 C -0.01810 0.19880 0.80310
+C3 C 0.07500 0.17870 0.92400
+C4 C 0.26780 0.20570 0.95920
+C5 C 0.38840 0.13300 0.95030
+C6 C 0.35660 0.09320 0.83670
+C7 C 0.30100 0.01910 0.81850
+C8 C 0.05780 -0.03930 0.67700
+C9 C -0.03920 0.03750 0.68050
+C10 C -0.13270 0.06000 0.75530
+C11 C 0.25810 -0.02550 0.70660
+C12 C 0.34600 -0.10860 0.72330
+C13 C 0.31880 0.01950 0.61300
+C14 C 0.31530 0.28030 0.90200
+C15 C -0.18160 0.00560 0.84170
+N1 N 0.29820 0.21650 1.08690
+N2 N -0.03310 0.21560 1.00070
+O1 O -0.02850 0.28870 1.01230
+O2 O -0.12170 0.17130 1.04500
+O3 O 0.41370 0.26110 1.12500
+#END

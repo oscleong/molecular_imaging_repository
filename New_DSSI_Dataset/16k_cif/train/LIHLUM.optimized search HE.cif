@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIHLUM
+_audit_creation_date 2018-05-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIHLUM
+_database_code_depnum_ccdc_archive 'CCDC 1843879'
+_chemical_formula_sum 'C15 H19 N1 O2'
+_chemical_formula_moiety
+;
+C15 H19 N1 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"S.A.Nicol"
+_chemical_name_systematic
+;
+2-(benzyloxy)octahydro-3H-cyclopenta[c]pyridin-3-one
+;
+_cell_volume    638.786
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.275
+_exptl_special_details
+;
+Departement de chimie, Universite de Sherbrooke, Sherbrooke, Quebec, Canada 
+J1K 2R1
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+C3B,C7B and C3A,C7A disordered over two sites with occupancies 0.602:0.398.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.078
+_refine_ls_wR_factor_gt 0.078
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.5128(2)
+_cell_length_b 8.1908(3)
+_cell_length_c 12.6746(4)
+_cell_angle_alpha 77.517(1)
+_cell_angle_beta 76.454(1)
+_cell_angle_gamma 81.825(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.0750(4) 0.1691(3) 0.5697(2)
+C2 C -0.2006(4) 0.0894(3) 0.6807(2)
+H1 H -0.32050 0.03780 0.66940
+H2 H -0.26000 0.17710 0.72530
+C3 C -0.0739(7) 0.0390(5) 0.7730(4)
+H3 H -0.04230 0.14070 0.79570
+C4 C 0.1301(7) -0.0631(5) 0.7293(4)
+H4 H 0.09790 -0.16290 0.70460
+C5 C -0.1667(5) -0.0875(4) 0.8733(3)
+H5 H -0.22140 0.01580 0.90350
+H6 H -0.28250 -0.16110 0.88850
+C6 C 0.0272(5) -0.1796(4) 0.9193(3)
+H7 H 0.02520 -0.15150 0.99170
+H8 H 0.02680 -0.30280 0.92890
+C7 C 0.2237(5) -0.1189(4) 0.8337(2)
+H9 H 0.30240 -0.21210 0.79790
+H10 H 0.31960 -0.07680 0.86970
+C8 C 0.2693(4) 0.0487(4) 0.6328(2)
+H11 H 0.32260 -0.06250 0.61310
+H12 H 0.39290 0.10970 0.62810
+C9 C 0.3249(5) 0.3676(3) 0.4496(2)
+H13 H 0.44560 0.35200 0.48710
+H14 H 0.20750 0.43820 0.48820
+C10 C 0.3909(4) 0.4493(3) 0.3306(2)
+C11 C 0.5895(5) 0.5062(4) 0.2908(2)
+H15 H 0.68720 0.48920 0.33810
+C12 C 0.6468(6) 0.5884(4) 0.1817(3)
+H16 H 0.78260 0.62890 0.15500
+C13 C 0.5062(6) 0.6111(4) 0.1120(3)
+H17 H 0.54520 0.66800 0.03760
+C14 C 0.3099(6) 0.5514(4) 0.1503(2)
+H18 H 0.21490 0.56460 0.10190
+C15 C 0.2502(5) 0.4714(4) 0.2606(2)
+H19 H 0.11360 0.43220 0.28750
+N1 N 0.1392(3) 0.1439(3) 0.55584(17)
+O1 O -0.1616(3) 0.2545(3) 0.49694(17)
+O2 O 0.2561(3) 0.2065(2) 0.45079(15)
+C16? C -0.0613(10) -0.0451(8) 0.7434(5)
+H20? H -0.02840 -0.14870 0.71040
+C17? C 0.1404(10) 0.0273(9) 0.7451(5)
+H21? H 0.10760 0.13600 0.77210
+#END

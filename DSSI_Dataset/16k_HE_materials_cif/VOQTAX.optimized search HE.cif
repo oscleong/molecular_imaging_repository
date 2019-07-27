@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOQTAX
+_audit_creation_date 2009-05-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOQTAX
+_database_code_depnum_ccdc_archive 'CCDC 726496'
+_chemical_formula_sum 'C16 H17 N1 O2'
+_chemical_formula_moiety
+;
+C16 H17 N1 O2
+;
+_journal_coeditor_code "IUCr BT2910"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o920
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"G.Vallejos"
+"M.Gutierrez"
+"L.Astudillo"
+"I.Brito"
+"A.Cardenas"
+_chemical_name_systematic
+;
+5-(1-Cyclohexen-1-yl)-3-(4-methoxyphenyl)isoxazole
+;
+_chemical_melting_point 349.15
+_cell_volume    694.682
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.221
+_exptl_special_details
+;
+Melting point range 349.15-351.15K
+shows moderate inhibitory activity toward acetilcholinesterase
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'hexane/EtOAc'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The cyclohexene ring is partially disordered over two sites with occupancies 
+0.526:0.474.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0551
+_refine_ls_wR_factor_gt 0.0551
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.8690(11)
+_cell_length_b 10.9646(19)
+_cell_length_c 11.481(5)
+_cell_angle_alpha 77.889(2)
+_cell_angle_beta 75.728(5)
+_cell_angle_gamma 80.262(9)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3554(2) 0.17491(13) -0.04016(12)
+O2 O -0.2921(2) 0.60615(14) 0.41851(13)
+N1 N 0.3139(3) 0.25243(16) 0.04881(15)
+C1 C 0.1547(3) 0.10166(16) -0.16684(15)
+C2 C -0.0473(4) 0.1345(2) -0.2317(2)
+H1 H -0.08550 0.22530 -0.24710
+H2 H -0.18540 0.09980 -0.17800
+C3 C 0.3446(4) -0.0697(2) -0.2859(2)
+H3 H 0.38180 -0.15760 -0.25200
+H4 H 0.47110 -0.04680 -0.35560
+C4 C 0.3280(3) 0.00944(18) -0.19162(18)
+H5 H 0.44660 -0.00700 -0.14760
+C5 C 0.1488(3) 0.17676(16) -0.07484(15)
+C6 C -0.0224(3) 0.25240(16) -0.01282(15)
+H6 H -0.17980 0.27160 -0.01940
+C7 C 0.0881(3) 0.29654(16) 0.06460(16)
+C8 C -0.0167(3) 0.37884(16) 0.15521(15)
+C9 C -0.2372(3) 0.44858(17) 0.15767(16)
+H7 H -0.32150 0.44310 0.10060
+C10 C -0.3358(3) 0.52620(17) 0.24271(17)
+H8 H -0.48380 0.57260 0.24200
+C11 C -0.2127(3) 0.53436(17) 0.32878(17)
+C12 C 0.0074(3) 0.4641(2) 0.32840(19)
+H9 H 0.09030 0.46860 0.38640
+C13 C 0.1035(3) 0.38833(19) 0.24361(18)
+H10 H 0.25160 0.34220 0.24460
+C14 C -0.5130(4) 0.6839(2) 0.4212(2)
+H11 H -0.50460 0.74350 0.34640
+H12 H -0.54760 0.72790 0.48870
+H13 H -0.63590 0.63270 0.43030
+C15 C 0.0006(13) 0.0880(9) -0.3512(8)
+H14 H 0.11380 0.13550 -0.41240
+H15 H -0.14480 0.09810 -0.37990
+C16 C 0.0995(17) -0.0499(7) -0.3290(8)
+H16 H 0.12440 -0.08330 -0.40360
+H17 H -0.01470 -0.09610 -0.26700
+C17? C -0.0493(12) 0.0236(11) -0.2981(9)
+C18? C 0.1966(18) -0.0159(11) -0.3718(9)
+H18? H -0.02720 0.21160 -0.29070
+H19? H -0.19620 0.14730 -0.17340
+H20? H -0.10430 -0.04770 -0.23800
+H21? H -0.15880 0.04940 -0.35230
+H22? H 0.18850 -0.07730 -0.41990
+H23? H 0.26070 0.05640 -0.42660
+H24? H 0.50790 -0.08160 -0.33030
+H25? H 0.29980 -0.15170 -0.24500
+#END

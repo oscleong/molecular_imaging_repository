@@ -1,0 +1,96 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GETFIU01
+_audit_creation_date 2004-09-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GETFIU01
+_database_code_depnum_ccdc_archive 'CCDC 195236'
+_chemical_formula_sum 'C6 H2 N4 O5'
+_chemical_formula_moiety
+;
+C6 H2 N4 O5
+;
+_journal_coden_Cambridge 1271
+_journal_volume 28
+_journal_year 2003
+_journal_page_first 153
+_journal_name_full 'Propellants,Explos.,Pyrotech. '
+loop_
+_publ_author_name
+"G.Holl"
+"T.M.Klapotke"
+"K.Polborn"
+"C.Rienacker"
+_chemical_name_systematic
+;
+2-Diazo-4,6-dinitrophenol
+;
+_cell_volume    808.237
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.727
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0321
+_refine_ls_wR_factor_gt 0.0321
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 6.1777(7)
+_cell_length_b 8.6045(12)
+_cell_length_c 15.205(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1523(4) 0.3979(3) 0.8251(2)
+O2 O -0.7217(4) 0.7572(3) 0.8085(2)
+O3 O -0.7195(4) 0.6853(3) 0.9455(2)
+O4 O -0.0863(5) 0.4582(3) 1.07173(14)
+O5 O 0.0752(5) 0.2904(3) 0.9901(2)
+N1 N -0.0242(5) 0.5533(4) 0.6938(2)
+N2 N 0.0783(6) 0.5443(5) 0.6356(2)
+N3 N -0.6380(5) 0.6939(3) 0.8722(2)
+N4 N -0.0419(6) 0.4026(3) 1.0003(2)
+C1 C -0.0202(6) 0.4652(4) 0.8392(2)
+C2 C -0.1338(6) 0.5516(4) 0.7720(2)
+C3 C -0.3304(6) 0.6267(4) 0.7791(2)
+H1 H -0.3944(6) 0.6773(4) 0.7318(2)
+C4 C -0.4245(6) 0.6218(4) 0.8602(2)
+C5 C -0.3271(5) 0.5494(4) 0.9318(2)
+H2 H -0.3938(5) 0.5525(4) 0.9866(2)
+C6 C -0.1355(5) 0.4743(4) 0.9221(2)
+#END

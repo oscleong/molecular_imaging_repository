@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZEHJUR
+_audit_creation_date 1996-05-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZEHJUR
+_database_code_depnum_ccdc_archive 'CCDC 1310588'
+_chemical_formula_sum 'C16 H14 N4 O4'
+_chemical_formula_moiety
+;
+C16 H14 N4 O4
+;
+_journal_coden_Cambridge 188
+_journal_year 1995
+_journal_page_first 1449
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"R.Glaser"
+"G.S.Chen"
+"M.Anthamatten"
+"C.L.Barnes"
+_chemical_name_systematic
+;
+(E,E)-p-Nitroacetophenone azine
+;
+_cell_volume   3060.087
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.417
+_exptl_special_details
+;
+red polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-y,-1/2+z
+_cell_length_a 13.1571(6)
+_cell_length_b 11.5898(9)
+_cell_length_c 20.0677(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.35545(18) 0.20904(22) 0.59048(11)
+N2 N 0.35343(19) 0.29073(21) 0.64174(11)
+N3 N 0.36204(18) -0.23084(23) 0.40240(14)
+N4 N 0.37627(19) 0.7298(3) 0.83127(15)
+O1 O 0.35267(18) -0.19915(21) 0.34456(12)
+O2 O 0.36740(19) -0.33311(21) 0.41834(13)
+O3 O 0.38012(22) 0.83148(22) 0.81552(13)
+O4 O 0.38052(20) 0.69692(24) 0.88875(11)
+C1 C 0.38105(19) 0.1072(3) 0.60844(13)
+C2 C 0.37711(17) 0.01835(24) 0.55471(13)
+C3 C 0.40310(22) -0.0960(3) 0.56762(14)
+C4 C 0.39734(23) -0.17758(24) 0.51770(15)
+C5 C 0.36752(19) -0.1447(3) 0.45512(13)
+C6 C 0.34399(21) -0.0324(3) 0.44013(14)
+C7 C 0.3490(2) 0.04927(23) 0.49016(13)
+C8 C 0.41265(23) 0.0730(3) 0.67747(13)
+C9 C 0.37031(18) 0.39423(25) 0.62369(13)
+C10 C 0.36532(17) 0.48219(24) 0.67716(13)
+C11 C 0.36542(19) 0.44852(22) 0.74410(14)
+C12 C 0.36723(20) 0.5286(3) 0.79469(13)
+C13 C 0.36812(19) 0.64399(25) 0.77779(14)
+C14 C 0.36456(20) 0.6808(3) 0.71300(15)
+C15 C 0.3636(2) 0.5998(3) 0.66262(14)
+C16 C 0.39673(22) 0.43029(25) 0.55438(13)
+H1 H 0.42800 -0.12100 0.61700
+H2 H 0.41600 -0.26700 0.52700
+H3 H 0.32200 -0.01000 0.39000
+H4 H 0.33100 0.13800 0.48000
+H5 H 0.36400 0.00500 0.69600
+H6 H 0.40800 0.14700 0.71000
+H7 H 0.49000 0.04400 0.67300
+H8 H 0.36200 0.35800 0.75700
+H9 H 0.36900 0.50300 0.84600
+H10 H 0.36000 0.77200 0.70100
+H11 H 0.36400 0.62900 0.61100
+H12 H 0.34200 0.49200 0.53500
+H13 H 0.39900 0.35600 0.52200
+H14 H 0.47100 0.46900 0.55800
+#END

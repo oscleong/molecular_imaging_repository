@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUCMAR
+_audit_creation_date 1988-06-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUCMAR
+_database_code_depnum_ccdc_archive 'CCDC 1160454'
+_chemical_formula_sum 'C11 H16 N2 O3'
+_chemical_formula_moiety
+;
+C11 H16 N2 O3
+;
+_journal_coden_Cambridge 34
+_journal_volume 24
+_journal_year 1987
+_journal_page_first 1345
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"L.Schlicksupp"
+"N.R.Natale"
+_chemical_name_systematic
+;
+3,5-Dimethylisoxazole-4-(2'-hydroxymethyl-N-pyrrolidino)carboxamide
+;
+_chemical_melting_point 366.65
+_cell_volume   1122.999
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.33
+_exptl_special_details
+;
+Melting point range 366.65-368.65K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 6.090(1)
+_cell_length_b 10.261(1)
+_cell_length_c 17.971(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1026(8) 0.1505(4) 0.7337(2)
+C2 C 0.1948(7) 0.1958(4) 0.7986(2)
+C3 C 0.3774(7) 0.2684(7) 0.7747(2)
+C4 C 0.5434(10) 0.3452(5) 0.8208(3)
+C5 C -0.0943(8) 0.0756(5) 0.7171(3)
+C6 C 0.1107(7) 0.1865(3) 0.8761(2)
+C7 C 0.1838(9) -0.1456(4) 0.9370(2)
+C8 C 0.1343(8) -0.0651(4) 1.0059(2)
+C9 C -0.0135(8) 0.0414(4) 0.9773(2)
+C10 C 0.1739(9) -0.0538(4) 0.8731(2)
+C11 C -0.2542(10) 0.0005(4) 0.9741(13)
+N1 N 0.3975(7) 0.2641(4) 0.7010(2)
+N2 N 0.0723(6) 0.0651(3) 0.9022(2)
+O1 O 0.2212(7) 0.1904(3) 0.6754(2)
+O2 O 0.0727(6) 0.2858(3) 0.9106(2)
+O3 O -0.3950(6) 0.1001(3) 0.9491(2)
+#END

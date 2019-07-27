@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAFHOH
+_audit_creation_date 2012-01-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAFHOH
+_database_code_depnum_ccdc_archive 'CCDC 776986'
+_chemical_formula_sum 'C10 H3 N7 O10'
+_chemical_formula_moiety
+;
+C10 H3 N7 O10
+;
+_journal_coden_Cambridge 95
+_journal_year 2011
+_journal_page_first 332
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"A.O.Finogenov"
+"M.A.Epishina"
+"I.V.Ovchinnikov"
+"A.S.Kulikov"
+"I.V.Anan'ev"
+"N.N.Makhova"
+_chemical_name_systematic
+;
+3,3'-(4-Nitro-1,3-phenylene)bis(4-nitro-2,5-dihydro-1,2,5-oxadiazole) 
+2,2'-dioxide
+;
+_chemical_name_common
+;
+4-Nitro-1,3-bis(4-nitrofuroxan-3-yl)benzene
+;
+_chemical_melting_point 439.15
+_cell_volume   2738.001
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.849
+_exptl_special_details
+;
+Melting point range 439.15-440.15K
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+One 4-nitrofuroxan group is disordered over two sites with occupancies 
+0.80:0.20.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0454
+_refine_ls_wR_factor_gt 0.0454
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 13.4057(16)
+_cell_length_b 10.6094(13)
+_cell_length_c 19.251(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4441(1) -0.06128(13) 0.05380(7)
+O2 O 0.33985(13) -0.18561(14) 0.00122(8)
+O3 O 0.12573(11) 0.03184(15) 0.07404(8)
+O4 O 0.1426(1) 0.21000(13) 0.13995(7)
+O5 O 0.67028(10) 0.36453(14) 0.21363(8)
+O6 O 0.56612(10) 0.43032(13) 0.29156(7)
+O7 O 0.43031(12) 0.08708(15) 0.35619(9)
+O8 O 0.35805(11) 0.53608(14) 0.26412(8)
+O9 O 0.29602(14) 0.58874(17) 0.36304(10)
+O10 O 0.37331(13) 0.24643(18) 0.42751(9)
+N1 N 0.36002(13) -0.09387(16) 0.03647(8)
+N2 N 0.18875(13) -0.05343(17) 0.04425(9)
+N3 N 0.18582(12) 0.12495(16) 0.11065(8)
+N4 N 0.58644(11) 0.37170(14) 0.23874(8)
+N5 N 0.40682(18) 0.1946(2) 0.36019(14)
+N6 N 0.33747(16) 0.5144(2) 0.32421(13)
+N7 N 0.34657(12) 0.36909(17) 0.41709(9)
+C1 C 0.27766(14) -0.01621(18) 0.06057(10)
+C2 C 0.28183(14) 0.09386(17) 0.10116(9)
+C3 C 0.36101(13) 0.16848(16) 0.13452(9)
+C4 C 0.44685(13) 0.20542(16) 0.09927(9)
+H1 H 0.45550 0.18410 0.05170
+C5 C 0.51972(13) 0.27348(17) 0.13406(9)
+H2 H 0.57880 0.29880 0.11060
+C6 C 0.50570(12) 0.30410(16) 0.20303(9)
+C7 C 0.41945(13) 0.26969(18) 0.23906(10)
+C8 C 0.34727(13) 0.20154(18) 0.20377(10)
+H3 H 0.28790 0.17720 0.22710
+C9 C 0.40059(16) 0.2880(2) 0.31480(12)
+C10 C 0.36220(15) 0.3909(2) 0.35204(12)
+C11? C 0.3859(7) 0.2983(13) 0.3670(6)
+C12? C 0.3941(7) 0.3432(10) 0.3039(5)
+N8? N 0.3612(8) 0.4641(11) 0.3103(7)
+N9? N 0.4143(9) 0.1738(12) 0.3911(7)
+O11? O 0.3341(6) 0.4833(8) 0.3806(5)
+O12? O 0.4327(7) 0.1503(9) 0.4488(4)
+#END

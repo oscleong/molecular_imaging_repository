@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZOXYOA
+_audit_creation_date 1996-10-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZOXYOA
+_chemical_formula_sum 'C11 H14 N2 O4'
+_chemical_formula_moiety
+;
+C11 H14 N2 O4
+;
+_journal_coden_Cambridge 692
+_journal_year 1996
+_journal_page_first 64
+_journal_name_full 'Synthesis '
+loop_
+_publ_author_name
+"M.-P.D.Alcantara"
+"F.C.Escribano"
+"A.Gomez-Sanchez"
+"M.J.Dianez"
+"M.D.Estrada"
+"A.Lopez-Castro"
+"S.Perez-Garrido"
+_chemical_name_systematic
+;
+(2R,3r,4S)-2,4-Dinitro-3-phenylpentane
+;
+_chemical_melting_point 449.15
+_cell_volume   1196.093
+_exptl_crystal_density_diffrn 1.32
+_exptl_special_details
+;
+Melting point range 449.15-452.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.637(7)
+_cell_length_b 6.104(1)
+_cell_length_c 14.018(6)
+_cell_angle_alpha 90
+_cell_angle_beta 107.25(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6504(3) 0.7421(8) 0.2564(4)
+O2 O 0.8014(3) 0.7380(7) 0.3351(3)
+O3 O 0.5890(3) 0.3077(9) -0.0457(3)
+O4 O 0.6486(3) 0.0208(8) 0.0345(3)
+N1 N 0.7246(4) 0.6462(8) 0.3003(3)
+N2 N 0.6192(3) 0.207(1) 0.0306(3)
+C1 C 0.8020(4) 0.3149(10) 0.3870(4)
+C2 C 0.7183(3) 0.4007(8) 0.3051(3)
+C3 C 0.7121(3) 0.2979(10) 0.2016(3)
+C4 C 0.6186(4) 0.3317(10) 0.1249(4)
+C5 C 0.5318(3) 0.2413(12) 0.1538(4)
+C6 C 0.7987(3) 0.3543(9) 0.1662(3)
+C7 C 0.8068(4) 0.5491(9) 0.1195(3)
+C8 C 0.8896(4) 0.5894(10) 0.0910(4)
+C9 C 0.9622(4) 0.4379(11) 0.1101(4)
+C10 C 0.9531(3) 0.2424(11) 0.1556(4)
+C11 C 0.8715(3) 0.2016(9) 0.1838(3)
+H1 H 0.80200 0.38700 0.45900
+H2 H 0.86800 0.35900 0.37300
+H3 H 0.79800 0.13900 0.39400
+H4 H 0.65400 0.35000 0.32300
+H5 H 0.71800 0.12100 0.21300
+H6 H 0.60700 0.51000 0.11600
+H7 H 0.54300 0.06900 0.17300
+H8 H 0.46600 0.26400 0.09500
+H9 H 0.53000 0.33200 0.22100
+H10 H 0.74800 0.67000 0.10300
+H11 H 0.89400 0.74900 0.05400
+H12 H 1.02600 0.46900 0.08400
+H13 H 1.01200 0.12200 0.17500
+H14 H 0.86300 0.04000 0.21600
+#END

@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ANEJAG
+_audit_creation_date 2016-05-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ANEJAG
+_database_code_depnum_ccdc_archive 'CCDC 1479835'
+_chemical_formula_sum 'C11 H13 N3 O3'
+_chemical_formula_moiety
+;
+C11 H13 N3 O3
+;
+_journal_coden_Cambridge 1078
+_journal_year 2016
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"C.Mamat"
+"M.Kockerling"
+_chemical_name_systematic
+;
+(4-nitrophenyl)(piperazin-1-yl)methanone
+;
+_chemical_name_common
+;
+1-(4-Nitrobenzoyl)piperazine
+;
+_chemical_melting_point 347
+_cell_volume   2149.903
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.454
+_exptl_special_details
+;
+Universitat Rostock, Institut fur Chemie, Anorganische Festkorperchemie, 
+Albert-Einstein-Str. 3a, D-18059 Rostock, Germany
+;
+_exptl_crystal_description 'irregular prism'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0452
+_refine_ls_wR_factor_gt 0.0452
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 24.587(2)
+_cell_length_b 7.0726(6)
+_cell_length_c 14.171(1)
+_cell_angle_alpha 90
+_cell_angle_beta 119.257(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.42066(5) 0.26786(16) 0.39392(9)
+O1 O 0.44584(4) 0.38070(12) 0.36026(7)
+N1 N 0.42419(5) 0.07916(14) 0.38600(8)
+C2 C 0.45071(6) -0.00170(17) 0.32212(10)
+H1 H 0.48490 -0.08980 0.36730
+H2 H 0.46790 0.10020 0.29660
+C3 C 0.39926(6) -0.10747(18) 0.22511(10)
+H3 H 0.36860 -0.01440 0.17530
+H4 H 0.41800 -0.17160 0.18570
+N2 N 0.36651(5) -0.24794(15) 0.25458(9)
+H5 H 0.36040 -0.36580 0.23180
+C4 C 0.34515(6) -0.16946(16) 0.32628(10)
+H6 H 0.32910 -0.27350 0.35260
+H7 H 0.31020 -0.08130 0.28450
+C5 C 0.39637(6) -0.06432(16) 0.42388(9)
+H8 H 0.37840 -0.00330 0.46530
+H9 H 0.42880 -0.15480 0.47220
+C6 C 0.38472(5) 0.34452(15) 0.44621(9)
+C7 C 0.32064(5) 0.31576(15) 0.40044(9)
+H10 H 0.29940 0.23950 0.33760
+C8 C 0.28768(5) 0.39792(16) 0.44620(9)
+H11 H 0.24400 0.37930 0.41540
+C9 C 0.32039(5) 0.50805(15) 0.53822(9)
+C10 C 0.38389(5) 0.54059(16) 0.58501(9)
+H12 H 0.40480 0.61700 0.64790
+C11 C 0.41620(5) 0.45916(16) 0.53809(9)
+H13 H 0.45970 0.48100 0.56820
+N3 N 0.28577(5) 0.59275(14) 0.58763(8)
+O2 O 0.22979(4) 0.55878(14) 0.54653(8)
+O3 O 0.31409(5) 0.69565(14) 0.66676(8)
+#END

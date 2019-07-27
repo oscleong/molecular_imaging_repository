@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HURRIX
+_audit_creation_date 2015-11-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HURRIX
+_database_code_depnum_ccdc_archive 'CCDC 1414778'
+_chemical_formula_sum 'C16 H27 N1 O8'
+_chemical_formula_moiety
+;
+C16 H27 N1 O8
+;
+_journal_coden_Cambridge 1336
+_journal_volume 17
+_journal_year 2015
+_journal_page_first 5408
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"C.Berini"
+"M.Sebban"
+"H.Oulyadi"
+"M.Sanselme"
+"V.Levacher"
+"J.-F.Briere"
+_chemical_name_systematic
+;
+t-butyl 
+3-(5,6-dimethoxy-5,6-dimethyl-1,4-dioxan-2-yl)-5-oxo-1,2-oxazolidine-2-carboxy
+late
+;
+_cell_volume   1152.190
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.042
+_exptl_special_details
+;
+We calculate 21.22% void space in the structure
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0524
+_refine_ls_wR_factor_gt 0.0524
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.248(2)
+_cell_length_b 9.553(2)
+_cell_length_c 11.932(3)
+_cell_angle_alpha 90
+_cell_angle_beta 99.477(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2892(2) 0.8147(3) 0.9123(2)
+C2 C 0.3946(2) 0.8118(3) 1.0201(2)
+C3 C 0.2639(2) 0.9657(3) 1.1096(2)
+H1 H 0.26640 1.05210 1.15260
+H2 H 0.23780 0.89070 1.15610
+C4 C 0.1661(2) 0.9784(2) 1.0031(2)
+H3 H 0.19360 1.05460 0.95710
+C5 C 0.0245(2) 1.0055(2) 1.0216(2)
+H4 H 0.02180 1.08640 1.07170
+C6 C -0.0703(2) 1.0261(3) 0.9126(2)
+H5 H -0.13470 1.09790 0.92150
+H6 H -0.02320 1.05350 0.85190
+C7 C -0.1361(3) 0.8888(3) 0.8873(3)
+C8 C -0.0629(3) 0.8639(3) 1.1739(2)
+C9 C 0.0239(4) 0.9348(4) 1.3668(3)
+C10 C 0.1113(5) 1.0595(6) 1.4092(3)
+H7 H 0.06320 1.14480 1.39000
+H8 H 0.18910 1.05870 1.37420
+H9 H 0.13650 1.05360 1.49020
+C11 C 0.0953(4) 0.7939(5) 1.3958(3)
+H10 H 0.16880 0.78650 1.35550
+H11 H 0.03480 0.71830 1.37390
+H12 H 0.12690 0.78920 1.47610
+C12 C -0.1035(4) 0.9424(6) 1.4127(3)
+H13 H -0.15910 0.86510 1.38400
+H14 H -0.14770 1.02870 1.38940
+H15 H -0.08550 0.93810 1.49420
+C13 C 0.5351(2) 0.7991(4) 0.9948(3)
+H16 H 0.59640 0.79670 1.06490
+H17 H 0.55440 0.87820 0.95060
+H18 H 0.54300 0.71460 0.95290
+C14 C 0.2711(3) 0.6741(3) 0.8538(3)
+H19 H 0.34950 0.65080 0.82350
+H20 H 0.19690 0.67820 0.79320
+H21 H 0.25530 0.60390 0.90770
+C15 C 0.2462(3) 0.9475(4) 0.7401(2)
+H22 H 0.15580 0.94180 0.75160
+H23 H 0.26160 0.87980 0.68430
+H24 H 0.26360 1.03970 0.71410
+C16 C 0.4353(4) 0.6710(4) 1.1881(3)
+H25 H 0.45810 0.75800 1.22670
+H26 H 0.51450 0.62310 1.17710
+H27 H 0.38670 0.61380 1.23300
+N1 N -0.03174(19) 0.8810(2) 1.06974(18)
+O1 O 0.16365(14) 0.85029(15) 0.94010(14)
+O2 O 0.39115(15) 0.93713(19) 1.08277(15)
+O3 O -0.11770(16) 0.80871(19) 0.98374(16)
+O4 O -0.1991(3) 0.8437(3) 0.8045(2)
+O5 O -0.1366(2) 0.7747(2) 1.19770(18)
+O6 O 0.00625(18) 0.9547(2) 1.24489(15)
+O7 O 0.35680(17) 0.6976(2) 1.08202(17)
+O8 O 0.33116(17) 0.9199(2) 0.84396(16)
+#END

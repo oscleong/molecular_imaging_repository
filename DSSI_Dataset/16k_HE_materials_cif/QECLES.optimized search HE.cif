@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QECLES
+_audit_creation_date 2017-09-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QECLES
+_database_code_depnum_ccdc_archive 'CCDC 1572237'
+_chemical_formula_sum 'C21 H15 N3 O6'
+_chemical_formula_moiety
+;
+C21 H15 N3 O6
+;
+_journal_coden_Cambridge 1078
+_journal_year 2017
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"B.W.Skelton"
+"J.B.Bremner"
+"H.F.Russell"
+_chemical_name_systematic
+;
+1,1',1''-(cyclopropane-1,2,3-triyl)tris(2-nitrobenzene)
+;
+_cell_volume   1881.177
+_exptl_crystal_density_diffrn 1.431
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+O321,O322 and O323,O324 disordered over two sites with occupancies 
+0.874:0.126.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0507
+_refine_ls_wR_factor_gt 0.0507
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.635(2)
+_cell_length_b 12.574(3)
+_cell_length_c 14.408(3)
+_cell_angle_alpha 90
+_cell_angle_beta 102.48(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.50005(19) 0.59892(17) 0.32697(14)
+H1 H 0.45550 0.55780 0.36790
+C2 C 0.6110(2) 0.54286(16) 0.30047(16)
+C3 C 0.7297(2) 0.52554(18) 0.36248(18)
+N1 N 0.7516(2) 0.5608(2) 0.46179(18)
+O1 O 0.6607(2) 0.5670(2) 0.50000(14)
+O2 O 0.8616(2) 0.5825(3) 0.50232(19)
+C4 C 0.8305(2) 0.4738(2) 0.3352(2)
+H2 H 0.90860 0.46450 0.37830
+C5 C 0.8144(3) 0.4363(2) 0.2443(3)
+H3 H 0.88140 0.40090 0.22530
+C6 C 0.6992(3) 0.4510(2) 0.1813(2)
+H4 H 0.68790 0.42530 0.11960
+C7 C 0.5998(2) 0.50409(18) 0.20931(17)
+H5 H 0.52270 0.51400 0.16530
+C8 C 0.49896(18) 0.71872(17) 0.34194(14)
+H6 H 0.45280 0.74130 0.39050
+C9 C 0.61036(19) 0.78737(16) 0.33528(14)
+C10 C 0.6849(2) 0.83885(17) 0.41416(15)
+N2 N 0.6525(2) 0.83212(18) 0.50774(14)
+O3 O 0.54190(19) 0.8459(2) 0.51395(13)
+O4 O 0.7395(2) 0.8168(2) 0.57601(13)
+C11 C 0.7926(2) 0.89880(19) 0.41095(18)
+H7 H 0.84080 0.92980 0.46580
+C12 C 0.8272(2) 0.9117(2) 0.32543(19)
+H8 H 0.89860 0.95290 0.32150
+C13 C 0.7565(2) 0.8640(2) 0.24603(19)
+H9 H 0.78000 0.87280 0.18800
+C14 C 0.6508(2) 0.80295(19) 0.25088(16)
+H10 H 0.60480 0.77100 0.19570
+C15 C 0.41360(19) 0.66826(16) 0.25501(14)
+H11 H 0.44210 0.67880 0.19540
+C16 C 0.27161(19) 0.66960(17) 0.24604(15)
+C17 C 0.1840(2) 0.68736(17) 0.16107(15)
+N3 N 0.2277(2) 0.7074(2) 0.07262(14)
+O5 O 0.1739(3) 0.6598(3) 0.00094(16)
+O6 O 0.3133(2) 0.7740(2) 0.07268(16)
+C18 C 0.0522(2) 0.6882(2) 0.15297(19)
+H12 H -0.00280 0.70010 0.09430
+C19 C 0.0034(2) 0.6714(2) 0.2322(2)
+H13 H -0.08510 0.67190 0.22800
+C20 C 0.0869(2) 0.6536(2) 0.31809(19)
+H14 H 0.05440 0.64250 0.37230
+C21 C 0.2178(2) 0.65212(19) 0.32478(16)
+H15 H 0.27210 0.63910 0.38350
+O7? O 0.2953(17) 0.6383(12) 0.0522(12)
+O8? O 0.165(2) 0.772(2) 0.0226(16)
+#END

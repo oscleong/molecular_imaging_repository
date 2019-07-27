@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QETRIQ
+_audit_creation_date 2001-05-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QETRIQ
+_database_code_depnum_ccdc_archive 'CCDC 160804'
+_chemical_formula_sum 'C11 H14 N4 O2'
+_chemical_formula_moiety
+;
+C11 H14 N4 O2
+;
+_journal_coden_Cambridge 1200
+_journal_volume 8
+_journal_year 2000
+_journal_page_first 2719
+_journal_name_full 'Bioorg.Med.Chem. '
+loop_
+_publ_author_name
+"E.Aiello"
+"S.Aiello"
+"F.Mingoia"
+"A.Bacchi"
+"G.Pelizzi"
+"C.Musiu"
+"M.G.Setzu"
+"A.Pani"
+"P.La Colla"
+"M.E.Marongiu"
+_chemical_name_systematic
+;
+3-(3-Methyl-4-nitroso-1-propyl-1H-5-pyrazolyl)-5-methylisoxazole
+;
+_chemical_melting_point 340.15
+_cell_volume   1179.221
+_exptl_crystal_colour 'blue green'
+_exptl_crystal_density_diffrn 1.32
+_exptl_special_details
+;
+Melting point range 340.15-341.15K
+antifungal activity
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.103
+_refine_ls_wR_factor_gt 0.103
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 4.248(2)
+_cell_length_b 30.861(8)
+_cell_length_c 9.098(3)
+_cell_angle_alpha 90
+_cell_angle_beta 98.63(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3065(11) 0.26076(9) 0.2274(3)
+O2 O 0.6280(8) 0.38820(9) -0.2638(3)
+N1 N 0.2531(13) 0.30575(11) 0.2266(4)
+N2 N 0.1275(8) 0.39453(9) 0.1249(3)
+N3 N 0.1207(8) 0.43440(9) 0.0552(3)
+N4 N 0.5458(9) 0.3647(1) -0.1650(4)
+C1 C 0.4027(11) 0.24879(12) 0.0984(4)
+C2 C 0.4081(12) 0.28405(12) 0.0137(5)
+H1 H 0.46540 0.28540 -0.08090
+C3 C 0.3101(10) 0.31866(11) 0.0958(4)
+C4 C 0.2747(10) 0.36426(11) 0.0518(4)
+C5 C 0.3798(10) 0.38580(12) -0.0676(4)
+C6 C 0.2742(11) 0.42931(11) -0.0606(4)
+C7 C 0.4774(15) 0.20211(12) 0.0824(5)
+H2 H 0.58760 0.19830 -0.00140
+H3 H 0.28320 0.18570 0.06740
+H4 H 0.60960 0.19220 0.17090
+C8 C 0.3131(12) 0.46652(12) -0.1610(4)
+H5 H 0.19760 0.49110 -0.13230
+H6 H 0.23200 0.45870 -0.26170
+H7 H 0.53480 0.47370 -0.15360
+C9 C -0.0302(10) 0.39145(13) 0.2575(4)
+H8 H -0.11520 0.36240 0.26340
+H9 H -0.20770 0.41160 0.24740
+C10 C 0.1904(11) 0.40129(12) 0.4007(4)
+H10 H 0.37570 0.38260 0.40660
+H11 H 0.08140 0.39420 0.48400
+C11 C 0.3012(12) 0.44787(12) 0.4161(5)
+H12 H 0.45150 0.45330 0.34930
+H13 H 0.40070 0.45310 0.51640
+H14 H 0.12170 0.46690 0.39240
+#END

@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BANHOO03
+_audit_creation_date 2003-06-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BANHOO03
+_database_code_depnum_ccdc_archive 'CCDC 163564'
+_chemical_formula_sum 'C16 H12 N2 O3'
+_chemical_formula_moiety
+;
+C16 H12 N2 O3
+;
+_journal_coden_Cambridge 971
+_journal_volume 3
+_journal_year 2001
+_journal_page_first 867
+_journal_name_full 'Solid State Sciences '
+loop_
+_publ_author_name
+"N.Sanz"
+"P.L.Baldeck"
+"J.-F.Nicoud"
+"Y.Le Fur"
+"A.Ibanez"
+_chemical_name_systematic
+;
+trans-1-Cyano-1-(4-nitrophenyl)-2-(4-methoxyphenyl)ethene
+;
+_cell_volume   1371.946
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.357
+_exptl_special_details
+;
+luminescent
+P21/n polymorph I
+
+;
+_exptl_crystal_description 'platelets'
+_exptl_crystal_preparation 'dimethylformamide'
+_diffrn_ambient_temperature 296.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BANJEG "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 3.884(1)
+_cell_length_b 12.351(2)
+_cell_length_c 28.636(4)
+_cell_angle_alpha 90
+_cell_angle_beta 92.9(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.1519(8) 0.3540(3) 0.58086(12)
+O2 O 0.7998(10) -0.5181(3) 0.76339(13)
+O3 O 0.6372(11) -0.6255(3) 0.7083(1)
+N1 N 0.6579(10) -0.5356(4) 0.7253(2)
+N2 N -0.234(1) -0.2198(3) 0.5454(2)
+C1 C -0.0892(10) 0.2463(4) 0.5905(2)
+C2 C 0.0848(11) 0.2284(4) 0.6331(2)
+C3 C 0.1642(10) 0.1243(4) 0.6466(2)
+C4 C 0.0683(10) 0.0352(3) 0.6184(2)
+C5 C -0.1082(11) 0.0571(3) 0.5756(2)
+C6 C -0.1862(11) 0.1619(4) 0.5617(2)
+C7 C 0.1648(10) -0.0706(4) 0.6367(2)
+C8 C 0.1071(10) -0.1732(3) 0.6228(2)
+C9 C 0.2429(9) -0.2682(4) 0.6493(2)
+C10 C 0.3642(12) -0.2578(3) 0.6953(2)
+C11 C 0.4996(11) -0.3446(4) 0.7202(2)
+C12 C 0.5118(10) -0.4438(4) 0.6983(2)
+C13 C 0.3912(12) -0.4578(4) 0.6535(2)
+C14 C 0.2546(11) -0.3698(4) 0.6287(2)
+C15 C -0.0798(11) -0.1967(4) 0.5793(2)
+C16 C -0.3183(11) 0.3813(4) 0.5359(2)
+H1 H 0.14710 0.28920 0.65380
+H2 H 0.29560 0.11090 0.67650
+H3 H -0.18850 -0.00330 0.55580
+H4 H -0.29570 0.17480 0.53060
+H5 H 0.30340 -0.06780 0.66610
+H6 H 0.34790 -0.18750 0.71160
+H7 H 0.59530 -0.33710 0.75220
+H8 H 0.39470 -0.53040 0.64030
+H9 H 0.17360 -0.38130 0.59530
+H10 H -0.14180 0.34980 0.51040
+H11 H -0.51890 0.34790 0.53480
+H12 H -0.37340 0.45470 0.54520
+#END

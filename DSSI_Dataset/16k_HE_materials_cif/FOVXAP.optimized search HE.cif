@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FOVXAP
+_audit_creation_date 1988-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FOVXAP
+_chemical_formula_sum 'C12 H12 N2 O2'
+_chemical_formula_moiety
+;
+C12 H12 N2 O2
+;
+_journal_coeditor_code "IUCr A27341"
+_journal_coden_Cambridge 591
+_journal_volume 43
+_journal_year 1987
+_journal_page_first 1613
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"I.Fonseca"
+"S.Martinez-Carrera"
+"S.Garcia-Blanco"
+"J.G.Rodriguez"
+_chemical_name_systematic
+;
+1-Methyl-3-(2-methyl-2-nitrovinyl)indole
+;
+_chemical_melting_point 400
+_cell_volume   4377.748
+_exptl_crystal_colour 'orange-yellow'
+_exptl_crystal_density_diffrn 1.312
+_exptl_special_details
+;
+Melting point range 400-402K
+antiparasitic activity against Candida albicans
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 1/4-x,1/4+y,1/4+z
+6 1/4-x,3/4+y,3/4+z
+7 3/4-x,1/4+y,3/4+z
+8 3/4-x,3/4+y,1/4+z
+9 1/4+x,1/4-y,1/4+z
+10 1/4+x,3/4-y,3/4+z
+11 3/4+x,1/4-y,3/4+z
+12 3/4+x,3/4-y,1/4+z
+13 1/2-x,-y,1/2+z
+14 1/2-x,1/2-y,z
+15 -x,-y,z
+16 -x,1/2-y,1/2+z
+_cell_length_a 24.398(1)
+_cell_length_b 24.914(1)
+_cell_length_c 7.202(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 1.0261(1) 0.3550(1) 0.2866(8)
+C1 C 1.0758(1) 0.3313(1) 0.3248(8)
+C2 C 1.1281(2) 0.3539(2) 0.3451(9)
+C3 C 1.1705(2) 0.3203(2) 0.3829(9)
+C4 C 1.1628(2) 0.2645(2) 0.4003(9)
+C5 C 1.1112(2) 0.2415(2) 0.3814(8)
+C6 C 1.0671(1) 0.2754(1) 0.34240
+C7 C 1.0088(1) 0.2669(1) 0.3172(7)
+C8 C 0.9864(1) 0.3169(1) 0.2837(8)
+C9 C 0.9838(1) 0.2148(1) 0.3170(7)
+C10 C 0.9300(1) 0.2030(1) 0.3374(8)
+C11 C 0.8839(2) 0.2399(2) 0.3781(9)
+C12 C 1.0181(2) 0.4122(2) 0.2504(10)
+N2 N 0.9158(1) 0.1464(1) 0.3261(8)
+O1 O 0.8685(2) 0.1336(2) 0.3591(9)
+O2 O 0.9503(1) 0.1130(1) 0.2837(10)
+H1 H 1.13300 0.39500 0.33500
+H2 H 1.21000 0.33600 0.41000
+H3 H 1.19000 0.23500 0.43500
+H4 H 1.10900 0.19500 0.37600
+H5 H 0.94900 0.31900 0.24900
+H6 H 1.01300 0.18500 0.29600
+H7 H 0.86600 0.22300 0.49600
+H8 H 0.86000 0.23600 0.28300
+H9 H 0.89000 0.28800 0.42200
+H10 H 1.04300 0.42300 0.14300
+H11 H 1.03300 0.43300 0.36500
+H12 H 0.98300 0.43200 0.22500
+#END

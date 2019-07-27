@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMPPIO11
+_audit_creation_date 2004-02-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMPPIO11
+_chemical_formula_sum 'C9 H18 N1 O1'
+_chemical_formula_moiety
+;
+C9 H18 N1 O1
+;
+_journal_coden_Cambridge 97
+_journal_volume 275
+_journal_year 1972
+_journal_page_first 317
+_journal_name_full 'C.R.Acad.Sci.,Ser.C (Chim) '
+loop_
+_publ_author_name
+"M.A.Capiomont"
+"D.Bordeaux"
+"J.Lajzerowicz"
+"M.L.Neel"
+_chemical_name_systematic
+;
+2,2,6,6-Tetramethylpiperidine-1-oxyl
+;
+_chemical_melting_point 311.15
+_cell_volume   2029.573
+_exptl_special_details
+;
+tetragonal polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Structure is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.17
+_refine_ls_wR_factor_gt 0.17
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I -4 2 d'
+_symmetry_Int_Tables_number 122
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 y,-x,-z
+3 x,1/2-y,1/4-z
+4 -x,-y,z
+5 1/2-y,-x,3/4+z
+6 -y,x,-z
+7 -x,1/2+y,1/4-z
+8 1/2+y,x,3/4+z
+9 1/2+x,1/2+y,1/2+z
+10 1/2+y,1/2-x,1/2-z
+11 1/2+x,-y,3/4-z
+12 1/2-x,1/2-y,1/2+z
+13 -y,1/2-x,1/4+z
+14 1/2-y,1/2+x,1/2-z
+15 1/2-x,y,3/4-z
+16 y,1/2+x,1/4+z
+_cell_length_a 15.8
+_cell_length_b 15.8
+_cell_length_c 8.13
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.24400 -0.68700 -0.15400
+C2 C -0.27200 -0.63800 -0.29900
+C3 C -0.17500 -0.64200 -0.06700
+C4 C -0.30600 -0.55100 -0.25500
+C5 C -0.29900 -0.55500 -0.25300
+C6 C -0.10400 -0.55700 -0.06800
+C7 C -0.24400 -0.56300 -0.40200
+C8 C -0.30700 -0.49500 -0.40800
+C9 C -0.37800 -0.50300 -0.28400
+N1 N -0.25000 -0.51000 -0.13200
+O1 O -0.26300 -0.43100 -0.10500
+C1N C -0.25600 -0.68700 -0.09600
+C2N C -0.22800 -0.63800 0.04900
+C3N C -0.32500 -0.64200 -0.18300
+C4N C -0.19400 -0.55100 0.00500
+C5N C -0.20100 -0.55500 0.00300
+C9N C -0.12200 -0.50300 0.03400
+C7N C -0.25600 -0.56300 0.15200
+C8N C -0.19300 -0.49500 0.15800
+N1N N -0.25000 -0.51000 -0.11800
+C6N C -0.39600 -0.55700 -0.18200
+O1N O -0.23700 -0.43100 -0.14500
+#END

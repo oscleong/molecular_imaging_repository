@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KEPKIZ
+_audit_creation_date 1991-01-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KEPKIZ
+_chemical_formula_sum 'C5 H2 N6 O2'
+_chemical_formula_moiety
+;
+C5 H2 N6 O2
+;
+_journal_coden_Cambridge 35
+_journal_volume 55
+_journal_year 1990
+_journal_page_first 3755
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"C.K.Lowe-Ma"
+"R.A.Nissan"
+"W.S.Wilson"
+_chemical_name_systematic
+;
+Tetrazolo(1,5-f)furazano(4,5-b)pyridine 1-oxide
+;
+_chemical_melting_point 408.65
+_cell_volume    688.610
+_exptl_crystal_colour 'salmon'
+_exptl_crystal_density_diffrn 1.719
+_exptl_special_details
+;
+Melting point range 408.65-410.15K
+x(N4) is 0.0289, not 0.0389
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.04
+_refine_ls_wR_factor_gt 0.04
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 5.961(1)
+_cell_length_b 9.968(2)
+_cell_length_c 11.589(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2844(3) 0.8444(2) 0.1751(2)
+C2 C 0.3708(3) 0.8126(2) 0.2854(2)
+C3 C 0.2653(4) 0.8492(2) 0.3915(2)
+C4 C 0.0747(4) 0.9203(2) 0.3843(2)
+C5 C -0.0152(4) 0.9553(2) 0.2726(2)
+N1 N 0.4032(3) 0.8008(2) 0.0898(2)
+N2 N 0.5549(3) 0.7428(2) 0.2656(2)
+N3 N 0.0874(3) 0.9166(2) 0.1738(2)
+N4 N -0.0289(3) 0.9644(2) 0.0821(2)
+N5 N -0.1969(4) 1.0279(2) 0.1261(2)
+N6 N -0.1960(3) 1.0241(2) 0.2437(2)
+O1 O 0.5810(3) 0.7346(2) 0.1421(2)
+O2 O 0.6987(3) 0.6892(2) 0.3251(2)
+H1 H 0.32820 0.82430 0.46470
+H2 H -0.00190 0.94750 0.45330
+#END

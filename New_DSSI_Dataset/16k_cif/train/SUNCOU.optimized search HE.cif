@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUNCOU
+_audit_creation_date 2010-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUNCOU
+_database_code_depnum_ccdc_archive 'CCDC 720860'
+_chemical_formula_sum 'C14 H14 N4 O4'
+_chemical_formula_moiety
+;
+C14 H14 N4 O4
+;
+_journal_coden_Cambridge 644
+_journal_volume 64
+_journal_year 2009
+_journal_page_first 784
+_journal_name_full 'Z.Naturforsch.,B:Chem.Sci. '
+loop_
+_publ_author_name
+"T.Kloubert"
+"M.Schulz"
+"H.Gorls"
+"M.Friedrich"
+"M.Westerhausen"
+_chemical_name_systematic
+;
+(R,R)/(S,S)-2,2'-(1,4-Dinitrobutane-2,3-diyl)dipyridine
+;
+_cell_volume   1422.947
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.411
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 183
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0476
+_refine_ls_wR_factor_gt 0.0476
+loop_
+_citation_database_id_CSD
+_citation_special_details
+SUNCIO "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.4811(7)
+_cell_length_b 10.5970(5)
+_cell_length_c 14.6023(9)
+_cell_angle_alpha 90
+_cell_angle_beta 104.094(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.01334(18) 0.44123(13) 0.22975(9)
+O2 O -0.03523(16) 0.63400(14) 0.2593(1)
+O3 O 0.29585(17) 0.65685(14) -0.14180(11)
+O4 O 0.26829(15) 0.84967(12) -0.10479(9)
+N1 N -0.15178(16) 0.64211(12) 0.01923(10)
+N2 N 0.41157(16) 0.66269(13) 0.10677(11)
+N3 N 0.02043(16) 0.55513(14) 0.2184(1)
+N4 N 0.24674(15) 0.73653(14) -0.09840(9)
+C1 C -0.28903(19) 0.65631(17) -0.03192(12)
+H1 H -0.33930 0.58380 -0.06130
+C2 C -0.36108(19) 0.77029(17) -0.04419(12)
+H2 H -0.45750 0.77640 -0.08240
+C3 C -0.29008(19) 0.87527(16) 0.00032(12)
+H3 H -0.33780 0.95470 -0.00530
+C4 C -0.14859(19) 0.86324(15) 0.05323(11)
+H4 H -0.09700 0.93450 0.08380
+C5 C -0.08273(17) 0.74504(14) 0.06107(11)
+C6 C 0.07418(18) 0.73011(14) 0.11599(11)
+H5 H 0.09030 0.78790 0.17170
+C7 C 0.17868(18) 0.77219(14) 0.05440(11)
+H6 H 0.15450 0.86180 0.03530
+C8 C 0.33694(18) 0.76918(14) 0.11045(11)
+C9 C 0.39834(19) 0.87261(16) 0.16342(12)
+H7 H 0.34230 0.94630 0.16570
+C10 C 0.5423(2) 0.86697(19) 0.21286(13)
+H8 H 0.58670 0.93710 0.24920
+C11 C 0.6206(2) 0.7589(2) 0.20902(13)
+H9 H 0.72010 0.75320 0.24180
+C12 C 0.5514(2) 0.65917(18) 0.15648(13)
+H10 H 0.60500 0.58370 0.15510
+C13 C 0.11056(19) 0.59681(15) 0.15312(12)
+H11 H 0.09530 0.53770 0.09910
+H12 H 0.21460 0.59310 0.18680
+C14 C 0.15277(19) 0.69367(15) -0.03589(11)
+H13 H 0.17350 0.60390 -0.01920
+H14 H 0.04940 0.70050 -0.07040
+#END

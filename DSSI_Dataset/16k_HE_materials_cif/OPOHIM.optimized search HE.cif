@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OPOHIM
+_audit_creation_date 2016-06-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OPOHIM
+_database_code_depnum_ccdc_archive 'CCDC 1017414'
+_chemical_formula_sum 'C28 H25 N1 O5'
+_chemical_formula_moiety
+;
+C28 H25 N1 O5
+;
+_journal_coden_Cambridge 4
+_journal_volume 136
+_journal_year 2014
+_journal_page_first 14951
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"E.J.Tollefson"
+"D.D.Dawson"
+"C.A.Osborne"
+"E.R.Jarvo"
+_chemical_name_systematic
+;
+anti-2-methoxy-4-(naphthalen-2-yl)-4-phenylbutyl-4-nitrobenzoate
+;
+_chemical_melting_point 399.15
+_cell_volume   2301.258
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.315
+_exptl_special_details
+;
+Melting point range 399.15-402.15K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 88
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0422
+_refine_ls_wR_factor_gt 0.0422
+loop_
+_citation_database_id_CSD
+_citation_special_details
+OPOHEI "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 16.6860(8)
+_cell_length_b 11.0565(5)
+_cell_length_c 12.9454(6)
+_cell_angle_alpha 90
+_cell_angle_beta 105.5145(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.35225(6) 0.53547(9) 0.03492(8)
+O2 O 0.32137(7) 0.3795(1) 0.12942(8)
+O3 O 0.36786(6) 0.80430(9) 0.03120(8)
+O4 O 0.51363(7) 0.15292(10) -0.27213(8)
+O5 O 0.49182(7) 0.00044(9) -0.17808(9)
+N1 N 0.48611(8) 0.10847(11) -0.20172(9)
+C1 C 0.32932(10) 0.61748(14) 0.10949(12)
+C2 C 0.30231(9) 0.73788(13) 0.05580(11)
+C3 C 0.26801(10) 0.81061(14) 0.13449(12)
+C4 C 0.24155(9) 0.94017(13) 0.10010(11)
+C5 C 0.21094(9) 1.00673(14) 0.18554(11)
+C6 C 0.18044(9) 0.94792(14) 0.26093(12)
+C7 C 0.15353(9) 1.01222(14) 0.34075(11)
+C8 C 0.12272(10) 0.95203(17) 0.41933(12)
+C9 C 0.09865(10) 1.01674(19) 0.49567(13)
+C10 C 0.10244(11) 1.14385(19) 0.49653(13)
+C11 C 0.13123(10) 1.20479(17) 0.42173(14)
+C12 C 0.15824(9) 1.14026(15) 0.34191(12)
+C13 C 0.18944(10) 1.19901(15) 0.26320(13)
+C14 C 0.21491(9) 1.13433(14) 0.18817(12)
+C15 C 0.17751(9) 0.94014(13) -0.00961(11)
+C16 C 0.09393(10) 0.91298(15) -0.02138(12)
+C17 C 0.03781(10) 0.90698(16) -0.12258(13)
+C18 C 0.06509(10) 0.92826(16) -0.21330(13)
+C19 C 0.14801(10) 0.95558(15) -0.20231(12)
+C20 C 0.2037(1) 0.96172(14) -0.10112(12)
+C21 C 0.38496(11) 0.76868(15) -0.06680(12)
+C22 C 0.34670(9) 0.41757(13) 0.05657(11)
+C23 C 0.37812(8) 0.33925(13) -0.01796(11)
+C24 C 0.40580(9) 0.38642(13) -0.10217(11)
+C25 C 0.43933(9) 0.31054(13) -0.16478(11)
+C26 C 0.44470(9) 0.18827(13) -0.14094(11)
+C27 C 0.41602(9) 0.13849(13) -0.05952(12)
+C28 C 0.38252(9) 0.21523(13) 0.00223(12)
+H1 H 0.3793(10) 0.6293(15) 0.1708(13)
+H2 H 0.2835(12) 0.5813(17) 0.1326(14)
+H3 H 0.2591(10) 0.7243(14) -0.0129(13)
+H4 H 0.3104(11) 0.8167(16) 0.2027(14)
+H5 H 0.2147(11) 0.7675(15) 0.1434(13)
+H6 H 0.2955(10) 0.9848(14) 0.0924(12)
+H7 H 0.1751(11) 0.8642(17) 0.2637(13)
+H8 H 0.1182(12) 0.8629(19) 0.4154(15)
+H9 H 0.0774(12) 0.9732(18) 0.5486(16)
+H10 H 0.0819(13) 1.1861(19) 0.5501(17)
+H11 H 0.1322(12) 1.293(2) 0.4219(16)
+H12 H 0.1935(12) 1.287(2) 0.2633(15)
+H13 H 0.2359(11) 1.1768(16) 0.1346(15)
+H14 H 0.0748(11) 0.8955(16) 0.0419(14)
+H15 H -0.0197(12) 0.8877(17) -0.1295(14)
+H16 H 0.0254(12) 0.9249(17) -0.2822(15)
+H17 H 0.1681(12) 0.9719(17) -0.2653(16)
+H18 H 0.2628(12) 0.9829(16) -0.0937(14)
+H19 H 0.4167(11) 0.8323(17) -0.0871(14)
+H20 H 0.3339(13) 0.7599(18) -0.1189(16)
+H21 H 0.4180(12) 0.6937(19) -0.0569(15)
+H22 H 0.4035(10) 0.4691(16) -0.1164(13)
+H23 H 0.459(1) 0.3410(15) -0.2211(14)
+H24 H 0.4210(11) 0.0552(17) -0.0443(13)
+H25 H 0.3643(10) 0.1842(16) 0.0600(14)
+#END

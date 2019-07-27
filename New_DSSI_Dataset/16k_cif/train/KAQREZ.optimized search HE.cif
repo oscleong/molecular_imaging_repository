@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KAQREZ
+_audit_creation_date 2000-05-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KAQREZ
+_database_code_depnum_ccdc_archive 'CCDC 118980'
+_chemical_formula_sum 'C16 H24 N4 O2'
+_chemical_formula_moiety
+;
+C16 H24 N4 O2
+;
+_journal_coden_Cambridge 1291
+_journal_year 2000
+_journal_page_first 787
+_journal_name_full 'Eur.J.Org.Chem. '
+loop_
+_publ_author_name
+"K.Exner"
+"G.Fischer"
+"M.Lugan"
+"H.Fritz"
+"D.Hunkler"
+"M.Keller"
+"L.Knothe"
+"H.Prinzbach"
+_chemical_name_systematic
+;
+(+-)-(1R*,4R*,5R*,14R*)-1,13,16,16-Tetramethyl-2,3,11,12-tetra-azapentacyclo(1
+1.2.1.0^4,15^.0^5,9^.0^10,14^)hexadeca-2,11-diene 2,11-dioxide
+;
+_chemical_melting_point 593.15
+_cell_volume   1512.146
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.337
+_exptl_special_details
+;
+Melts above 593.15K
+Structure 51 in paper, not parent diazene of 26 as published
+;
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Oxide atoms O1 and O2 are disordered over two sets of positions with 
+occupancy 0.85:0.15.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0472
+_refine_ls_wR_factor_gt 0.0472
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 7.057(2)
+_cell_length_b 10.5096(10)
+_cell_length_c 20.525(4)
+_cell_angle_alpha 90
+_cell_angle_beta 96.609(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4818(4) 0.2630(2) 0.41270(11)
+C2 C 0.3539(3) 0.1968(2) 0.35635(11)
+C3 C 0.4892(3) 0.1456(2) 0.30863(11)
+H1 H 0.5152(3) 0.0550(2) 0.31645(11)
+C4 C 0.3755(3) 0.1657(2) 0.24242(11)
+H2 H 0.2900(3) 0.0925(2) 0.23419(11)
+C5 C 0.4936(4) 0.1749(2) 0.18522(11)
+H3 H 0.5305(4) 0.0870(2) 0.17676(11)
+C6 C 0.4000(4) 0.2243(3) 0.11896(13)
+H4 H 0.3324(4) 0.1566(3) 0.09392(13)
+H5 H 0.3114(4) 0.2927(3) 0.12492(13)
+C7 C 0.5650(5) 0.2715(3) 0.08526(13)
+H6 H 0.5223(5) 0.3311(3) 0.05056(13)
+H7 H 0.6308(5) 0.2015(3) 0.06682(13)
+C8 C 0.6924(4) 0.3363(3) 0.13956(12)
+H8 H 0.6449(4) 0.4204(3) 0.14833(12)
+H9 H 0.8218(4) 0.3437(3) 0.12839(12)
+C9 C 0.6841(4) 0.2483(2) 0.19852(12)
+H10 H 0.7858(4) 0.1854(2) 0.19656(12)
+C10 C 0.7199(3) 0.3104(2) 0.26587(11)
+H11 H 0.8557(3) 0.3321(2) 0.27343(11)
+C11 C 0.6754(3) 0.2249(2) 0.32224(11)
+H12 H 0.7842(3) 0.1698(2) 0.33673(11)
+C12 C 0.6410(3) 0.3206(2) 0.37553(11)
+C13 C 0.8183(4) 0.3688(3) 0.41858(13)
+H13 H 0.7806(4) 0.4281(3) 0.45024(13)
+H14 H 0.9021(4) 0.4102(3) 0.39158(13)
+H15 H 0.8834(4) 0.2983(3) 0.44089(13)
+C14 C 0.3758(4) 0.3558(3) 0.45218(13)
+H16 H 0.3178(4) 0.4208(3) 0.42367(13)
+H17 H 0.4638(4) 0.3941(3) 0.48566(13)
+H18 H 0.2788(4) 0.3112(3) 0.47217(13)
+C15 C 0.5728(4) 0.1603(3) 0.45989(13)
+H19 H 0.6407(4) 0.1004(3) 0.43591(13)
+H20 H 0.4747(4) 0.1167(3) 0.47984(13)
+H21 H 0.6597(4) 0.1996(3) 0.49333(13)
+C16 C 0.2150(4) 0.0972(3) 0.37788(15)
+H22 H 0.1357(4) 0.1356(3) 0.40738(15)
+H23 H 0.2858(4) 0.0284(3) 0.39966(15)
+H24 H 0.1367(4) 0.0653(3) 0.34007(15)
+N1 N 0.2534(3) 0.2791(2) 0.25740(11)
+N2 N 0.2367(3) 0.2936(2) 0.31757(11)
+N3 N 0.6105(3) 0.4284(2) 0.27393(10)
+N4 N 0.5734(3) 0.4347(2) 0.33274(10)
+O1 O 0.1662(3) 0.3464(2) 0.21437(10)
+O2 O 0.4965(3) 0.5294(2) 0.35506(11)
+O3? O 0.5785(15) 0.5083(9) 0.2388(5)
+O4? O 0.1608(26) 0.3793(20) 0.3319(10)
+#END

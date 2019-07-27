@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UJUVIE
+_audit_creation_date 2003-12-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UJUVIE
+_database_code_depnum_ccdc_archive 'CCDC 203706'
+_chemical_formula_sum 'C17 H14 N2 O3'
+_chemical_formula_moiety
+;
+C17 H14 N2 O3
+;
+_journal_coden_Cambridge 119
+_journal_volume 655
+_journal_year 2003
+_journal_page_first 361
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"E.Meyer"
+"A.C.Joussef"
+"H.Gallardo"
+"A.J.Bortoluzzi"
+_chemical_name_systematic
+;
+Methyl 2-(3-(4-methylphenyl)-1,2,4-oxadiazol-5-yl)benzoate
+;
+_cell_volume   2877.877
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.359
+_exptl_special_details
+;
+Cif has cell temperature 193 K, main diffraction temperature 466 K
+
+;
+_exptl_crystal_description 'sphere'
+_exptl_crystal_preparation 'methanol/water'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0419
+_refine_ls_wR_factor_gt 0.0419
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 13.357(3)
+_cell_length_b 8.4206(17)
+_cell_length_c 26.275(5)
+_cell_angle_alpha 90
+_cell_angle_beta 103.14(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.86161(16) 0.2370(3) 0.64358(9)
+C2 C 0.87307(16) 0.3349(3) 0.68774(9)
+C3 C 0.85914(19) 0.2720(3) 0.73429(10)
+H1 H 0.86440 0.33780 0.76320
+C4 C 0.83741(19) 0.1118(3) 0.73826(10)
+H2 H 0.82820 0.07050 0.76970
+C5 C 0.82950(19) 0.0134(3) 0.69513(10)
+H3 H 0.81670 -0.09440 0.69790
+C6 C 0.84057(17) 0.0758(3) 0.64806(10)
+H4 H 0.83400 0.00980 0.61910
+C7 C 0.90149(18) 0.5070(3) 0.68673(9)
+O1 O 0.84634(13) 0.61468(19) 0.69302(7)
+O2 O 0.99862(12) 0.52427(18) 0.68158(6)
+C8 C 1.0312(2) 0.6855(3) 0.67533(11)
+H5 H 0.99080 0.72910 0.64350
+H6 H 1.10250 0.68580 0.67400
+H7 H 1.02210 0.74860 0.70440
+C9 C 0.86563(16) 0.3030(2) 0.59247(9)
+N1 N 0.86832(15) 0.2940(2) 0.50875(8)
+O3 O 0.86624(12) 0.20038(17) 0.55321(6)
+C10 C 0.86860(15) 0.4398(3) 0.52612(9)
+N2 N 0.86642(14) 0.4506(2) 0.57846(7)
+C11 C 0.87334(15) 0.5789(3) 0.49328(9)
+C12 C 0.87573(17) 0.5626(3) 0.44074(9)
+H8 H 0.87390 0.46190 0.42600
+C13 C 0.88077(18) 0.6945(3) 0.41051(10)
+H9 H 0.88160 0.68160 0.37550
+C14 C 0.88468(16) 0.8475(3) 0.43145(9)
+C15 C 0.88254(17) 0.8629(3) 0.48391(9)
+H10 H 0.88540 0.96350 0.49880
+C16 C 0.87623(17) 0.7309(3) 0.51428(9)
+H11 H 0.87390 0.74390 0.54910
+C17 C 0.89218(19) 0.9915(3) 0.39865(10)
+H12 H 0.95020 0.98070 0.38300
+H13 H 0.90060 1.08470 0.42030
+H14 H 0.83050 1.00120 0.37170
+#END

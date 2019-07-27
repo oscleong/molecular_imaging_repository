@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JELREX
+_audit_creation_date 1991-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JELREX
+_chemical_formula_sum 'C12 H7 N3 O2'
+_chemical_formula_moiety
+;
+C12 H7 N3 O2
+;
+_journal_coden_Cambridge 188
+_journal_year 1990
+_journal_page_first 1269
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"D.B.Adams"
+"M.Hooper"
+"A.G.Morpeth"
+"E.S.Raper"
+"W.Clegg"
+"B.Stoddart"
+_chemical_name_systematic
+;
+2-(Pyrimidin-2-yl)isatogen
+;
+_chemical_melting_point 482.15
+_cell_volume    990.118
+_exptl_crystal_colour 'yellow-orange'
+_exptl_crystal_density_diffrn 1.344
+_exptl_special_details
+;
+Melting point range 482.15-483.15K
+Dx reported as 1.344; we calculate 1.51
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.553(1)
+_cell_length_b 7.246(1)
+_cell_length_c 15.982(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.56(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2460(2) 0.2492(2) 0.9181(1)
+N1 N 0.3704(2) 0.1935(2) 0.8883(1)
+C1 C 0.3920(2) 0.1204(2) 0.8099(1)
+C2 C 0.5532(2) 0.0876(2) 0.8008(1)
+O2 O 0.6208(1) 0.0286(2) 0.7387(1)
+C3 C 0.7855(2) 0.1154(3) 0.9088(1)
+C4 C 0.8205(2) 0.1655(3) 0.9911(1)
+C5 C 0.7086(2) 0.2327(2) 1.0434(1)
+C6 C 0.5535(2) 0.2530(2) 1.0147(1)
+C7 C 0.5210(2) 0.2002(2) 0.9341(1)
+C8 C 0.6332(2) 0.1337(2) 0.8818(1)
+N2 N 0.2953(2) 0.1324(2) 0.6689(1)
+C9 C 0.2659(2) 0.0852(2) 0.7470(1)
+N3 N 0.1367(2) 0.0099(2) 0.7751(1)
+C10 C 0.0229(2) -0.0211(2) 0.7175(1)
+C11 C 0.0404(2) 0.0227(3) 0.6345(1)
+C12 C 0.1786(2) 0.0995(3) 0.6128(1)
+H1 H 0.86460 0.06980 0.87270
+H2 H 0.92580 0.15140 1.01250
+H3 H 0.73780 0.26780 1.09960
+H4 H 0.47440 0.30070 1.05030
+H5 H -0.07360 -0.07510 0.73460
+H6 H -0.04170 -0.00030 0.59370
+H7 H 0.19310 0.13220 0.55530
+#END

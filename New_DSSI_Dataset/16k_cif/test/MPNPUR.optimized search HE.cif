@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MPNPUR
+_audit_creation_date 1975-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MPNPUR
+_chemical_formula_sum 'C15 H14 N4 O5'
+_chemical_formula_moiety
+;
+C15 H14 N4 O5
+;
+_journal_coden_Cambridge 189
+_journal_volume 4
+_journal_year 1975
+_journal_page_first 351
+_journal_name_full 'Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"U.Lepore"
+"G.C.Lepore"
+"P.Ganis"
+"M.Goodman"
+_chemical_name_systematic
+;
+N,N'-Dimethyl-N,N'-di(p-nitrophenyl)urea
+;
+_cell_volume   1512.209
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.097
+_refine_ls_wR_factor_gt 0.097
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.17(2)
+_cell_length_b 14.94(3)
+_cell_length_c 12.43(3)
+_cell_angle_alpha 90
+_cell_angle_beta 94.65(17)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.10170 -0.09820 -0.16420
+C2 C 0.00000 0.03640 -0.25000
+C3 C -0.28060 0.03290 -0.19610
+C4 C -0.21190 -0.16730 -0.19300
+C5 C -0.19530 -0.24990 -0.14350
+C6 C -0.06880 -0.26290 -0.06530
+C7 C 0.04310 -0.19540 -0.03500
+C8 C 0.02510 -0.11260 -0.08380
+N1 N -0.05260 -0.35010 -0.01160
+N2 N -0.12470 -0.01260 -0.21270
+O1 O -0.14930 -0.40880 -0.03960
+O2 O 0.00000 0.11750 -0.25000
+O3 O 0.06010 -0.36050 0.05970
+N2B N 0.12470 -0.01260 -0.28730
+C1B C 0.10170 -0.09820 -0.33580
+C3B C 0.28060 0.03290 -0.30390
+C4B C 0.21190 -0.16730 -0.30700
+C8B C -0.02510 -0.11260 -0.41620
+C5B C 0.19530 -0.24990 -0.35650
+C7B C -0.04310 -0.19540 -0.46500
+C6B C 0.06880 -0.26290 -0.43470
+N1B N 0.05260 -0.35010 -0.48840
+O1B O 0.14930 -0.40880 -0.46040
+O3B O -0.06010 -0.36050 -0.55970
+#END

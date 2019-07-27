@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ECUZIM
+_audit_creation_date 2006-05-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ECUZIM
+_database_code_depnum_ccdc_archive 'CCDC 285372'
+_chemical_formula_sum 'C14 H12 N2 O1'
+_chemical_formula_moiety
+;
+C14 H12 N2 O1
+;
+_journal_coden_Cambridge 294
+_journal_volume 758
+_journal_year 2006
+_journal_page_first 203
+_journal_name_full 'J.Mol.Struct.:THEOCHEM '
+loop_
+_publ_author_name
+"A.Wroblewska"
+"A.Sikorski"
+"T.Lis"
+"Y.Ebead"
+"J.Blazejowski"
+_chemical_name_systematic
+;
+9-(methoxyimino)-9,10-dihydroacridine
+;
+_cell_volume   1115.884
+_exptl_crystal_colour 'light-yellow'
+_exptl_crystal_density_diffrn 1.335
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+The hydroxyimino moieties are disordered with occupancies 0.649:0.351 and 
+0.496:0.504.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0812
+_refine_ls_wR_factor_gt 0.0812
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.711(5)
+_cell_length_b 10.830(5)
+_cell_length_c 11.867(6)
+_cell_angle_alpha 106.49(4)
+_cell_angle_beta 102.68(4)
+_cell_angle_gamma 102.29(4)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6131(3) 0.4480(3) 0.2789(3)
+H1 H 0.57640 0.38410 0.19750
+C2 C 0.7491(4) 0.4593(3) 0.3513(3)
+H2 H 0.80550 0.40400 0.31960
+C3 C 0.8057(3) 0.5517(3) 0.4716(3)
+H3 H 0.90040 0.55970 0.52150
+C4 C 0.7235(3) 0.6307(3) 0.5171(2)
+H4 H 0.76150 0.69360 0.59880
+C5 C 0.2810(3) 0.7599(3) 0.4970(3)
+H5 H 0.32860 0.82100 0.57880
+C6 C 0.1363(4) 0.7448(3) 0.4413(3)
+H6 H 0.08360 0.79520 0.48480
+C7 C 0.0663(4) 0.6564(4) 0.3219(4)
+H7 H -0.03450 0.64520 0.28370
+C8 C 0.1439(3) 0.5848(3) 0.2590(3)
+H8 H 0.09520 0.52520 0.17680
+C9 C 0.3799(3) 0.5222(3) 0.2472(2)
+N1 N 0.5033(3) 0.6984(2) 0.4926(2)
+H9 H 0.545(3) 0.751(3) 0.568(3)
+C10 C 0.5260(3) 0.5286(3) 0.3217(2)
+C11 C 0.5839(3) 0.6192(2) 0.4439(2)
+C12 C 0.3590(3) 0.6850(3) 0.4333(3)
+C13 C 0.2930(3) 0.5971(3) 0.3125(3)
+N2 N 0.3015(9) 0.4675(5) 0.1305(7)
+O1 O 0.3830(4) 0.3961(5) 0.0618(6)
+C14 C 0.3062(13) 0.3635(10) -0.0658(11)
+H10 H 0.35630 0.31540 -0.11590
+H11 H 0.20680 0.30850 -0.08460
+H12 H 0.30450 0.44510 -0.08220
+N3? N 0.3833(13) 0.4418(13) 0.1313(16)
+O2? O 0.2483(10) 0.4255(9) 0.0515(13)
+C15? C 0.259(3) 0.350(3) -0.072(2)
+H13? H 0.17050 0.33790 -0.13450
+H14? H 0.34240 0.40180 -0.08680
+H15? H 0.27110 0.26420 -0.07400
+C16 C 0.8927(3) 1.0249(3) 0.7304(3)
+H16 H 0.94720 1.07940 0.69550
+C17 C 0.7497(4) 1.0242(3) 0.7223(3)
+H17 H 0.70700 1.07770 0.68260
+C18 C 0.6664(3) 0.9448(3) 0.7723(3)
+H18 H 0.56710 0.94400 0.76710
+C19 C 0.7302(3) 0.8679(3) 0.8291(2)
+H19 H 0.67410 0.81270 0.86260
+C20 C 1.1403(4) 0.7237(3) 0.9885(3)
+H20 H 1.07550 0.66870 1.01630
+C21 C 1.2862(4) 0.7301(3) 1.0173(3)
+H21 H 1.32240 0.68010 1.06480
+C22 C 1.3811(4) 0.8101(3) 0.9768(3)
+H22 H 1.48320 0.81630 0.99750
+C23 C 1.3274(3) 0.8799(3) 0.9071(3)
+H23 H 1.39370 0.93360 0.87950
+C24 C 1.1151(3) 0.9488(3) 0.7989(2)
+N4 N 0.9378(3) 0.7918(3) 0.8953(2)
+H24 H 0.882(4) 0.730(3) 0.916(3)
+C25 C 0.9616(3) 0.9489(2) 0.7879(2)
+C26 C 0.8765(3) 0.8699(3) 0.8382(2)
+C27 C 1.0846(3) 0.7961(3) 0.9193(2)
+C28 C 1.1778(3) 0.8759(2) 0.8745(2)
+N5? N 1.2192(13) 0.9933(8) 0.7550(8)
+O3? O 1.1645(5) 1.0639(6) 0.6820(6)
+C29? C 1.2795(11) 1.117(1) 0.6347(9)
+H25? H 1.24210 1.15870 0.57810
+H26? H 1.36030 1.18260 0.70180
+H27? H 1.31320 1.04490 0.59290
+N6 N 1.1670(9) 1.0233(8) 0.7348(8)
+O4 O 1.3170(6) 1.0332(4) 0.7425(3)
+C30 C 1.3583(9) 1.1101(8) 0.6687(8)
+H28 H 1.46080 1.12200 0.67470
+H29 H 1.29960 1.06310 0.58440
+H30 H 1.34230 1.19670 0.69720
+#END

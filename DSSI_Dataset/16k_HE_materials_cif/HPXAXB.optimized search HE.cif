@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HPXAXB
+_audit_creation_date 1979-09-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HPXAXB
+_chemical_formula_sum 'C26 H38 N2 O3'
+_chemical_formula_moiety
+;
+C26 H38 N2 O3
+;
+_journal_coeditor_code "IUCr A17477"
+_journal_coden_Cambridge 107
+_journal_volume 35
+_journal_year 1979
+_journal_page_first 1102
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.Cotrait"
+"P.Marsau"
+"M.Pesquer"
+_chemical_name_systematic
+;
+4,4'-Di-n-heptyloxy-azoxybenzene
+;
+_cell_volume   1243.406
+_exptl_crystal_density_diffrn 1.14
+_exptl_special_details
+;
+Spurious bond length C13-C16 of 1.405 given in bond table. It has been 
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 18.879(5)
+_cell_length_b 7.800(4)
+_cell_length_c 10.940(9)
+_cell_angle_alpha 128.80(5)
+_cell_angle_beta 87.05(3)
+_cell_angle_gamma 97.61(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.85200 -0.07690 -0.79020
+C2 C 0.83010 0.12490 -0.62930
+C3 C 0.77250 0.05640 -0.55760
+C4 C 0.75330 0.25970 -0.39520
+C5 C 0.69330 0.19440 -0.32610
+C6 C 0.67890 0.39560 -0.15730
+C7 C 0.61700 0.32680 -0.09560
+O1 O 0.60790 0.52590 0.06450
+C8 C 0.55740 0.50840 0.14920
+C9 C 0.51080 0.31860 0.09450
+C10 C 0.46030 0.31930 0.19270
+C11 C 0.45840 0.50920 0.34520
+C12 C 0.50430 0.70210 0.40510
+C13 C 0.55480 0.70370 0.30680
+N1 N 0.40430 0.50600 0.44250
+O2 O 0.36340 0.31830 0.37940
+N2 N 0.39980 0.68470 0.57900
+C14 C 0.34840 0.69770 0.68330
+C15 C 0.30490 0.52050 0.66550
+C16 C 0.25810 0.57000 0.78330
+C17 C 0.25420 0.78700 0.91550
+C18 C 0.29800 0.96330 0.93470
+C19 C 0.34560 0.91630 0.81890
+O3 O 0.20520 0.81670 1.02170
+C20 C 0.19550 1.03820 1.15800
+C21 C 0.13750 1.01520 1.24860
+C22 C 0.12330 1.24280 1.39840
+C23 C 0.06530 1.22590 1.49460
+C24 C 0.05070 1.45290 1.64550
+C25 C -0.00490 1.42980 1.74070
+C26 C -0.02130 1.64730 1.88610
+#END

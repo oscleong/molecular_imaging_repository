@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VAYKAH
+_audit_creation_date 1990-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VAYKAH
+_chemical_formula_sum 'C17 H12 N2 O8'
+_chemical_formula_moiety
+;
+C17 H12 N2 O8
+;
+_journal_coden_Cambridge 41
+_journal_volume 33
+_journal_year 1988
+_journal_page_first 390
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"G.V.Gridunova"
+"V.E.Shklover"
+"Yu.T.Struchkov"
+"Z.I.Ezhkova"
+"R.V.Lin'ko"
+"A.N.Poplavskii"
+"A.M.Andrievskii"
+_chemical_name_systematic
+;
+4,10-Dihydroxy-10-acetonyl-2,7-dinitrophenanthrene-9(10H)-one
+;
+_cell_volume   1584.778
+_exptl_crystal_density_diffrn 1.32
+_exptl_special_details
+;
+Bond lengths given in Fig.1 in paper represent the weighted means of the 
+values for the two isomer contributions
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Atoms O5, H5 and O9, H4 are disordered to give a mixture of two isomers in 
+the ratio 3:1. Only the dominant sites retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.052
+_refine_ls_wR_factor_gt 0.052
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.6461(7)
+_cell_length_b 7.7904(5)
+_cell_length_c 14.946(1)
+_cell_angle_alpha 90
+_cell_angle_beta 94.122(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2741(2) 0.1444(5) 0.4350(2)
+O2 O 0.1309(2) -0.0347(5) 0.5032(2)
+O3 O 0.6178(3) 0.2162(6) 0.5175(2)
+O4 O 0.6741(3) 0.1798(6) 0.6543(3)
+O5 O 0.3892(3) 0.1510(6) 0.8334(3)
+O6 O -0.1399(3) 0.0206(6) 0.7202(3)
+O7 O -0.0941(3) 0.0769(6) 0.8571(3)
+O8 O 0.0587(2) 0.3199(5) 0.4430(5)
+N1 N 0.6065(3) 0.1955(6) 0.5970(3)
+N2 N -0.0778(3) 0.0672(6) 0.7776(3)
+C1 C 0.4274(4) 0.1936(7) 0.5622(3)
+C2 C 0.5058(3) 0.1863(7) 0.6260(3)
+C3 C 0.4937(4) 0.1744(7) 0.7163(3)
+H1 H 0.20800 0.12500 0.37500
+H2 H 0.45800 0.14500 0.88200
+H3 H 0.43700 0.18900 0.49600
+H4 H 0.56800 0.16600 0.75000
+H5 H 0.07300 0.17600 0.89400
+H6 H -0.01500 0.03900 0.62000
+C4 C 0.3997(4) 0.1686(6) 0.7452(3)
+C5 C 0.1844(4) 0.1945(7) 0.7954(3)
+C6 C 0.0888(4) 0.1677(7) 0.8177(4)
+C7 C 0.0219(3) 0.1056(7) 0.7518(4)
+C8 C 0.0452(3) 0.0737(7) 0.6648(7)
+C9 C 0.1673(3) 0.0779(6) 0.5519(3)
+C10 C 0.2471(3) 0.1946(7) 0.5205(3)
+C11 C 0.3335(3) 0.1850(6) 0.5912(3)
+C12 C 0.3170(3) 0.1749(6) 0.6826(3)
+C13 C 0.2147(4) 0.1621(6) 0.7093(3)
+C14 C 0.1407(3) 0.1059(6) 0.6449(3)
+C15 C 0.2144(4) 0.3855(7) 0.5153(3)
+C16 C 0.1277(4) 0.4186(7) 0.4490(3)
+C17 C 0.1344(5) 0.5742(8) 0.3925(5)
+H7 H 0.18400 0.44600 0.57500
+H8 H 0.27100 0.44800 0.49500
+H9 H 0.12500 0.62400 0.41900
+H10 H 0.12100 0.60300 0.30900
+H11 H 0.06700 0.58400 0.35400
+H12 H 0.23600 0.24100 0.84400
+#END

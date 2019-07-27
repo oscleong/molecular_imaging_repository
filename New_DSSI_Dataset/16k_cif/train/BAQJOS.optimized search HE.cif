@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAQJOS
+_audit_creation_date 1999-11-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAQJOS
+_database_code_depnum_ccdc_archive 'CCDC 123402'
+_chemical_formula_sum 'C16 H14 N2 O6'
+_chemical_formula_moiety
+;
+C16 H14 N2 O6
+;
+_journal_coden_Cambridge 1078
+_journal_year 1999
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"K.Peseke"
+"L.Goetze"
+"H.Reinke"
+_chemical_name_systematic
+;
+(2RS)-(+-)-4\a-(2-Furyl)-3,4-dihydro-6-methyl-3\b-nitro-2\a-(2-nitrophenyl)-2H
+-pyran
+;
+_chemical_melting_point 381
+_cell_volume   1605.665
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.366
+_exptl_special_details
+;
+contribution from Fachbereich Chemie, Universitat Rostock,Germany
+
+;
+_exptl_crystal_description 'part of rod'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The phenyl nitro group is disordered with O atoms refined over two positions 
+with occupancies 0.79:0.21.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0472
+_refine_ls_wR_factor_gt 0.0472
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 7.903(1)
+_cell_length_b 16.356(2)
+_cell_length_c 12.592(1)
+_cell_angle_alpha 90
+_cell_angle_beta 99.43(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.0117(2) 0.04501(10) 0.15712(13)
+O2 O 0.1726(3) 0.14299(16) 0.49000(18)
+O3 O 0.3155(3) 0.19260(15) 0.3751(2)
+O4 O 0.4646(10) 0.0605(5) 0.1743(4)
+O5 O 0.6489(6) 0.0480(6) 0.3205(6)
+O6? O 0.663(2) 0.028(3) 0.296(4)
+O7? O 0.476(5) 0.0859(18) 0.195(2)
+O8 O -0.0535(3) 0.30002(15) 0.3908(2)
+N1 N 0.1900(3) 0.15941(14) 0.3983(2)
+N2 N 0.5096(3) 0.03588(17) 0.2660(2)
+C1 C 0.1264(3) 0.07534(14) 0.23439(18)
+H1 H 0.20920 0.10400 0.19780
+C2 C 0.2109(3) 0.00175(15) 0.29468(19)
+C3 C 0.3868(3) -0.01393(16) 0.3140(2)
+C4 C 0.4563(4) -0.07857(18) 0.3766(2)
+H2 H 0.57430 -0.08680 0.38850
+C5 C 0.3523(4) -0.13052(19) 0.4212(3)
+H3 H 0.39880 -0.17410 0.46370
+C6 C 0.1779(4) -0.11777(18) 0.4025(3)
+H4 H 0.10590 -0.15350 0.43130
+C7 C 0.1093(4) -0.05238(16) 0.3414(2)
+H5 H -0.00870 -0.04420 0.33110
+C8 C 0.0502(3) 0.13471(14) 0.30844(19)
+H6 H -0.04190 0.10740 0.33830
+C9 C -0.0219(3) 0.21004(15) 0.2440(2)
+H7 H 0.07420 0.24430 0.23070
+C10 C -0.1344(3) 0.25928(15) 0.3035(2)
+C11 C -0.3024(4) 0.2696(2) 0.2969(3)
+H8 H -0.38700 0.24610 0.24610
+C12 C -0.3294(5) 0.3225(2) 0.3810(3)
+H9 H -0.43410 0.34240 0.39430
+C13 C -0.1794(6) 0.3381(2) 0.4360(4)
+H10 H -0.15980 0.37050 0.49750
+C14 C -0.1176(3) 0.18092(16) 0.1378(2)
+H11 H -0.18370 0.21890 0.09420
+C15 C -0.1143(3) 0.10531(17) 0.10202(19)
+C16 C -0.2189(4) 0.0715(2) 0.0038(2)
+H12 H -0.28890 0.11400 -0.03320
+H13 H -0.29110 0.02870 0.02320
+H14 H -0.14480 0.04990 -0.04260
+#END

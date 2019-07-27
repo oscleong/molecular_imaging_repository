@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NAMZEG
+_audit_creation_date 1998-03-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NAMZEG
+_database_code_depnum_ccdc_archive 'CCDC 1216601'
+_database_code_depnum_ccdc_journal 1003/5139
+_chemical_formula_sum 'C16 H10'
+_chemical_formula_moiety
+;
+C16 H10
+;
+_journal_coden_Cambridge 1003
+_journal_volume 27
+_journal_year 1997
+_journal_page_first 183
+_journal_name_full 'J.Chem.Cryst. '
+loop_
+_publ_author_name
+"J.T.Mague"
+"M.Foroozesh"
+"N.E.Hopkins"
+"L.L.-S.Gan"
+"W.L.Alworth"
+_chemical_name_systematic
+;
+3-Ethynylphenanthrene
+;
+_cell_volume   2191.145
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.23
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'water/ethanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 7.891(1)
+_cell_length_b 16.451(1)
+_cell_length_c 16.879(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3723(2) 0.1815(1) 0.7062(1)
+C2 C 0.3779(3) 0.1102(1) 0.7528(1)
+C3 C 0.4491(3) 0.0407(1) 0.7260(1)
+C4 C 0.5190(2) 0.0377(1) 0.6496(1)
+C5 C 0.5128(2) 0.1063(1) 0.6028(1)
+C6 C 0.4421(2) 0.1793(1) 0.6287(1)
+C7 C 0.4398(2) 0.2525(1) 0.5810(1)
+C8 C 0.5085(3) 0.2562(1) 0.5045(1)
+C9 C 0.5012(3) 0.3253(1) 0.4597(1)
+C10 C 0.4249(3) 0.3949(1) 0.4903(1)
+C11 C 0.3592(3) 0.3939(1) 0.5648(1)
+C12 C 0.3650(2) 0.3236(1) 0.6119(1)
+C13 C 0.2955(3) 0.3220(1) 0.6901(1)
+C14 C 0.2987(3) 0.2545(1) 0.7341(1)
+C15 C 0.6029(3) -0.0340(1) 0.6222(1)
+C16 C 0.6762(3) -0.0913(1) 0.5999(1)
+H1 H 0.731(3) -0.134(1) 0.581(1)
+H2 H 0.33030 0.11110 0.80450
+H3 H 0.45180 -0.00610 0.75890
+H4 H 0.55850 0.10370 0.55080
+H5 H 0.56170 0.20920 0.48310
+H6 H 0.54810 0.32590 0.40790
+H7 H 0.41880 0.44290 0.45920
+H8 H 0.30820 0.44170 0.58540
+H9 H 0.24590 0.37000 0.71120
+H10 H 0.25020 0.25560 0.78560
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.413 1_555 1_555
+C2 C3 1.352 1_555 1_555
+C3 C4 1.403 1_555 1_555
+C4 C5 1.378 1_555 1_555
+C5 C6 1.394 1_555 1_555
+C6 C1 1.420 1_555 1_555
+C7 C6 1.449 1_555 1_555
+C8 C7 1.402 1_555 1_555
+C9 C8 1.367 1_555 1_555
+C10 C9 1.393 1_555 1_555
+C11 C10 1.360 1_555 1_555
+C12 C7 1.410 1_555 1_555
+C13 C12 1.430 1_555 1_555
+C14 C1 1.415 1_555 1_555
+C15 C4 1.430 1_555 1_555
+C16 C15 1.168 1_555 1_555
+H1 C16 0.884 1_555 1_555
+H2 C2 0.950 1_555 1_555
+H3 C3 0.950 1_555 1_555
+H4 C5 0.950 1_555 1_555
+H5 C8 0.951 1_555 1_555
+H6 C9 0.949 1_555 1_555
+H7 C10 0.949 1_555 1_555
+H8 C11 0.949 1_555 1_555
+H9 C13 0.951 1_555 1_555
+H10 C14 0.950 1_555 1_555
+C11 C12 1.404 1_555 1_555
+C13 C14 1.336 1_555 1_555
+#END

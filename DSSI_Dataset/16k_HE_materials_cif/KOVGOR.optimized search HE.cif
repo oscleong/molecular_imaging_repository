@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KOVGOR
+_audit_creation_date 1992-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KOVGOR
+_chemical_formula_sum 'C8 H16 N4 O4'
+_chemical_formula_moiety
+;
+C8 H16 N4 O4
+;
+_journal_coden_Cambridge 35
+_journal_volume 57
+_journal_year 1992
+_journal_page_first 235
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"K.Baum"
+"S.S.Bigelow"
+"N.V.Nguyen"
+"T.G.Archibald"
+"R.Gilardi"
+"J.L.Flippen-Anderson"
+"C.George"
+_chemical_name_systematic
+;
+1,1-bis(n-Propylamino)-2,2-dinitroethylene
+;
+_chemical_melting_point 482.15
+_cell_volume    604.965
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.275
+_exptl_special_details
+;
+Melting point range 482.15-484.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+C-C distances in the disordered side chain constrained to be equal.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.102
+_refine_ls_wR_factor_gt 0.102
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.800(3)
+_cell_length_b 9.286(3)
+_cell_length_c 10.155(3)
+_cell_angle_alpha 93.51(2)
+_cell_angle_beta 96.61(2)
+_cell_angle_gamma 107.33(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5980(14) 0.0059(12) 0.2365(10)
+C2 C 0.8167(13) 0.0375(11) 0.2134(9)
+N1 N 0.5543(14) 0.0885(10) 0.3440(9)
+O1 O 0.3789(10) 0.0749(10) 0.3716(7)
+O2 O 0.7119(10) 0.1775(9) 0.4132(7)
+N2 N 0.4420(12) -0.0975(11) 0.1477(9)
+O3 O 0.5038(10) -0.1552(9) 0.0524(7)
+O4 O 0.2550(9) -0.1278(8) 0.1604(7)
+N3 N 0.9302(12) -0.0355(12) 0.2764(9)
+C3 C 0.8637(15) -0.1500(13) 0.3653(11)
+C4 C 0.8157(20) -0.3068(14) 0.3080(13)
+C5 C 0.7577(20) -0.4212(15) 0.4054(14)
+N4 N 0.8846(12) 0.1391(10) 0.1368(9)
+C6 C 1.0954(15) 0.1979(14) 0.1042(12)
+C7 C 1.2272(29) 0.3325(20) 0.1730(29)
+C8 C 1.1668(28) 0.4651(19) 0.1824(23)
+C9? C 1.1215(58) 0.3526(35) 0.0709(63)
+C10? C 1.3336(65) 0.4461(39) 0.0976(59)
+H1 H 1.035(14) -0.009(11) 0.2428(96)
+H2 H 0.97320 -0.13210 0.43880
+H3 H 0.74120 -0.13850 0.39730
+H4 H 0.70140 -0.32700 0.23730
+H5 H 0.93570 -0.31790 0.27230
+H6 H 0.72820 -0.52110 0.36100
+H7 H 0.63670 -0.41270 0.44140
+H8 H 0.87100 -0.40360 0.47640
+H9 H 0.813(13) 0.191(10) 0.0915(90)
+H10 H 1.08430 0.20650 0.01010
+H11 H 1.16180 0.12160 0.12060
+H12? H 1.10810 0.14560 0.02260
+H13? H 1.19400 0.18400 0.17400
+H14 H 1.34780 0.35810 0.12800
+H15 H 1.27250 0.31470 0.26190
+H16 H 1.12650 0.48890 0.09470
+H17 H 1.04990 0.44480 0.23080
+H18 H 1.27770 0.54930 0.22840
+H19? H 1.06280 0.39470 0.13960
+H20? H 1.04900 0.36260 -0.01320
+H21? H 1.34350 0.55010 0.08740
+H22? H 1.40750 0.43980 0.18240
+H23? H 1.39350 0.40730 0.02770
+#END

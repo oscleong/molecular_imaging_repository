@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BIVKUM
+_audit_creation_date 1983-05-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BIVKUM
+_chemical_formula_sum 'C13 H13 N3 O3'
+_chemical_formula_moiety
+;
+C13 H13 N3 O3
+;
+_journal_coeditor_code "IUCr A21546"
+_journal_coden_Cambridge 107
+_journal_volume 38
+_journal_year 1982
+_journal_page_first 2698
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"P.Murray-Rust"
+"R.C.Glen"
+"R.F.Newton"
+_chemical_name_systematic
+;
+2,3-endo-Epoxybicyclo(3.2.0)heptan-6-one p-nitrophenylhydrazone
+;
+_cell_volume   1256.293
+_exptl_crystal_density_diffrn 1.36
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0459
+_refine_ls_wR_factor_gt 0.0459
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.50(2)
+_cell_length_b 13.73(2)
+_cell_length_c 9.70(2)
+_cell_angle_alpha 90
+_cell_angle_beta 83.19(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.09630 0.57480 0.12850
+C2 C 0.10180 0.63640 0.00090
+C3 C 0.22130 0.60950 -0.09770
+C4 C 0.30280 0.52740 -0.04290
+C5 C 0.23750 0.51510 0.10710
+C6 C 0.28670 0.57440 0.22300
+C7 C 0.14600 0.62600 0.25750
+C8 C 0.53350 0.64260 0.44630
+C9 C 0.64650 0.57890 0.41320
+C10 C 0.76600 0.58560 0.48040
+C11 C 0.77210 0.65600 0.58130
+C12 C 0.66090 0.71850 0.61690
+C13 C 0.54170 0.71230 0.54990
+O1 O 0.22590 0.69750 -0.01720
+O2 O 0.99750 0.60730 0.61970
+O3 O 0.89720 0.72160 0.74850
+N1 N 0.40600 0.57540 0.27100
+N2 N 0.41440 0.63910 0.37980
+N3 N 0.89740 0.66240 0.65360
+H1 H 0.00870 0.53580 0.14770
+H2 H 0.02520 0.67100 -0.02630
+H3 H 0.22090 0.61620 -0.19680
+H4 H 0.40240 0.54360 -0.05210
+H5 H 0.28480 0.46530 -0.09560
+H6 H 0.23090 0.44880 0.12940
+H7 H 0.09860 0.60260 0.34490
+H8 H 0.14930 0.69830 0.24830
+H9 H 0.34710 0.67550 0.40510
+H10 H 0.63700 0.53020 0.34610
+H11 H 0.84400 0.53980 0.45510
+H12 H 0.66520 0.76650 0.68680
+H13 H 0.46600 0.75490 0.57450
+#END

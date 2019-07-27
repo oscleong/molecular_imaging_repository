@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SALMAU
+_audit_creation_date 2005-03-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SALMAU
+_database_code_depnum_ccdc_archive 'CCDC 248700'
+_chemical_formula_sum 'C15 H15 N1 O1'
+_chemical_formula_moiety
+;
+C15 H15 N1 O1
+;
+_journal_coden_Cambridge 16
+_journal_volume 61
+_journal_year 2005
+_journal_page_first 493
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"Ming-Chang P.Yeh"
+"Chi-Fen Jou"
+"Wei-Tzou Yeh"
+"Da-Yu Chiu"
+"N.R.K.Reddy"
+_chemical_name_systematic
+;
+cis,trans-2a,5,6,6a,7,11c-Hexahydrobenzo(g)cyclohepta(cd)(2,1)benzisoxazole
+;
+_chemical_melting_point 393.15
+_cell_volume   1160.318
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.29
+_exptl_special_details
+;
+Melting point range 393.15-395.15K
+
+;
+_exptl_crystal_description 'cube'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0686
+_refine_ls_wR_factor_gt 0.0686
+loop_
+_citation_database_id_CSD
+_citation_special_details
+SALLUN "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 6.2281(4)
+_cell_length_b 11.3541(7)
+_cell_length_c 16.4274(13)
+_cell_angle_alpha 90
+_cell_angle_beta 92.749(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2307(4) 0.0524(3) 0.22658(18)
+N1 N 0.2282(5) 0.1429(3) 0.2857(2)
+C1 C 0.4036(6) -0.0294(4) 0.2480(3)
+C2 C 0.5718(7) -0.0219(5) 0.1861(3)
+C3 C 0.7510(8) -0.0831(5) 0.1945(3)
+C4 C 0.8003(7) -0.1591(5) 0.2685(3)
+C5 C 0.8501(6) -0.0893(4) 0.3472(3)
+C6 C 0.7191(5) 0.0234(3) 0.3553(2)
+C7 C 0.4783(5) 0.0036(3) 0.3352(2)
+C8 C 0.3608(5) 0.1173(4) 0.3450(2)
+C9 C 0.4077(6) 0.1947(3) 0.4142(2)
+C10 C 0.2716(7) 0.2864(4) 0.4351(3)
+C11 C 0.3243(8) 0.3580(4) 0.4993(3)
+C12 C 0.5145(9) 0.3406(5) 0.5438(3)
+C13 C 0.6508(7) 0.2521(4) 0.5246(3)
+C14 C 0.6012(6) 0.1766(3) 0.4593(2)
+C15 C 0.7485(6) 0.0760(4) 0.4403(3)
+H1 H 0.35580 -0.10970 0.24700
+H2 H 0.54870 0.03090 0.14090
+H3 H 0.85440 -0.08190 0.15300
+H4 H 0.92160 -0.20710 0.25640
+H5 H 0.67710 -0.20840 0.27500
+H6 H 1.00070 -0.07070 0.34970
+H7 H 0.81870 -0.13980 0.39190
+H8 H 0.76980 0.07840 0.31620
+H9 H 0.42940 -0.05180 0.37440
+H10 H 0.13860 0.29840 0.40420
+H11 H 0.23030 0.42080 0.51380
+H12 H 0.55100 0.39210 0.58870
+H13 H 0.78320 0.24200 0.55620
+H14 H 0.72420 0.01480 0.47910
+H15 H 0.89260 0.10510 0.44840
+#END

@@ -1,0 +1,93 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NPCPMK
+_audit_creation_date 1973-02-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NPCPMK
+_chemical_formula_sum 'C11 H11 N1 O3'
+_chemical_formula_moiety
+;
+C11 H11 N1 O3
+;
+_journal_coden_Cambridge 189
+_journal_volume 1
+_journal_year 1972
+_journal_page_first 389
+_journal_name_full 'Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.Bordner"
+"L.A.Jones"
+"R.L.Johnson"
+_chemical_name_systematic
+;
+E-2-p-Nitrophenyl-cyclopropyl methyl ketone
+;
+_cell_volume   1047.348
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.092
+_refine_ls_wR_factor_gt 0.092
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.917(4)
+_cell_length_b 18.78(1)
+_cell_length_c 8.252(4)
+_cell_angle_alpha 90
+_cell_angle_beta 121.39(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C10 C 0.19720 -0.61240 -0.80220
+C11 C 0.27840 -0.68460 -0.78380
+C12 C 0.06000 -0.67590 -0.88100
+C13 C -0.06220 -0.68480 -1.08790
+C15 C -0.26740 -0.70650 -1.16990
+C4 C 0.26750 -0.49040 -0.33580
+C5 C 0.26170 -0.45680 -0.48800
+C6 C 0.23700 -0.49840 -0.63690
+C7 C 0.21970 -0.57060 -0.63700
+C8 C 0.22680 -0.60350 -0.48210
+C9 C 0.24870 -0.56360 -0.33180
+N3 N 0.29230 -0.44680 -0.17610
+O1 O 0.28020 -0.47700 -0.04940
+O14 O 0.00710 -0.67420 -1.18960
+O2 O 0.32400 -0.38350 -0.17580
+#END

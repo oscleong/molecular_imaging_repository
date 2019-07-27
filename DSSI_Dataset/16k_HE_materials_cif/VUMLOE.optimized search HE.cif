@@ -1,0 +1,90 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VUMLOE
+_audit_creation_date 1993-05-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VUMLOE
+_chemical_formula_sum 'C8 H13 N1 O3'
+_chemical_formula_moiety
+;
+C8 H13 N1 O3
+;
+_journal_coden_Cambridge 207
+_journal_year 1992
+_journal_page_first 2059
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"L.Brehm"
+"J.S.Johansen"
+"P.Krogsgaard-Larsen"
+_chemical_name_systematic
+;
+(RS)-3-t-Butyl-4-hydroxy-4-methylisoxazol-5(4H)-one
+;
+_chemical_melting_point 329.15
+_cell_volume    444.318
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.279
+_exptl_special_details
+;
+Melting point range 329.15-331.15K
+
+;
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.6640(6)
+_cell_length_b 8.206(2)
+_cell_length_c 9.203(1)
+_cell_angle_alpha 67.76(1)
+_cell_angle_beta 82.76(1)
+_cell_angle_gamma 72.54(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2810(1) 0.14892(9) 0.30585(9)
+N1 N 0.4336(1) -0.0325(1) 0.3403(1)
+C1 C 0.6067(2) -0.0121(1) 0.2683(1)
+C2 C 0.6035(2) 0.1870(1) 0.1832(1)
+O2 O 0.6641(1) 0.2232(1) 0.02472(9)
+C3 C 0.3701(2) 0.2762(1) 0.2034(1)
+O3 O 0.2708(1) 0.4341(1) 0.1467(1)
+C4 C 0.7821(2) -0.1811(1) 0.2705(1)
+C5 C 0.7349(2) -0.3526(1) 0.3957(1)
+C6 C 0.9945(2) -0.1666(2) 0.3042(1)
+C7 C 0.7897(2) -0.1963(2) 0.1082(1)
+C8 C 0.7246(2) 0.2568(1) 0.2676(1)
+#END

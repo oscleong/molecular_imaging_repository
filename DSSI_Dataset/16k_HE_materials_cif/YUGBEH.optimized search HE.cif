@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUGBEH
+_audit_creation_date 1996-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUGBEH
+_database_code_depnum_ccdc_archive 'CCDC 1306468'
+_chemical_formula_sum 'C16 H16 N2 O3'
+_chemical_formula_moiety
+;
+C16 H16 N2 O3
+;
+_journal_coden_Cambridge 119
+_journal_volume 328
+_journal_year 1994
+_journal_page_first 237
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"A.Kalman"
+"Gy.Argay"
+"F.Fulop"
+"G.Bernath"
+_chemical_name_systematic
+;
+(1R*,2S*)-2-(p-Nitrobenzylideneamino)-1-phenylpropanol
+;
+_cell_volume   1475.511
+_exptl_crystal_density_diffrn 1.28
+_exptl_special_details
+;
+We calculate fw is 284.32 not 384.32, and that y(C10) and y(C11) both have 
+negative values
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.159(1)
+_cell_length_b 6.061(1)
+_cell_length_c 16.436(1)
+_cell_angle_alpha 90
+_cell_angle_beta 102.29(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6484(1) 0.5211(3) 0.7377(1)
+C1 C 0.7571(1) 0.1352(4) 0.5750(1)
+N1 N 0.7363(1) 0.2967(3) 0.6155(1)
+C2 C 0.6397(1) 0.3525(4) 0.6028(1)
+C3 C 0.6120(1) 0.3402(4) 0.6872(1)
+C4 C 0.8497(1) 0.0521(4) 0.5834(1)
+C5 C 0.9245(1) 0.1718(4) 0.6228(1)
+C6 C 1.0099(1) 0.0863(4) 0.6332(1)
+C7 C 1.0200(1) -0.1227(4) 0.6033(1)
+C8 C 0.9480(1) -0.2444(4) 0.5633(2)
+C9 C 0.8629(1) -0.1566(4) 0.5525(2)
+N2 N 1.1112(1) -0.2161(4) 0.6142(1)
+O2 O 1.1748(1) -0.1074(3) 0.6497(1)
+O3 O 1.1192(1) -0.4016(3) 0.5874(1)
+C10 C 0.6233(2) 0.5790(5) 0.5634(2)
+C11 C 0.5106(1) 0.3309(4) 0.6767(1)
+C12 C 0.4616(2) 0.5101(4) 0.6964(2)
+C13 C 0.3686(2) 0.4936(4) 0.6873(2)
+C14 C 0.3251(1) 0.3018(5) 0.6610(2)
+C15 C 0.3725(2) 0.1245(4) 0.6423(2)
+C16 C 0.4641(1) 0.1397(4) 0.6500(1)
+H1 H 0.714(1) 0.055(4) 0.538(1)
+H2 H 0.601(1) 0.242(4) 0.565(1)
+H3 H 0.637(1) 0.205(3) 0.711(1)
+H4 H 0.918(1) 0.312(3) 0.641(1)
+H5 H 1.063(1) 0.167(3) 0.660(1)
+H6 H 0.957(1) -0.384(4) 0.542(1)
+H7 H 0.810(1) -0.231(3) 0.523(1)
+H8 H 0.557(2) 0.618(4) 0.554(1)
+H9 H 0.663(1) 0.690(4) 0.603(1)
+H10 H 0.637(1) 0.573(4) 0.506(1)
+H11 H 0.493(1) 0.629(3) 0.713(1)
+H12 H 0.340(1) 0.620(4) 0.704(1)
+H13 H 0.261(1) 0.285(4) 0.656(1)
+H14 H 0.340(1) -0.016(4) 0.627(1)
+H15 H 0.495(1) 0.012(4) 0.638(1)
+H16 H 0.695(1) 0.455(4) 0.779(1)
+#END

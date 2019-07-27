@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAPLAY
+_audit_creation_date 2017-01-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAPLAY
+_database_code_depnum_ccdc_archive 'CCDC 1484947'
+_chemical_formula_sum 'C17 H12 N2 O3'
+_chemical_formula_moiety
+;
+C17 H12 N2 O3
+;
+_journal_coden_Cambridge 1267
+_journal_volume 232
+_journal_year 2017
+_journal_page_first 135
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"H.Bulbul"
+"Y.Koysal"
+"M.Macit"
+"R.Yaman"
+"N.Dege"
+_chemical_name_systematic
+;
+(E)-3-((1-naphthylimino)methyl)-4-nitrophenol
+;
+_chemical_melting_point 458
+_cell_volume   1384.023
+_exptl_crystal_density_diffrn 1.403
+_exptl_special_details
+;
+Melting point range 458-459K
+
+;
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0905
+_refine_ls_wR_factor_gt 0.0905
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.2641(5)
+_cell_length_b 12.3968(6)
+_cell_length_c 16.1786(13)
+_cell_angle_alpha 90
+_cell_angle_beta 108.200(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.8113(4) 0.3274(2) 0.57499(17)
+C2 C 0.8423(4) 0.2748(2) 0.65536(18)
+C3 C 0.8641(5) 0.1639(2) 0.6624(2)
+H1 H 0.88460 0.13070 0.71610
+C4 C 0.8556(5) 0.1028(2) 0.5910(2)
+H2 H 0.86950 0.02830 0.59600
+C5 C 0.8261(5) 0.1523(2) 0.51121(19)
+C6 C 0.8030(4) 0.2627(2) 0.50383(19)
+H3 H 0.78120 0.29470 0.44960
+C7 C 0.7847(6) 0.4444(2) 0.5587(2)
+H4 H 0.79290 0.48830 0.60640
+C8 C 0.7328(5) 0.5982(2) 0.4770(2)
+C9 C 0.6874(4) 0.6331(2) 0.3892(2)
+C10 C 0.6638(5) 0.5607(3) 0.3195(2)
+H5 H 0.67970 0.48710 0.33050
+C11 C 0.6181(6) 0.5975(3) 0.2363(2)
+H6 H 0.60150 0.54890 0.19080
+C12 C 0.5959(6) 0.7083(3) 0.2186(3)
+H7 H 0.56360 0.73260 0.16150
+C13 C 0.6210(5) 0.7801(3) 0.2842(3)
+H8 H 0.60850 0.85340 0.27160
+C14 C 0.6659(5) 0.7457(2) 0.3714(2)
+C15 C 0.6900(5) 0.8186(2) 0.4408(3)
+H9 H 0.67610 0.89220 0.42940
+C16 C 0.7331(6) 0.7832(2) 0.5236(3)
+H10 H 0.74810 0.83250 0.56860
+C17 C 0.7554(6) 0.6727(2) 0.5422(2)
+H11 H 0.78600 0.64950 0.59950
+N1 N 0.8553(4) 0.3349(2) 0.73374(17)
+N2 N 0.7547(5) 0.48626(19) 0.49209(18)
+O1 O 0.8209(4) 0.08877(15) 0.44248(14)
+H12 H 0.80250 0.12620 0.39890
+O2 O 0.8685(4) 0.2842(2) 0.80081(15)
+O3 O 0.8545(5) 0.4327(2) 0.73294(17)
+#END

@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUXNAN01
+_audit_creation_date 2015-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUXNAN01
+_database_code_depnum_ccdc_archive 'CCDC 992622'
+_chemical_formula_sum 'C7 H8 N2 O2'
+_chemical_formula_moiety
+;
+C7 H8 N2 O2
+;
+_journal_coden_Cambridge 1147
+_journal_volume 14
+_journal_year 2014
+_journal_page_first 5737
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"K.Gajda"
+"Z.Daszkiewicz"
+"E.Kozubek"
+"K.Ejsmont"
+"B.Zarychta"
+_chemical_name_systematic
+;
+N-methyl-4-nitroaniline
+;
+_cell_volume    712.338
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.419
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0325
+_refine_ls_wR_factor_gt 0.0325
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.9223(8)
+_cell_length_b 6.8557(5)
+_cell_length_c 10.7606(9)
+_cell_angle_alpha 90
+_cell_angle_beta 103.304(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.61204(13) 0.1720(2) 0.12657(13)
+C2 C 0.73865(15) 0.2157(2) -0.03410(13)
+H1 H 0.77080 0.29660 -0.09040
+N1 N 0.85072(12) -0.05613(18) -0.10524(12)
+H2 H 0.8790(14) 0.021(2) -0.1541(13)
+O1 O 0.48407(11) 0.14570(16) 0.27966(10)
+C3 C 0.72468(13) -0.1019(2) 0.05937(12)
+H3 H 0.74690 -0.23390 0.06560
+O2 O 0.49039(11) 0.42527(16) 0.18858(10)
+C4 C 0.64505(13) -0.0247(2) 0.13530(12)
+H4 H 0.61320 -0.10380 0.19260
+N2 N 0.52437(12) 0.25056(18) 0.20224(11)
+C5 C 0.65890(14) 0.2923(2) 0.04093(13)
+H5 H 0.63580 0.42400 0.03520
+C6 C 0.77353(13) 0.0160(2) -0.02819(12)
+C7 C 0.88773(16) -0.2590(2) -0.11041(15)
+H6 H 0.94300 -0.27590 -0.17200
+H7 H 0.80510 -0.33630 -0.13470
+H8 H 0.93960 -0.30000 -0.02790
+#END

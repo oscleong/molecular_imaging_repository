@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PERLEN
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PERLEN
+_database_code_depnum_ccdc_archive 'CCDC 1231184'
+_chemical_formula_sum 'C20 H12'
+_chemical_formula_moiety
+;
+C20 H12
+;
+_journal_coden_Cambridge 7
+_journal_volume 36
+_journal_year 1963
+_journal_page_first 1237
+_journal_name_full 'Bull.Chem.Soc.Jpn. '
+loop_
+_publ_author_name
+"J.Tanaka"
+_chemical_name_systematic
+;
+Perylene
+;
+_cell_volume    639.053
+_exptl_special_details
+;
+beta polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.17
+_refine_ls_wR_factor_gt 0.17
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 11.27
+_cell_length_b 5.88
+_cell_length_c 9.65
+_cell_angle_alpha 90
+_cell_angle_beta 92.1
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.09200 0.17000 0.04400
+C2 C 0.04400 0.01000 0.14300
+C3 C 0.16900 0.32300 0.11700
+C4 C 0.21400 0.33100 0.27000
+C5 C 0.17700 0.19000 0.34400
+C6 C 0.09100 0.02000 0.29200
+C7 C 0.04400 -0.13200 0.36500
+C8 C -0.05000 -0.28500 0.32200
+C9 C -0.08300 -0.31000 0.17500
+C10 C 0.03700 0.15000 -0.09700
+C10B C -0.03700 -0.15000 0.09700
+C2B C -0.04400 -0.01000 -0.14300
+C9B C 0.08300 0.31000 -0.17500
+C1B C -0.09200 -0.17000 -0.04400
+C6B C -0.09100 -0.02000 -0.29200
+C8B C 0.05000 0.28500 -0.32200
+C3B C -0.16900 -0.32300 -0.11700
+C5B C -0.17700 -0.19000 -0.34400
+C7B C -0.04400 0.13200 -0.36500
+C4B C -0.21400 -0.33100 -0.27000
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.459 1_555 1_555
+C2 C6 1.515 1_555 1_555
+C3 C1 1.419 1_555 1_555
+C4 C3 1.544 1_555 1_555
+C5 C4 1.180 1_555 1_555
+C6 C5 1.468 1_555 1_555
+C7 C6 1.266 1_555 1_555
+C8 C7 1.439 1_555 1_555
+C9 C8 1.461 1_555 1_555
+C10 C1 1.479 1_555 1_555
+C10B C2 1.373 1_555 1_555
+C2B C10 1.373 1_555 1_555
+C9B C10 1.323 1_555 1_555
+C1B C10B 1.479 1_555 1_555
+C6B C2B 1.515 1_555 1_555
+C8B C9B 1.461 1_555 1_555
+C3B C1B 1.419 1_555 1_555
+C5B C6B 1.468 1_555 1_555
+C7B C6B 1.266 1_555 1_555
+C4B C3B 1.544 1_555 1_555
+C9 C10B 1.323 1_555 1_555
+C2B C1B 1.459 1_555 1_555
+C8B C7B 1.439 1_555 1_555
+C5B C4B 1.180 1_555 1_555
+#END

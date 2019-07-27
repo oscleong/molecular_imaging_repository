@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OCTEOX10
+_audit_creation_date 1983-01-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OCTEOX10
+_database_code_depnum_ccdc_archive 'CCDC 1225593'
+_chemical_formula_sum 'C10 H18 N2 O2'
+_chemical_formula_moiety
+;
+C10 H18 N2 O2
+;
+_journal_coden_Cambridge 7
+_journal_volume 55
+_journal_year 1982
+_journal_page_first 171
+_journal_name_full 'Bull.Chem.Soc.Jpn. '
+loop_
+_publ_author_name
+"T.Ota"
+"S.Masuda"
+"H.Tanaka"
+"M.Kido"
+_chemical_name_systematic
+;
+8-Hydroxy-1,4,5,7-tetramethyl-6,8-diazabicyclo(3.2.1)oct-6-ene-6-oxide
+;
+_chemical_melting_point 420.15
+_cell_volume   1069.396
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.23
+_exptl_special_details
+;
+H13 deleted. N6 and N8 appear to be interchanged in atom table
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.083
+_refine_ls_wR_factor_gt 0.083
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.459(3)
+_cell_length_b 10.335(3)
+_cell_length_c 11.352(4)
+_cell_angle_alpha 90
+_cell_angle_beta 105.50(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.24900 0.25700 0.43670
+O2 O 0.90920 0.31390 0.15720
+N1 N 1.14770 0.14580 0.40710
+N2 N 1.00230 0.23420 0.22390
+C1 C 1.17520 0.08070 0.29930
+C2 C 1.08940 -0.04760 0.28870
+C3 C 0.92480 -0.02250 0.26820
+C4 C 0.89250 0.08770 0.34690
+C5 C 1.00190 0.20120 0.35470
+C6 C 1.10560 0.16510 0.19450
+C7 C 1.33960 0.05600 0.31590
+C8 C 0.72900 0.12620 0.30020
+C9 C 0.96440 0.31870 0.42040
+C10 C 1.12320 0.16880 0.06850
+H1 H 1.07900 -0.10400 0.20300
+H2 H 1.13800 -0.08800 0.37200
+H3 H 0.87700 0.00200 0.16600
+H4 H 0.87500 -0.10500 0.27400
+H5 H 0.92100 0.06300 0.44800
+H6 H 1.41900 0.13200 0.30900
+H7 H 1.33700 -0.01200 0.24000
+H8 H 1.39300 0.01300 0.40700
+H9 H 0.67200 0.04300 0.29000
+H10 H 0.70900 0.14600 0.20300
+H11 H 0.69300 0.21200 0.36300
+H12 H 0.97000 0.30400 0.51200
+H13 H 0.90300 0.36000 0.38300
+H14 H 1.04600 0.39200 0.42600
+H15 H 1.08500 0.23400 0.03400
+H16 H 1.21600 0.12300 0.07100
+H17 H 1.04600 0.10600 0.01400
+#END

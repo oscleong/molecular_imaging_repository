@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DELPEQ01
+_audit_creation_date 2007-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DELPEQ01
+_database_code_depnum_ccdc_archive 'CCDC 636750'
+_chemical_formula_sum 'C9 H11 N3 O2'
+_chemical_formula_moiety
+;
+C9 H11 N3 O2
+;
+_journal_coeditor_code "IUCr LH2298"
+_journal_coden_Cambridge 1370
+_journal_volume 63
+_journal_year 2007
+_journal_page_first o970
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"S.M.S.V.Wardell"
+"J.L.Wardell"
+"J.N.Low"
+"C.Glidewell"
+_chemical_name_systematic
+;
+Acetone 2-nitrophenylhydrazone
+;
+_chemical_melting_point 339
+_cell_volume    941.497
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.363
+_exptl_special_details
+;
+Melting point range 339-341K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0538
+_refine_ls_wR_factor_gt 0.0538
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 3.8451(2)
+_cell_length_b 11.4926(8)
+_cell_length_c 21.3214(13)
+_cell_angle_alpha 90
+_cell_angle_beta 92.208(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3793(4) 0.68934(13) 0.08125(6)
+N1 N 0.5144(3) 0.63071(11) 0.13218(5)
+N2 N 0.5246(3) 0.51069(11) 0.13215(6)
+C2 C 0.6772(4) 0.46464(14) 0.18091(7)
+C3 C 0.6941(4) 0.33459(14) 0.18324(8)
+C4 C 0.8357(4) 0.53242(15) 0.23532(7)
+C5 C 0.3832(4) 0.81231(13) 0.07662(6)
+N3 N 0.5444(3) 0.88451(12) 0.12460(6)
+O1 O 0.6846(3) 0.83762(10) 0.17212(5)
+O2 O 0.5455(3) 0.99053(10) 0.11794(6)
+C6 C 0.2387(4) 0.86983(13) 0.02377(7)
+C7 C 0.0882(4) 0.80780(13) -0.02496(7)
+C8 C 0.0830(4) 0.68637(13) -0.02143(7)
+C9 C 0.2246(4) 0.62841(13) 0.03000(6)
+H1 H 0.59530 0.66950 0.16520
+H2 H 0.57120 0.30220 0.14610
+H3 H 0.58430 0.30680 0.22120
+H4 H 0.93800 0.30960 0.18400
+H5 H 0.99520 0.59120 0.21960
+H6 H 0.96430 0.47930 0.26370
+H7 H 0.65090 0.57080 0.25800
+H8 H 0.24510 0.95240 0.02180
+H9 H -0.01110 0.84670 -0.06060
+H10 H -0.02030 0.64300 -0.05520
+H11 H 0.21790 0.54580 0.03100
+#END

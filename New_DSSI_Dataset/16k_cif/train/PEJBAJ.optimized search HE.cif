@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PEJBAJ
+_audit_creation_date 2013-03-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEJBAJ
+_database_code_depnum_ccdc_archive 'CCDC 888166'
+_chemical_formula_sum 'C5 H4 N4 O8'
+_chemical_formula_moiety
+;
+C5 H4 N4 O8
+;
+_journal_coden_Cambridge 1147
+_journal_volume 12
+_journal_year 2012
+_journal_page_first 5292
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"R.L.Willer"
+"R.F.Storey"
+"J.Deschamps"
+"D.Parrish"
+"J.Kendrick"
+"F.J.J.Leusen"
+_chemical_name_systematic
+;
+(R/S)-1,6-dinitro-3,8-dioxa-1,6-diazaspiro[4.4]nonane-2,7-dione
+;
+_cell_volume    874.028
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.886
+_exptl_crystal_description 'thick plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0371
+_refine_ls_wR_factor_gt 0.0371
+loop_
+_citation_database_id_CSD
+_citation_special_details
+PEJBEN "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.8288(19)
+_cell_length_b 12.047(3)
+_cell_length_c 10.629(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.697(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0650(2) 0.65487(11) 0.26247(14)
+N1 N 0.17293(18) 0.64418(10) 0.38214(12)
+C2 C 0.2292(2) 0.74755(13) 0.43593(15)
+O1 O 0.18835(16) 0.82506(9) 0.35036(11)
+C3 C 0.1078(2) 0.77801(12) 0.23489(15)
+H1 H 0.20280 0.78460 0.16670
+H2 H -0.01420 0.81710 0.20860
+N2 N -0.14015(17) 0.62478(10) 0.26946(12)
+C4 C -0.1959(2) 0.53326(13) 0.19218(15)
+O2 O -0.03482(17) 0.49971(9) 0.13534(11)
+C5 C 0.1250(2) 0.57674(12) 0.15555(15)
+H3 H 0.14790 0.61960 0.07790
+H4 H 0.24680 0.53640 0.17970
+N3 N 0.20435(18) 0.54305(11) 0.44157(13)
+O3 O 0.30853(17) 0.5412(1) 0.53577(11)
+O4 O 0.12170(17) 0.46375(9) 0.39068(11)
+O5 O 0.29729(18) 0.76445(10) 0.53809(12)
+N4 N -0.27284(19) 0.68881(11) 0.33372(13)
+O6 O -0.44527(16) 0.67881(12) 0.30480(14)
+O7 O -0.20099(17) 0.75003(10) 0.41396(12)
+O8 O -0.35274(18) 0.49103(10) 0.18220(12)
+#END

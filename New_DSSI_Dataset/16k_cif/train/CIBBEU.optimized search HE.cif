@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIBBEU
+_audit_creation_date 1985-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIBBEU
+_database_code_depnum_ccdc_archive 'CCDC 1124659'
+_chemical_formula_sum 'C10 H13 N1 O4'
+_chemical_formula_moiety
+;
+C10 H13 N1 O4
+;
+_journal_coden_Cambridge 619
+_journal_volume 3
+_journal_year 1983
+_journal_page_first 25
+_journal_name_full 'Fenz.Kex.Yu Huax.Yanjiu '
+loop_
+_publ_author_name
+"Wang Zutao"
+"Leng Hengjin"
+"Sha Kunyuan"
+"Liu Jiyun"
+_chemical_name_systematic
+;
+N-Hydroxy-cantharidinimide
+;
+_chemical_melting_point 441.15
+_cell_volume   1001.194
+_exptl_special_details
+;
+Melting point range 441.15-503.15K
+From given coordinates, we calculate C4-H41 = 1.24, not 1.14, and C9-H93 = 
+1.18, not 1.12. Coordinates of these H-atoms have not been retained. H31 has 
+also been removed because of suspected error (unbonded)
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0563
+_refine_ls_wR_factor_gt 0.0563
+_chemical_compound_source
+;
+Mylabris phalerata pallas
+;
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.657
+_cell_length_b 7.737
+_cell_length_c 11.101
+_cell_angle_alpha 90
+_cell_angle_beta 90.22
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.70260 0.05360 0.37880
+C2 C 0.61170 0.18380 0.33390
+C3 C 0.58810 0.32340 0.42890
+C4 C 0.69490 0.43920 0.41920
+C5 C 0.76760 0.34020 0.32720
+C6 C 0.81360 0.16830 0.38140
+C7 C 0.89320 0.08690 0.28980
+C8 C 0.72440 -0.07350 0.27590
+C9 C 0.67260 -0.04870 0.49250
+C10 C 0.87660 0.18850 0.50320
+N1 N 0.83520 -0.04600 0.23610
+O1 O 0.65950 -0.18010 0.23540
+O2 O 0.87950 -0.13420 0.13810
+O3 O 0.99080 0.12410 0.26510
+O4 O 0.67990 0.27750 0.24430
+H1 H 0.53200 0.13700 0.30400
+H2 H 0.51400 0.38200 0.41100
+H3 H 0.66000 0.54900 0.39500
+H4 H 0.84300 0.39800 0.30100
+H5 H 0.73800 -0.11400 0.50900
+H6 H 0.59200 -0.11200 0.48200
+H7 H 0.95200 0.26100 0.50700
+H8 H 0.82400 0.23100 0.56400
+H9 H 0.90400 0.07900 0.52600
+H10 H 0.93100 -0.20400 0.16000
+#END

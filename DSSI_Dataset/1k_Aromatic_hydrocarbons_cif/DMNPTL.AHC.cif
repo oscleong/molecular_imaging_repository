@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DMNPTL
+_audit_creation_date 1974-10-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DMNPTL
+_chemical_formula_sum 'C12 H12'
+_chemical_formula_moiety
+;
+C12 H12
+;
+_journal_coden_Cambridge 322
+_journal_year 1946
+_journal_page_first 587
+_journal_name_full 'Izv.Akad.SSSR,Otd.Khim.Nauk '
+loop_
+_publ_author_name
+"A.I.Kitaigorodskij"
+_chemical_name_systematic
+;
+2,6-Dimethylnaphthalene
+;
+_cell_volume    924.510
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 7.54
+_cell_length_b 6.07
+_cell_length_c 20.2
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.06200 -0.22800 0.05700
+C2 C 0.01400 -0.13600 0.11900
+C3 C -0.05900 0.07800 0.12100
+C4 C -0.08400 0.19900 0.06300
+C5 C 0.03600 -0.10700 0.01400
+C6 C 0.04200 -0.26800 0.17500
+C5D C -0.03600 0.10700 -0.01400
+C4D C 0.08400 -0.19900 -0.06300
+C1D C -0.06200 0.22800 -0.05700
+C3D C 0.05900 -0.07800 -0.12100
+C2D C -0.01400 0.13600 -0.11900
+C6D C -0.04200 0.26800 -0.17500
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.418 1_555 1_555
+C2 C3 1.411 1_555 1_555
+C3 C4 1.396 1_555 1_555
+C4 C5D 1.692 1_555 1_555
+C5 C1 1.154 1_555 1_555
+C6 C2 1.402 1_555 1_555
+C5D C5 1.517 1_555 1_555
+C4D C5 1.692 1_555 1_555
+C1D C5D 1.154 1_555 1_555
+C3D C4D 1.396 1_555 1_555
+C2D C1D 1.418 1_555 1_555
+C6D C2D 1.402 1_555 1_555
+C3D C2D 1.411 1_555 1_555
+#END

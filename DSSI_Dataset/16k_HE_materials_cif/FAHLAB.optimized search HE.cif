@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAHLAB
+_audit_creation_date 1999-07-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAHLAB
+_database_code_depnum_ccdc_archive 'CCDC 109553'
+_database_code_depnum_ccdc_fiz 'CSD 409290'
+_chemical_formula_sum 'C15 H21 N1 O5'
+_chemical_formula_moiety
+;
+C15 H21 N1 O5
+;
+_journal_coden_Cambridge 1267
+_journal_volume 213
+_journal_year 1998
+_journal_page_first 753
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"K.Peters"
+"E.-M.Peters"
+"J.Raczko"
+"V.Jager"
+_chemical_name_systematic
+;
+(3S,4S,5R,1'S)-1,3-O-Benzylidene-6-methyl-4-nitro-1,3,5-heptanetriol
+;
+_chemical_melting_point 381
+_cell_volume   1578.514
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'n-heptane/ethyl acetate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+loop_
+_citation_database_id_CSD
+_citation_special_details
+FAHPEJ "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 14.8698(76)
+_cell_length_b 16.3669(73)
+_cell_length_c 6.4860(25)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.00402(17) 0.67577(14) 0.97100(42)
+C1 C 0.90828(25) 0.67314(22) 0.9960(7)
+H1 H 0.89423(25) 0.65898(22) 1.13598(70)
+H2 H 0.88353(25) 0.72589(22) 0.96477(70)
+C2 C 0.86758(24) 0.60985(23) 0.85172(73)
+H3 H 0.87653(24) 0.62612(23) 0.71101(73)
+H4 H 0.80436(24) 0.60456(23) 0.87858(73)
+O2 O 1.00951(16) 0.53830(14) 0.87609(38)
+C3 C 0.91438(23) 0.5289(2) 0.89159(60)
+H5 H 0.89652(23) 0.51393(20) 1.02872(60)
+C4 C 0.88576(24) 0.45961(21) 0.75096(55)
+H6 H 0.82496(24) 0.44783(21) 0.79090(55)
+N1 N 0.89447(24) 0.48702(18) 0.52747(48)
+C5 C 0.93786(25) 0.37956(22) 0.77466(61)
+H7 H 1.00088(25) 0.38647(22) 0.74766(61)
+O3 O 0.89720(23) 0.32585(19) 0.63065(50)
+H8 H 0.9259(37) 0.2889(32) 0.613(11)
+C6 C 0.93633(30) 0.34670(24) 0.99548(66)
+H9 H 0.95748(30) 0.38968(24) 1.08377(66)
+C7 C 0.99898(32) 0.27373(24) 1.01557(75)
+H10 H 0.99742(32) 0.25373(24) 1.15466(75)
+H11 H 1.05919(32) 0.29004(24) 0.98156(75)
+H12 H 0.97989(32) 0.23133(24) 0.92313(75)
+C8 C 0.84161(31) 0.32559(28) 1.06934(77)
+H13 H 0.80350(31) 0.37260(28) 1.05509(77)
+H14 H 0.84371(31) 0.30937(28) 1.21150(77)
+H15 H 0.81806(31) 0.28156(28) 0.98781(77)
+C9 C 1.04258(24) 0.59808(21) 1.01737(66)
+H16 H 1.02732(24) 0.58294(21) 1.15601(66)
+C10 C 1.14212(26) 0.60370(24) 0.99033(78)
+C11 C 1.17927(30) 0.61962(33) 0.8036(9)
+H17 H 1.14052(30) 0.62890(33) 0.68755(90)
+C12 C 1.27101(35) 0.62284(35) 0.776(1)
+H18 H 1.29522(35) 0.63523(35) 0.6424(10)
+C13 C 1.32702(35) 0.60872(33) 0.9356(12)
+H19 H 1.39099(35) 0.61024(33) 0.9160(12)
+C14 C 1.29139(40) 0.59217(40) 1.1267(13)
+H20 H 1.33061(40) 0.5828(4) 1.2419(13)
+C15 C 1.19923(35) 0.58892(33) 1.15306(94)
+H21 H 1.17480(35) 0.57627(33) 1.28629(94)
+O4 O 0.96859(19) 0.48761(20) 0.44849(44)
+O5 O 0.82572(19) 0.50797(19) 0.43928(46)
+#END

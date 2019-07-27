@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PAMQAW
+_audit_creation_date 2005-07-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PAMQAW
+_database_code_depnum_ccdc_archive 'CCDC 270427'
+_chemical_formula_sum 'C10 H13 N3 O5'
+_chemical_formula_moiety
+;
+C10 H13 N3 O5
+;
+_journal_coeditor_code "IUCr HG6133"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o808
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"J.Lokaj"
+"V.Kettmann"
+"V.Milata"
+"M.Marko"
+_chemical_name_systematic
+;
+4,4-Dinitro-5,6,7,8,9,10-hexahydro-4H-cyclonona(d)isoxazole
+;
+_chemical_melting_point 374
+_cell_volume   1160.460
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.461
+_exptl_special_details
+;
+Melting point range 374-376K
+potential endothelin receptor antagonist
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0561
+_refine_ls_wR_factor_gt 0.0561
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.735(2)
+_cell_length_b 16.569(4)
+_cell_length_c 8.764(2)
+_cell_angle_alpha 90
+_cell_angle_beta 113.81(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.9096(2) -0.05376(10) -0.2294(2)
+N1 N 0.7924(3) -0.09898(12) -0.1923(3)
+C1 C 0.6943(3) -0.04550(14) -0.1733(3)
+H1 H 0.60420 -0.05820 -0.14690
+C2 C 0.7373(2) 0.03438(12) -0.1966(2)
+C3 C 0.6522(2) 0.10938(12) -0.1786(2)
+C4 C 0.6752(3) 0.18516(14) -0.2641(3)
+H2 H 0.79360 0.19760 -0.22310
+H3 H 0.62040 0.22990 -0.23520
+C5 C 0.6041(4) 0.1769(3) -0.4540(4)
+H4 H 0.56450 0.12170 -0.47900
+H5 H 0.50560 0.21100 -0.49750
+C6 C 0.6907(6) 0.1922(4) -0.5451(4)
+H6 H 0.66240 0.24710 -0.58460
+H7 H 0.64250 0.15790 -0.64270
+C7 C 0.8713(5) 0.18582(18) -0.4916(4)
+H8 H 0.92330 0.22160 -0.39700
+H9 H 0.89880 0.20630 -0.58110
+C8 C 0.9512(3) 0.10494(16) -0.4434(3)
+H10 H 1.05270 0.10450 -0.46320
+H11 H 0.87620 0.06490 -0.51660
+C9 C 0.9959(3) 0.07882(17) -0.2630(3)
+H12 H 1.10270 0.05110 -0.22360
+H13 H 1.01130 0.12710 -0.19580
+C10 C 0.8748(3) 0.02586(14) -0.2312(2)
+N2 N 0.7033(2) 0.12410(13) 0.0101(2)
+O2 O 0.7829(3) 0.18347(12) 0.0707(2)
+O3 O 0.6669(2) 0.07114(12) 0.0864(2)
+N3 N 0.4612(2) 0.09592(12) -0.2430(3)
+O4 O 0.3978(2) 0.04630(11) -0.3503(2)
+O5 O 0.3870(2) 0.13998(12) -0.1852(3)
+#END

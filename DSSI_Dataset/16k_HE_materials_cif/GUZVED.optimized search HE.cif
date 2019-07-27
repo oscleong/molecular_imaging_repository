@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUZVED
+_audit_creation_date 2011-03-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUZVED
+_database_code_depnum_ccdc_archive 'CCDC 752383'
+_chemical_formula_sum 'C11 H12 N2 O3'
+_chemical_formula_moiety
+;
+C11 H12 N2 O3
+;
+_journal_coden_Cambridge 1088
+_journal_year 2010
+_journal_page_first 654
+_journal_name_full 'Synlett '
+loop_
+_publ_author_name
+"R.C.F.Jones"
+"A.Choudhury"
+"J.N.Iley"
+"G.Loizou"
+"C.Lumley"
+"V.McKee"
+_chemical_name_systematic
+;
+3-(2-Hydroxypent-3-en-1-yl)[1,2]oxazolo[4,3-c]pyridin-4(5H)-one
+;
+_cell_volume    523.733
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.396
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+The hydroxypent-3-enyl chain is disordered over two sites with occupancies of 
+0.70:0.30.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0441
+_refine_ls_wR_factor_gt 0.0441
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 4.8136(7)
+_cell_length_b 8.7111(12)
+_cell_length_c 13.0695(18)
+_cell_angle_alpha 72.911(2)
+_cell_angle_beta 89.207(2)
+_cell_angle_gamma 89.023(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6997(3) 0.58776(19) 0.08424(14)
+O1 O 0.8590(2) 0.47476(14) 0.1300(1)
+N1 N 0.7228(3) 0.66184(16) -0.02254(11)
+H1 H 0.85290 0.62590 -0.05790
+C2 C 0.5583(4) 0.7897(2) -0.08066(14)
+H2 H 0.59480 0.83400 -0.15510
+C3 C 0.3498(4) 0.8534(2) -0.03606(14)
+H3 H 0.23850 0.94040 -0.07680
+C4 C 0.3053(3) 0.7823(2) 0.07658(14)
+N2 N 0.1131(3) 0.82206(18) 0.13739(12)
+O2 O 0.1610(3) 0.71257(15) 0.24128(10)
+C5 C 0.3767(4) 0.6136(2) 0.23769(14)
+C6 C 0.4764(3) 0.65187(19) 0.13536(13)
+C7 C 0.4518(4) 0.4915(2) 0.33960(15)
+H4 H 0.47920 0.54640 0.39500
+H5 H 0.63110 0.44040 0.32930
+C8 C 0.2335(8) 0.3586(4) 0.3810(2)
+H6 H 0.06660 0.40540 0.40790
+O3 O 0.1492(6) 0.2857(3) 0.3030(2)
+H7 H 0.04200 0.36820 0.24920
+C9 C 0.3633(6) 0.2299(3) 0.47360(17)
+H8 H 0.54140 0.18570 0.46600
+C10 C 0.2254(5) 0.1814(3) 0.5635(2)
+H9 H 0.04540 0.22680 0.56570
+C11 C 0.3239(5) 0.0613(3) 0.66306(17)
+H10 H 0.51710 0.03090 0.65320
+H11 H 0.20730 -0.03410 0.67890
+H12 H 0.31210 0.10800 0.72270
+C12? C 0.4518(4) 0.4915(2) 0.33960(15)
+C13? C 0.3568(17) 0.3356(9) 0.3537(6)
+C14? C 0.3633(6) 0.2299(3) 0.47360(17)
+H13? H 0.65690 0.48660 0.34500
+H14? H 0.37890 0.52880 0.39950
+H15? H 0.46020 0.28220 0.30630
+H16? H 0.54230 0.18070 0.48570
+O4? O 0.0605(13) 0.3269(9) 0.3422(5)
+#END

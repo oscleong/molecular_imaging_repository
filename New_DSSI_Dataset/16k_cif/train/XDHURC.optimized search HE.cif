@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XDHURC
+_audit_creation_date 1976-05-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XDHURC
+_database_code_depnum_ccdc_archive 'CCDC 1295689'
+_chemical_formula_sum 'C3 H4 N2 O3'
+_chemical_formula_moiety
+;
+C3 H4 N2 O3
+;
+_journal_coden_Cambridge 34
+_journal_volume 12
+_journal_year 1975
+_journal_page_first 699
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"K.Venkatasubramanian"
+"R.J.Majeste"
+"L.M.Trefonas"
+_chemical_name_systematic
+;
+6-Oxadihydrouracil
+;
+_cell_volume    452.507
+_exptl_crystal_density_diffrn 1.71
+_exptl_special_details
+;
+ATOM NUMBERING IN FIG.2 IS NOT CONSISTENT WITH LIST OF ATOMIC COORDINATES
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.052
+_refine_ls_wR_factor_gt 0.052
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 5.106(1)
+_cell_length_b 12.461(2)
+_cell_length_c 7.112(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.29470 0.20880 0.27250
+C2 C -0.23950 0.15170 0.08750
+C3 C 0.09280 0.05240 0.26010
+H1 H -0.48130 0.23260 0.27630
+H2 H -0.17660 0.27200 0.28620
+H3 H -0.01750 0.02620 -0.01020
+H4 H 0.13820 0.11610 0.52510
+N1 N -0.05110 0.07230 0.10220
+N2 N 0.01440 0.10190 0.41890
+O1 O -0.24860 0.13570 0.42450
+O2 O -0.34320 0.17300 -0.05910
+O3 O 0.29490 -0.00340 0.25600
+#END

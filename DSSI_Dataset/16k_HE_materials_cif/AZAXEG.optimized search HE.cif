@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AZAXEG
+_audit_creation_date 2016-11-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AZAXEG
+_database_code_depnum_ccdc_archive 'CCDC 1035025'
+_chemical_formula_sum 'C8 H6 N4 O5'
+_chemical_formula_moiety
+;
+C8 H6 N4 O5
+;
+_journal_coden_Cambridge 1737
+_journal_volume 5
+_journal_year 2015
+_journal_page_first 63
+_journal_name_full 'Open Journal of Inorganic Chemistry '
+loop_
+_publ_author_name
+"Hao Wang"
+"Hongping Xiao"
+"Na Liu"
+"Bo Zhang"
+"Qian Shi"
+_chemical_name_systematic
+;
+1-(((5-nitro-2-furyl)methylene)amino)imidazolidine-2,4-dione
+;
+_chemical_name_common
+;
+Nitrofurantoin; DrugBank: DB00698
+;
+_cell_volume    963.537
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.642
+_exptl_special_details
+;
+P21/c polymorph
+antibacterial drug
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0646
+_refine_ls_wR_factor_gt 0.0646
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.849(3)
+_cell_length_b 6.500(3)
+_cell_length_c 20.057(7)
+_cell_angle_alpha 90
+_cell_angle_beta 109.675(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6700(3) 1.3626(3) 0.09084(11)
+O2 O 0.5174(3) 0.8953(4) 0.22986(11)
+O3 O 0.8282(2) 0.9465(3) -0.08079(9)
+O4 O 0.9372(4) 0.9610(4) -0.23313(11)
+O5 O 0.9044(3) 1.2054(3) -0.16528(11)
+N1 N 0.7277(3) 0.9860(3) 0.03422(10)
+N2 N 0.6769(3) 1.0062(3) 0.09271(11)
+N3 N 0.5894(3) 1.1656(4) 0.17164(11)
+H1 H 0.56630 1.26350 0.19620
+N4 N 0.9060(3) 1.0244(4) -0.18093(12)
+C1 C 0.8742(3) 0.8730(4) -0.13575(13)
+C2 C 0.6490(4) 1.1996(4) 0.11468(14)
+C3 C 0.8053(3) 0.7736(4) -0.04577(13)
+C4 C 0.7512(4) 0.8036(4) 0.01537(14)
+C5 C 0.8826(4) 0.6679(4) -0.13667(14)
+H2 H 0.91190 0.58590 -0.16920
+C6 C 0.5711(4) 0.9645(5) 0.18485(14)
+C7 C 0.8377(4) 0.6028(4) -0.07807(14)
+H3 H 0.83140 0.46750 -0.06400
+C8 C 0.6277(4) 0.8421(4) 0.13201(14)
+H4 H 0.73000 0.75360 0.15520
+H5 H 0.52880 0.75980 0.10170
+H6 H 0.731(4) 0.684(5) 0.0354(14)
+#END

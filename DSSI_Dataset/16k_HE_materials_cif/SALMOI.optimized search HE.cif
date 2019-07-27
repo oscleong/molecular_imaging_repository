@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SALMOI
+_audit_creation_date 2005-03-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SALMOI
+_database_code_depnum_ccdc_archive 'CCDC 248703'
+_chemical_formula_sum 'C15 H13 N1 O1'
+_chemical_formula_moiety
+;
+C15 H13 N1 O1
+;
+_journal_coden_Cambridge 16
+_journal_volume 61
+_journal_year 2005
+_journal_page_first 493
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"Ming-Chang P.Yeh"
+"Chi-Fen Jou"
+"Wei-Tzou Yeh"
+"Da-Yu Chiu"
+"N.R.K.Reddy"
+_chemical_name_systematic
+;
+cis,trans-2a,6a,7,11c-Tetrahydrobenzo(g)cyclohepta(cd)(2,1)benzisoxazole
+;
+_chemical_melting_point 377.15
+_cell_volume   1141.315
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.3
+_exptl_special_details
+;
+Melting point range 377.15-379.15K
+
+;
+_exptl_crystal_description 'cube'
+_exptl_crystal_preparation 'ethyl acetate/hexanes'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 5.1862(2)
+_cell_length_b 12.8392(4)
+_cell_length_c 17.1403(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.1595(5) -0.04154(17) 0.86135(12)
+N1 N -0.0120(5) -0.04390(16) 0.79217(13)
+C1 C -0.1210(4) 0.01394(15) 0.74136(14)
+C2 C -0.0106(4) 0.03606(17) 0.66491(13)
+C3 C 0.1694(5) -0.02991(19) 0.62924(16)
+C4 C 0.2737(6) -0.0043(2) 0.5586(2)
+C5 C 0.2015(7) 0.0857(3) 0.52129(18)
+C6 C 0.0215(6) 0.1501(2) 0.55503(16)
+C7 C -0.0895(5) 0.12746(17) 0.62711(14)
+C8 C -0.2875(5) 0.19883(17) 0.66318(15)
+C9 C -0.3341(4) 0.18427(17) 0.75042(15)
+C10 C -0.3609(4) 0.06714(16) 0.76812(14)
+C11 C -0.3760(5) 0.0328(2) 0.85283(15)
+C12 C -0.3610(6) 0.1128(3) 0.91548(17)
+C13 C -0.4829(6) 0.2044(3) 0.9169(2)
+C14 C -0.6200(5) 0.2531(2) 0.8543(2)
+C15 C -0.5592(5) 0.2452(2) 0.77935(19)
+H1 H 0.21847 -0.09321 0.65509
+H2 H 0.39896 -0.04854 0.53406
+H3 H 0.28090 0.10335 0.47245
+H4 H -0.03159 0.21115 0.52700
+H5 H -0.18986 0.20983 0.77983
+H6 H -0.51029 0.03989 0.74211
+H7 H -0.53817 -0.00130 0.86158
+H8 H -0.26091 0.10000 0.96161
+H9 H -0.46450 0.23891 0.96634
+H10 H -0.76259 0.29537 0.87082
+H11 H -0.67106 0.27882 0.74251
+H12 H -0.23149 0.26952 0.65640
+H13 H -0.44847 0.18872 0.63660
+#END

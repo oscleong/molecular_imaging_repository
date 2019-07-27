@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEZXAK
+_audit_creation_date 1999-04-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEZXAK
+_database_code_depnum_ccdc_archive 'CCDC 1167155'
+_chemical_formula_sum 'C9 H10 N4 O1'
+_chemical_formula_moiety
+;
+C9 H10 N4 O1
+;
+_journal_coden_Cambridge 16
+_journal_volume 54
+_journal_year 1998
+_journal_page_first 9677
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"A.F.Pozharskii"
+"O.V.Dyablo"
+"A.V.Belyaev"
+"Z.A.Starikova"
+"A.I.Yanovsky"
+_chemical_name_systematic
+;
+1-(N-Nitrosomethylamino)-2-methylbenzimidazole
+;
+_chemical_melting_point 349.15
+_cell_volume    967.324
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.306
+_exptl_special_details
+;
+Melting point range 349.15-351.15K
+y coordinate of N4 should probably be 0.9651 (not 0.9561)
+;
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.930(2)
+_cell_length_b 11.533(4)
+_cell_length_c 12.359(4)
+_cell_angle_alpha 90
+_cell_angle_beta 101.68(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2638(3) 0.8988(2) 0.6827(1)
+N2 N 0.0085(2) 0.9832(1) 0.7338(1)
+N3 N -0.0968(2) 1.0312(1) 0.8062(1)
+N4 N -0.1531(2) 0.9651(2) 0.8826(1)
+O1 O -0.1049(3) 0.8638(2) 0.8819(2)
+C1 C -0.0727(3) 0.9241(1) 0.6373(1)
+C2 C -0.2650(3) 0.9140(2) 0.5783(2)
+C3 C -0.2876(4) 0.8503(2) 0.4817(2)
+C4 C -0.1285(5) 0.7997(2) 0.4472(2)
+C5 C 0.0620(5) 0.8099(2) 0.5075(2)
+C6 C 0.0902(3) 0.8740(2) 0.6055(1)
+C7 C 0.2091(2) 0.9626(2) 0.7578(1)
+C8 C 0.3361(3) 1.0128(3) 0.8583(2)
+C9 C -0.1505(5) 1.1527(2) 0.7976(3)
+H1 H -0.391(5) 0.952(3) 0.608(3)
+H2 H -0.435(5) 0.837(3) 0.433(2)
+H3 H -0.142(5) 0.754(4) 0.382(3)
+H4 H 0.178(4) 0.778(2) 0.486(2)
+H5 H 0.343(8) 1.096(4) 0.846(4)
+H6 H 0.475(5) 0.976(3) 0.869(3)
+H7 H 0.269(7) 0.998(3) 0.930(4)
+H8 H -0.246(5) 1.170(3) 0.725(3)
+H9 H -0.211(6) 1.171(3) 0.852(4)
+H10 H -0.031(7) 1.196(4) 0.808(4)
+#END

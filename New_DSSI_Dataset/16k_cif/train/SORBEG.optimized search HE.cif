@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SORBEG
+_audit_creation_date 1992-05-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SORBEG
+_database_code_depnum_ccdc_archive 'CCDC 1262277'
+_chemical_formula_sum 'C9 H7 N3 O2'
+_chemical_formula_moiety
+;
+C9 H7 N3 O2
+;
+_journal_coeditor_code "IUCr CD0022"
+_journal_coden_Cambridge 591
+_journal_volume 48
+_journal_year 1992
+_journal_page_first 184
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.Ishihara"
+"M.Tonogaki"
+"S.Ohba"
+"Y.Saito"
+"M.Okazaki"
+"T.Katoh"
+"K.Kamiyama"
+_chemical_name_systematic
+;
+1-(4-Nitrophenyl)pyrazole
+;
+_cell_volume    841.341
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.49
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.519(2)
+_cell_length_b 10.342(2)
+_cell_length_c 7.077(1)
+_cell_angle_alpha 90
+_cell_angle_beta 93.68(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.3169(1) 0.2397(1) 0.6063(2)
+O2 O -0.3162(1) 0.0647(1) 0.7739(2)
+N1 N -0.2666(1) 0.1489(2) 0.6876(2)
+N2 N 0.2192(1) 0.1131(1) 0.6653(2)
+N3 N 0.2814(1) 0.2088(2) 0.5856(3)
+C1 C -0.1398(1) 0.1398(2) 0.6804(3)
+C2 C -0.0805(2) 0.2381(2) 0.5976(3)
+C3 C 0.0388(2) 0.2297(2) 0.5916(3)
+C4 C 0.0970(1) 0.1232(2) 0.6710(2)
+C5 C 0.0356(2) 0.0248(2) 0.7535(3)
+C6 C -0.0836(2) 0.0330(2) 0.7578(3)
+C7 C 0.3899(2) 0.1657(2) 0.6007(3)
+C8 C 0.3993(2) 0.0459(2) 0.6869(3)
+C9 C 0.2898(2) 0.0140(2) 0.7269(3)
+H1 H -0.120(2) 0.311(2) 0.546(2)
+H2 H 0.081(1) 0.294(2) 0.534(3)
+H3 H 0.075(2) -0.051(2) 0.808(3)
+H4 H -0.126(2) -0.034(2) 0.814(3)
+H5 H 0.450(1) 0.218(2) 0.552(2)
+H6 H 0.469(1) -0.003(2) 0.713(2)
+H7 H 0.262(2) -0.060(2) 0.786(3)
+#END

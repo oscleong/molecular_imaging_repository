@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WERVEU02
+_audit_creation_date 2016-04-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WERVEU02
+_database_code_depnum_ccdc_archive 'CCDC 1444951'
+_chemical_formula_sum 'C6 H6 N4 O4'
+_chemical_formula_moiety
+;
+C6 H6 N4 O4
+;
+_journal_coeditor_code "xk5025"
+_journal_coden_Cambridge 1743
+_journal_volume 72
+_journal_year 2016
+_journal_page_first 263
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci.,Cryst.Eng. and Mat. '
+loop_
+_publ_author_name
+"D.Pogoda"
+"J.Janczak"
+"V.Videnova-Adrabinska"
+_chemical_name_systematic
+;
+2-((5-nitro-2-furyl)methylene)hydrazinecarboxamide
+;
+_chemical_name_common
+;
+5-nitrofurazone; nitrofurazon; furacin; nitrofural; DrugBank: DB00336
+;
+_cell_volume    826.818
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.592
+_exptl_special_details
+;
+gamma polymorph
+
+;
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 295
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0293
+_refine_ls_wR_factor_gt 0.0293
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.5703(6)
+_cell_length_b 7.8254(3)
+_cell_length_c 7.9677(4)
+_cell_angle_alpha 90
+_cell_angle_beta 102.260(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.23439(4) 0.16292(7) 0.51987(7)
+C1 C 0.15329(6) 0.13258(11) 0.58773(11)
+C2 C 0.10884(7) 0.27700(12) 0.62574(12)
+H1 H 0.05190 0.28630 0.67270
+C3 C 0.16699(7) 0.41115(12) 0.57904(12)
+H2 H 0.15610 0.52760 0.58990
+C4 C 0.24227(6) 0.33758(11) 0.5149(1)
+N1 N 0.12908(6) -0.04135(10) 0.60652(10)
+O2 O 0.05919(6) -0.07059(11) 0.67792(10)
+O3 O 0.17783(7) -0.15180(9) 0.55223(12)
+C5 C 0.32308(6) 0.39903(10) 0.44028(11)
+H3 H 0.36570 0.32230 0.40180
+N2 N 0.33598(5) 0.56055(9) 0.42712(9)
+N3 N 0.41281(6) 0.60742(9) 0.35253(9)
+H4 H 0.4528(8) 0.5333(14) 0.3129(13)
+C6 C 0.43657(7) 0.77623(11) 0.34068(11)
+O4 O 0.51014(6) 0.81353(9) 0.2809(1)
+N4 N 0.37769(7) 0.88891(11) 0.39663(13)
+H5 H 0.3235(10) 0.8565(15) 0.4398(15)
+H6 H 0.3926(9) 0.9933(17) 0.3896(15)
+#END

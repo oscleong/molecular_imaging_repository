@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UJEREG
+_audit_creation_date 2003-10-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UJEREG
+_database_code_depnum_ccdc_archive 'CCDC 203792'
+_chemical_formula_sum 'C6 H4 N4 O2'
+_chemical_formula_moiety
+;
+C6 H4 N4 O2
+;
+_journal_coden_Cambridge 10
+_journal_volume 86
+_journal_year 2003
+_journal_page_first 1352
+_journal_name_full 'Helv.Chim.Acta '
+loop_
+_publ_author_name
+"T.Takayama"
+"M.Kawano"
+"H.Uekusa"
+"Y.Ohashi"
+"T.Sugawara"
+_chemical_name_systematic
+;
+1-Azido-2-nitrobenzene
+;
+_cell_volume    354.242
+_exptl_crystal_colour 'orange-yellow'
+_exptl_crystal_density_diffrn 1.539
+_exptl_special_details
+;
+photoirradiated product
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 80
+_refine_special_details
+;
+The structure is disordered over two positions with occupancy 0.897:0.103. 
+The lower occupancy structure corresponds to benzofuroxan and dinitrogen 
+molecular products of irradiation.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.059
+_refine_ls_wR_factor_gt 0.059
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.2746(4)
+_cell_length_b 7.5857(4)
+_cell_length_c 7.8993(5)
+_cell_angle_alpha 72.294(2)
+_cell_angle_beta 63.282(2)
+_cell_angle_gamma 67.106(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.24543(13) 0.45326(13) 1.04319(12)
+C2 C 0.2853(2) 0.52837(17) 0.84899(13)
+C3 C 0.2897(2) 0.71891(18) 0.77348(16)
+H1 H 0.32010 0.76310 0.64620
+C4 C 0.2570(3) 0.83846(15) 0.8931(2)
+H2 H 0.26290 0.97310 0.83710
+C5 C 0.2162(4) 0.76644(16) 1.0870(2)
+H3 H 0.19280 0.84920 1.17260
+C6 C 0.2085(3) 0.57761(15) 1.16221(15)
+H4 H 0.17820 0.53540 1.29060
+N1 N 0.23522(18) 0.25985(13) 1.11062(15)
+N2 N 0.1989(2) 0.20302(14) 1.28523(15)
+N3 N 0.1683(3) 0.13140(18) 1.43925(16)
+N4 N 0.3270(3) 0.40772(17) 0.71459(19)
+O1 O 0.2588(3) 0.4889(2) 0.5834(2)
+O2 O 0.4328(2) 0.23713(16) 0.7324(2)
+C7? C 0.234(3) 0.490(3) 1.009(3)
+C8? C 0.268(3) 0.598(3) 0.825(3)
+C9? C 0.291(4) 0.771(3) 0.786(3)
+H5? H 0.31570 0.83970 0.65870
+C10? C 0.280(5) 0.847(4) 0.912(4)
+H6? H 0.30280 0.97030 0.88040
+C11? C 0.232(5) 0.746(3) 1.102(4)
+H7? H 0.21140 0.80960 1.19840
+C12? C 0.213(5) 0.571(4) 1.155(4)
+H8? H 0.18680 0.50440 1.28240
+N5? N 0.236(3) 0.305(2) 1.031(3)
+N6? N 0.238(3) 0.117(3) 1.454(3)
+N7? N 0.109(5) 0.093(4) 1.475(4)
+N8? N 0.290(4) 0.465(3) 0.732(3)
+O3? O 0.307(4) 0.475(4) 0.570(4)
+O4? O 0.267(3) 0.284(2) 0.852(3)
+#END

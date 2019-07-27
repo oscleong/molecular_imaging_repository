@@ -1,0 +1,89 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PMNTBZ
+_audit_creation_date 1977-09-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PMNTBZ
+_chemical_formula_sum 'C11 H15 N1 O2'
+_chemical_formula_moiety
+;
+C11 H15 N1 O2
+;
+_journal_coden_Cambridge 82
+_journal_volume 16
+_journal_year 1975
+_journal_page_first 702
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"Yu.V.Gatilov"
+"N.G.Bokii"
+"Yu.T.Struchkov"
+_chemical_name_systematic
+;
+Pentamethylnitrobenzene
+;
+_cell_volume    262.395
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.092
+_refine_ls_wR_factor_gt 0.092
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a 6.354(8)
+_cell_length_b 8.24(1)
+_cell_length_c 5.367(7)
+_cell_angle_alpha 99.4(1)
+_cell_angle_beta 97.7(1)
+_cell_angle_gamma 105.53(8)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.28900 -0.35000 0.08900
+C2 C 0.35600 -0.45400 -0.08600
+C3 C 0.24000 -0.62500 -0.14900
+C4 C 0.05500 -0.69300 -0.03100
+C5 C -0.00600 -0.57600 0.14700
+C6 C 0.10800 -0.40200 0.21200
+C7 C 0.55500 -0.38500 -0.21800
+C8 C 0.30200 -0.76000 -0.35000
+C9 C -0.07600 -0.88800 -0.10800
+C10 C -0.20500 -0.64700 0.27000
+C11 C 0.04100 -0.28000 0.40300
+N1 N 0.41200 -0.16300 0.15900
+O1 O 0.57100 -0.11900 0.32500
+O2 O 0.34500 -0.07000 0.04600
+#END

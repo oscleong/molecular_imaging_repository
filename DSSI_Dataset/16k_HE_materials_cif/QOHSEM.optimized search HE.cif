@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOHSEM
+_audit_creation_date 2009-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOHSEM
+_database_code_depnum_ccdc_archive 'CCDC 677704'
+_chemical_formula_sum 'C14 H20 N2 O1'
+_chemical_formula_moiety
+;
+C14 H20 N2 O1
+;
+_journal_coden_Cambridge 16
+_journal_volume 64
+_journal_year 2008
+_journal_page_first 9953
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"M.Buchlovic"
+"S.Man"
+"M.Potacek"
+_chemical_name_systematic
+;
+2-(benzylamino)-3,3,5-trimethyl-3,4-dihydro-2H-pyrrole 1-oxide
+;
+_chemical_melting_point 364.15
+_cell_volume   1259.293
+_exptl_crystal_density_diffrn 1.225
+_exptl_special_details
+;
+Melting point range 364.15-366.15K
+
+;
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.7650(15)
+_cell_length_b 16.623(3)
+_cell_length_c 8.7650(15)
+_cell_angle_alpha 90
+_cell_angle_beta 99.57
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.60051(10) 0.05342(5) 0.2037(1)
+N1 N 0.54575(12) -0.01063(6) 0.26181(11)
+N2 N 0.28964(13) -0.00840(7) 0.08582(13)
+C1 C 0.62369(15) -0.06418(8) 0.34992(15)
+C2 C 0.51557(16) -0.12447(8) 0.40024(15)
+H1 H 0.49950 -0.11360 0.50750
+H2 H 0.55680 -0.17970 0.39520
+C3 C 0.36234(15) -0.11443(8) 0.28503(15)
+C4 C 0.37078(14) -0.02582(7) 0.23564(14)
+H3 H 0.32540 0.00790 0.31130
+C5 C 0.79550(15) -0.06268(8) 0.39356(16)
+H4 H 0.83650 -0.01470 0.34940
+H5 H 0.83930 -0.11100 0.35350
+H6 H 0.82360 -0.06130 0.50650
+C6 C 0.36236(16) -0.17179(8) 0.14902(16)
+H7 H 0.36070 -0.22750 0.18550
+H8 H 0.45570 -0.16290 0.10340
+H9 H 0.27060 -0.16180 0.07090
+C7 C 0.21889(16) -0.12899(8) 0.35811(17)
+H10 H 0.12620 -0.11610 0.28310
+H11 H 0.22270 -0.09470 0.44960
+H12 H 0.21540 -0.18560 0.38870
+C8 C 0.26323(16) 0.07646(8) 0.04168(15)
+H13 H 0.20200 0.07900 -0.06380
+H14 H 0.36430 0.10250 0.03850
+C9 C 0.18004(15) 0.12291(7) 0.15004(14)
+C10 C 0.02493(16) 0.10795(8) 0.15933(15)
+H15 H -0.02880 0.06630 0.09830
+C11 C -0.05138(16) 0.15275(8) 0.25593(15)
+H16 H -0.15680 0.14200 0.26120
+C12 C 0.02681(17) 0.21351(8) 0.34527(16)
+H17 H -0.02500 0.24450 0.41210
+C13 C 0.18080(17) 0.22898(8) 0.33692(16)
+H18 H 0.23430 0.27070 0.39770
+C14 C 0.25647(16) 0.18369(7) 0.24021(15)
+H19 H 0.36210 0.19440 0.23560
+H20 H 0.3309(16) -0.0351(8) 0.0121(16)
+#END

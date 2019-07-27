@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIVCAW
+_audit_creation_date 1998-06-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIVCAW
+_database_code_depnum_ccdc_archive 'CCDC 1220947'
+_chemical_formula_sum 'C9 H6 N2 O5'
+_chemical_formula_moiety
+;
+C9 H6 N2 O5
+;
+_journal_coden_Cambridge 3
+_journal_volume 51
+_journal_year 1997
+_journal_page_first 984
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"C.P.Butts"
+"L.Eberson"
+"R.Gonzales-Luque"
+"C.M.Hartshorn"
+"M.P.Hartshorn"
+"M.Merchan"
+"W.T.Robinson"
+"B.O.Roos"
+"C.Vallance"
+"B.R.Wood"
+_chemical_name_systematic
+;
+3-Nitro-dihydroisoxazole(3,2-d)-2,3-dihydrobenzofuran N-oxide
+;
+_chemical_melting_point 385.15
+_cell_volume    881.109
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.675
+_exptl_special_details
+;
+Melting point range 385.15-387.15K
+
+;
+_exptl_crystal_description 'pyramidal block'
+_diffrn_ambient_temperature 153
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.809(1)
+_cell_length_b 5.355
+_cell_length_c 17.100(2)
+_cell_angle_alpha 90
+_cell_angle_beta 101.20(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.9011(1) 0.2339(2) 0.4446(1)
+O2 O 0.4640(1) -0.3442(3) 0.2696(1)
+O3 O 0.5622(1) -0.4996(2) 0.3849(1)
+O4 O 0.5684(1) 0.1073(3) 0.2357(1)
+O5 O 0.7731(1) 0.1866(2) 0.3161(1)
+N1 N 0.5522(1) -0.3431(3) 0.3310(1)
+N2 N 0.6505(1) 0.0351(3) 0.2944(1)
+C1 C 0.8652(2) 0.0632(3) 0.3812(1)
+C2 C 0.7793(2) -0.1505(3) 0.4084(1)
+C3 C 0.7560(2) -0.0532(3) 0.4880(1)
+C4 C 0.6822(2) -0.1477(3) 0.5429(1)
+C5 C 0.6883(2) -0.0190(3) 0.6139(1)
+C6 C 0.7652(2) 0.1991(4) 0.6293(1)
+C7 C 0.8372(2) 0.2980(3) 0.5741(1)
+C8 C 0.8294(2) 0.1661(3) 0.5043(1)
+C9 C 0.6560(2) -0.1527(3) 0.3434(1)
+H1 H 0.9498(2) -0.0028(3) 0.3637(1)
+H2 H 0.8301(2) -0.3133(3) 0.4135(1)
+H3 H 0.6291(2) -0.2964(3) 0.5322(1)
+H4 H 0.6392(2) -0.0811(3) 0.6525(1)
+H5 H 0.7686(2) 0.2825(4) 0.6787(1)
+H6 H 0.8890(2) 0.4485(3) 0.5840(1)
+#END

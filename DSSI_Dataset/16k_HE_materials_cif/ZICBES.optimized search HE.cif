@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZICBES
+_audit_creation_date 1996-06-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZICBES
+_chemical_formula_sum 'C15 H13 N1 O3'
+_chemical_formula_moiety
+;
+C15 H13 N1 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 51
+_journal_year 1995
+_journal_page_first 11473
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"D.S.Brown"
+"P.T.Gallagher"
+"A.P.Lightfoot"
+"C.J.Moody"
+"A.M.Z.Slawin"
+"E.Swann"
+_chemical_name_systematic
+;
+O-(1-Carboxybenzyl)benzaldoxime
+;
+_chemical_melting_point 372.15
+_cell_volume   2633.866
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.288
+_exptl_special_details
+;
+Melting point range 372.15-373.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.091
+_refine_ls_wR_factor_gt 0.091
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 29.125(20)
+_cell_length_b 12.956(11)
+_cell_length_c 7.82(1)
+_cell_angle_alpha 90
+_cell_angle_beta 116.8(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2412(1) 0.4253(2) 0.0363(4)
+O2 O 0.2949(1) 0.3568(3) 0.5355(4)
+O3 O 0.2307(1) 0.2875(2) 0.2769(4)
+C1 C 0.2649(1) 0.3512(3) 0.3495(6)
+N1 N 0.2037(1) 0.5013(3) 0.0093(5)
+C2 C 0.1656(1) 0.4906(4) -0.1585(6)
+C3 C 0.1240(1) 0.5663(3) -0.2222(6)
+C4 C 0.2792(1) 0.4274(3) 0.2364(6)
+C5 C 0.3307(1) 0.3986(3) 0.2381(6)
+C6 C 0.1278(2) 0.6570(4) -0.1311(8)
+C7 C 0.0389(2) 0.6176(6) -0.4534(9)
+C8 C 0.0788(2) 0.5446(4) -0.3924(7)
+C9 C 0.3722(2) 0.4625(4) 0.3367(7)
+C10 C 0.3348(2) 0.3127(4) 0.1491(7)
+C11 C 0.0433(2) 0.7052(6) -0.3615(9)
+C12 C 0.0879(2) 0.7289(5) -0.1929(8)
+C13 C 0.4194(2) 0.4343(6) 0.3347(8)
+C14 C 0.3812(2) 0.2857(5) 0.1470(8)
+C15 C 0.4230(2) 0.3491(6) 0.2467(9)
+H1 H 0.2811(11) 0.4994(24) 0.2774(43)
+H2 H 0.1642(14) 0.4218(33) -0.2206(58)
+H3 H 0.0758(14) 0.4711(31) -0.4488(57)
+H4 H 0.3676(14) 0.5328(33) 0.3851(59)
+H5 H 0.0933(21) 0.8110(49) -0.1361(85)
+H6 H 0.0219(23) 0.7579(52) -0.4188(90)
+H7 H 0.3149(17) 0.2596(37) 0.1047(67)
+H8 H 0.2931(18) 0.2893(41) 0.5599(72)
+H9 H 0.4557(28) 0.3296(59) 0.214(11)
+H10 H 0.4441(24) 0.4972(51) 0.3588(92)
+H11 H 0.1495(23) 0.6684(49) -0.0029(96)
+H12 H 0.3863(18) 0.2159(40) 0.0943(72)
+H13 H 0.0149(25) 0.6024(53) -0.564(10)
+#END

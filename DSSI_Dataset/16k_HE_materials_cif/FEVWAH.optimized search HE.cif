@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FEVWAH
+_audit_creation_date 2018-03-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FEVWAH
+_database_code_depnum_ccdc_archive 'CCDC 1555982'
+_chemical_formula_sum 'C24 H20 N2 O2'
+_chemical_formula_moiety
+;
+C24 H20 N2 O2
+;
+_journal_coden_Cambridge 388
+_journal_volume 54
+_journal_year 2018
+_journal_page_first 112
+_journal_name_full 'Zh.Org.Khim.(Russ.)(Russ.J.Org.Chem.) '
+loop_
+_publ_author_name
+"L.V.Lenshmidt"
+"M.S.Ledovskaya"
+"A.G.Larina"
+"A.S.Filatov"
+"A.P.Molchanov"
+"R.R.Kostikov"
+"A.V.Stepakov"
+_chemical_name_systematic
+;
+(+-)-(8aR,11aS,11bR)-9-(4-methylphenyl)-5,8a,11a,11b-tetrahydrobenzo[f][1,2]ox
+azolo[5',4':3,4]pyrrolo[2,1-a]isoquinolin-8(6H)-one
+;
+_chemical_melting_point 523.15
+_cell_volume   1828.931
+_exptl_crystal_density_diffrn 1.338
+_exptl_special_details
+;
+decomposes above 250 deg.C
+
+;
+_diffrn_ambient_temperature 100.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.04
+_refine_ls_wR_factor_gt 0.04
+loop_
+_citation_database_id_CSD
+_citation_special_details
+FEVVUA "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.1551(3)
+_cell_length_b 7.6558(2)
+_cell_length_c 23.6314(8)
+_cell_angle_alpha 90
+_cell_angle_beta 95.449(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.49013(9) 0.79682(13) 0.61560(4)
+O2 O 0.18604(9) 0.68243(14) 0.74365(4)
+N1 N 0.28801(10) 0.66166(14) 0.60839(4)
+N2 N 0.31345(11) 0.67232(15) 0.77334(5)
+C1 C 0.39868(12) 0.74967(16) 0.74516(5)
+C2 C 0.38500(12) 0.76029(16) 0.63428(5)
+C3 C 0.33868(11) 0.82859(16) 0.68989(5)
+H1 H 0.34350 0.95640 0.69140
+C4 C 0.04529(12) 0.67259(16) 0.60216(5)
+C5 C -0.19475(12) 0.77456(16) 0.54251(5)
+C6 C 0.04402(12) 0.70617(15) 0.54473(5)
+C7 C 0.53674(12) 0.76735(16) 0.76965(5)
+C8 C 0.17189(12) 0.63646(16) 0.63921(5)
+H2 H 0.17070 0.51670 0.65380
+C9 C 0.19552(12) 0.76686(17) 0.68951(5)
+H3 H 0.13420 0.86570 0.68460
+C10 C -0.07789(12) 0.76060(16) 0.51393(5)
+C11 C -0.07317(12) 0.67856(17) 0.62973(5)
+H4 H -0.07080 0.64820 0.66790
+C12 C 0.28226(12) 0.60172(17) 0.54972(5)
+H5 H 0.26900 0.47630 0.54830
+H6 H 0.36510 0.62770 0.53420
+C13 C -0.31375(12) 0.83486(16) 0.51245(5)
+H7 H -0.39000 0.84410 0.53110
+C14 C 0.16834(12) 0.69294(17) 0.51427(5)
+H8 H 0.19630 0.80950 0.50470
+H9 H 0.14830 0.62900 0.47910
+C15 C -0.31738(13) 0.87969(17) 0.45596(5)
+H10 H -0.39540 0.92100 0.43680
+C16 C -0.19016(12) 0.72803(17) 0.60111(5)
+H11 H -0.26680 0.73140 0.61980
+C17 C 0.62738(13) 0.86441(17) 0.74181(5)
+H12 H 0.60130 0.91630 0.70700
+C18 C -0.08608(13) 0.80523(17) 0.45531(5)
+H13 H -0.01130 0.79520 0.43570
+C19 C 0.79954(13) 0.80785(18) 0.81819(6)
+C20 C 0.57937(13) 0.68926(17) 0.82194(5)
+H14 H 0.52040 0.62320 0.84080
+C21 C -0.20259(13) 0.86288(17) 0.42717(5)
+H15 H -0.20580 0.89110 0.38880
+C22 C 0.70856(14) 0.70964(18) 0.84568(5)
+H16 H 0.73510 0.65720 0.88040
+C23 C 0.75682(13) 0.88365(18) 0.76614(6)
+H17 H 0.81620 0.94870 0.74710
+C24 C 0.93977(14) 0.8314(2) 0.84413(7)
+H18 H 0.94220 0.91980 0.87300
+H19 H 0.99460 0.86610 0.81520
+H20 H 0.97180 0.72310 0.86070
+#END

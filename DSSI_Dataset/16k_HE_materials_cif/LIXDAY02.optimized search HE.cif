@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIXDAY02
+_audit_creation_date 2014-03-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIXDAY02
+_database_code_depnum_ccdc_archive 'CCDC 967290'
+_chemical_formula_sum 'C10 H10 N4 O2'
+_chemical_formula_moiety
+;
+C10 H10 N4 O2
+;
+_journal_coeditor_code "gq5001"
+_journal_coden_Cambridge 1742
+_journal_volume 1
+_journal_year 2014
+_journal_page_first 110
+_journal_name_full 'IUCrJ '
+loop_
+_publ_author_name
+"A.Poulain"
+"E.Wenger"
+"P.Durand"
+"K.N.Jarzembska"
+"R.Kaminski"
+"P.Fertey"
+"M.Kubicki"
+"C.Lecomte"
+_chemical_name_systematic
+;
+2-(2-methyl-4-nitro-1H-imidazol-1-yl)aniline
+;
+_cell_volume   2039.767
+_exptl_crystal_colour 'yellowish'
+_exptl_crystal_density_diffrn 1.422
+_exptl_crystal_description 'cube'
+_diffrn_ambient_temperature 10
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0284
+_refine_ls_wR_factor_gt 0.0284
+loop_
+_citation_database_id_CSD
+_citation_special_details
+LIXDAY07 "is a reinterpretation of this cif"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.0104(3)
+_cell_length_b 10.0398(2)
+_cell_length_c 18.6040(4)
+_cell_angle_alpha 90
+_cell_angle_beta 97.320(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.79723(3) -0.02243(3) 0.44894(2)
+C2 C 0.84947(3) -0.14445(3) 0.43439(2)
+C3 C 0.89396(3) -0.22939(4) 0.49066(2)
+C4 C 0.88435(3) -0.19040(3) 0.56181(2)
+C5 C 0.83387(3) -0.06829(3) 0.57666(2)
+C6 C 0.78921(3) 0.01964(3) 0.52033(2)
+C7 C 0.62566(3) 0.07072(3) 0.36198(2)
+C8 C 0.72558(3) 0.18716(3) 0.29456(2)
+C9 C 0.81303(3) 0.13474(3) 0.34583(2)
+C10 C 0.52841(3) -0.00240(4) 0.39341(2)
+N1 N 0.74785(3) 0.06023(3) 0.38919(1)
+N2 N 0.60968(3) 0.14837(3) 0.30438(2)
+N3 N 0.73425(4) 0.13759(4) 0.53500(2)
+N4 N 0.74791(3) 0.26965(3) 0.23532(2)
+O1 O 0.85480(4) 0.30101(4) 0.23041(2)
+O2 O 0.65991(5) 0.30427(4) 0.19180(2)
+H1 H 0.72698 0.21193 0.49820
+H2 H 0.91189 0.14282 0.35477
+H3 H 0.85243 -0.16976 0.37806
+H4 H 0.82686 -0.03840 0.63191
+H5 H 0.93376 -0.32473 0.47966
+H6 H 0.91559 -0.25709 0.60608
+H7 H 0.74204 0.16542 0.58750
+H8 H 0.53329 -0.10481 0.38043
+H9 H 0.53620 0.01031 0.45032
+H10 H 0.44155 0.03412 0.37099
+C11 C 0.33134(3) 0.44377(3) 0.34826(2)
+C12 C 0.26043(3) 0.52960(3) 0.38456(2)
+C13 C 0.13512(3) 0.53890(3) 0.36330(2)
+C14 C 0.08228(3) 0.45942(3) 0.30602(2)
+C15 C 0.15261(3) 0.37180(3) 0.27105(2)
+C16 C 0.28021(3) 0.36271(3) 0.29072(2)
+C17 C 0.51017(3) 0.36493(3) 0.43368(2)
+C18 C 0.65700(3) 0.45127(3) 0.38611(2)
+C19 C 0.55351(3) 0.48999(3) 0.34175(2)
+C20 C 0.43591(3) 0.29458(3) 0.48297(2)
+N5 N 0.45975(3) 0.43357(3) 0.37306(1)
+N6 N 0.63079(3) 0.37393(3) 0.44249(2)
+N7 N 0.35118(3) 0.28106(4) 0.25358(2)
+N8 N 0.78075(3) 0.48624(3) 0.37910(2)
+O3 O 0.86300(4) 0.43939(4) 0.42215(2)
+O4 O 0.79807(4) 0.56324(4) 0.32922(2)
+H11 H 0.10858 0.30754 0.22877
+H12 H -0.01551 0.46346 0.28922
+H13 H 0.30513 0.58636 0.42991
+H14 H 0.30832 0.20552 0.22492
+H15 H 0.53662 0.54998 0.29312
+H16 H 0.08013 0.60590 0.39140
+H17 H 0.43719 0.25799 0.27547
+H18 H 0.37335 0.22722 0.45437
+H19 H 0.49701 0.24243 0.52167
+H20 H 0.38318 0.36402 0.50863
+#END

@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AJAWUD
+_audit_creation_date 2003-11-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AJAWUD
+_database_code_depnum_ccdc_archive 'CCDC 214093'
+_chemical_formula_sum 'C21 H19 N3 O1'
+_chemical_formula_moiety
+;
+C21 H19 N3 O1
+;
+_journal_coden_Cambridge 1078
+_journal_year 2003
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"L.Albersdoerfer"
+"R.Grashey"
+"K.Polborn"
+_chemical_name_systematic
+;
+N-(2-(Benzenediazoethyl)benzylidene)aniline N-oxide
+;
+_cell_volume   1741.387
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.256
+_exptl_special_details
+;
+contribution from Department Chemie, Universitat Munchen, Butenandtstr. 5-13, 
+81377 Munchen, Germany
+;
+_exptl_crystal_description 'stick'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+The diazo moiety is disordered over two positions with occupancy 0.664:0.336.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0469
+_refine_ls_wR_factor_gt 0.0469
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 17.448(5)
+_cell_length_b 5.183(2)
+_cell_length_c 20.530(6)
+_cell_angle_alpha 90
+_cell_angle_beta 110.29(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.37540(12) -0.3773(3) 0.08551(9)
+N1 N -0.34934(11) -0.1425(3) 0.09691(9)
+N2 N -0.1542(3) 0.4198(9) 0.0072(2)
+N3 N -0.1477(3) 0.4814(10) 0.0668(2)
+N4? N -0.1701(6) 0.4188(23) 0.0430(6)
+N5? N -0.1111(4) 0.5194(13) 0.0309(4)
+C1 C -0.30534(13) -0.0792(4) 0.16992(11)
+C2 C -0.2495(2) 0.1168(6) 0.18850(14)
+H1 H -0.2406(2) 0.2200(6) 0.15473(14)
+C3 C -0.2063(2) 0.1600(6) 0.25831(15)
+H2 H -0.1686(2) 0.2942(6) 0.27123(15)
+C4 C -0.2181(2) 0.0091(6) 0.30813(14)
+H3 H -0.1882(2) 0.0374(6) 0.35480(14)
+C5 C -0.2735(2) -0.1810(7) 0.28902(15)
+H4 H -0.2828(2) -0.2828(7) 0.32286(15)
+C6 C -0.3171(2) -0.2280(6) 0.21963(13)
+H5 H -0.3547(2) -0.3624(6) 0.20720(13)
+C7 C -0.35865(12) 0.0278(4) 0.04837(11)
+H6 H -0.33977(12) 0.1933(4) 0.06281(11)
+C8 C -0.39542(12) -0.0125(4) -0.02612(11)
+C9 C -0.45543(13) -0.1991(4) -0.05554(12)
+H7 H -0.47233(13) -0.3066(4) -0.02686(12)
+C10 C -0.48973(15) -0.2250(5) -0.12656(14)
+H8 H -0.52984(15) -0.3489(5) -0.14549(14)
+C11 C -0.4651(2) -0.0694(5) -0.16937(13)
+H9 H -0.4885(2) -0.0879(5) -0.21729(13)
+C12 C -0.40576(14) 0.1148(5) -0.14167(12)
+H10 H -0.38923(14) 0.2190(5) -0.17124(12)
+C13 C -0.37015(12) 0.1475(4) -0.07019(11)
+C14 C -0.30356(13) 0.3466(4) -0.04189(12)
+H11 H -0.31371(13) 0.4431(4) -0.00522(12)
+H12 H -0.30529(13) 0.4668(4) -0.07859(12)
+C15 C -0.21874(13) 0.2257(5) -0.01333(14)
+H13 H -0.21509(13) 0.1196(5) 0.02656(14)
+H14 H -0.21074(13) 0.1146(5) -0.04846(14)
+C16 C -0.0826(2) 0.6914(6) 0.0914(2)
+C17 C -0.0901(2) 0.8069(6) 0.1468(2)
+H15 H -0.1308(2) 0.7526(6) 0.1633(2)
+C18 C -0.0393(2) 1.0035(6) 0.17996(15)
+H16 H -0.0466(2) 1.0823(6) 0.21809(15)
+C19 C 0.0216(2) 1.0853(6) 0.1581(2)
+H17 H 0.0557(2) 1.2195(6) 0.1809(2)
+C20 C 0.0320(2) 0.9682(8) 0.1023(2)
+H18 H 0.0738(2) 1.0203(8) 0.0869(2)
+C21 C -0.0212(3) 0.7677(8) 0.0683(2)
+H19 H -0.0147(3) 0.6867(8) 0.0302(2)
+#END

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AFURAW
+_audit_creation_date 2013-09-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AFURAW
+_database_code_depnum_ccdc_archive 'CCDC 961947'
+_chemical_formula_sum 'C21 H22 N2 O1'
+_chemical_formula_moiety
+;
+C21 H22 N2 O1
+;
+_journal_coeditor_code "IUCr hg5325"
+_journal_coden_Cambridge 1370
+_journal_volume 69
+_journal_year 2013
+_journal_page_first o1192
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"R.Moreno-Fuquen"
+"D.M.Soto"
+"L.M.Jaramillo-Gomez"
+"J.Ellena"
+"J.C.Tenorio"
+_chemical_name_systematic
+;
+(1'-(Benzyloxy)-2,3-dihydrospiro[indene-1,2'-pyrrolidin]-5'-yl)acetonitrile
+;
+_chemical_name_common
+;
+2-[1'-(Benzyloxy)spiro[indane-1,2'-pyrrolidine]-5'-yl]acetonitrile
+;
+_chemical_melting_point 372
+_cell_volume    893.175
+_exptl_crystal_colour 'white'
+_exptl_crystal_density_diffrn 1.184
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 295
+_refine_special_details
+;
+C13B,C14B,N2B and C13A,C14A,N2A disordered over two sites with occupancies 
+0.56:0.44.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0593
+_refine_ls_wR_factor_gt 0.0593
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.1688(4)
+_cell_length_b 10.0800(4)
+_cell_length_c 11.4141(6)
+_cell_angle_alpha 98.826(2)
+_cell_angle_beta 108.777(2)
+_cell_angle_gamma 110.403(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.48268(14) 0.93003(12) 0.30050(11)
+N1 N 0.46487(19) 0.78319(16) 0.30577(14)
+C1 C 0.2926(2) 0.66924(19) 0.20916(18)
+C2 C 0.1560(2) 0.72661(18) 0.18692(19)
+C3 C 0.0707(3) 0.7469(2) 0.2642(2)
+H1 H 0.09100 0.71980 0.34010
+C4 C -0.0441(3) 0.8075(3) 0.2276(3)
+H2 H -0.10110 0.82120 0.27940
+C5 C -0.0749(3) 0.8472(3) 0.1174(3)
+H3 H -0.15030 0.89050 0.09550
+C6 C 0.0039(3) 0.8241(3) 0.0373(2)
+H4 H -0.01980 0.84910 -0.03960
+C7 C 0.1202(2) 0.7625(2) 0.07324(19)
+C8 C 0.2196(3) 0.7262(3) 0.0030(2)
+H5 H 0.31100 0.81550 0.00830
+H6 H 0.14700 0.67170 -0.08760
+C9 C 0.2901(3) 0.6305(2) 0.07358(19)
+H7 H 0.21810 0.52600 0.02810
+H8 H 0.40410 0.65190 0.07890
+C10 C 0.2684(4) 0.5431(3) 0.2722(3)
+H9 H 0.15380 0.50140 0.26860
+H10 H 0.28670 0.46480 0.22690
+C11 C 0.3975(4) 0.6097(3) 0.4117(3)
+H11 H 0.34330 0.58350 0.47030
+H12 H 0.48620 0.57510 0.42510
+C12 C 0.4700(4) 0.7747(3) 0.4335(2)
+C13 C 0.6189(2) 0.9965(2) 0.2623(2)
+H13 H 0.59620 0.93670 0.17780
+H14 H 0.72530 1.00500 0.32460
+C14 C 0.6290(2) 1.1473(2) 0.2575(2)
+C15 C 0.4913(2) 1.1636(2) 0.1765(2)
+H15 H 0.39090 1.07990 0.12440
+C16 C 0.5008(3) 1.3020(2) 0.1720(2)
+H16 H 0.40720 1.31080 0.11670
+C17 C 0.6473(3) 1.4269(2) 0.2482(2)
+H17 H 0.65350 1.52030 0.24500
+C18 C 0.7837(3) 1.4125(2) 0.3289(2)
+H18 H 0.88330 1.49680 0.38110
+C19 C 0.7759(2) 1.2749(2) 0.3340(2)
+H19 H 0.87040 1.26740 0.38960
+N2 N 0.8463(15) 0.7591(16) 0.5103(16)
+C20 C 0.6718(10) 0.8878(9) 0.5325(7)
+H20 H 0.69790 0.98430 0.51840
+H21 H 0.68270 0.90020 0.62140
+C21 C 0.7995(10) 0.8369(8) 0.5167(8)
+H22 H 0.400(3) 0.821(2) 0.454(2)
+N3? N 0.8984(16) 0.801(2) 0.4992(18)
+C22? C 0.6184(11) 0.8347(10) 0.5469(9)
+H23? H 0.59340 0.80120 0.61630
+H24? H 0.66440 0.94210 0.57270
+C23? C 0.7383(11) 0.7889(10) 0.5243(10)
+#END

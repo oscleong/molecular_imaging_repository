@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YALZUG
+_audit_creation_date 1993-12-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YALZUG
+_database_code_depnum_ccdc_archive 'CCDC 1299172'
+_chemical_formula_sum 'C14 H18 N2 O2'
+_chemical_formula_moiety
+;
+C14 H18 N2 O2
+;
+_journal_coden_Cambridge 34
+_journal_volume 29
+_journal_year 1992
+_journal_page_first 1481
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"M.C.Schroeder"
+"J.S.Kiely"
+"E.Laborde"
+"D.R.Johnson"
+"D.L.Szotek"
+"J.M.Domagala"
+"T.M.Stickney"
+"A.Michel"
+"J.W.Kampf"
+_chemical_name_systematic
+;
+(S-(R*,S*))-4-(1-(Hydroxyimino)ethyl)-1-(1-phenylethyl)-2-pyrrolidinone
+;
+_chemical_melting_point 398.15
+_cell_volume    676.931
+_exptl_crystal_density_diffrn 1.208
+_exptl_special_details
+;
+Melting point range 398.15-400.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.021
+_refine_ls_wR_factor_gt 0.021
+loop_
+_citation_database_id_CSD
+_citation_special_details
+YALZOA "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.8028(3)
+_cell_length_b 8.9244(3)
+_cell_length_c 11.1684(5)
+_cell_angle_alpha 90
+_cell_angle_beta 93.283(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.70573(3) 0.84836 0.57736(16)
+O2 O 0.69542(3) 1.57436(3) 0.67385(20)
+N1 N 0.94384(25) 0.99765(3) 0.66923(16)
+N2 N 0.77853(3) 1.47774(3) 0.60822(19)
+C1 C 0.79436(4) 0.96798(4) 0.58824(21)
+C2 C 0.75666(5) 1.10374(4) 0.51169(3)
+C3 C 0.87615(4) 1.23065(4) 0.57341(23)
+C4 C 1.02311(4) 1.14783(4) 0.66056(3)
+C5 C 0.75190(4) 1.34079(4) 0.63650(23)
+C6 C 0.61443(9) 1.28569(6) 0.72521(6)
+C7 C 1.02524(3) 0.88791(3) 0.75666(21)
+C8 C 1.2495(4) 0.88085(5) 0.75316(4)
+C9 C 0.94855(4) 0.91796(4) 0.87932(20)
+C10 C 0.75892(4) 0.87755(5) 0.89960(25)
+C11 C 0.67952(6) 0.90262(6) 1.00900(3)
+C12 C 0.78932(7) 0.96926(6) 1.09932(3)
+C13 C 0.97797(6) 1.00876(5) 1.08363(3)
+C14 C 1.05649(5) 0.98335(5) 0.97146(3)
+#END

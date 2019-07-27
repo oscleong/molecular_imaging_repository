@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CLAVNT10
+_audit_creation_date 1985-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CLAVNT10
+_database_code_depnum_ccdc_archive 'CCDC 1127006'
+_chemical_formula_sum 'C15 H14 N2 O7'
+_chemical_formula_moiety
+;
+C15 H14 N2 O7
+;
+_journal_coden_Cambridge 207
+_journal_year 1984
+_journal_page_first 635
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"A.G.Brown"
+"D.F.Corbett"
+"J.Goodacre"
+"J.B.Harbridge"
+"T.T.Howarth"
+"R.J.Ponsford"
+"I.Stirling"
+"T.J.King"
+_chemical_name_systematic
+;
+(Z)-(2R,5R)-2-p-Nitrobenzyloxycarbonyl-3-(\b-hydroxyethylidene)-7-oxo-4-oxa-1-
+azabicyclo(3.2.0)heptane
+;
+_chemical_name_common
+;
+(Z)-p-Nitrobenzyl clavulanate
+;
+_chemical_melting_point 390.65
+_cell_volume    760.926
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.46
+_exptl_special_details
+;
+Melting point range 390.65-391.15K
+derivative of beta-lactam antiobiotic agent
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The alcoholic oxygen was disordered over 2 sites with occupation factors of 
+0.55 and 0.45.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_chemical_compound_source
+;
+Streptomyces clavuligerus
+;
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 19.528(6)
+_cell_length_b 7.795(3)
+_cell_length_c 5.025(1)
+_cell_angle_alpha 90
+_cell_angle_beta 95.85(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.10610 0.99270 0.94380
+C1 C 0.15910 0.94450 0.79840
+C2 C 0.17150 0.75220 0.83510
+N1 N 0.10890 0.69740 0.93790
+C3 C 0.07660 0.84540 1.05670
+C4 C 0.00600 0.79300 0.91760
+C5 C 0.04740 0.66360 0.77340
+C6 C 0.19050 1.05470 0.65370
+C7 C 0.17490 1.24530 0.63880
+C8 C 0.23310 0.71560 1.03870
+C9 C 0.35420 0.74240 1.11780
+C10 C 0.36920 0.90310 1.27550
+C11 C 0.33640 1.05860 1.20910
+C12 C 0.35290 1.20330 1.35710
+C13 C 0.40280 1.19380 1.57310
+C14 C 0.43620 1.04220 1.64390
+C15 C 0.41910 0.89780 1.49390
+O2 O 0.03770 0.57140 0.58330
+O3 O 0.21980 1.33390 0.83640
+O4 O 0.23050 0.66620 1.25950
+O5 O 0.29180 0.75700 0.93650
+N2 N 0.42040 1.34610 1.73100
+O6 O 0.39550 1.48290 1.65750
+O7 O 0.46010 1.33290 1.93290
+O8? O 0.17120 1.30170 0.37860
+#END

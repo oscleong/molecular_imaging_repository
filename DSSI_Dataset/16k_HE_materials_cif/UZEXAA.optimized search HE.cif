@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UZEXAA
+_audit_creation_date 2016-11-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UZEXAA
+_database_code_depnum_ccdc_archive 'CCDC 1502272'
+_chemical_formula_sum 'C8 H10 N6 O8'
+_chemical_formula_moiety
+;
+C8 H10 N6 O8
+;
+_journal_coden_Cambridge 1699
+_journal_volume 4
+_journal_year 2016
+_journal_page_first 17791
+_journal_name_full 'J.Mater.Chem.A '
+loop_
+_publ_author_name
+"Yuangang Xu"
+"Cheng Shen"
+"Qiuhan Lin"
+"Pengcheng Wang"
+"Chao Jiang"
+"Ming Lu"
+_chemical_name_systematic
+;
+cis-1-nitro-2-(trinitromethyl)-3a,4,5,6,7,7a-hexahydro-1H-benzimidazole
+;
+_cell_volume   1320.972
+_exptl_crystal_density_diffrn 1.6
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0692
+_refine_ls_wR_factor_gt 0.0692
+loop_
+_citation_database_id_CSD
+_citation_special_details
+UZEWUT "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.267(2)
+_cell_length_b 10.248(2)
+_cell_length_c 11.444(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.41(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.8562(3) 0.1226(3) 0.3739(3)
+O1 O 0.5540(3) 0.3103(3) 0.2911(3)
+C1 C 0.8253(3) -0.0064(4) 0.3191(4)
+H1 H 0.85430 -0.00570 0.23910
+N2 N 0.6704(3) 0.1358(3) 0.2965(3)
+O2 O 0.4808(3) 0.1182(3) 0.2537(3)
+C2 C 0.8797(4) -0.1236(4) 0.3814(4)
+H2 H 0.87890 -0.19710 0.32800
+H3 H 0.96190 -0.10410 0.40150
+N3 N 0.5600(3) 0.1899(4) 0.2809(3)
+O3 O 0.7792(4) 0.3782(3) 0.1915(3)
+C3 C 0.8174(4) -0.1624(4) 0.4904(4)
+H4 H 0.82900 -0.09530 0.54940
+H5 H 0.85150 -0.24290 0.52060
+O4 O 0.7731(3) 0.5451(3) 0.3056(3)
+N4 N 0.7733(3) 0.4303(3) 0.2853(4)
+C4 C 0.6865(4) -0.1813(4) 0.4663(4)
+H6 H 0.64870 -0.20950 0.53730
+H7 H 0.67490 -0.24900 0.40790
+C5 C 0.6294(4) -0.0556(4) 0.4232(4)
+H8 H 0.63690 0.01070 0.48340
+H9 H 0.54550 -0.07020 0.40700
+O5 O 0.6746(3) 0.4871(3) 0.5083(3)
+N5 N 0.6828(3) 0.3727(3) 0.4821(3)
+N6 N 0.8966(3) 0.3599(3) 0.4513(4)
+O6 O 0.6318(3) 0.2824(3) 0.5246(3)
+C6 C 0.6889(3) -0.0082(4) 0.3120(4)
+H10 H 0.66000 -0.05670 0.24320
+C7 C 0.7687(3) 0.1964(4) 0.3551(3)
+O7 O 0.9002(3) 0.3437(3) 0.5564(3)
+O8 O 0.9755(3) 0.3908(3) 0.3894(3)
+C8 C 0.7753(3) 0.3377(3) 0.3903(3)
+#END

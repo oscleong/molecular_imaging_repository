@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAYWUE
+_audit_creation_date 2000-10-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAYWUE
+_database_code_depnum_ccdc_archive 'CCDC 147280'
+_database_code_depnum_ccdc_journal 188/245
+_chemical_formula_sum 'C14 H14 N2 O2'
+_chemical_formula_moiety
+;
+C14 H14 N2 O2
+;
+_journal_coden_Cambridge 188
+_journal_year 2000
+_journal_page_first 1435
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"J.I.Bhat"
+"W.Clegg"
+"H.Maskill"
+"M.R.J.Elsegood"
+"I.D.Menneer"
+"P.C.Miatt"
+_chemical_name_systematic
+;
+N-Nitroso-N,O-dibenzylhydroxylamine
+;
+_chemical_melting_point 346.15
+_cell_volume    633.379
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.27
+_exptl_special_details
+;
+Melting point range 346.15-347.15K
+
+;
+_exptl_crystal_description 'long plate'
+_exptl_crystal_preparation 'diethyl ether/petroleum ether'
+_diffrn_ambient_temperature 160
+_refine_special_details
+;
+Atoms N1, N2, O1 and the hydrogens of the adjacent carbon atoms are 
+disordered over two sets of positions with occupancies 0.873:0.127.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0523
+_refine_ls_wR_factor_gt 0.0523
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 7.776(4)
+_cell_length_b 5.832(3)
+_cell_length_c 14.092(8)
+_cell_angle_alpha 90
+_cell_angle_beta 97.65(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.1572(6) 0.4147(8) 0.7671(3)
+N2 N 0.0849(6) 0.6102(8) 0.7419(3)
+O1 O 0.3248(4) 0.3653(7) 0.7482(2)
+N3? N 0.228(4) 0.416(3) 0.6967(15)
+N4? N 0.157(5) 0.586(4) 0.6472(18)
+O2? O 0.249(4) 0.369(6) 0.7914(15)
+O3 O 0.1659(5) 0.7402(6) 0.6977(3)
+C1 C 0.3110(6) 0.271(1) 0.6466(3)
+H1 H 0.23600 0.13320 0.63970
+H2 H 0.26160 0.38770 0.59970
+H3? H 0.25450 0.29890 0.58040
+H4? H 0.26510 0.12100 0.66450
+C2 C 0.4926(5) 0.2117(9) 0.6313(3)
+C3 C 0.5886(6) 0.3617(10) 0.5834(3)
+H5 H 0.54100 0.50520 0.56150
+C4 C 0.7553(7) 0.3009(11) 0.5677(4)
+H6 H 0.82270 0.40400 0.53570
+C5 C 0.8230(6) 0.0912(11) 0.5985(4)
+H7 H 0.93570 0.04870 0.58580
+C6 C 0.7286(6) -0.0576(9) 0.6475(3)
+H8 H 0.77680 -0.20030 0.67020
+C7 C 0.5627(6) 0.0037(9) 0.6634(3)
+H9 H 0.49650 -0.09830 0.69660
+C8 C 0.0816(6) 0.2481(9) 0.8217(3)
+H10 H 0.07560 0.10090 0.78640
+H11 H -0.03890 0.29560 0.82730
+H12? H -0.01970 0.35150 0.82020
+H13? H 0.04930 0.10480 0.78600
+C9 C 0.1768(5) 0.2084(8) 0.9215(3)
+C10 C 0.2721(6) 0.0091(9) 0.9432(3)
+H14 H 0.28100 -0.10170 0.89470
+C11 C 0.3546(6) -0.0286(9) 1.0359(3)
+H15 H 0.42080 -0.16410 1.05040
+C12 C 0.3399(6) 0.1310(9) 1.1066(3)
+H16 H 0.39430 0.10420 1.17010
+C13 C 0.2465(6) 0.3290(9) 1.0853(3)
+H17 H 0.23820 0.43990 1.13390
+C14 C 0.1642(5) 0.3671(9) 0.9928(3)
+H18 H 0.09890 0.50340 0.97870
+#END

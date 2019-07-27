@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NICZOR
+_audit_creation_date 2018-04-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NICZOR
+_database_code_depnum_ccdc_archive 'CCDC 1518348'
+_chemical_formula_sum 'C22 H20 N4 O4'
+_chemical_formula_moiety
+;
+C22 H20 N4 O4
+;
+_journal_coden_Cambridge 151
+_journal_volume 61
+_journal_year 2018
+_journal_page_first 3454
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"A.Sellmer"
+"Hubert Stangl"
+"M.Beyer"
+"E.Grunstein"
+"M.Leonhardt"
+"H.Pongratz"
+"E.Eichhorn"
+"S.Elz"
+"B.Striegl"
+"Z.Jenei-Lanzl"
+"S.Dove"
+"R.H.Straub"
+"O.H.Kramer"
+"S.Mahboobi"
+_chemical_name_systematic
+;
+N-hydroxy-4-((14-methyl-13,15-dioxo-9,12,14-triazatetracyclo[10.3.1.0^2,10^.0^
+3,8^]hexadeca-2(10),3,5,7-tetraen-9-yl)methyl)benzamide
+;
+_chemical_name_common
+;
+Marbostat-100
+;
+_cell_volume   1852.877
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.45
+_exptl_special_details
+;
+selective histone deacetylase (HDAC6i) inhibitor; effective against collagen 
+type II induced arthritis
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0333
+_refine_ls_wR_factor_gt 0.0333
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.52770(15)
+_cell_length_b 10.22990(12)
+_cell_length_c 15.93783(19)
+_cell_angle_alpha 90
+_cell_angle_beta 99.6558(12)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.16071(8) 0.00557(8) 0.04003(6)
+O2 O 0.36943(8) 0.36071(9) 0.11655(6)
+N1 N 0.14253(9) 0.08538(9) 0.17154(6)
+O3 O -0.5700(1) 0.07532(11) 0.43101(7)
+N2 N 0.29558(8) 0.15549(10) 0.10021(6)
+N3 N -0.09114(8) 0.32693(9) 0.09810(6)
+C1 C -0.06289(10) 0.45825(11) 0.09458(7)
+C2 C 0.30166(10) 0.27975(11) 0.13616(7)
+C3 C 0.0076(1) 0.26107(11) 0.13632(7)
+C4 C 0.05661(10) 0.47369(11) 0.13149(7)
+C5 C 0.19537(10) 0.07652(11) 0.10007(7)
+N4 N -0.50158(10) 0.09037(12) 0.36757(8)
+H1 H -0.4587(15) 0.0239(17) 0.3608(10)
+C6 C -0.40316(10) 0.11629(12) 0.21397(8)
+H2 H -0.4462(13) 0.0336(15) 0.2164(9)
+C7 C 0.09933(10) 0.34653(11) 0.15722(7)
+O4 O -0.52452(11) 0.30744(10) 0.36870(8)
+C8 C -0.40967(10) 0.21721(11) 0.27149(7)
+C9 C -0.27422(10) 0.24646(11) 0.14244(7)
+C10 C -0.34645(11) 0.33136(12) 0.26505(8)
+H3 H -0.3515(13) 0.4010(16) 0.3052(10)
+C11 C 0.03858(12) 0.70376(12) 0.10403(8)
+H4 H 0.0727(13) 0.7914(16) 0.1072(10)
+C12 C 0.21965(10) 0.30223(11) 0.20012(7)
+H5 H 0.2579(12) 0.3653(15) 0.2413(9)
+C13 C 0.10721(11) 0.59873(11) 0.13619(7)
+H6 H 0.1918(13) 0.6105(14) 0.1622(9)
+C14 C -0.13217(11) 0.56401(12) 0.06147(7)
+H7 H -0.2138(13) 0.5546(15) 0.0375(9)
+C15 C -0.33535(11) 0.13142(12) 0.15014(8)
+H8 H -0.3298(14) 0.0591(16) 0.109(1)
+C16 C -0.07924(11) 0.68593(12) 0.06677(8)
+H9 H -0.1244(14) 0.7618(16) 0.046(1)
+C17 C -0.27857(11) 0.34487(13) 0.20192(9)
+H10 H -0.2335(14) 0.4236(16) 0.1986(10)
+C18 C -0.48257(11) 0.21028(12) 0.34051(8)
+C19 C 0.01539(11) 0.11570(12) 0.15045(8)
+H11 H -0.0230(13) 0.0889(15) 0.1983(10)
+H12 H -0.0174(12) 0.0661(15) 0.0987(9)
+C20 C -0.20582(10) 0.26722(13) 0.07013(8)
+H13 H -0.1963(13) 0.1841(15) 0.0421(9)
+H14 H -0.2517(13) 0.3252(15) 0.0271(9)
+C21 C 0.20370(11) 0.16993(12) 0.23973(7)
+H15 H 0.2803(13) 0.1313(15) 0.2647(9)
+H16 H 0.1531(13) 0.1762(15) 0.2835(10)
+C22 C 0.36860(12) 0.12619(14) 0.03537(9)
+H17 H 0.3290(14) 0.1526(16) -0.0200(11)
+H18 H 0.3841(14) 0.0323(17) 0.0379(10)
+H19 H 0.4393(14) 0.1739(16) 0.0504(10)
+H20 H -0.520(4) 0.065(5) 0.478(3)
+H21? H -0.564(4) 0.169(5) 0.450(3)
+#END

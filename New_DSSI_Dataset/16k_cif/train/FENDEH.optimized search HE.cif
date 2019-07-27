@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FENDEH
+_audit_creation_date 1987-10-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FENDEH
+_database_code_depnum_ccdc_archive 'CCDC 1154564'
+_chemical_formula_sum 'C12 H13 N3 O3'
+_chemical_formula_moiety
+;
+C12 H13 N3 O3
+;
+_journal_coden_Cambridge 34
+_journal_volume 22
+_journal_year 1985
+_journal_page_first 1743
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"V.J.Aran"
+"M.Stud"
+"C.Foces-Foces"
+"F.H.Cano"
+"M.Martinez-Ripoll"
+_chemical_name_systematic
+;
+1,2-Pentamethylene-5-nitro-1,2-dihydro-3H-indazol-3-one
+;
+_chemical_melting_point 430.15
+_cell_volume   1159.906
+_exptl_crystal_density_diffrn 1.416
+_exptl_special_details
+;
+Melting point range 430.15-432.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.2465(1)
+_cell_length_b 20.0005(13)
+_cell_length_c 8.3068(2)
+_cell_angle_alpha 90
+_cell_angle_beta 105.543(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.20498 -0.07751 0.17804
+N2 N 0.38038 -0.09270 0.14494
+C1 C 0.50731 -0.04078 0.18927
+C2 C 0.46837 0.06818 0.34280
+C3 C 0.34199 0.10127 0.41131
+C4 C 0.15882 0.07637 0.40449
+C5 C 0.09890 0.01654 0.32808
+C6 C 0.22678 -0.01809 0.25830
+C7 C 0.40967 0.00743 0.26682
+C8 C 0.06890 -0.13031 0.18760
+C9 C -0.04529 -0.15487 0.01815
+C10 C 0.06654 -0.19651 -0.07602
+C11 C 0.24182 -0.16241 -0.10769
+C12 C 0.40500 -0.15148 0.04966
+O1 O 0.66830 -0.03984 0.16501
+N3 N 0.39849 0.16471 0.49634
+O2 O 0.28681 0.19389 0.55984
+O3 O 0.55935 0.18636 0.50272
+H1 H 0.59216 0.08667 0.34154
+H2 H 0.07675 0.10218 0.45801
+H3 H -0.01811 -0.00021 0.32374
+H4 H -0.02185 -0.10931 0.24751
+H5 H 0.13525 -0.16957 0.25841
+H6 H -0.09518 -0.11563 -0.04675
+H7 H -0.14931 -0.18415 0.04335
+H8 H -0.02031 -0.20900 -0.19201
+H9 H 0.10440 -0.24038 -0.01997
+H10 H 0.21011 -0.11746 -0.16507
+H11 H 0.29163 -0.19143 -0.19100
+H12 H 0.41718 -0.19178 0.12152
+H13 H 0.52708 -0.14020 0.01712
+#END

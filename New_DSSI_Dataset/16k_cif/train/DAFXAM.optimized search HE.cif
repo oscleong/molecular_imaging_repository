@@ -1,0 +1,97 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAFXAM
+_audit_creation_date 2016-12-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAFXAM
+_database_code_depnum_ccdc_archive 'CCDC 1445094'
+_chemical_formula_sum 'C7 H5 N1 O5'
+_chemical_formula_moiety
+;
+C7 H5 N1 O5
+;
+_journal_coden_Cambridge 7
+_journal_volume 89
+_journal_year 2016
+_journal_page_first 1503
+_journal_name_full 'Bull.Chem.Soc.Jpn. '
+loop_
+_publ_author_name
+"S.Noro"
+"Rika Ochi"
+"K.Kubo"
+"T.Nakamura"
+_chemical_name_systematic
+;
+3,5-dicarboxypyridine N-oxide
+;
+_cell_volume    752.857
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.616
+_exptl_crystal_description 'chunk'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0334
+_refine_ls_wR_factor_gt 0.0334
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 5.8725(10)
+_cell_length_b 11.9115(15)
+_cell_length_c 10.7932(14)
+_cell_angle_alpha 90
+_cell_angle_beta 94.305(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4169(6) 0.0704(3) 1.1289(3)
+C2 C 0.3330(6) 0.0522(3) 1.0081(3)
+H1 H 0.41250 0.00610 0.95680
+C3 C 0.0165(6) 0.1687(3) 1.0361(3)
+H2 H -0.11870 0.20170 1.00380
+C4 C 0.0949(6) 0.1889(3) 1.1575(3)
+C5 C 0.2976(6) 0.1401(3) 1.2051(3)
+H3 H 0.35310 0.15380 1.28670
+C6 C 0.6367(6) 0.0124(3) 1.1725(3)
+C7 C -0.0360(6) 0.2612(3) 1.2414(3)
+O1 O 0.7403(5) -0.0462(2) 1.1051(3)
+O2 O 0.6956(4) 0.0330(2) 1.2907(3)
+H4 H 0.831(10) -0.008(4) 1.318(5)
+O3 O 0.0330(4) 0.2791(2) 1.3487(2)
+O4 O -0.2276(5) 0.3003(2) 1.1861(3)
+H5 H -0.299(10) 0.338(4) 1.244(5)
+O5 O 0.0606(4) 0.0830(2) 0.8452(2)
+N1 N 0.1357(5) 0.1009(2) 0.9635(3)
+#END

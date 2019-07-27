@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BANHIH
+_audit_creation_date 1982-05-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BANHIH
+_database_code_depnum_ccdc_archive 'CCDC 1105933'
+_chemical_formula_sum 'C15 H15 N1 O4'
+_chemical_formula_moiety
+;
+C15 H15 N1 O4
+;
+_journal_coden_Cambridge 16
+_journal_volume 37
+_journal_year 1981
+_journal_page_first 3847
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"L.Nicolas"
+"M.Beugelmans-Verrier"
+"J.Guilhem"
+_chemical_name_systematic
+;
+3-Methoxycarbonyl-2-p-nitrophenyl-exo-bicyclo(2.2.1)hept-5-ene
+;
+_cell_volume   1335.484
+_exptl_crystal_density_diffrn 1.36
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.067
+_refine_ls_wR_factor_gt 0.067
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BANHUT "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.165(3)
+_cell_length_b 13.695(4)
+_cell_length_c 9.793(3)
+_cell_angle_alpha 90
+_cell_angle_beta 101.59(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.30540 0.86000 0.20480
+C2 C -0.20790 0.77170 0.20250
+C3 C -0.07040 0.81020 0.28560
+C4 C -0.10670 0.91790 0.31590
+C5 C -0.19730 0.91080 0.42080
+C6 C -0.31430 0.87560 0.35440
+C7 C -0.20970 0.94320 0.18410
+C8 C -0.25270 0.67680 0.25620
+O1 O -0.18270 0.62250 0.33530
+O2 O -0.37910 0.65760 0.19890
+C9 C 0.04050 0.79630 0.20640
+C10 C 0.10330 0.87190 0.14860
+C11 C 0.20300 0.85470 0.07530
+C12 C 0.24060 0.75930 0.05620
+C13 C 0.18220 0.68220 0.11230
+C14 C 0.08490 0.70080 0.18750
+N1 N 0.34200 0.74030 -0.02610
+O3 O 0.40320 0.80960 -0.06240
+O4 O 0.36260 0.65540 -0.05690
+C15 C -0.43130 0.56480 0.23460
+#END

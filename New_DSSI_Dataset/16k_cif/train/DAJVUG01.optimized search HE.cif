@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAJVUG01
+_audit_creation_date 2005-04-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAJVUG01
+_database_code_depnum_ccdc_archive 'CCDC 222152'
+_chemical_formula_sum 'C6 H4 N6 O4'
+_chemical_formula_moiety
+;
+C6 H4 N6 O4
+;
+_journal_coden_Cambridge 1093
+_journal_volume 15
+_journal_year 2004
+_journal_page_first 131
+_journal_name_full 'Heteroat.Chem. '
+loop_
+_publ_author_name
+"A.B.Sheremetev"
+"E.V.Shatunova"
+"B.B.Averkiev"
+"D.E.Dmitriev"
+"V.A.Petukhov"
+"M.Yu.Antipin"
+_chemical_name_systematic
+;
+5,6-Dihydrobis(1,2,5)oxadiazolo(3,4-b:3',4'-f)(1,8,4,5)dioxadiazecine
+;
+_chemical_melting_point 391.15
+_cell_volume   1793.282
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.66
+_exptl_special_details
+;
+Melting point range 391.15-393.15K
+high temperature orthorhombic polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 300
+_refine_special_details
+;
+The nitrogen atoms of the dioxadiazecine are each disordered over two 
+positions with occupancies 0.6:0.4.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 x,1/2-y,1/2+z
+4 1/2-x,1/2+y,z
+5 -x,-y,-z
+6 -1/2-x,-y,-1/2+z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,-1/2-y,-z
+_cell_length_a 20.745(5)
+_cell_length_b 11.597(3)
+_cell_length_c 7.454(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.47071(11) 0.0796(2) 0.2999(3)
+N1 N 0.52763(11) 0.0924(3) 0.3636(4)
+O1 O 0.52153(14) 0.1748(3) 0.4931(4)
+C2 C 0.42797(13) 0.1563(2) 0.3861(3)
+O2 O 0.18159(11) 0.1741(2) 0.1176(4)
+N2 N 0.45960(19) 0.2138(2) 0.5075(4)
+C3 C 0.27865(13) 0.1579(2) 0.1861(3)
+O3 O 0.29634(10) -0.02223(17) 0.0153(3)
+N3 N 0.23009(16) 0.2242(2) 0.2117(4)
+O4 O 0.46276(10) 0.0067(2) 0.1660(3)
+C4 C 0.26219(12) 0.0667(2) 0.0725(3)
+N4 N 0.20214(13) 0.0749(2) 0.0307(3)
+C5 C 0.36532(15) -0.0109(3) -0.0134(4)
+H1 H 0.37590 0.06990 -0.03040
+H2 H 0.37720 -0.05200 -0.12180
+C6 C 0.40392(16) -0.0580(2) 0.1428(4)
+H3 H 0.37840 -0.05340 0.25160
+H4 H 0.41420 -0.13840 0.12120
+N5 N 0.36623(16) 0.1936(3) 0.3727(4)
+N6 N 0.34830(15) 0.1506(3) 0.2298(5)
+N7? N 0.3598(2) 0.1246(4) 0.3032(7)
+N8? N 0.3226(2) 0.2085(4) 0.2983(7)
+#END

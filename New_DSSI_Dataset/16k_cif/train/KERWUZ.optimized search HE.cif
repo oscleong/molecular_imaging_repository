@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KERWUZ
+_audit_creation_date 1991-02-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KERWUZ
+_chemical_formula_sum 'C22 H19 N1 O2'
+_chemical_formula_moiety
+;
+C22 H19 N1 O2
+;
+_journal_coden_Cambridge 35
+_journal_volume 55
+_journal_year 1990
+_journal_page_first 3051
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"P.A.Wade"
+"D.T.Price"
+"P.J.Carroll"
+"W.P.Dailey"
+_chemical_name_systematic
+;
+3-\a-Hydroxybenzyl-4,5-diphenyl-4,5-dihydroisoxazole
+;
+_cell_volume   1750.875
+_exptl_crystal_density_diffrn 1.25
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 18.029(2)
+_cell_length_b 13.590(1)
+_cell_length_c 7.166(1)
+_cell_angle_alpha 90
+_cell_angle_beta 94.28(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7984(1) 0.4259(2) 0.9498(3)
+C2 C 0.8090(1) 0.4601(1) 0.7493(3)
+C3 C 0.8125(1) 0.5694(2) 0.7795(3)
+C4 C 0.8005(1) 0.6431(2) 0.6239(3)
+C5 C 0.7179(1) 0.6391(2) 0.5618(3)
+C6 C 0.6675(1) 0.6926(2) 0.6561(3)
+C7 C 0.5918(1) 0.6827(2) 0.6130(4)
+C8 C 0.5657(1) 0.6177(2) 0.4769(4)
+C9 C 0.6155(2) 0.5652(2) 0.3816(4)
+C10 C 0.6914(1) 0.5759(2) 0.4214(3)
+C11 C 0.8773(1) 0.4202(1) 0.6641(3)
+C12 C 0.8705(1) 0.3718(2) 0.4934(3)
+C13 C 0.9315(1) 0.3323(2) 0.4177(4)
+C14 C 1.0011(1) 0.3402(2) 0.5107(4)
+C15 C 1.0088(1) 0.3895(2) 0.6775(4)
+C16 C 0.9474(1) 0.4299(2) 0.7543(4)
+C17 C 0.7198(1) 0.3972(2) 0.9834(3)
+C18 C 0.6593(1) 0.4537(2) 0.9118(4)
+C19 C 0.5874(1) 0.4262(2) 0.9405(4)
+C20 C 0.5747(1) 0.3431(2) 1.0432(4)
+C21 C 0.6340(2) 0.2868(2) 1.1152(4)
+C22 C 0.7059(2) 0.3141(2) 1.0866(4)
+N1 N 0.8203(1) 0.5953(1) 0.9509(3)
+O1 O 0.82122(9) 0.5107(1) 1.0666(2)
+O2 O 0.82458(9) 0.7363(1) 0.6936(2)
+#END

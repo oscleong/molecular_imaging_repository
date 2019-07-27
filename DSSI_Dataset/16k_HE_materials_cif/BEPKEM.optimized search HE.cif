@@ -1,0 +1,153 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEPKEM
+_audit_creation_date 1983-01-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEPKEM
+_database_code_depnum_ccdc_archive 'CCDC 1108827'
+_chemical_formula_sum 'C23 H34 N4 O4'
+_chemical_formula_moiety
+;
+C23 H34 N4 O4
+;
+_journal_coden_Cambridge 10
+_journal_volume 65
+_journal_year 1982
+_journal_page_first 730
+_journal_name_full 'Helv.Chim.Acta '
+loop_
+_publ_author_name
+"G.Bernardinelli"
+"R.Gerdil"
+_chemical_name_systematic
+;
+1-(2,4-Dinitrophenylhydrazone)-trans-cycloheptadec-9-ene
+;
+_chemical_name_common
+;
+trans-Civetone 2,4-dinitrophenylhydrazone
+;
+_cell_volume   2401.008
+_exptl_crystal_density_diffrn 1.191
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.09
+_refine_ls_wR_factor_gt 0.09
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BEMWEV "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.364(2)
+_cell_length_b 7.971(1)
+_cell_length_c 36.025(8)
+_cell_angle_alpha 90
+_cell_angle_beta 91.44(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.88610 0.35300 -0.00137
+O2 O 0.83380 0.23200 -0.05309
+O3 O 0.33110 0.01140 -0.08792
+O4 O 0.14550 0.00240 -0.04745
+N1 N 0.58020 0.46190 0.07860
+N2 N 0.65500 0.40280 0.04635
+N3 N 0.79090 0.28320 -0.02301
+N4 N 0.28080 0.04640 -0.05776
+C1 C 0.68000 0.52920 0.10183
+C2 C 0.59680 0.59340 0.13675
+C3 C 0.62410 0.49440 0.17051
+C4 C 0.56330 0.32120 0.16954
+C5 C 0.59500 0.22530 0.20430
+C6 C 0.69650 0.08160 0.20339
+C7 C 0.72220 -0.00930 0.23959
+C8 C 0.82790 -0.15410 0.23952
+C9 C 0.99260 -0.12610 0.22582
+C10 C 1.06820 -0.17720 0.19767
+C11 C 1.22410 -0.14680 0.18500
+C12 C 1.23760 -0.06810 0.14668
+C13 C 1.14730 0.09950 0.14387
+C14 C 1.17800 0.18760 0.10951
+C15 C 1.09640 0.36710 0.10600
+C16 C 0.93510 0.36400 0.10799
+C17 C 0.85440 0.54390 0.09915
+C18 C 0.56390 0.31900 0.02060
+C19 C 0.62270 0.25780 -0.01342
+C20 C 0.53280 0.17080 -0.03972
+C21 C 0.37900 0.14470 -0.03060
+C22 C 0.31260 0.20330 0.00127
+C23 C 0.40400 0.28820 0.02604
+H1 H 0.63130 0.72820 0.14020
+H2 H 0.47330 0.60000 0.12990
+H3 H 0.76260 0.46940 0.17580
+H4 H 0.58480 0.56880 0.19480
+H5 H 0.43340 0.34910 0.16420
+H6 H 0.59960 0.23710 0.14640
+H7 H 0.62740 0.29000 0.22840
+H8 H 0.46750 0.16680 0.20860
+H9 H 0.67160 -0.00980 0.18130
+H10 H 0.78720 0.15500 0.19360
+H11 H 0.75580 0.07700 0.25940
+H12 H 0.59390 -0.05850 0.25120
+H13 H 0.85570 -0.21520 0.26790
+H14 H 0.77590 -0.23640 0.22040
+H15 H 1.04560 -0.02130 0.24380
+H16 H 0.98550 -0.26000 0.18170
+H17 H 1.29610 -0.06850 0.20470
+H18 H 1.28000 -0.25290 0.18370
+H19 H 1.36610 -0.04720 0.14150
+H20 H 1.20400 -0.15400 0.12510
+H21 H 1.04020 0.06070 0.14350
+H22 H 1.18360 0.18950 0.16480
+H23 H 1.30860 0.19320 0.10510
+H24 H 1.14260 0.11780 0.08650
+H25 H 1.14310 0.43630 0.12920
+H26 H 1.13500 0.42370 0.07970
+H27 H 0.88310 0.26870 0.08960
+H28 H 0.90450 0.32900 0.13080
+H29 H 0.91230 0.62040 0.12050
+H30 H 0.88560 0.59700 0.07300
+H31 H 0.59950 0.13710 -0.06530
+H32 H 0.20820 0.18620 0.00680
+H33 H 0.34260 0.33940 0.05090
+H34 H 0.76760 0.42540 0.04110
+#END

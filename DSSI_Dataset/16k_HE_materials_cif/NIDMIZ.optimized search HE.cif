@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIDMIZ
+_audit_creation_date 2018-04-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIDMIZ
+_database_code_depnum_ccdc_archive 'CCDC 1587197'
+_chemical_formula_sum 'C23 H22 N2 O5'
+_chemical_formula_moiety
+;
+C23 H22 N2 O5
+;
+_journal_coden_Cambridge 2020
+_journal_volume 3
+_journal_year 2018
+_journal_page_first 4557
+_journal_name_full 'Chem. Sel. '
+loop_
+_publ_author_name
+"L.Eberlin"
+"A.Mace"
+"A.S.Batsanov"
+"B.Carboni"
+"Andrew Whiting"
+_chemical_name_systematic
+;
+(Z)-N-(4-(ethoxycarbonyl)phenyl)-1-(1-(4-(ethoxycarbonyl)phenyl)-1H-pyrrol-3-y
+l)methanimine oxide
+;
+_chemical_melting_point 438.15
+_cell_volume   2000.559
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.349
+_exptl_special_details
+;
+Melting point range 438.15-440.15K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethyl acetate/petroleum ether'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0406
+_refine_ls_wR_factor_gt 0.0406
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.8676(4)
+_cell_length_b 22.1740(9)
+_cell_length_c 9.4684(4)
+_cell_angle_alpha 90
+_cell_angle_beta 105.0612(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.09118(12) 0.56267(5) 0.71481(13)
+O2 O 0.04108(14) 0.48019(5) 0.78020(15)
+O3 O 0.48909(14) 0.58133(6) 0.38338(16)
+O4 O 1.16556(12) 0.71933(5) -0.14472(13)
+O5 O 1.19817(11) 0.63052(5) -0.02692(12)
+N1 N 0.38643(14) 0.61739(7) 0.38752(15)
+N2 N 0.64644(14) 0.71070(6) 0.14909(14)
+C1 C -0.18411(19) 0.54149(8) 0.8013(2)
+H1 H -0.13440 0.54100 0.90660
+H2 H -0.21770 0.50020 0.77130
+C2 C -0.3047(2) 0.58470(9) 0.7732(2)
+H3 H -0.35220 0.58500 0.66850
+H4 H -0.27000 0.62530 0.80390
+H5 H -0.37090 0.57210 0.82870
+C3 C 1.32443(17) 0.62095(8) -0.07500(19)
+H6 H 1.39390 0.65310 -0.03690
+H7 H 1.30260 0.62100 -0.18310
+C4 C 1.38073(19) 0.56070(8) -0.0152(2)
+H8 H 1.31120 0.52940 -0.05510
+H9 H 1.40010 0.56110 0.09170
+H10 H 1.46760 0.55220 -0.04330
+C5 C 0.01711(18) 0.52707(7) 0.71369(18)
+C6 C 0.10626(17) 0.55175(7) 0.62273(18)
+C7 C 0.08263(17) 0.60826(8) 0.55647(18)
+H11 H 0.00440 0.63160 0.56480
+C8 C 0.17225(18) 0.63039(8) 0.47887(19)
+H12 H 0.15600 0.66890 0.43390
+C9 C 0.28661(17) 0.59601(8) 0.46675(17)
+C10 C 0.31102(18) 0.53983(8) 0.53149(19)
+H13 H 0.38900 0.51640 0.52270
+C11 C 0.22083(18) 0.51820(8) 0.60889(19)
+H14 H 0.23740 0.47960 0.65360
+C12 C 0.37379(18) 0.67035(8) 0.32626(19)
+H15 H 0.29520 0.69440 0.33060
+C13 C 0.58891(17) 0.66886(8) 0.22303(17)
+H16 H 0.62350 0.62930 0.24920
+C14 C 0.47133(17) 0.69448(8) 0.25278(18)
+C15 C 0.45919(19) 0.75411(8) 0.1962(2)
+H17 H 0.38870 0.78260 0.20100
+C16 C 0.56647(18) 0.76284(8) 0.1340(2)
+H18 H 0.58420 0.79890 0.08750
+C17 C 0.76808(16) 0.70276(7) 0.09698(17)
+C18 C 0.79900(17) 0.74426(8) -0.00006(19)
+H19 H 0.73880 0.77780 -0.03140
+C19 C 0.91647(17) 0.73698(8) -0.05095(18)
+H20 H 0.93690 0.76580 -0.11670
+C20 C 1.00573(17) 0.68810(7) -0.00769(17)
+C21 C 0.97465(18) 0.64673(7) 0.08964(18)
+H21 H 1.03470 0.61310 0.12060
+C22 C 0.85705(18) 0.65401(7) 0.14193(18)
+H22 H 0.83720 0.62550 0.20880
+C23 C 1.12981(17) 0.68208(7) -0.06776(17)
+#END

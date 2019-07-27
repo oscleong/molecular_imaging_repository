@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UMIDAX
+_audit_creation_date 2016-05-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UMIDAX
+_database_code_depnum_ccdc_archive 'CCDC 1430341'
+_chemical_formula_sum 'C2 H2 N12 O4'
+_chemical_formula_moiety
+;
+C2 H2 N12 O4
+;
+_journal_coden_Cambridge 1220
+_journal_volume 22
+_journal_year 2016
+_journal_page_first 4966
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"D.Fischer"
+"T.M.Klapotke"
+"J.Stierstorfer"
+"N.Szimhardt"
+_chemical_name_systematic
+;
+1,1'-Dinitramino-5,5'-bitetrazole
+;
+_chemical_name_common
+;
+N,N'-dinitro-1H,1'H-5,5'-bitetrazole-1,1'-diamine
+;
+_cell_volume    435.792
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.967
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.9670(8)
+_cell_length_b 6.0063(3)
+_cell_length_c 9.5768(7)
+_cell_angle_alpha 90
+_cell_angle_beta 108.020(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.08428(16) 0.04788(19) 0.36142(14)
+O2 O 0.12442(18) 0.3842(2) 0.29509(13)
+N1 N 0.21029(19) 0.2920(2) 0.53580(15)
+N2 N 0.29723(17) 0.4926(2) 0.55828(14)
+N3 N 0.47152(18) 0.7732(2) 0.57019(15)
+N4 N 0.33372(18) 0.8301(2) 0.62069(16)
+N5 N 0.22849(19) 0.6654(2) 0.61332(16)
+N6 N 0.13617(18) 0.2384(2) 0.38318(16)
+C1 C 0.4454(2) 0.5658(2) 0.53139(17)
+H1 H 0.273(3) 0.179(3) 0.580(2)
+O1B O 0.91572(16) 0.95212(19) 0.63858(14)
+O2B O 0.87558(18) 0.6158(2) 0.70491(13)
+N1B N 0.78971(19) 0.7080(2) 0.46420(15)
+N2B N 0.70277(17) 0.5074(2) 0.44172(14)
+N3B N 0.52848(18) 0.2268(2) 0.42981(15)
+N4B N 0.66628(18) 0.1699(2) 0.37931(16)
+N5B N 0.77151(19) 0.3346(2) 0.38668(16)
+N6B N 0.86383(18) 0.7616(2) 0.61682(16)
+C1B C 0.5546(2) 0.4342(2) 0.46861(17)
+H1B H 0.727(3) 0.821(3) 0.420(2)
+#END

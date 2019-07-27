@@ -1,0 +1,100 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNPYDO24
+_audit_creation_date 2014-07-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNPYDO24
+_database_code_depnum_ccdc_archive 'CCDC 979878'
+_chemical_formula_sum 'C6 H6 N2 O3'
+_chemical_formula_moiety
+;
+C6 H6 N2 O3
+;
+_journal_coden_Cambridge 1695
+_journal_volume 2
+_journal_year 2014
+_journal_page_first 6471
+_journal_name_full 'J.Mater.Chem.C '
+loop_
+_publ_author_name
+"Weizhao Cai"
+"Jiangang He"
+"Wei Li"
+"A.Katrusiak"
+_chemical_name_systematic
+;
+3-methyl-4-nitro-1\l^5^-pyridin-1-ol
+;
+_chemical_name_common
+;
+3-methyl-4-nitropyridineN-oxide
+;
+_cell_volume    638.755
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.603
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0621
+_refine_ls_wR_factor_gt 0.0621
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 20.771(4)
+_cell_length_b 6.075(4)
+_cell_length_c 5.0621(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.1534(2) 0.051(2) 0.4983(11)
+C1 C 0.1784(3) 0.180(3) 0.3067(12)
+H1 H 0.21520 0.13100 0.22020
+C2 C 0.1522(3) 0.3815(19) 0.2307(9)
+C3 C 0.0963(3) 0.445(2) 0.3606(10)
+C4 C 0.0721(3) 0.3198(16) 0.5612(13)
+H2 H 0.03650 0.37070 0.65420
+C5 C 0.0988(3) 0.1211(17) 0.6299(12)
+H3 H 0.08050 0.03540 0.76240
+O1 O 0.1795(2) -0.137(2) 0.5581(10)
+C6 C 0.1882(3) 0.513(3) 0.0288(9)
+H4 H 0.22530 0.43230 -0.02900
+H5 H 0.20180 0.65040 0.10560
+H6 H 0.16070 0.54230 -0.11950
+N2 N 0.0621(2) 0.648(2) 0.2994(9)
+O2 O 0.07552(19) 0.7350(18) 0.0913(9)
+O3 O 0.02056(18) 0.7075(16) 0.4541(8)
+#END

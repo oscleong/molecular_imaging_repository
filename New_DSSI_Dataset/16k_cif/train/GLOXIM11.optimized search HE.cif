@@ -1,0 +1,91 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GLOXIM11
+_audit_creation_date 1983-02-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GLOXIM11
+_chemical_formula_sum 'C2 H4 N2 O2'
+_chemical_formula_moiety
+;
+C2 H4 N2 O2
+;
+_journal_coeditor_code "IUCr A21350"
+_journal_coden_Cambridge 107
+_journal_volume 38
+_journal_year 1982
+_journal_page_first 1975
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"G.A.Jeffrey"
+"J.R.Ruble"
+"J.A.Pople"
+_chemical_name_systematic
+;
+Glyoxime
+;
+_chemical_name_common
+;
+Ethanedial dioxime
+;
+_cell_volume    178.580
+_exptl_crystal_density_diffrn 1.638
+_diffrn_ambient_temperature 9
+_diffrn_radiation_probe 'neutron radiation'
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.027
+_refine_ls_wR_factor_gt 0.027
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 3.745(1)
+_cell_length_b 4.398(2)
+_cell_length_c 10.852(5)
+_cell_angle_alpha 90
+_cell_angle_beta 92.41(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.10240 0.13035 0.02254
+N1 N 0.06618 0.21388 0.13478
+O1 O 0.27894 0.46164 0.16673
+H1 H 0.28000 0.25120 -0.03800
+H2 H 0.17960 0.54070 0.24400
+C1B C -0.10240 -0.13035 -0.02254
+N1B N -0.06618 -0.21388 -0.13478
+H1B H -0.28000 -0.25120 0.03800
+O1B O -0.27894 -0.46164 -0.16673
+H2B H -0.17960 -0.54070 -0.24400
+#END

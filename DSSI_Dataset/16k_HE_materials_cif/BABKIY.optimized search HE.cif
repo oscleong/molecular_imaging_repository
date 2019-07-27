@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BABKIY
+_audit_creation_date 1982-02-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BABKIY
+_database_code_depnum_ccdc_archive 'CCDC 1104480'
+_chemical_formula_sum 'C10 H10 N2 O1'
+_chemical_formula_moiety
+;
+C10 H10 N2 O1
+;
+_journal_coden_Cambridge 16
+_journal_volume 37
+_journal_year 1981
+_journal_page_first 2881
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"H.Mohrle"
+"G.Troster"
+"M.Linden"
+"D.Mootz"
+"H.Wunderlich"
+_chemical_name_systematic
+;
+(E)-2-(1-Pyrrolin-3-ylidenemethyl)pyridine-1-oxide
+;
+_chemical_melting_point 440.15
+_cell_volume    858.171
+_exptl_crystal_colour 'gold'
+_exptl_crystal_density_diffrn 1.35
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.391(2)
+_cell_length_b 18.530(6)
+_cell_length_c 6.601(2)
+_cell_angle_alpha 90
+_cell_angle_beta 108.33(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.23090 0.38860 0.04310
+N1 N 0.29790 0.36160 0.23530
+C1 C 0.29750 0.40210 0.41070
+C2 C 0.36270 0.36880 0.60990
+C3 C 0.42590 0.29880 0.63310
+C4 C 0.42870 0.26150 0.45430
+C5 C 0.36500 0.29340 0.25910
+N2 N 0.15070 0.64340 0.59070
+C6 C 0.14460 0.59890 0.44200
+C7 C 0.22400 0.52710 0.50830
+C8 C 0.29340 0.53040 0.74830
+C9 C 0.23530 0.60690 0.79470
+C10 C 0.22630 0.47500 0.36830
+H1 H 0.36400 0.39500 0.73400
+H2 H 0.47700 0.27700 0.76800
+H3 H 0.48100 0.21700 0.45300
+H4 H 0.37300 0.26900 0.15000
+H5 H 0.08400 0.60800 0.28600
+H6 H 0.23400 0.49000 0.79900
+H7 H 0.43100 0.52400 0.79500
+H8 H 0.13200 0.60300 0.86500
+H9 H 0.33900 0.63200 0.86100
+H10 H 0.16700 0.48800 0.22500
+#END

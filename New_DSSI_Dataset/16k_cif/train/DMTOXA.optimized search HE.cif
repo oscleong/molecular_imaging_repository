@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DMTOXA
+_audit_creation_date 1981-02-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DMTOXA
+_database_code_depnum_ccdc_archive 'CCDC 1142894'
+_chemical_formula_sum 'C14 H19 N1 O1'
+_chemical_formula_moiety
+;
+C14 H19 N1 O1
+;
+_journal_coden_Cambridge 54
+_journal_volume 88
+_journal_year 1979
+_journal_page_first 1019
+_journal_name_full 'Bull.Soc.Chim.Belg. '
+loop_
+_publ_author_name
+"J.P.Declercq"
+"G.Germain"
+"M.van Meerssche"
+"M.Hajek"
+"K.Volka"
+_chemical_name_systematic
+;
+(E)-Diamantan-3-one-oxime
+;
+_cell_volume   1151.393
+_exptl_crystal_density_diffrn 1.25
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+loop_
+_citation_database_id_CSD
+_citation_special_details
+DMTOXB "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.903(4)
+_cell_length_b 11.939(6)
+_cell_length_c 7.822(4)
+_cell_angle_alpha 90
+_cell_angle_beta 107.15(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.74120 0.27190 0.39600
+C2 C 0.73780 0.14360 0.41650
+C3 C 0.69420 0.11770 0.56990
+C4 C 0.76100 0.16470 0.74630
+C5 C 0.87670 0.11810 0.78550
+C6 C 0.92330 0.14950 0.63560
+C7 C 0.85480 0.09880 0.45640
+C8 C 0.90120 0.12890 0.30470
+C9 C 0.90400 0.25560 0.28500
+C10 C 0.97400 0.30630 0.46210
+C11 C 0.92640 0.27670 0.61340
+C12 C 0.81050 0.32220 0.57300
+C13 C 0.76340 0.29280 0.72530
+C14 C 0.78940 0.30170 0.24290
+N1 N 0.60600 0.06260 0.53730
+O1 O 0.57120 0.04570 0.69100
+H1 H 0.66200 0.30790 0.37520
+H2 H 0.69460 0.11000 0.30770
+H3 H 0.73020 0.14710 0.84000
+H4 H 0.87550 0.03130 0.79620
+H5 H 0.92070 0.15690 0.89110
+H6 H 0.99620 0.12010 0.66980
+H7 H 0.85300 0.01660 0.47140
+H8 H 0.85470 0.09490 0.18850
+H9 H 0.97210 0.10280 0.32750
+H10 H 0.94250 0.27100 0.19180
+H11 H 0.97650 0.38880 0.44350
+H12 H 1.05100 0.27820 0.48760
+H13 H 0.97070 0.31000 0.72620
+H14 H 0.80980 0.40530 0.55750
+H15 H 0.68810 0.32150 0.70160
+H16 H 0.80280 0.33090 0.83730
+H17 H 0.78650 0.38450 0.23310
+H18 H 0.74580 0.27160 0.13590
+#END

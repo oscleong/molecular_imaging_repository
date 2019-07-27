@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMPPIO13
+_audit_creation_date 2010-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMPPIO13
+_database_code_depnum_ccdc_archive 'CCDC 737221'
+_chemical_formula_sum 'C9 H18 N1 O1'
+_chemical_formula_moiety
+;
+C9 H18 N1 O1
+;
+_journal_coden_Cambridge 1290
+_journal_year 2010
+_journal_page_first 289
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"S.Spirk"
+"F.Belaj"
+"T.Madl"
+"R.Pietschnig"
+_chemical_name_systematic
+;
+2,2,6,6-Tetramethylpiperidine-1-oxyl
+;
+_cell_volume    467.343
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.11
+_exptl_special_details
+;
+monoclinic polymorph
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 95
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0387
+_refine_ls_wR_factor_gt 0.0387
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C m'
+_symmetry_Int_Tables_number 8
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,z
+_cell_length_a 6.399(3)
+_cell_length_b 14.243(4)
+_cell_length_c 5.757(2)
+_cell_angle_alpha 90
+_cell_angle_beta 117.04(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5983(3) 0.00000 0.5874(4)
+N1 N 0.4377(4) 0.00000 0.6656(4)
+C1 C 0.3871(3) 0.09332(14) 0.7491(3)
+C2 C 0.1681(3) 0.08673(15) 0.7931(4)
+H1 H 0.15900 0.14350 0.88730
+H2 H 0.02670 0.08550 0.62180
+C3 C 0.1683(5) 0.00000 0.9482(5)
+H3 H 0.02750 0.00000 0.97780
+H4 H 0.30930 0.00000 1.11990
+C4 C 0.6029(4) 0.12452(16) 0.9981(4)
+H5 H 0.74230 0.12240 0.96890
+H6 H 0.62490 0.08230 1.14180
+H7 H 0.57930 0.18880 1.04240
+C5 C 0.3414(4) 0.16309(15) 0.5279(4)
+H8 H 0.47770 0.16470 0.49300
+H9 H 0.31490 0.22580 0.57940
+H10 H 0.20250 0.14330 0.37010
+C1A C 0.3871(3) -0.09332(14) 0.7491(3)
+C2A C 0.1681(3) -0.08673(15) 0.7931(4)
+H1A H 0.15900 -0.14350 0.88730
+H2A H 0.02670 -0.08550 0.62180
+C4A C 0.6029(4) -0.12452(16) 0.9981(4)
+H5A H 0.74230 -0.12240 0.96890
+H6A H 0.62490 -0.08230 1.14180
+H7A H 0.57930 -0.18880 1.04240
+C5A C 0.3414(4) -0.16309(15) 0.5279(4)
+H8A H 0.47770 -0.16470 0.49300
+H9A H 0.31490 -0.22580 0.57940
+H10A H 0.20250 -0.14330 0.37010
+#END

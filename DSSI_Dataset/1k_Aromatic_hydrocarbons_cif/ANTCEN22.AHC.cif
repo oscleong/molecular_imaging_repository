@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ANTCEN22
+_audit_creation_date 2015-09-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ANTCEN22
+_database_code_depnum_ccdc_archive 'CCDC 1047885'
+_chemical_formula_sum 'C14 H10'
+_chemical_formula_moiety
+;
+C14 H10
+;
+_journal_coden_Cambridge 1147
+_journal_volume 15
+_journal_year 2015
+_journal_page_first 4098
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"M.Lusi"
+"I.J.Vitorica-Yrezabal"
+"M.J.Zaworotko"
+_chemical_name_systematic
+;
+Anthracene
+;
+_cell_volume    455.475
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.299
+_exptl_special_details
+;
+Crystal formed from initial mixture with 3
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0628
+_refine_ls_wR_factor_gt 0.0628
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.2627(11)
+_cell_length_b 5.9923(6)
+_cell_length_c 8.4088(12)
+_cell_angle_alpha 90
+_cell_angle_beta 102.608(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.45088(19) 0.2114(3) 0.5380(2)
+H1 H 0.41780 0.35440 0.56340
+C2 C 0.58955(19) 0.1348(3) 0.6205(2)
+C3 C 0.6832(2) 0.2640(3) 0.7437(2)
+H2 H 0.65130 0.40680 0.77120
+C4 C 0.8177(2) 0.1855(4) 0.8224(2)
+H3 H 0.87810 0.27330 0.90500
+C5 C 0.36011(19) 0.0817(3) 0.4189(2)
+C6 C 0.2173(2) 0.1557(3) 0.3344(2)
+H4 H 0.18160 0.29700 0.35980
+C7 C 0.1317(2) 0.0256(3) 0.2175(3)
+H5 H 0.03700 0.07740 0.16240
+C1B C 0.54912(19) -0.2114(3) 0.4620(2)
+H1B H 0.58220 -0.35440 0.43660
+C2B C 0.41045(19) -0.1348(3) 0.3795(2)
+C3B C 0.3168(2) -0.2640(3) 0.2563(2)
+H2B H 0.34870 -0.40680 0.22880
+C4B C 0.1823(2) -0.1855(4) 0.1776(2)
+H3B H 0.12190 -0.27330 0.09500
+C5B C 0.63989(19) -0.0817(3) 0.5811(2)
+C6B C 0.7827(2) -0.1557(3) 0.6656(2)
+H4B H 0.81840 -0.29700 0.64020
+C7B C 0.8683(2) -0.0256(3) 0.7825(3)
+H5B H 0.96300 -0.07740 0.83760
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 0.950 1_555 1_555
+C2 C1 1.397 1_555 1_555
+C3 C2 1.426 1_555 1_555
+H2 C3 0.950 1_555 1_555
+C4 C3 1.361 1_555 1_555
+H3 C4 0.950 1_555 1_555
+C5 C1 1.395 1_555 1_555
+C6 C5 1.429 1_555 1_555
+H4 C6 0.950 1_555 1_555
+C7 C6 1.365 1_555 1_555
+H5 C7 0.950 1_555 1_555
+C1B H1B 0.950 1_555 1_555
+C2B C5 1.441 1_555 1_555
+C3B C2B 1.426 1_555 1_555
+H2B C3B 0.950 1_555 1_555
+C4B C7 1.415 1_555 1_555
+H3B C4B 0.950 1_555 1_555
+C5B C2 1.441 1_555 1_555
+C6B C5B 1.429 1_555 1_555
+H4B C6B 0.950 1_555 1_555
+C7B C4 1.415 1_555 1_555
+H5B C7B 0.950 1_555 1_555
+C1B C2B 1.397 1_555 1_555
+C1B C5B 1.395 1_555 1_555
+C3B C4B 1.361 1_555 1_555
+C6B C7B 1.365 1_555 1_555
+#END

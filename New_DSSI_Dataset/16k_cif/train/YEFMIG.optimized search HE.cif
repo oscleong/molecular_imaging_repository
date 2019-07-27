@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YEFMIG
+_audit_creation_date 2006-04-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YEFMIG
+_database_code_depnum_ccdc_archive 'CCDC 601785'
+_chemical_formula_sum 'C22 H19 N5 O6'
+_chemical_formula_moiety
+;
+C22 H19 N5 O6
+;
+_journal_coeditor_code "IUCr CF2006"
+_journal_coden_Cambridge 1370
+_journal_volume 62
+_journal_year 2006
+_journal_page_first o1129
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Li-qin Jiang"
+"Feng-xia Sun"
+_chemical_name_systematic
+;
+3-(Benzotriazol-1-yl) 5-methyl 
+2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate
+;
+_chemical_melting_point 429
+_cell_volume   2121.286
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.407
+_exptl_special_details
+;
+Melting point range 429-430K
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 294
+_refine_special_details
+;
+The nitro group O atoms are disordered equally over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0518
+_refine_ls_wR_factor_gt 0.0518
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.113(3)
+_cell_length_b 17.934(5)
+_cell_length_c 14.723(4)
+_cell_angle_alpha 90
+_cell_angle_beta 98.008(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3789(2) 0.22224(9) 0.40187(12)
+O2 O 0.3818(3) 0.21413(10) 0.24759(14)
+O3 O 0.2770(3) 0.44245(10) 0.56114(13)
+O4 O 0.2114(4) 0.55108(13) 0.49432(18)
+O5 O -0.2573(8) 0.2440(4) 0.6048(8)
+O6 O 0.0012(11) 0.2270(4) 0.6493(7)
+O7? O -0.2363(9) 0.2170(4) 0.5990(9)
+O8? O -0.0010(11) 0.2639(5) 0.6560(7)
+N1 N 0.4895(3) 0.03816(12) 0.39329(16)
+N2 N 0.5261(3) 0.10948(12) 0.39813(16)
+N3 N 0.3822(3) 0.14608(11) 0.39955(15)
+N4 N 0.3449(3) 0.45249(12) 0.25111(16)
+N5 N -0.1117(4) 0.24950(13) 0.5918(2)
+C1 C 0.3200(4) 0.03033(14) 0.39134(17)
+C2 C 0.2185(4) -0.03337(16) 0.3865(2)
+H1 H 0.26310 -0.08100 0.38470
+C3 C 0.0520(4) -0.02240(17) 0.3844(2)
+H2 H -0.01820 -0.06360 0.38050
+C4 C -0.0175(4) 0.04936(18) 0.3879(2)
+H3 H -0.13180 0.05400 0.38750
+C5 C 0.0783(4) 0.11232(16) 0.3919(2)
+H4 H 0.03300 0.15990 0.39340
+C6 C 0.2485(3) 0.10037(14) 0.39373(17)
+C7 C 0.3686(3) 0.25395(14) 0.31099(19)
+C8 C 0.3450(3) 0.33366(13) 0.31817(17)
+C9 C 0.3621(3) 0.37702(13) 0.24479(18)
+C10 C 0.3963(4) 0.35060(15) 0.15251(18)
+H5 H 0.49580 0.32100 0.15970
+H6 H 0.41050 0.39290 0.11430
+H7 H 0.30440 0.32110 0.12440
+C11 C 0.3176(4) 0.57312(14) 0.3214(2)
+H8 H 0.20540 0.59120 0.30810
+H9 H 0.37850 0.58680 0.27250
+H10 H 0.36990 0.59470 0.37780
+C12 C 0.3158(3) 0.48959(14) 0.33047(19)
+C13 C 0.2913(3) 0.44995(13) 0.40437(18)
+C14 C 0.2900(3) 0.36479(13) 0.40546(17)
+H11 H 0.36870 0.34770 0.45790
+C15 C 0.2566(4) 0.48777(16) 0.4887(2)
+C16 C 0.2292(5) 0.4709(2) 0.6448(2)
+H12 H 0.29350 0.51460 0.66340
+H13 H 0.24910 0.43360 0.69190
+H14 H 0.11310 0.48350 0.63520
+C17 C 0.1167(3) 0.33541(13) 0.41654(17)
+C18 C 0.0838(3) 0.30599(13) 0.49878(19)
+H15 H 0.16710 0.30340 0.54890
+C19 C -0.0742(4) 0.28055(14) 0.5054(2)
+C20 C -0.2008(4) 0.28213(16) 0.4336(2)
+H16 H -0.30630 0.26450 0.44030
+C21 C -0.1673(4) 0.31053(19) 0.3515(2)
+H17 H -0.25030 0.31150 0.30110
+C22 C -0.0107(4) 0.33762(16) 0.3437(2)
+H18 H 0.00960 0.35780 0.28810
+H19 H 0.368(3) 0.4783(13) 0.2079(17)
+#END

@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KOWZEB
+_audit_creation_date 1992-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KOWZEB
+_chemical_formula_sum 'C16 H10 N4 O12'
+_chemical_formula_moiety
+;
+C16 H10 N4 O12
+;
+_journal_coden_Cambridge 82
+_journal_volume 32
+_journal_year 1991
+_journal_page_first 130-3
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"E.G.Popova"
+"L.A.Chetkina"
+"A.N.Sobolev"
+_chemical_name_systematic
+;
+4,4',6,6'-Tetranitro-2,2'-dimethoxycarbonyl-biphenyl
+;
+_cell_volume   3741.262
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.598
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The O11 atom is partially disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.058
+_refine_ls_wR_factor_gt 0.058
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 16.141(3)
+_cell_length_b 8.292(1)
+_cell_length_c 27.953(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5179(4) 0.4612(7) 0.7087(2)
+O2 O 0.4292(5) 0.6477(9) 0.7224(2)
+O3 O 0.3096(5) 0.9315(8) 0.5923(3)
+O4 O 0.2879(5) 0.8114(8) 0.5275(2)
+O5 O 0.7270(4) -0.1186(9) 0.6692(3)
+O6 O 0.6221(4) -0.2211(8) 0.7026(3)
+O7 O 0.3635(3) 0.0251(7) 0.6994(2)
+O8 O 0.3370(4) 0.2567(9) 0.6641(3)
+O9 O 0.6130(4) 0.5307(9) 0.6048(3)
+O10 O 0.6903(4) 0.3586(9) 0.5698(2)
+O11 O 0.4753(8) 0.1713(13) 0.5449(4)
+O12 O 0.4013(5) 0.2889(8) 0.4982(3)
+N1 N 0.4634(5) 0.5515(8) 0.6958(3)
+N2 N 0.3178(5) 0.8187(8) 0.5664(3)
+N3 N 0.6546(4) -0.1194(9) 0.6786(3)
+N4 N 0.6336(5) 0.395(1) 0.5956(3)
+C1 C 0.5079(5) 0.2766(9) 0.6338(3)
+C2 C 0.5920(6) 0.2607(11) 0.6229(3)
+C3 C 0.6399(5) 0.1326(11) 0.6353(3)
+C4 C 0.6025(5) 0.0163(10) 0.6615(3)
+C5 C 0.5199(4) 0.0210(9) 0.6745(3)
+C6 C 0.4728(4) 0.1497(8) 0.6597(3)
+C7 C 0.4566(4) 0.4171(8) 0.6164(3)
+C8 C 0.4245(5) 0.4201(8) 0.5695(3)
+C9 C 0.3789(5) 0.5512(9) 0.5532(3)
+C10 C 0.3652(5) 0.6774(9) 0.5841(3)
+C11 C 0.3922(5) 0.6776(9) 0.6300(3)
+C12 C 0.4379(4) 0.5469(8) 0.6454(2)
+C13 C 0.3848(4) 0.1527(8) 0.6745(3)
+C14 C 0.4369(5) 0.2819(9) 0.5373(3)
+C15 C 0.2800(6) 0.0181(16) 0.7185(4)
+C16 C 0.3999(12) 0.1498(20) 0.4660(6)
+#END

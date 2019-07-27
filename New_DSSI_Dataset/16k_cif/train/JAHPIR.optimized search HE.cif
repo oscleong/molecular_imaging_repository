@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAHPIR
+_audit_creation_date 1989-10-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAHPIR
+_database_code_depnum_ccdc_archive 'CCDC 1182041'
+_chemical_formula_sum 'C8 H6 N4 O3'
+_chemical_formula_moiety
+;
+C8 H6 N4 O3
+;
+_journal_coden_Cambridge 54
+_journal_volume 97
+_journal_year 1988
+_journal_page_first 1055
+_journal_name_full 'Bull.Soc.Chim.Belg. '
+loop_
+_publ_author_name
+"M.C.Foces-Foces"
+"F.H.Cano"
+"R.M.Claramunt"
+"A.Fruchier"
+"J.Elguero"
+_chemical_name_systematic
+;
+1-((5-Nitrofurfurylidene)amino)pyrazole
+;
+_cell_volume    939.703
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.457
+_exptl_special_details
+;
+antiprotozoal activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2+z
+3 1/2+x,1/2-y,z
+4 -x,-y,1/2+z
+_cell_length_a 10.8292(3)
+_cell_length_b 7.4710(2)
+_cell_length_c 11.6149(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.64
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7903(4) 0.3568(5) 0.5921(8)
+C1 C 0.7646(7) 0.5139(9) 0.5394(8)
+C2 C 0.6429(7) 0.5507(10) 0.5335(9)
+C3 C 0.5855(6) 0.4036(9) 0.5898(9)
+C4 C 0.6762(5) 0.2890(9) 0.6224(8)
+C5 C 0.6734(6) 0.1186(10) 0.6802(8)
+N1 N 0.7738(5) 0.0326(7) 0.6955(8)
+N2 N 0.7624(5) -0.1295(7) 0.7521(8)
+N3 N 0.6540(5) -0.1918(8) 0.7963(7)
+C6 C 0.6881(8) -0.3470(9) 0.8437(9)
+C7 C 0.810(8) -0.3819(11) 0.8303(10)
+C8 C 0.8614(7) -0.2376(11) 0.7714(9)
+N4 N 0.8989(6) 0.6131(9) 0.50000
+O2 O 0.8449(6) 0.7514(8) 0.4482(8)
+O3 O 0.9722(4) 0.5560(6) 0.5179(8)
+H1 H 0.597(7) 0.637(11) 0.493(7)
+H2 H 0.497(6) 0.387(9) 0.603(6)
+H3 H 0.584(5) 0.076(8) 0.705(5)
+H4 H 0.621(7) -0.423(10) 0.878(6)
+H5 H 0.874(9) -0.484(12) 0.854(8)
+H6 H 0.946(5) -0.195(7) 0.742(5)
+#END

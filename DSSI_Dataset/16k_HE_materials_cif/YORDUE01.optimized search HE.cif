@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YORDUE01
+_audit_creation_date 2000-12-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YORDUE01
+_database_code_depnum_ccdc_archive 'CCDC 151118'
+_database_code_depnum_ccdc_journal 1145/145
+_chemical_formula_sum 'C19 H27 N5 O4'
+_chemical_formula_moiety
+;
+C19 H27 N5 O4
+;
+_journal_coden_Cambridge 1145
+_journal_volume 9
+_journal_year 1999
+_journal_page_first 1435
+_journal_name_full 'J.Mater.Chem. '
+loop_
+_publ_author_name
+"R.Ziessel"
+"G.Ulrich"
+"R.C.Lawson"
+"L.Echegoyen"
+_chemical_name_systematic
+;
+2,6-bis(4,4,5,5-Tetramethylimidazoline-3-oxide-1-oxy-2-yl)pyridine
+;
+_chemical_melting_point 499.15
+_cell_volume   1966.146
+_exptl_crystal_colour 'violet'
+_exptl_crystal_density_diffrn 1.32
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloromethane/hexane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 16.334(5)
+_cell_length_b 10.316(3)
+_cell_length_c 11.990(3)
+_cell_angle_alpha 90
+_cell_angle_beta 103.30(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.95627(9) 0.1543(2) 0.6126(1)
+O2 O 0.73301(9) -0.0221(2) 0.7349(1)
+O3 O 0.76826(9) 0.5185(2) 0.8577(1)
+O4 O 0.51347(9) 0.4212(2) 0.6147(1)
+N1 N 0.7427(1) 0.2722(2) 0.6902(1)
+N2 N 0.9123(1) 0.0766(2) 0.6580(1)
+N3 N 0.8069(1) -0.0047(2) 0.7193(1)
+N4 N 0.6902(1) 0.5172(2) 0.8109(1)
+N5 N 0.5692(1) 0.4765(2) 0.6922(1)
+C1 C 0.7823(1) 0.2098(2) 0.6196(2)
+C2 C 0.7766(1) 0.2445(2) 0.5063(2)
+C3 C 0.7252(1) 0.3462(2) 0.4614(2)
+C4 C 0.6824(1) 0.4100(2) 0.5313(2)
+C5 C 0.6939(1) 0.3718(2) 0.6442(2)
+C6 C 0.8331(1) 0.0968(2) 0.6667(2)
+C7 C 0.9430(1) -0.0564(2) 0.6966(2)
+C8 C 0.8782(1) -0.0953(2) 0.7680(2)
+C9 C 0.9344(2) -0.1362(3) 0.5877(2)
+C10 C 1.0337(2) -0.0511(3) 0.7626(3)
+C11 C 0.8487(1) -0.2335(3) 0.7551(2)
+C12 C 0.9063(2) -0.0597(3) 0.8944(2)
+C13 C 0.6521(1) 0.4490(2) 0.7191(2)
+C14 C 0.6268(1) 0.5905(2) 0.8609(2)
+C15 C 0.5515(1) 0.5950(2) 0.7554(2)
+C16 C 0.6100(1) 0.5083(3) 0.9579(2)
+C17 C 0.6608(1) 0.7218(3) 0.9046(2)
+C18 C 0.4655(1) 0.5888(3) 0.7812(2)
+C19 C 0.5556(2) 0.7076(2) 0.6743(2)
+H1 H 0.80760 0.19890 0.46070
+H2 H 0.71940 0.37200 0.38390
+H3 H 0.64540 0.47940 0.50220
+H4 H 0.95320 -0.22220 0.60720
+H5 H 0.87710 -0.13780 0.54720
+H6 H 0.96760 -0.09840 0.54080
+H7 H 1.05240 -0.13590 0.78660
+H8 H 1.06750 -0.01690 0.71480
+H9 H 1.03820 0.00300 0.82790
+H10 H 0.89440 -0.28960 0.78620
+H11 H 0.80520 -0.24570 0.79460
+H12 H 0.82800 -0.25260 0.67610
+H13 H 0.86440 -0.08570 0.93320
+H14 H 0.95770 -0.10250 0.92710
+H15 H 0.91420 0.03140 0.90160
+H16 H 0.57020 0.55080 0.99190
+H17 H 0.58820 0.42650 0.92870
+H18 H 0.66090 0.49590 1.01380
+H19 H 0.62020 0.76620 0.93550
+H20 H 0.71090 0.71090 0.96240
+H21 H 0.67280 0.77080 0.84310
+H22 H 0.45620 0.66500 0.82110
+H23 H 0.42390 0.58270 0.71150
+H24 H 0.46220 0.51500 0.82730
+H25 H 0.54490 0.78660 0.70910
+H26 H 0.61000 0.71080 0.65860
+H27 H 0.51460 0.69560 0.60480
+#END

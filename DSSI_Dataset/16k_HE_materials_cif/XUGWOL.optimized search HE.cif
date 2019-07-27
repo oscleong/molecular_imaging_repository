@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XUGWOL
+_audit_creation_date 2002-12-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XUGWOL
+_database_code_depnum_ccdc_archive 'CCDC 192236'
+_chemical_formula_sum 'C16 H11 N1 O3'
+_chemical_formula_moiety
+;
+C16 H11 N1 O3
+;
+_journal_coden_Cambridge 151
+_journal_volume 45
+_journal_year 2002
+_journal_page_first 3103
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"J.R.Dimmock"
+"G.A.Zello"
+"E.O.Oloo"
+"J.W.Quail"
+"H.-B.Kraatz"
+"P.Perjesi"
+"F.Aradi"
+"K.Takacs-Novak"
+"T.M.Allen"
+"C.L.Santos"
+"J.Balzarini"
+"E.De Clerq"
+"J.P.Stables"
+_chemical_name_systematic
+;
+2-(2-Nitrophenylmethylene)-1-indanone
+;
+_cell_volume   1186.597
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.485
+_exptl_special_details
+;
+evaluated against murine leukemia P388 and L1210 cell as well as human Molt 
+4/C8 and CEM T-lymphocytes; examined for anticonvulsant activity and 
+neurotoxicity in mice
+;
+_exptl_crystal_description 'flat'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b n 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 3.7993(10)
+_cell_length_b 14.988(4)
+_cell_length_c 20.838(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8570(6) 0.47041(12) 0.34487(9)
+O2 O 0.1995(6) 0.35729(13) 0.50063(10)
+O3 O 0.5105(7) 0.30767(13) 0.58014(10)
+N1 N 0.3692(7) 0.36847(15) 0.54991(11)
+C1 C 0.8881(8) 0.54573(17) 0.36596(13)
+C2 C 0.7706(7) 0.57736(17) 0.43175(12)
+C3 C 0.8551(8) 0.67593(16) 0.43724(12)
+H1 H 0.63920 0.71130 0.44520
+H2 H 1.02480 0.68710 0.47240
+C4 C 1.0140(7) 0.69875(17) 0.37289(12)
+C5 C 1.1308(8) 0.78084(17) 0.35045(13)
+H3 H 1.11350 0.83260 0.37650
+C6 C 1.2731(8) 0.78584(19) 0.28925(13)
+H4 H 1.35020 0.84190 0.27330
+C7 C 1.3054(8) 0.71031(19) 0.25054(13)
+H5 H 1.40730 0.71530 0.20910
+C8 C 1.1898(7) 0.62833(18) 0.27226(13)
+H6 H 1.20900 0.57660 0.24620
+C9 C 1.0437(8) 0.62376(17) 0.33371(12)
+C10 C 0.6310(7) 0.51841(18) 0.47256(13)
+H7 H 0.60420 0.45970 0.45610
+C11 C 0.5130(7) 0.53076(16) 0.53898(12)
+C12 C 0.3988(7) 0.45909(17) 0.57686(14)
+C13 C 0.3087(8) 0.46623(18) 0.64092(13)
+H8 H 0.23850 0.41500 0.66460
+C14 C 0.3224(8) 0.54906(19) 0.67000(13)
+H9 H 0.26010 0.55560 0.71390
+C15 C 0.4278(8) 0.62226(19) 0.63448(13)
+H10 H 0.43410 0.67940 0.65410
+C16 C 0.5241(8) 0.61353(18) 0.57080(13)
+H11 H 0.59980 0.66480 0.54790
+#END

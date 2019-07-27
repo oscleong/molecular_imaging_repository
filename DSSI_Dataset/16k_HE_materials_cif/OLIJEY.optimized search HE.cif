@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OLIJEY
+_audit_creation_date 2004-02-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OLIJEY
+_database_code_depnum_ccdc_archive 'CCDC 211436'
+_chemical_formula_sum 'C15 H16 N2 O5'
+_chemical_formula_moiety
+;
+C15 H16 N2 O5
+;
+_journal_coden_Cambridge 16
+_journal_volume 59
+_journal_year 2003
+_journal_page_first 8365
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"Hua Jiang"
+"J.-M.Leger"
+"C.Dolain"
+"P.Guionneau"
+"I.Huc"
+_chemical_name_systematic
+;
+4-Isobutoxy-2-methoxycarbonyl-8-nitroquinoline
+;
+_chemical_melting_point 447.15
+_cell_volume   1565.320
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.291
+_exptl_special_details
+;
+Melting point range 447.15-448.15K
+
+;
+_exptl_crystal_preparation 'toluene/n-hexane'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0815
+_refine_ls_wR_factor_gt 0.0815
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2+z
+3 1/2+x,1/2-y,z
+4 -x,-y,1/2+z
+_cell_length_a 10.012(1)
+_cell_length_b 22.741(4)
+_cell_length_c 6.875(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3034(4) 0.5228(2) 0.1946(13)
+N1 N 0.4079(3) 0.56110(17) 0.2016(12)
+C2 C 0.5266(4) 0.5371(2) 0.2035(12)
+C3 C 0.4475(6) 0.4392(2) 0.2009(16)
+C4 C 0.3148(5) 0.4619(2) 0.2025(15)
+C5 C 0.5523(5) 0.4774(3) 0.1985(14)
+H1 H 0.63960 0.46350 0.19370
+O1 O 0.4580(5) 0.3797(2) 0.1964(12)
+C6 C 0.6468(5) 0.5757(4) 0.2023(17)
+O2 O 0.6175(4) 0.6320(2) 0.2009(16)
+O3 O 0.7589(4) 0.5563(2) 0.2043(17)
+C7 C 0.1706(5) 0.5455(3) 0.1937(19)
+C8 C 0.2018(8) 0.4265(3) 0.196(2)
+H2 H 0.21180 0.38600 0.18610
+C9 C 0.0785(10) 0.4496(6) 0.204(3)
+H3 H 0.00470 0.42510 0.21680
+C10 C 0.0610(6) 0.5111(5) 0.192(3)
+H4 H -0.02400 0.52740 0.18390
+N2 N 0.1523(5) 0.6079(4) 0.193(3)
+O4 O 0.1506(15) 0.6334(6) 0.346(2)
+O5 O 0.1375(13) 0.6309(5) 0.042(2)
+C11 C 0.5929(10) 0.3546(4) 0.203(3)
+H5 H 0.63740 0.36680 0.32180
+H6 H 0.64470 0.36870 0.09350
+C12 C 0.7284(6) 0.6743(3) 0.1829(17)
+H7 H 0.69350 0.71360 0.18430
+H8 H 0.77490 0.66750 0.06290
+H9 H 0.78890 0.66920 0.28990
+C13 C 0.5834(6) 0.2874(3) 0.1964(17)
+H10 H 0.67660 0.27440 0.19710
+C14 C 0.5326(6) 0.2677(3) 0.3773(17)
+H11 H 0.58040 0.28650 0.48120
+H12 H 0.54330 0.22590 0.38690
+H13 H 0.43950 0.27750 0.38650
+C15 C 0.5335(6) 0.2678(3) 0.0125(17)
+H14 H 0.58210 0.28680 -0.09020
+H15 H 0.44040 0.27760 0.00200
+H16 H 0.54430 0.22600 0.00240
+#END

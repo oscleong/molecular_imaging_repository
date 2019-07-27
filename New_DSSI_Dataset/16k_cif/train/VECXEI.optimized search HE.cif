@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VECXEI
+_audit_creation_date 2012-08-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VECXEI
+_database_code_depnum_ccdc_archive 'CCDC 724598'
+_chemical_formula_sum 'C13 H10 N2 O2'
+_chemical_formula_moiety
+;
+C13 H10 N2 O2
+;
+_journal_coden_Cambridge 574
+_journal_volume 93
+_journal_year 2012
+_journal_page_first 1408
+_journal_name_full 'Dyes Pigm. '
+loop_
+_publ_author_name
+"Xiang Han Zhang"
+"Yong-Hua Zhan"
+"Dan Chen"
+"Fu Wang"
+"Lan Ying Wang"
+_chemical_name_systematic
+;
+4-(1H-Indol-3-ylmethylene)-3-methyl-1,2-oxazol-5(4H)-one
+;
+_chemical_melting_point 512.15
+_cell_volume   2301.095
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.323
+_exptl_special_details
+;
+Melting point range 512.15-514.15K
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 x,-y,-z
+4 -x,1/2+y,1/2-z
+5 1/2+x,1/2+y,z
+6 1/2-x,-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 1/2-x,y,1/2-z
+9 -x,-y,-z
+10 x,-1/2+y,-1/2-z
+11 -x,y,z
+12 x,-1/2-y,-1/2+z
+13 -1/2-x,-1/2-y,-z
+14 -1/2+x,y,-1/2-z
+15 -1/2-x,-1/2+y,z
+16 -1/2+x,-y,-1/2+z
+_cell_length_a 6.6348(15)
+_cell_length_b 19.189(4)
+_cell_length_c 18.074(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.00000 0.30507(7) 0.13959(9)
+O2 O 0.00000 0.29223(7) 0.01739(8)
+N1 N 0.00000 0.18340(8) 0.33005(8)
+H1 H 0.00000 0.21120 0.36730
+N2 N 0.00000 0.23607(10) -0.03458(8)
+C1 C 0.00000 0.11127(10) 0.33454(9)
+C2 C 0.00000 0.06869(13) 0.39696(12)
+H2 H 0.00000 0.08690 0.44460
+C3 C 0.00000 -0.00148(15) 0.38413(15)
+H3 H 0.00000 -0.03190 0.42420
+C4 C 0.00000 -0.02892(12) 0.31303(16)
+H4 H 0.00000 -0.07690 0.30680
+C5 C 0.00000 0.01334(9) 0.25173(13)
+H5 H 0.00000 -0.00560 0.20440
+C6 C 0.00000 0.08536(8) 0.26237(9)
+C7 C 0.00000 0.14490(8) 0.21317(9)
+C8 C 0.00000 0.20312(9) 0.25933(9)
+H6 H 0.00000 0.24910 0.24320
+C9 C 0.00000 0.14076(8) 0.13531(9)
+H7 H 0.00000 0.09540 0.11720
+C10 C 0.00000 0.19076(9) 0.08138(9)
+C11 C 0.00000 0.26548(10) 0.08795(10)
+C12 C 0.00000 0.17882(10) 0.00318(10)
+C13 C 0.00000 0.11101(13) -0.03635(11)
+H8 H -0.13320 0.09150 -0.03550
+H9? H 0.09190 0.07960 -0.01240
+H10? H 0.04130 0.11800 -0.08670
+H8J H 0.13320 0.09150 -0.03550
+#END

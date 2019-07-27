@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OFAZUQ
+_audit_creation_date 2002-05-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OFAZUQ
+_database_code_depnum_ccdc_archive 'CCDC 149906'
+_chemical_formula_sum 'C14 H15 N3 O5'
+_chemical_formula_moiety
+;
+C14 H15 N3 O5
+;
+_journal_coden_Cambridge 119
+_journal_volume 562
+_journal_year 2001
+_journal_page_first 129
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"J.Leppanen"
+"E.Wegelius"
+"T.Nevalainen"
+"T.Jarvinen"
+"J.Gynther"
+"J.Huuskonen"
+_chemical_name_systematic
+;
+(E)-2-Cyano-N,N-diethyl-3-(3,4-dihydroxy-5-nitrophenyl)propenamide
+;
+_chemical_name_common
+;
+Entacapone; Anxopone; Comtade; Comtan; Comtess; DrugBank: DB00494
+;
+_cell_volume    699.098
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.45
+_exptl_special_details
+;
+potent inhibitor of catechol-O-methyltransferase (COMT)
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0516
+_refine_ls_wR_factor_gt 0.0516
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.576(3)
+_cell_length_b 9.688(2)
+_cell_length_c 9.905(3)
+_cell_angle_alpha 100.17(2)
+_cell_angle_beta 99.61(3)
+_cell_angle_gamma 95.81(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.40622(17) 0.73991(15) 1.06993(15)
+O2 O 0.38453(17) 0.53216(15) 0.85707(14)
+H1 H 0.39160 0.59400 0.92950
+O3 O 0.39469(18) 0.36161(16) 0.62212(14)
+H2 H 0.32030 0.36000 0.67610
+O4 O 0.5807(2) 0.30384(19) 0.42607(17)
+O5 O 0.8708(2) 0.3394(2) 0.48116(19)
+N1 N 1.3318(2) 0.92673(18) 1.20663(17)
+N2 N 0.8852(2) 0.7451(2) 1.23652(19)
+N3 N 0.7207(2) 0.35550(18) 0.50798(17)
+C1 C 0.8669(2) 0.6145(2) 0.8419(2)
+C2 C 0.7026(2) 0.6181(2) 0.8916(2)
+H3 H 0.69960 0.67810 0.97790
+C3 C 0.5480(2) 0.5362(2) 0.8165(2)
+C4 C 0.5471(2) 0.4442(2) 0.6893(2)
+C5 C 0.7099(3) 0.4449(2) 0.6400(2)
+C6 C 0.8675(3) 0.5289(2) 0.7142(2)
+H4 H 0.97550 0.52780 0.67740
+C7 C 1.0405(2) 0.6898(2) 0.9184(2)
+H5 H 1.13230 0.69580 0.86420
+C8 C 1.0912(2) 0.7523(2) 1.0535(2)
+C9 C 1.2886(2) 0.8085(2) 1.1106(2)
+C10 C 1.2106(3) 1.0341(2) 1.2340(2)
+H6 H 1.09500 1.00510 1.16660
+H7 H 1.26600 1.12510 1.21740
+C11 C 1.1713(3) 1.0568(3) 1.3806(3)
+H8 H 1.09030 1.12920 1.39120
+H9 H 1.28450 1.08820 1.44820
+H10 H 1.11340 0.96790 1.39740
+C12 C 1.5251(2) 0.9682(2) 1.2715(2)
+H11 H 1.57910 0.88240 1.28790
+H12 H 1.53420 1.03120 1.36340
+C13 C 1.6330(3) 1.0434(3) 1.1833(2)
+H13 H 1.75920 1.06800 1.23160
+H14 H 1.58240 1.12990 1.16850
+H15 H 1.62720 0.98090 1.09290
+C14 C 0.9741(2) 0.7498(2) 1.1537(2)
+#END

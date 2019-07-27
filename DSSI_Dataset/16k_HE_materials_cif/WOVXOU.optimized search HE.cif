@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WOVXOU
+_audit_creation_date 2001-03-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WOVXOU
+_database_code_depnum_ccdc_archive 'CCDC 158273'
+_chemical_formula_sum 'C9 H7 N3 O2'
+_chemical_formula_moiety
+;
+C9 H7 N3 O2
+;
+_journal_coeditor_code "IUCr DE1151"
+_journal_coden_Cambridge 591
+_journal_volume 57
+_journal_year 2001
+_journal_page_first 106
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.Kubicki"
+"T.Borowiak"
+"J.Suwinski"
+"P.Wagner"
+_chemical_name_systematic
+;
+4-Nitro-1-phenylimidazole
+;
+_cell_volume   1677.424
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.498
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0349
+_refine_ls_wR_factor_gt 0.0349
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 11.088(2)
+_cell_length_b 6.884(1)
+_cell_length_c 21.976(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.84427(9) 0.09313(16) 0.58588(5)
+O1 O 0.95214(8) 0.09132(15) 0.59995(4)
+N2 N 0.69680(9) 0.18320(16) 0.50867(5)
+O2 O 0.76318(9) 0.03601(16) 0.61899(4)
+N3 N 0.82342(9) 0.26126(14) 0.43359(4)
+C1 C 0.89461(11) 0.21182(18) 0.48199(5)
+C2 C 0.86295(11) 0.32408(18) 0.37463(5)
+C3 C 0.97382(12) 0.4141(2) 0.36843(6)
+C4 C 0.82550(13) 0.3578(2) 0.26806(6)
+C5 C 0.70604(11) 0.24310(19) 0.45225(6)
+C6 C 0.93557(13) 0.4503(2) 0.26129(6)
+C7 C 0.81398(11) 0.16430(18) 0.52645(5)
+C8 C 0.78864(13) 0.2936(2) 0.32475(6)
+C9 C 1.00987(13) 0.4773(2) 0.31126(6)
+H1 H 1.0254(12) 0.431(2) 0.4019(6)
+H2 H 0.6390(13) 0.270(2) 0.4265(6)
+H3 H 0.7102(13) 0.231(2) 0.3301(6)
+H4 H 0.7721(14) 0.340(2) 0.2324(7)
+H5 H 0.9803(14) 0.214(2) 0.4802(6)
+H6 H 1.0879(14) 0.547(2) 0.3059(6)
+H7 H 0.9607(13) 0.498(2) 0.2223(7)
+#END

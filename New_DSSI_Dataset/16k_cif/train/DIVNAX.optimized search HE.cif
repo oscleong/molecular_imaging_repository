@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DIVNAX
+_audit_creation_date 1986-11-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DIVNAX
+_database_code_depnum_ccdc_archive 'CCDC 1141911'
+_chemical_formula_sum 'C13 H11 N1 O1'
+_chemical_formula_moiety
+;
+C13 H11 N1 O1
+;
+_journal_coden_Cambridge 48
+_journal_volume 119
+_journal_year 1986
+_journal_page_first 950
+_journal_name_full 'Chem.Ber. '
+loop_
+_publ_author_name
+"M.Christl"
+"B.Mattauch"
+"H.Irngartinger"
+"A.Goldmann"
+_chemical_name_systematic
+;
+9-Phenyl-7-oxa-8-azatetracyclo(4.3.0.0^2,4^.0^3,5^)non-8-ene
+;
+_chemical_melting_point 383.15
+_cell_volume   1003.632
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.29
+_exptl_special_details
+;
+Melting point range 383.15-384.15K
+z(C15) should be 0.6777
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 10.052(1)
+_cell_length_b 12.493(2)
+_cell_length_c 7.992(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1979(3) 0.2997(2) 0.7843(4)
+N1 N 0.2012(3) 0.2157(2) 0.6936(4)
+O1 O 0.0918(3) 0.1493(2) 0.7321(4)
+C2 C 0.0103(4) 0.2010(3) 0.8585(5)
+C3 C -0.1234(4) 0.2368(3) 0.7904(6)
+C4 C -0.1620(4) 0.3411(4) 0.8670(5)
+C5 C -0.1059(4) 0.3397(4) 0.6979(6)
+C6 C -0.0277(3) 0.3875(3) 0.8348(5)
+C7 C 0.0777(3) 0.3082(3) 0.8952(4)
+C8 C 0.3064(3) 0.3787(2) 0.7767(4)
+C9 C 0.2997(3) 0.4717(3) 0.8717(5)
+C10 C 0.4032(4) 0.5449(3) 0.8684(6)
+C11 C 0.5141(4) 0.5269(3) 0.7719(6)
+C12 C 0.5215(4) 0.4347(3) 0.6747(5)
+C13 C 0.4191(3) 0.3611(3) 0.6777(5)
+H1 H 0.003(4) 0.150(3) 0.953(5)
+H2 H -0.186(4) 0.185(3) 0.762(6)
+H3 H -0.244(4) 0.369(3) 0.918(5)
+H4 H -0.144(4) 0.366(3) 0.608(5)
+H5 H -0.008(3) 0.468(3) 0.839(4)
+H6 H 0.104(3) 0.321(3) 1.013(5)
+H7 H 0.226(3) 0.484(3) 0.945(4)
+H8 H 0.393(4) 0.608(3) 0.939(5)
+H9 H 0.587(4) 0.581(3) 0.773(5)
+H10 H 0.599(4) 0.419(3) 0.611(5)
+H11 H 0.424(3) 0.295(3) 0.618(4)
+#END

@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NORDEE
+_audit_creation_date 2009-05-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NORDEE
+_database_code_depnum_ccdc_archive 'CCDC 726338'
+_chemical_formula_sum 'C18 H13 N1 O3'
+_chemical_formula_moiety
+;
+C18 H13 N1 O3
+;
+_journal_coeditor_code "IUCr WW2140"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o710
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Z.Akhter"
+"T.Akhter"
+"M.Bolte"
+"M.A.Baig"
+"H.M.Siddiqi"
+_chemical_name_systematic
+;
+4-(4-Nitrophenoxy)biphenyl
+;
+_chemical_melting_point 415.15
+_cell_volume   1389.393
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.393
+_exptl_special_details
+;
+Melting point range 415.15-417.15K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'n-hexane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0402
+_refine_ls_wR_factor_gt 0.0402
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.6435(7)
+_cell_length_b 5.8648(3)
+_cell_length_c 24.6884(18)
+_cell_angle_alpha 90
+_cell_angle_beta 95.704(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.24460(14) 1.3101(2) 0.49386(5)
+O1 O 0.11760(13) 1.3217(2) 0.48231(5)
+O2 O 0.32703(14) 1.4402(2) 0.47506(5)
+O3 O 0.44070(9) 0.60894(15) 0.63327(4)
+C1 C 0.29854(14) 1.1306(2) 0.53120(5)
+C2 C 0.43662(14) 1.1370(2) 0.55251(5)
+H1 H 0.49600 1.25690 0.54310
+C3 C 0.48706(13) 0.9659(2) 0.58781(5)
+H2 H 0.58160 0.96750 0.60300
+C4 C 0.39846(12) 0.7919(2) 0.60091(5)
+C5 C 0.26016(13) 0.7870(3) 0.57875(5)
+H3 H 0.20080 0.66610 0.58760
+C6 C 0.20939(13) 0.9577(3) 0.54400(5)
+H4 H 0.11480 0.95700 0.52900
+C7 C 0.55429(12) 0.6296(2) 0.67283(5)
+C8 C 0.65196(14) 0.4576(2) 0.67578(6)
+H5 H 0.64660 0.34080 0.64900
+C9 C 0.75837(14) 0.4557(2) 0.71807(5)
+H6 H 0.82490 0.33580 0.72000
+C10 C 0.76992(12) 0.6256(2) 0.75787(5)
+C11 C 0.66981(13) 0.7987(2) 0.75286(5)
+H7 H 0.67550 0.91820 0.77900
+C12 C 0.56253(14) 0.8018(2) 0.71109(5)
+H8 H 0.49550 0.92110 0.70880
+C13 C 0.88361(12) 0.6232(2) 0.80367(5)
+C14 C 0.97567(14) 0.4414(2) 0.81201(6)
+H9 H 0.96620 0.31430 0.78810
+C15 C 1.08153(15) 0.4416(3) 0.85470(6)
+H10 H 1.14320 0.31530 0.85940
+C16 C 1.09758(13) 0.6225(2) 0.89004(5)
+H11 H 1.16930 0.62180 0.91940
+C17 C 1.00812(16) 0.8051(3) 0.88227(6)
+H12 H 1.01830 0.93170 0.90630
+C18 C 0.90334(16) 0.8054(3) 0.83963(6)
+H13 H 0.84320 0.93370 0.83480
+#END

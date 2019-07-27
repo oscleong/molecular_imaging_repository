@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IHELIS
+_audit_creation_date 2015-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IHELIS
+_database_code_depnum_ccdc_archive 'CCDC 1057677'
+_chemical_formula_sum 'C13 H9 N3 O2'
+_chemical_formula_moiety
+;
+C13 H9 N3 O2
+;
+_journal_coden_Cambridge 1291
+_journal_year 2015
+_journal_page_first 3830
+_journal_name_full 'Eur.J.Org.Chem. '
+loop_
+_publ_author_name
+"L.Le Falher"
+"O.B.Ayad"
+"O.Ziyaret"
+"C.Botuha"
+"S.Thorimbert"
+"F.Slowinski"
+_chemical_name_systematic
+;
+4-(3-phenyl-1,2,4-oxadiazol-5-yl)pyridin-3-ol
+;
+_chemical_melting_point 432
+_cell_volume   1068.735
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.487
+_exptl_special_details
+;
+Melting point range 432-434K
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0419
+_refine_ls_wR_factor_gt 0.0419
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.087(3)
+_cell_length_b 5.1641(17)
+_cell_length_c 22.897(8)
+_cell_angle_alpha 90
+_cell_angle_beta 95.922(16)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.88708(8) 0.49673(14) 0.13402(3)
+N2 N 0.80689(10) 0.40616(17) 0.04088(4)
+N3 N 1.24964(9) 1.26984(17) 0.15375(4)
+O1 O 0.91173(8) 0.61225(14) 0.04394(3)
+H1 H 0.992(2) 0.639(4) 0.2056(8)
+O2 O 1.04690(9) 0.76918(15) 0.21986(3)
+C1 C 0.79709(9) 0.34707(17) 0.09521(4)
+C2 C 0.95284(9) 0.65197(16) 0.10031(4)
+C3 C 1.05892(9) 0.85702(16) 0.11787(4)
+C4 C 1.12216(10) 1.01394(19) 0.07773(4)
+H2 H 1.10150 0.98290 0.03680
+C5 C 1.21533(11) 1.21566(19) 0.09751(5)
+H3 H 1.25660 1.32020 0.06920
+C6 C 1.19229(10) 1.11718(19) 0.19180(4)
+H4 H 1.21730 1.15130 0.23240
+C7 C 1.09670(9) 0.90733(17) 0.17653(4)
+C8 C 0.69752(9) 0.14275(17) 0.11268(4)
+C9 C 0.67877(10) 0.11004(19) 0.17085(4)
+H5 H 0.73160 0.21540 0.19990
+C10 C 0.58129(11) -0.0794(2) 0.18707(5)
+H6 H 0.56750 -0.10030 0.22740
+C11 C 0.50422(11) -0.2377(2) 0.14577(6)
+H7 H 0.43850 -0.36620 0.15750
+C12 C 0.52396(12) -0.2063(2) 0.08802(6)
+H8 H 0.47210 -0.31420 0.05920
+C13 C 0.61992(11) -0.0168(2) 0.07101(5)
+H9 H 0.63270 0.00400 0.03060
+#END

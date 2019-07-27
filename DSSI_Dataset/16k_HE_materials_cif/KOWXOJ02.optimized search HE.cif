@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KOWXOJ02
+_audit_creation_date 2018-05-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KOWXOJ02
+_database_code_depnum_ccdc_archive 'CCDC 1842117'
+_chemical_formula_sum 'C7 H8 N2 O1'
+_chemical_formula_moiety
+;
+C7 H8 N2 O1
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"M.E.Light"
+"J.E.Drake"
+_chemical_name_systematic
+;
+N-hydroxy-1-(pyridin-2-yl)ethan-1-imine
+;
+_cell_volume    671.156
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.347
+_exptl_special_details
+;
+University of Southampton, Chemistry, University Road, Highfield, Southampton
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0588
+_refine_ls_wR_factor_gt 0.0588
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.9610(7)
+_cell_length_b 7.9974(7)
+_cell_length_c 10.5890(12)
+_cell_angle_alpha 90
+_cell_angle_beta 95.423(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.01648(19) 0.2284(2) 0.50763(16)
+H1 H 0.05649 0.16181 0.56401
+N1 N 0.2168(2) 0.4798(2) 0.16639(18)
+N2 N 0.1487(2) 0.3068(2) 0.45189(19)
+C1 C 0.0946(3) 0.3959(3) 0.3558(2)
+C2 C 0.3626(3) 0.5633(3) 0.3649(2)
+H2 H 0.36719 0.56647 0.45483
+C3 C 0.2298(3) 0.4829(3) 0.2938(2)
+C4 C 0.4744(3) 0.6350(3) 0.1704(2)
+H3 H 0.55811 0.68596 0.12493
+C5 C 0.3370(3) 0.5559(3) 0.1072(2)
+H4 H 0.32722 0.55547 0.01708
+C6 C -0.0846(3) 0.4145(3) 0.3014(2)
+H5 H -0.11766 0.31634 0.24944
+H6 H -0.09575 0.51524 0.24863
+H7 H -0.15777 0.42394 0.37043
+C7 C 0.4874(3) 0.6382(3) 0.3020(2)
+H8 H 0.58067 0.69107 0.34831
+#END

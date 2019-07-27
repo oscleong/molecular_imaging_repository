@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CACPUS
+_audit_creation_date 2002-03-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CACPUS
+_database_code_depnum_ccdc_archive 'CCDC 166786'
+_chemical_formula_sum 'C4 H9 N1 O5'
+_chemical_formula_moiety
+;
+C4 H9 N1 O5
+;
+_journal_coden_Cambridge 156
+_journal_volume 335
+_journal_year 2001
+_journal_page_first 195
+_journal_name_full 'Carbohydr.Res. '
+loop_
+_publ_author_name
+"L.Salmon"
+"E.Prost"
+"C.Merienne"
+"R.Hardre"
+"G.Morgant"
+_chemical_name_systematic
+;
+2S,3S,4-N-Tetrahydroxybutyramide
+;
+_chemical_name_common
+;
+L-Erythronohydroxamic acid
+;
+_chemical_melting_point 404.15
+_cell_volume    317.587
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.58
+_exptl_special_details
+;
+Melting point range 404.15-405.65K
+
+;
+_exptl_crystal_description 'hexagonal rods'
+_exptl_crystal_preparation 'water/ethanol'
+_diffrn_ambient_temperature 291
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0388
+_refine_ls_wR_factor_gt 0.0388
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 5.511
+_cell_length_b 7.556
+_cell_length_c 8.071
+_cell_angle_alpha 90
+_cell_angle_beta 109.098
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.0496(4) 0.0614(3) 0.4248(3)
+O2 O 0.4719(4) 0.0663(3) 0.4396(2)
+O3 O -0.0049(5) 0.1771(3) 0.0169(3)
+O4 O 0.4894(5) 0.2294(3) 0.0182(3)
+O5 O 0.7521(4) 0.4951(3) 0.2228(2)
+N1 N 0.5265(4) 0.4240(3) 0.2372(3)
+C1 C 0.0496(6) -0.0514(4) 0.3191(4)
+C2 C 0.2704(5) 0.0336(3) 0.2784(3)
+C3 C 0.1901(5) 0.2090(3) 0.1796(3)
+C4 C 0.4163(5) 0.2888(3) 0.1378(3)
+H1 H 0.0584(4) 0.0424(3) 0.5350(3)
+H2 H 0.6220(4) 0.0483(3) 0.4170(2)
+H3 H -0.1377(5) 0.2333(3) 0.0150(3)
+H4 H 0.697(6) 0.587(3) 0.134(3)
+H5 H -0.0881(6) -0.0767(4) 0.2090(4)
+H6 H 0.1083(6) -0.1622(4) 0.3827(4)
+H7 H 0.3367(5) -0.0485(3) 0.2095(3)
+H8 H 0.1188(5) 0.2890(3) 0.2475(3)
+H9 H 0.4860(4) 0.4619(3) 0.3419(3)
+#END

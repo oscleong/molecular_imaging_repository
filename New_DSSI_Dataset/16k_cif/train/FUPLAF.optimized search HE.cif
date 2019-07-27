@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUPLAF
+_audit_creation_date 2015-09-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUPLAF
+_database_code_depnum_ccdc_archive 'CCDC 1409449'
+_chemical_formula_sum 'C25 H19 N5 O4'
+_chemical_formula_moiety
+;
+C25 H19 N5 O4
+;
+_journal_coden_Cambridge 1277
+_journal_volume 118
+_journal_year 2014
+_journal_page_first 10894
+_journal_name_full 'J.Phys.Chem.A '
+loop_
+_publ_author_name
+"E.Alabaraoye"
+"K.G.von Eschwege"
+"N.Loganathan"
+_chemical_name_systematic
+;
+1-(Nitro(2-phenoxyphenyl)carbonohydrazonoyl)-2-(2-phenoxyphenyl)diazene
+;
+_chemical_melting_point 442
+_cell_volume   2187.444
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.377
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'diethyl ether/hexanes'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+O3 and O3A disordered over two sites with occupancies 0.61:0.39.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1144
+_refine_ls_wR_factor_gt 0.1144
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.701(3)
+_cell_length_b 6.4469(13)
+_cell_length_c 25.367(5)
+_cell_angle_alpha 90
+_cell_angle_beta 102.51(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.1808(3) 1.0002(6) 0.29308(18)
+H1 H -0.24210 1.00190 0.30490
+C2 C -0.0916(3) 1.0088(5) 0.33085(17)
+H2 H -0.09150 1.01700 0.36830
+C3 C -0.0022(3) 1.0053(5) 0.31365(15)
+C4 C 0.3843(3) 1.0084(6) 0.29678(17)
+C5 C 0.4560(4) 1.1356(7) 0.28115(19)
+H3 H 0.43940 1.21120 0.24830
+C6 C 0.5505(4) 1.1509(9) 0.3134(2)
+H4 H 0.59820 1.24200 0.30360
+C7 C 0.5759(4) 1.0341(10) 0.3598(3)
+H5 H 0.64240 1.03730 0.38080
+C8 C 0.5047(5) 0.9127(12) 0.3758(2)
+H6 H 0.52180 0.83630 0.40850
+C9 C 0.4089(4) 0.9011(10) 0.3446(2)
+C10 C 0.0979(3) 0.9908(6) 0.40275(16)
+C11 C 0.0749(3) 0.7995(7) 0.42174(18)
+H7 H 0.04900 0.69170 0.39710
+C12 C 0.0899(3) 0.7668(8) 0.47630(18)
+H8 H 0.07350 0.63680 0.48980
+C13 C 0.1287(4) 0.9228(9) 0.5112(2)
+H9 H 0.14010 0.89890 0.54900
+C14 C 0.1513(4) 1.1134(8) 0.4927(2)
+H10 H 0.17760 1.22010 0.51750
+C15 C 0.1358(4) 1.1499(7) 0.43719(19)
+H11 H 0.15090 1.28080 0.42370
+C16 C 0.3964(6) 0.3355(13) 0.4492(3)
+H12 H 0.42000 0.19700 0.44900
+N1 N 0.1824(3) 1.0207(6) 0.12586(15)
+N2 N 0.0919(3) 1.0024(4) 0.19425(13)
+N3 N 0.0908(3) 0.9901(4) 0.24443(13)
+H13 H 0.14640 0.97970 0.26930
+O1 O 0.2598(3) 1.0758(9) 0.11214(15)
+O2 O 0.1066(3) 0.9824(5) 0.09379(13)
+O3 O 0.3283(16) 0.809(10) 0.3620(17)
+O4 O 0.0898(2) 1.0200(4) 0.34721(11)
+N4 N 0.2758(3) 1.0125(5) 0.21416(14)
+N5 N 0.2854(3) 0.9930(5) 0.26586(14)
+C17 C -0.0026(3) 0.9940(5) 0.25814(16)
+C18 C -0.0930(3) 0.9863(5) 0.22102(17)
+H14 H -0.09350 0.97900 0.18360
+C19 C -0.1829(3) 0.9891(6) 0.23797(19)
+H15 H -0.24480 0.98360 0.21240
+C20 C 0.1849(3) 1.0088(5) 0.18365(15)
+C21 C 0.3532(3) 0.6586(8) 0.40333(18)
+C22 C 0.3295(4) 0.7270(9) 0.4494(2)
+H16 H 0.30390 0.86280 0.45170
+C23 C 0.3893(5) 0.4600(13) 0.4016(3)
+H17 H 0.40850 0.40760 0.37040
+C24 C 0.3442(5) 0.5900(15) 0.4940(2)
+H18 H 0.33240 0.63670 0.52750
+C25 C 0.3737(7) 0.4006(14) 0.4893(3)
+H19 H 0.37750 0.30910 0.51910
+O5? O 0.343(4) 0.745(7) 0.3521(14)
+#END

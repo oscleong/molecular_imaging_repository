@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MONPHB
+_audit_creation_date 1981-08-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MONPHB
+_chemical_formula_sum 'C11 H6 N2 O2'
+_chemical_formula_moiety
+;
+C11 H6 N2 O2
+;
+_journal_coden_Cambridge 10
+_journal_volume 64
+_journal_year 1981
+_journal_page_first 471
+_journal_name_full 'Helv.Chim.Acta '
+loop_
+_publ_author_name
+"G.Procter"
+"D.Britton"
+"J.D.Dunitz"
+_chemical_name_systematic
+;
+8-Nitro-1-naphthonitrile
+;
+_cell_volume   1749.106
+_exptl_crystal_density_diffrn 1.505
+_exptl_special_details
+;
+At room temp. a=8.035, b=30.221, c=7.508, beta=90.18
+
+;
+_diffrn_ambient_temperature 96
+_refine_special_details
+;
+There is disorder in the neighbourhood of the nitro and cyano groups of both 
+molecules. The pattern of subsidiary peaks is compatible with a model in 
+which these groups are reversed in a few per cent of the molecules.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.077
+_refine_ls_wR_factor_gt 0.077
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.939
+_cell_length_b 30.08
+_cell_length_c 7.325
+_cell_angle_alpha 90
+_cell_angle_beta 90.73
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.12210 0.22950 0.11770
+C2 C 1.18840 0.27070 0.09140
+C3 C 1.09110 0.30850 0.12190
+C4 C 0.93050 0.30440 0.18330
+C5 C 0.68990 0.25830 0.27360
+C6 C 0.61660 0.21800 0.29640
+C7 C 0.70340 0.17940 0.25100
+C8 C 0.86680 0.18100 0.19040
+C9 C 0.95290 0.22260 0.17450
+C10 C 0.85810 0.26180 0.21100
+C11 C 0.93320 0.13920 0.12790
+N1 N 1.23960 0.19180 0.10100
+N2 N 0.97200 0.10610 0.07300
+O1 O 1.24460 0.16420 0.23210
+O2 O 1.33430 0.18880 -0.02580
+C12 C 0.56840 -0.06860 0.25040
+C13 C 0.73280 -0.07010 0.19850
+C14 C 0.81560 -0.03010 0.15570
+C15 C 0.73300 0.00930 0.16540
+C16 C 0.47640 0.05270 0.23500
+C17 C 0.31530 0.05570 0.29240
+C18 C 0.22980 0.01700 0.34320
+C19 C 0.30680 -0.02400 0.33170
+C20 C 0.47540 -0.02850 0.26810
+C21 C 0.56310 0.01130 0.22190
+C22 C 0.20990 -0.06100 0.39680
+N3 N 0.48370 -0.11210 0.27010
+N4 N 0.12790 -0.08680 0.46520
+O3 O 0.36630 -0.12000 0.15940
+O4 O 0.53130 -0.13850 0.38650
+H1 H 1.30310 0.27340 0.05390
+H2 H 1.12850 0.33630 0.09710
+H3 H 0.86720 0.32790 0.20490
+H4 H 0.62920 0.28490 0.29860
+H5 H 0.50490 0.21630 0.33350
+H6 H 0.65400 0.15180 0.25780
+H7 H 0.78390 -0.09630 0.18380
+H8 H 0.92070 -0.03280 0.12560
+H9 H 0.78730 0.03600 0.13800
+H10 H 0.53320 0.07590 0.19920
+H11 H 0.25430 0.08370 0.31050
+H12 H 0.11380 0.01860 0.38810
+#END

@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMXPIB
+_audit_creation_date 1976-02-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMXPIB
+_chemical_formula_sum 'C22 H42 N2 O2'
+_chemical_formula_moiety
+;
+C22 H42 N2 O2
+;
+_journal_coden_Cambridge 82
+_journal_volume 15
+_journal_year 1974
+_journal_page_first 948
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"R.P.Shibaeva"
+"L.P.Rozenberg"
+_chemical_name_systematic
+;
+1,4-bis(2,2,6,6-Tetramethyl-1-oxyl-4-piperidyl)butane
+;
+_cell_volume   1121.279
+_exptl_crystal_density_diffrn 1.09
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.098
+_refine_ls_wR_factor_gt 0.098
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 -x,-y,-z
+4 x,-1/2+y,-1/2-z
+_cell_length_a 11.754(2)
+_cell_length_b 10.980(4)
+_cell_length_c 8.693(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 88.08(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.24730 0.04230 -0.43400
+C10 C 0.04540 0.32760 -0.48290
+C11 C 0.05710 0.46460 -0.51610
+C2 C 0.13860 0.12410 -0.43350
+C3 C 0.16100 0.25620 -0.48980
+C4 C 0.20990 0.24680 -0.65000
+C5 C 0.32000 0.16920 -0.66050
+C6 C 0.34610 0.14290 -0.82800
+C7 C 0.42160 0.23490 -0.59200
+C8 C 0.20900 -0.09250 -0.41870
+C9 C 0.32370 0.06590 -0.29760
+N1 N 0.30650 0.05390 -0.57880
+O1 O 0.37990 -0.03410 -0.61120
+C11B C -0.05710 0.53540 -0.48390
+C10B C -0.04540 0.67240 -0.51710
+C3B C -0.16100 0.74380 -0.51020
+C2B C -0.13860 0.87590 -0.56650
+C4B C -0.20990 0.75320 -0.35000
+C1B C -0.24730 0.95770 -0.56600
+C5B C -0.32000 0.83080 -0.33950
+C8B C -0.20900 1.09250 -0.58130
+C9B C -0.32370 0.93410 -0.70240
+N1B N -0.30650 0.94610 -0.42120
+C6B C -0.34610 0.85710 -0.17200
+C7B C -0.42160 0.76510 -0.40800
+O1B O -0.37990 1.03410 -0.38880
+#END

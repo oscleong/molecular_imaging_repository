@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BOZDOK
+_audit_creation_date 2009-12-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BOZDOK
+_database_code_depnum_ccdc_archive 'CCDC 707421'
+_chemical_formula_sum 'C17 H20 N2 O4'
+_chemical_formula_moiety
+;
+C17 H20 N2 O4
+;
+_journal_coden_Cambridge 24
+_journal_volume 50
+_journal_year 2009
+_journal_page_first 2605
+_journal_name_full 'Tetrahedron Lett. '
+loop_
+_publ_author_name
+"L.Kiss"
+"M.Nonn"
+"E.Forro"
+"R.Sillanpaa"
+"F.Fulop"
+_chemical_name_systematic
+;
+Ethyl 
+4-(benzoylamino)-3-methyl-4,5,6,6a-tetrahydro-3aH-cyclopenta[d][1,2]oxazole-5-
+carboxylate
+;
+_cell_volume   1570.807
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.338
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The benzoyl ring system is disordered over two sites with occupancies of 
+0.62:0.38.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0786
+_refine_ls_wR_factor_gt 0.0786
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 18.169(2)
+_cell_length_b 11.403(2)
+_cell_length_c 7.617(1)
+_cell_angle_alpha 90
+_cell_angle_beta 95.51(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.50538(11) -0.0275(2) 0.2414(3)
+O2 O 0.27906(12) 0.0320(2) -0.2234(3)
+O3 O 0.29445(13) -0.1639(2) -0.2188(3)
+O4 O 0.17890(13) 0.0777(2) 0.1311(4)
+N1 N 0.25486(14) -0.0768(2) 0.1796(4)
+H1 H 0.2616(17) -0.1553(17) 0.211(4)
+N2 N 0.49079(14) 0.0845(2) 0.3124(3)
+C1 C 0.42474(17) 0.0865(3) 0.3560(4)
+C2 C 0.38199(16) -0.0248(3) 0.3179(4)
+H2 H 0.36160 -0.05720 0.42510
+C3 C 0.32136(16) -0.0075(3) 0.1619(4)
+H3 H 0.30770 0.07740 0.15280
+C4 C 0.36207(16) -0.0424(3) 0.0005(4)
+H4 H 0.39430 0.02470 -0.02810
+C5 C 0.41166(17) -0.1436(3) 0.0673(4)
+H5 H 0.38310 -0.21730 0.07170
+H6 H 0.45240 -0.15540 -0.00830
+C6 C 0.44107(16) -0.1039(3) 0.2511(4)
+H7 H 0.45280 -0.17200 0.33170
+C7 C 0.39453(19) 0.1927(3) 0.4384(5)
+H8 H 0.38560 0.17500 0.56050
+H9 H 0.34800 0.21570 0.37170
+H10 H 0.43020 0.25710 0.43720
+C8 C 0.30943(17) -0.0677(3) -0.1588(4)
+C9 C 0.21784(19) 0.0218(4) -0.3607(5)
+H11 H 0.17710 -0.02450 -0.31760
+H12 H 0.23430 -0.01770 -0.46590
+C10 C 0.1925(2) 0.1436(4) -0.4056(6)
+H13 H 0.17820 0.18260 -0.29940
+H14 H 0.15000 0.14080 -0.49480
+H15 H 0.23280 0.18740 -0.45210
+C11 C 0.18688(18) -0.0270(3) 0.1643(5)
+C12 C 0.12192(17) -0.1026(3) 0.1942(5)
+C13 C 0.0518(5) -0.0497(10) 0.158(2)
+H16 H 0.04780 0.02930 0.11880
+C14 C -0.0113(6) -0.1143(9) 0.181(2)
+H17 H -0.05880 -0.08000 0.15530
+C15 C -0.0049(2) -0.2303(4) 0.2416(7)
+H18 H -0.0510(15) -0.272(3) 0.259(5)
+C16 C 0.0632(8) -0.2787(16) 0.271(2)
+H19 H 0.06810 -0.35980 0.29790
+C17 C 0.1228(7) -0.2244(11) 0.186(2)
+H20 H 0.16800 -0.26480 0.17660
+C18? C 0.0620(8) -0.0507(15) 0.259(3)
+C19? C -0.0005(9) -0.1147(13) 0.284(3)
+C20? C 0.0572(12) -0.287(2) 0.190(3)
+C21? C 0.1263(11) -0.210(2) 0.262(2)
+H21? H 0.06360 0.03050 0.28650
+H22? H -0.04100 -0.07740 0.33110
+H23? H 0.05490 -0.36730 0.15810
+H24? H 0.17330 -0.24040 0.30490
+#END

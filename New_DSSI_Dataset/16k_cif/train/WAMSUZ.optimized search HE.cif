@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAMSUZ
+_audit_creation_date 2005-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAMSUZ
+_database_code_depnum_ccdc_archive 'CCDC 259433'
+_chemical_formula_sum 'C7 H9 N3 O2'
+_chemical_formula_moiety
+;
+C7 H9 N3 O2
+;
+_journal_coden_Cambridge 16
+_journal_volume 61
+_journal_year 2005
+_journal_page_first 5303
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"J.Saczewski"
+"Z.Brzozowski"
+"M.Gdaniec"
+_chemical_name_systematic
+;
+8-Methoxy-2,8-dihydroimidazo(1,2-a)pyrimidin-5(3H)-one
+;
+_chemical_melting_point 408.15
+_cell_volume    751.775
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.477
+_exptl_special_details
+;
+Melting point range 408.15-410.15K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0328
+_refine_ls_wR_factor_gt 0.0328
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.0951(11)
+_cell_length_b 11.7902(12)
+_cell_length_c 7.8891(11)
+_cell_angle_alpha 90
+_cell_angle_beta 93.212(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.05013(10) 0.78706(8) 0.18581(11)
+O2 O -0.49741(11) 0.84353(7) 0.53923(11)
+N1 N -0.08152(13) 0.80261(9) 0.28854(13)
+C1 C -0.13221(15) 0.91077(11) 0.32306(15)
+H1 H -0.05870 0.96570 0.28500
+C2 C -0.27036(14) 0.92975(11) 0.40458(16)
+H2 H -0.30610 1.00130 0.42630
+C3 C -0.37053(15) 0.83611(11) 0.46065(15)
+C4 C -0.39359(16) 0.62236(11) 0.44710(17)
+H3 H -0.50130 0.62220 0.38290
+H4 H -0.40330 0.61180 0.56560
+C5 C -0.27009(16) 0.53780(11) 0.37409(18)
+H5 H -0.32570 0.49030 0.27930
+H6 H -0.22040 0.48590 0.46140
+N2 N -0.13504(13) 0.60455(9) 0.30260(13)
+C6 C -0.16972(15) 0.70799(11) 0.33179(15)
+N3 N -0.31118(12) 0.73115(8) 0.41749(13)
+C7 C 0.19647(16) 0.75663(12) 0.28897(18)
+H7 H 0.22260 0.82290 0.37340
+H8 H 0.28520 0.75030 0.21000
+H9 H 0.17590 0.68480 0.34870
+#END

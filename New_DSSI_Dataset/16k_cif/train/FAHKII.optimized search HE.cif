@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAHKII
+_audit_creation_date 1999-07-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAHKII
+_database_code_depnum_ccdc_archive 'CCDC 109551'
+_database_code_depnum_ccdc_fiz 'CSD 409288'
+_chemical_formula_sum 'C12 H15 N1 O5'
+_chemical_formula_moiety
+;
+C12 H15 N1 O5
+;
+_journal_coden_Cambridge 1267
+_journal_volume 213
+_journal_year 1998
+_journal_page_first 751
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"K.Peters"
+"E.-M.Peters"
+"J.Raczko"
+"V.Jager"
+_chemical_name_systematic
+;
+(2R,3S,1'S)-3,5-O-Benzylidene-1-nitro-2,3,5-pentanetriol
+;
+_chemical_melting_point 394
+_cell_volume    625.376
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+Melting point range 394-395K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'petroleum ether/diethyl ether'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0328
+_refine_ls_wR_factor_gt 0.0328
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 8.8060(9)
+_cell_length_b 8.528(1)
+_cell_length_c 9.041(1)
+_cell_angle_alpha 90
+_cell_angle_beta 112.915(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -1.23414(18) -0.02026(33) -0.96390(18)
+C1 C -1.22447(30) -0.18610 -0.99516(30)
+H1 H -1.26718(30) -0.24610 -0.9301(3)
+H2 H -1.28832(30) -0.20724 -1.10653(30)
+C2 C -1.04715(28) -0.23115(44) -0.95494(28)
+H3 H -1.03980(28) -0.34310(44) -0.96105(28)
+H4 H -1.01039(28) -0.18318(44) -1.03121(28)
+C3 C -0.93729(27) -0.17772(42) -0.78796(28)
+H5 H -0.96270(27) -0.24196(42) -0.71343(28)
+O2 O -0.96614(17) -0.01377(35) -0.77152(16)
+C4 C -0.75461(29) -0.19387(41) -0.75721(30)
+H6 H -0.73618(29) -0.13947(41) -0.8417(3)
+O3 O -0.71320(23) -0.35609(38) -0.75075(25)
+H7 H -0.7269(37) -0.3938(45) -0.8517(36)
+C5 C -0.64801(26) -0.12736(47) -0.59495(31)
+H8 H -0.67019(26) -0.18163(47) -0.51249(31)
+H9 H -0.67155(26) -0.01780(47) -0.59164(31)
+N1 N -0.47093(30) -0.14836(46) -0.56868(38)
+O4 O -0.42314(29) -0.09358(56) -0.66300(38)
+O5 O -0.38479(27) -0.21961(45) -0.44748(34)
+C6 C -1.13375(25) 0.01425(43) -0.80180(24)
+H10 H -1.16573(25) -0.05193(43) -0.73296(24)
+C7 C -1.15609(27) 0.18481(39) -0.76895(25)
+C8 C -1.02549(27) 0.27145(41) -0.66750(26)
+H11 H -0.91828(27) 0.22451(41) -0.61897(26)
+C9 C -1.04861(30) 0.42739(42) -0.63517(29)
+H12 H -0.95709(30) 0.48837(42) -0.56545(29)
+C10 C -1.20274(32) 0.49399(45) -0.70330(28)
+H13 H -1.21938(32) 0.60086(45) -0.67976(28)
+C11 C -1.33387(31) 0.40676(44) -0.80557(33)
+H14 H -1.44106(31) 0.45376(44) -0.85414(33)
+C12 C -1.31158(28) 0.25186(46) -0.83848(30)
+H15 H -1.40302(28) 0.19131(46) -0.90898(30)
+#END

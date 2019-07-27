@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOPMUK
+_audit_creation_date 2014-08-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOPMUK
+_database_code_depnum_ccdc_archive 'CCDC 986509'
+_chemical_formula_sum 'C19 H17 N1 O5'
+_chemical_formula_moiety
+;
+C19 H17 N1 O5
+;
+_journal_coden_Cambridge 16
+_journal_volume 70
+_journal_year 2014
+_journal_page_first 5038
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"Yi-Ling Tsai"
+"Siang-en Syu"
+"Shu-Mei Yang"
+"U.Das"
+"Yu-Shiou Fan"
+"Chia-Jui Lee"
+"Wenwei Lin"
+_chemical_name_systematic
+;
+ethyl 2-(4-nitrobenzylidene)-4-oxo-4-phenylbutanoate
+;
+_cell_volume   1710.761
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.317
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 200
+_refine_special_details
+;
+C10,C11 and C10',C11' disordered over two sites with occupancies 0.63:0.37.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0543
+_refine_ls_wR_factor_gt 0.0543
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.4541(14)
+_cell_length_b 7.3663(6)
+_cell_length_c 16.0706(13)
+_cell_angle_alpha 90
+_cell_angle_beta 91.122(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.10494(17) 0.1572(3) 0.58203(16)
+C2 C -0.14271(17) 0.1191(3) 0.65850(17)
+H1 H -0.20620 0.08770 0.66280
+C3 C -0.08589(16) 0.1280(3) 0.72826(16)
+H2 H -0.11100 0.10420 0.78130
+C4 C 0.00781(15) 0.1711(3) 0.72252(15)
+C5 C 0.04218(16) 0.2150(4) 0.64418(15)
+H3 H 0.10520 0.24910 0.63940
+C6 C -0.01420(17) 0.2094(4) 0.57372(16)
+H4 H 0.00920 0.24090 0.52080
+C7 C 0.06457(16) 0.1711(3) 0.79973(15)
+H5 H 0.03320 0.20900 0.84810
+C8 C 0.15308(16) 0.1260(3) 0.81218(15)
+C9 C 0.19019(18) 0.1454(4) 0.89926(16)
+C10 C 0.3295(4) 0.1285(7) 0.9861(3)
+H6 H 0.30710 0.24200 1.01180
+H7 H 0.39630 0.14220 0.97550
+C11 C 0.3148(4) -0.0216(8) 1.0410(3)
+H8 H 0.34550 0.00260 1.09480
+H9 H 0.34060 -0.13210 1.01670
+H10 H 0.24830 -0.03790 1.04910
+C12 C 0.21984(15) 0.0571(3) 0.74834(15)
+H11 H 0.18490 0.02330 0.69700
+H12 H 0.25090 -0.05350 0.77010
+C13 C 0.29289(16) 0.1979(4) 0.72699(15)
+C14 C 0.38007(16) 0.1375(4) 0.68860(15)
+C15 C 0.38742(18) -0.0257(5) 0.64790(17)
+H13 H 0.33610 -0.10620 0.64530
+C16 C 0.4693(2) -0.0729(6) 0.6108(2)
+H14 H 0.47360 -0.18460 0.58160
+C17 C 0.5448(2) 0.0403(6) 0.6157(2)
+H15 H 0.60090 0.00640 0.59020
+C18 C 0.5391(2) 0.1995(6) 0.6566(2)
+H16 H 0.59190 0.27580 0.66130
+C19 C 0.45648(18) 0.2527(5) 0.69192(19)
+H17 H 0.45210 0.36770 0.71830
+N1 N -0.16410(18) 0.1417(3) 0.50658(18)
+O1 O -0.13113(16) 0.1787(4) 0.43918(14)
+O2 O -0.24463(17) 0.0922(4) 0.51521(17)
+O3 O 0.14736(14) 0.2058(4) 0.95644(12)
+O4 O 0.27861(13) 0.0947(3) 0.90703(11)
+O5 O 0.27937(14) 0.3580(3) 0.74081(16)
+C20? C 0.3034(8) 0.0983(16) 0.9973(7)
+H18? H 0.30750 0.22380 1.01910
+H19? H 0.25940 0.02730 1.03070
+C21? C 0.4025(5) 0.0032(12) 0.9937(6)
+H20? H 0.43550 0.02050 1.04700
+H21? H 0.43820 0.05770 0.94890
+H22? H 0.39450 -0.12690 0.98300
+#END

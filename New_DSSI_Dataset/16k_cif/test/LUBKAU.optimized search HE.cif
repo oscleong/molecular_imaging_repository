@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LUBKAU
+_audit_creation_date 2002-11-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LUBKAU
+_database_code_depnum_ccdc_archive 'CCDC 181111'
+_chemical_formula_sum 'C21 H29 N1 O2'
+_chemical_formula_moiety
+;
+C21 H29 N1 O2
+;
+_journal_coden_Cambridge 16
+_journal_volume 58
+_journal_year 2002
+_journal_page_first 6843
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"E.Frank"
+"J.Wolfling"
+"B.Aukszi"
+"V.Konig"
+"T.R.Schneider"
+"G.Schneider"
+_chemical_name_systematic
+;
+3-Methoxy-1'-methyl-1',3',4'\a,5'\a-tetrahydroisoxazolo(4':5',16:17)estra-1,3,
+5(10)-triene
+;
+_chemical_melting_point 420
+_cell_volume   1783.944
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.219
+_exptl_special_details
+;
+Melting point range 420-422K
+
+;
+_exptl_crystal_description 'blocks'
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 133
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0339
+_refine_ls_wR_factor_gt 0.0339
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 9.272(2)
+_cell_length_b 12.354(2)
+_cell_length_c 15.574(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.13124(13) 0.8627(1) 0.67817(8)
+O2 O 0.35286(13) 1.65455(10) 1.03932(7)
+N1 N 0.37601(16) 1.67411(11) 0.94790(8)
+C1 C 0.20698(17) 1.14964(14) 0.69134(10)
+H1 H 0.18730 1.21200 0.65770
+C2 C 0.15621(18) 1.05054(15) 0.66412(11)
+H2 H 0.10210 1.04540 0.61250
+C3 C 0.18406(17) 0.95853(15) 0.71198(11)
+C4 C 0.26146(17) 0.96726(14) 0.78818(11)
+H3 H 0.27930 0.90440 0.82170
+C5 C 0.31339(17) 1.06795(14) 0.81595(10)
+C6 C 0.39745(19) 1.07115(14) 0.89988(11)
+H4 H 0.47070 1.01280 0.89900
+H5 H 0.33030 1.05580 0.94780
+C7 C 0.47320(18) 1.17879(13) 0.91743(10)
+H6 H 0.49670 1.18390 0.97930
+H7 H 0.56480 1.18140 0.88480
+C8 C 0.37910(18) 1.27461(14) 0.89179(9)
+H8 H 0.28500 1.26920 0.92290
+C9 C 0.34971(18) 1.27065(13) 0.79448(9)
+H9 H 0.44610 1.27620 0.76600
+C10 C 0.28702(17) 1.16105(14) 0.76741(10)
+C11 C 0.26177(18) 1.36888(14) 0.76284(10)
+H10 H 0.25780 1.36740 0.69930
+H11 H 0.16180 1.36260 0.78460
+C12 C 0.32445(18) 1.47737(14) 0.79171(10)
+H12 H 0.25680 1.53600 0.77580
+H13 H 0.41640 1.49040 0.76100
+C13 C 0.35201(17) 1.48144(13) 0.88917(9)
+C14 C 0.44790(17) 1.38358(13) 0.91258(9)
+H14 H 0.53520 1.38910 0.87510
+C15 C 0.49944(18) 1.40939(13) 1.00378(10)
+H15 H 0.58570 1.36630 1.01900
+H16 H 0.42250 1.39550 1.04650
+C16 C 0.53547(18) 1.53103(13) 0.99824(10)
+H17 H 0.64140 1.54130 0.98930
+C17 C 0.4829(2) 1.60266(15) 1.07107(11)
+H18 H 0.46150 1.55880 1.12270
+H19 H 0.55660 1.65740 1.08600
+C18 C 0.44973(17) 1.57533(13) 0.91898(10)
+H20 H 0.51900 1.59400 0.87210
+C19 C 0.20675(18) 1.48194(14) 0.93697(11)
+H21 H 0.22360 1.47160 0.99860
+H22 H 0.14600 1.42310 0.91520
+H23 H 0.15820 1.55140 0.92760
+C20 C 0.1607(2) 0.76498(15) 0.72385(12)
+H24 H 0.26520 0.75440 0.72780
+H25 H 0.11730 0.70370 0.69340
+H26 H 0.11980 0.76980 0.78180
+C21 C 0.4686(2) 1.77021(15) 0.94110(11)
+H27 H 0.42290 1.83110 0.97090
+H28 H 0.48240 1.78870 0.88050
+H29 H 0.56240 1.75500 0.96750
+#END

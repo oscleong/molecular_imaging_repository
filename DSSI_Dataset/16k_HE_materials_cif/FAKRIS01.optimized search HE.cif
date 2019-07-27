@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAKRIS01
+_audit_creation_date 1987-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAKRIS01
+_chemical_formula_sum 'C8 H9 N1 O1'
+_chemical_formula_moiety
+;
+C8 H9 N1 O1
+;
+_journal_coden_Cambridge 505
+_journal_volume 110
+_journal_year 1986
+_journal_page_first 73
+_journal_name_full 'Chem.Zeit. '
+loop_
+_publ_author_name
+"A.Gieren"
+"T.Hubner"
+"C.Ruiz-Perez"
+_chemical_name_systematic
+;
+(E)-Acetophenone oxime
+;
+_cell_volume   3025.345
+_exptl_crystal_density_diffrn 1.2
+_exptl_special_details
+;
+monoclinic beta polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The monoclinic modification is disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.124
+_refine_ls_wR_factor_gt 0.124
+loop_
+_citation_database_id_CSD
+_citation_special_details
+FAKROY "is a stereoisomer of this entry"
+FAKRIS02 "is a reinterpretation of this cif"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 31.430(7)
+_cell_length_b 5.492(3)
+_cell_length_c 17.726(3)
+_cell_angle_alpha 90
+_cell_angle_beta 98.60(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 16
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0639(3) -0.5967(18) -0.0280(8)
+C2 C 0.0888(5) -0.4918(24) -0.0703(9)
+C3 C 0.0796(6) -0.5225(33) -0.1538(9)
+C4 C 0.0545(5) -0.6948(23) -0.1852(9)
+C5 C 0.0325(6) -0.8128(7) -0.1369(12)
+C6 C 0.0429(6) -0.7848(27) -0.0595(9)
+C7 C 0.0700(4) -0.5667(17) 0.0561(8)
+C8 C 0.0500(5) -0.7137(22) 0.1084(9)
+N1 N 0.0953(4) -0.3796(15) 0.0808(7)
+O1 O 0.0993(4) -0.3516(15) 0.1616(7)
+C9 C 0.18530 0.2150(15) 0.26130
+C10 C 0.1678(5) 0.0297(20) 0.3070(9)
+C11 C 0.1731(5) 0.0437(22) 0.3838(8)
+C12 C 0.1984(5) 0.2161(21) 0.4271(10)
+C13 C 0.2178(5) 0.3924(21) 0.3845(10)
+C14 C 0.2114(4) 0.3709(19) 0.3016(9)
+C15 C 0.1785(3) 0.1963(13) 0.1792(6)
+C16 C 0.2003(4) 0.3857(22) 0.1311(8)
+N2 N 0.1556(3) 0.0303(17) 0.1474(7)
+O2 O 0.1493(4) 0.0247(14) 0.0653(17)
+C17 C -0.0685(3) -0.6039(17) 0.5198(8)
+C18 C -0.0835(6) -0.4421(35) 0.570(1)
+C19 C -0.0844(6) -0.4993(34) 0.6436(10)
+C20 C -0.0563(4) -0.6762(28) 0.6767(8)
+C21 C -0.0374(8) -0.8186(34) 0.635(1)
+C22 C -0.0392(7) -0.7740(43) 0.5542(12)
+C23 C -0.0734(4) -0.5547(19) 0.4362(7)
+C24 C -0.0509(4) -0.7292(21) 0.3872(8)
+N3 N -0.0962(4) -0.3807(15) 0.4114(7)
+O3 O -0.1000(4) -0.3543(14) 0.3334(7)
+C25 C -0.1867(2) 0.1936(15) 0.2309(5)
+C26 C -0.1692(4) 0.0317(20) 0.1904(6)
+C27 C -0.1749(5) 0.0337(23) 0.1101(8)
+C28 C -0.2003(4) 0.2246(24) 0.0750(8)
+C29 C -0.2170(5) 0.3866(26) 0.1138(9)
+C30 C -0.2100(5) 0.3964(21) 0.1937(9)
+C31 C -0.1816(3) 0.2017(17) 0.3175(7)
+C32 C -0.1997(4) 0.3801(15) 0.3611(8)
+N4 N -0.1566(3) 0.0161(13) 0.3474(7)
+O4 O -0.1532(3) 0.0154(11) 0.4261(7)
+#END

@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CONNOI
+_audit_creation_date 1985-08-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CONNOI
+_chemical_formula_sum 'C20 H30 N2 O2'
+_chemical_formula_moiety
+;
+C20 H30 N2 O2
+;
+_journal_coden_Cambridge 582
+_journal_volume 14
+_journal_year 1984
+_journal_page_first 315
+_journal_name_full 'J.Crystallogr.Spectrosc.Res. '
+loop_
+_publ_author_name
+"A.El Shora"
+"R.A.Palmer"
+"H.Singh"
+"D.Paul"
+_chemical_name_systematic
+;
+17\b-Hydroxy-17\a-methyl-5\a-androstano-(2,3-c)-1',2',5'-oxadiazole
+;
+_chemical_melting_point 447.15
+_cell_volume   1769.912
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.19
+_exptl_special_details
+;
+Melting point range 447.15-448.15K
+Published dx is 1.19, we calculate 1.24. In bond length diagram N3,O2',N5' 
+should be C3,N5' and N2' respectively
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0376
+_refine_ls_wR_factor_gt 0.0376
+loop_
+_citation_database_id_CSD
+_citation_special_details
+CONNIC "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 9.507(4)
+_cell_length_b 18.528(8)
+_cell_length_c 10.048(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1954(3) 0.1330(2) 0.6263(4)
+C2 C 0.0895(3) 0.1142(3) 0.5155(3)
+C3 C 0.1488(4) 0.1311(2) 0.3820(4)
+C4 C 0.2933(3) 0.1502(2) 0.3601(3)
+C5 C 0.3960(3) 0.1579(2) 0.4733(3)
+C6 C 0.5483(3) 0.1460(2) 0.4312(4)
+C7 C 0.6449(3) 0.1626(2) 0.5481(3)
+C8 C 0.6059(3) 0.1208(2) 0.6752(3)
+C9 C 0.4482(3) 0.1305(2) 0.7117(3)
+C10 C 0.3491(3) 0.1116(2) 0.5933(3)
+C11 C 0.4124(3) 0.0919(2) 0.8437(3)
+C12 C 0.5093(3) 0.1137(2) 0.9586(3)
+C13 C 0.6643(3) 0.1026(2) 0.9216(4)
+C14 C 0.6943(3) 0.1456(2) 0.7928(4)
+C15 C 0.8555(3) 0.1442(2) 0.7806(4)
+C16 C 0.9069(4) 0.1448(2) 0.9281(4)
+C17 C 0.7761(4) 0.1360(2) 1.0191(4)
+C18 C 0.6965(4) 0.0215(2) 0.9066(4)
+C19 C 0.3557(4) 0.0306(2) 0.5603(4)
+C20 C 0.7320(5) 0.2092(2) 1.0772(4)
+O1 O 0.8027(3) 0.0865(2) 1.1250(3)
+O2 O 0.1836(3) 0.1496(2) 0.1751(3)
+N1 N 0.3127(4) 0.1608(2) 0.2362(3)
+N2 N 0.0831(3) 0.1321(2) 0.2692(4)
+H1 H 0.19190 0.19060 0.64300
+H2 H 0.16430 0.10520 0.71610
+H3 H -0.00540 0.14530 0.53030
+H4 H 0.06500 0.05740 0.52040
+H5 H 0.39350 0.21340 0.50610
+H6 H 0.57350 0.18130 0.34900
+H7 H 0.56250 0.09060 0.40090
+H8 H 0.75130 0.14860 0.52060
+H9 H 0.63900 0.21970 0.56920
+H10 H 0.62660 0.06460 0.65490
+H11 H 0.42870 0.18720 0.72910
+H12 H 0.42200 0.03440 0.82850
+H13 H 0.30530 0.10480 0.87070
+H14 H 0.49180 0.16990 0.98170
+H15 H 0.48490 0.08120 1.04460
+H16 H 0.66020 0.20120 0.79590
+H17 H 0.88970 0.09540 0.73130
+H18 H 0.89360 0.19060 0.72650
+H19 H 0.95810 0.19560 0.94870
+H20 H 0.97980 0.10010 0.94550
+H21 H 0.79910 0.01060 0.86500
+H22 H 0.61670 -0.00280 0.84460
+H23 H 0.69040 -0.00100 1.00560
+H24 H 0.46480 0.01440 0.56400
+H25 H 0.31110 0.01510 0.46570
+H26 H 0.29860 0.00440 0.63970
+H27 H 0.73550 0.24750 0.99630
+H28 H 0.81690 0.22020 1.14580
+H29 H 0.63270 0.21390 1.12860
+#END

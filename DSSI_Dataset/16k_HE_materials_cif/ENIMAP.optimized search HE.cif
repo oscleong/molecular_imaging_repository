@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ENIMAP
+_audit_creation_date 2004-03-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ENIMAP
+_database_code_depnum_ccdc_archive 'CCDC 212008'
+_chemical_formula_sum 'C23 H21 N1 O1'
+_chemical_formula_moiety
+;
+C23 H21 N1 O1
+;
+_journal_coden_Cambridge 7
+_journal_volume 76
+_journal_year 2003
+_journal_page_first 1801
+_journal_name_full 'Bull.Chem.Soc.Jpn. '
+loop_
+_publ_author_name
+"G.Yamamoto"
+"C.Agawa"
+"T.Ohno"
+"M.Minoura"
+"Y.Mazaki"
+_chemical_name_systematic
+;
+N-(1,4-dimethyl-9-triptycyl)-N-methylhydroxylamine
+;
+_chemical_melting_point 473.15
+_cell_volume   1717.494
+_exptl_crystal_density_diffrn 1.266
+_exptl_special_details
+;
+Melting point range 473.15-474.15K
+
+;
+_exptl_crystal_preparation 'dichloromethane/hexane'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The hydroxy group is disordered over two sites with occupancies 0.69:0.31.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0531
+_refine_ls_wR_factor_gt 0.0531
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.927(4)
+_cell_length_b 17.790(4)
+_cell_length_c 10.168(3)
+_cell_angle_alpha 90
+_cell_angle_beta 106.97(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.0089(3) 0.1230(2) 0.6114(4)
+N1 N 0.8853(2) 0.17147(11) 0.6103(2)
+C1 C 0.8058(4) 0.1806(2) 0.4632(3)
+C2 C 0.8052(2) 0.13294(10) 0.6901(2)
+C3 C 0.8844(2) 0.12343(10) 0.8468(2)
+C4 C 1.0167(2) 0.15053(14) 0.9215(3)
+C5 C 1.1082(4) 0.2048(3) 0.8684(5)
+C6 C 1.0658(3) 0.1302(2) 1.0598(3)
+C7 C 0.9882(4) 0.0885(2) 1.1233(3)
+C8 C 0.8520(3) 0.06536(13) 1.0543(2)
+C9 C 0.7652(5) 0.0217(2) 1.1268(3)
+C10 C 0.8016(2) 0.08444(10) 0.9155(2)
+C11 C 0.6535(2) 0.0671(1) 0.8253(2)
+C12 C 0.5927(2) 0.14176(10) 0.7639(2)
+C13 C 0.6703(2) 0.01957(9) 0.7083(2)
+C14 C 0.6736(2) 0.17777(10) 0.6920(2)
+C15 C 0.7558(2) 0.05296(10) 0.6383(2)
+C16 C 0.7885(3) 0.01267(14) 0.5356(2)
+C17 C 0.7314(3) -0.05848(15) 0.5008(3)
+C18 C 0.5121(3) 0.28139(14) 0.6533(3)
+C19 C 0.6125(2) -0.05121(11) 0.6724(2)
+C20 C 0.6434(3) -0.08960(13) 0.5662(2)
+C21 C 0.6343(3) 0.24912(12) 0.6384(2)
+C22 C 0.4325(3) 0.2452(2) 0.7228(3)
+C23 C 0.4725(2) 0.17457(15) 0.7798(2)
+H1 H 1.0481(97) 0.10440 0.658(11)
+H2 H 1.0248(44) 0.0724(23) 1.2108(45)
+H3 H 1.1639(35) 0.1489(19) 1.1148(35)
+H4 H 0.8000(41) 0.2266(24) 0.4444(39)
+H5 H 0.8747(45) 0.1607(24) 0.4181(45)
+H6 H 0.7162(47) 0.1560(25) 0.4319(44)
+H7 H 0.6741(46) 0.0423(26) 1.1302(42)
+H8 H 0.8558(28) 0.0310(15) 0.4932(27)
+H9 H 0.6871(29) 0.2741(16) 0.5874(28)
+H10 H 0.7492(31) -0.0864(17) 0.4243(32)
+H11 H 0.5998(30) -0.1402(17) 0.5401(31)
+H12 H 0.5467(29) -0.0704(16) 0.7233(28)
+H13 H 0.3482(31) 0.2671(16) 0.7353(29)
+H14 H 0.4189(28) 0.1483(16) 0.8306(30)
+H15 H 0.59080 0.0402(12) 0.8783(20)
+H16 H 0.4887(29) 0.3332(17) 0.6126(29)
+H17 H 0.7352(46) -0.0299(28) 1.0789(48)
+H18 H 0.8342(48) 0.0029(27) 1.2115(51)
+H19 H 1.1646(55) 0.1638(31) 0.8490(55)
+H20 H 1.0470(41) 0.2331(20) 0.777(4)
+H21 H 1.1659(58) 0.2304(29) 0.9524(55)
+O2? O 0.8989(10) 0.2518(4) 0.6809(10)
+H22? H 0.88310 0.28980 0.61040
+#END

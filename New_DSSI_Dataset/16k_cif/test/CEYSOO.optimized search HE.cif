@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CEYSOO
+_audit_creation_date 1985-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CEYSOO
+_chemical_formula_sum 'C13 H28 N4 O2'
+_chemical_formula_moiety
+;
+C13 H28 N4 O2
+;
+_journal_coeditor_code "IUCr A23588"
+_journal_coden_Cambridge 591
+_journal_volume 40
+_journal_year 1984
+_journal_page_first 813
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.S.Hussain"
+"M.-Ul-Haque"
+"J.Ahmad"
+_chemical_name_systematic
+;
+3,3'-(Trimethylenedi-imino)-bis(3-methyl-2-butanone oxime)
+;
+_cell_volume   3124.268
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.163
+_exptl_special_details
+;
+z(H2C4) should be positive
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+C10 is disordered about the 2-fold. It has not been retained.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'I 41 c d'
+_symmetry_Int_Tables_number 110
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 -y,1/2+x,1/4+z
+4 1/2-y,x,3/4+z
+5 -x,-y,z
+6 1/2-x,1/2-y,1/2+z
+7 y,1/2-x,1/4+z
+8 1/2+y,-x,3/4+z
+9 -x,y,1/2+z
+10 1/2-x,1/2+y,z
+11 y,1/2+x,3/4+z
+12 1/2+y,x,1/4+z
+13 x,-y,1/2+z
+14 1/2+x,1/2-y,z
+15 -y,1/2-x,3/4+z
+16 1/2-y,-x,1/4+z
+_cell_length_a 15.458(2)
+_cell_length_b 15.458(2)
+_cell_length_c 13.075(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.36730 -0.01780 -0.03170
+N1 N 0.31000 0.03520 0.02400
+C1 C 0.25430 -0.00640 0.07520
+C2 C 0.24850 -0.10260 0.07750
+C3 C 0.19110 0.04880 0.13810
+C4 C 0.20440 0.14520 0.11800
+C5 C 0.20220 0.03060 0.25250
+N2 N 0.09990 0.02690 0.11230
+C6 C 0.07950 0.02630 0.00150
+H1 H 0.40400 0.02100 -0.05600
+H2 H 0.29700 -0.12900 0.07500
+H3 H 0.20300 -0.12400 0.10800
+H4 H 0.23800 -0.12400 0.01500
+H5 H 0.25300 0.16400 0.12200
+H6 H 0.16000 0.18500 0.14600
+H7 H 0.19700 0.15100 0.05100
+H8 H 0.20400 -0.03200 0.26000
+H9 H 0.15700 0.06900 0.28700
+H10 H 0.25700 0.04100 0.27700
+H11 H 0.08400 -0.02800 0.13300
+H12 H 0.13700 0.00600 -0.03900
+H13 H 0.06300 0.09200 -0.02000
+#END

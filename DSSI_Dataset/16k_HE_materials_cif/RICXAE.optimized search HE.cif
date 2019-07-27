@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RICXAE
+_audit_creation_date 2013-07-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RICXAE
+_database_code_depnum_ccdc_archive 'CCDC 933066'
+_chemical_formula_sum 'C11 H10 N4 O8'
+_chemical_formula_moiety
+;
+C11 H10 N4 O8
+;
+_journal_coden_Cambridge 1350
+_journal_volume 15
+_journal_year 2013
+_journal_page_first 6448
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"A.Bialonska"
+"Z.Ciunik"
+_chemical_name_systematic
+;
+rac-N^2^-(3,5-Dinitrobenzoyl)asparagine
+;
+_chemical_melting_point 468
+_cell_volume   1291.194
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.678
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.064
+_refine_ls_wR_factor_gt 0.064
+loop_
+_citation_database_id_CSD
+_citation_special_details
+RICXEI "is a stereoisomer of this entry"
+RICXIM "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 4.583(2)
+_cell_length_b 21.947(5)
+_cell_length_c 12.852(3)
+_cell_angle_alpha 90
+_cell_angle_beta 92.76(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 1.2646(10) 0.7643(2) 0.4750(3)
+H1 H 1.31040 0.76280 0.53910
+O2 O 0.8885(10) 0.7057(2) 0.5190(3)
+O3 O 0.4692(9) 0.7326(2) 0.1700(3)
+O4 O 0.8835(10) 0.8721(2) 0.3897(4)
+O5 O 1.5984(14) 1.0414(3) 0.4175(4)
+O6 O 1.8691(15) 1.0626(3) 0.2888(4)
+O7 O 1.7713(11) 0.9448(2) -0.0272(4)
+O8 O 1.3931(10) 0.8853(2) -0.0490(3)
+N1 N 0.7673(13) 0.6595(3) 0.1099(4)
+H2 H 0.68100 0.66080 0.04730
+H3 H 0.91340 0.63410 0.12290
+N2 N 1.0371(12) 0.7947(3) 0.2895(4)
+H4 H 1.13690 0.78370 0.23590
+N3 N 1.6830(17) 1.0317(3) 0.3308(5)
+N4 N 1.5614(14) 0.9179(3) 0.0055(4)
+C1 C 1.0092(15) 0.7368(3) 0.4566(5)
+C2 C 0.8749(15) 0.7495(3) 0.3461(5)
+H5 H 0.67370 0.76600 0.35400
+C3 C 0.8450(15) 0.6900(3) 0.2885(5)
+H6 H 0.74340 0.66040 0.33230
+H7 H 1.04250 0.67370 0.27730
+C4 C 0.6783(15) 0.6951(3) 0.1837(5)
+C5 C 1.0336(15) 0.8531(3) 0.3196(5)
+C6 C 1.2310(14) 0.8935(3) 0.2637(5)
+C7 C 1.3517(15) 0.9431(3) 0.3190(5)
+H8 H 1.30000 0.95090 0.38850
+C8 C 1.5468(16) 0.9807(3) 0.2714(5)
+C9 C 1.6266(15) 0.9733(3) 0.1698(5)
+H9 H 1.76320 0.99950 0.13910
+C10 C 1.4948(14) 0.9253(3) 0.1158(5)
+C11 C 1.3036(15) 0.8857(3) 0.1601(5)
+H10 H 1.22110 0.85300 0.12030
+#END

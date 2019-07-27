@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEDTUQ10
+_audit_creation_date 2012-10-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEDTUQ10
+_database_code_depnum_ccdc_archive 'CCDC 711656'
+_chemical_formula_sum 'C2 H4 N4 O4'
+_chemical_formula_moiety
+;
+C2 H4 N4 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 2012
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"P.B.Kempa"
+"M.Herrmann"
+"A.Meents"
+_chemical_name_systematic
+;
+2,2-Dinitroethene-1,1-diamine
+;
+_chemical_name_common
+;
+FOX-7
+;
+_chemical_melting_point 501.15
+_cell_volume    542.983
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.812
+_exptl_special_details
+;
+beta polymorph
+contribution from Fraunhofer-Institut fur chemisch Technologie, 
+Joseph-von-Fraunhofer-Str. 7, D-76327 Pfinztal Berghausen, Germany
+;
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 400
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0408
+_refine_ls_wR_factor_gt 0.0408
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.6600(13)
+_cell_length_b 6.9850(14)
+_cell_length_c 11.672(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7384(3) 0.3170(2) 0.77755(13)
+C2 C 0.6874(3) 0.2184(2) 0.88251(11)
+N1 N 0.7835(4) 0.2229(3) 0.68360(13)
+N2 N 0.7395(4) 0.5057(3) 0.77383(17)
+N3 N 0.6716(3) 0.0162(2) 0.88806(12)
+N4 N 0.6561(2) 0.3157(2) 0.98548(12)
+O1 O 0.7561(4) -0.0784(2) 0.81325(16)
+O2 O 0.5686(4) -0.0587(2) 0.96250(15)
+O3 O 0.6743(3) 0.2328(2) 1.07821(11)
+O4 O 0.6142(3) 0.4886(2) 0.98371(14)
+H1 H 0.784(4) 0.110(4) 0.686(2)
+H2 H 0.814(6) 0.287(6) 0.624(4)
+H3 H 0.788(5) 0.557(4) 0.713(3)
+H4 H 0.704(5) 0.573(5) 0.836(3)
+#END

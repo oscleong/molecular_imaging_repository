@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEGDUN
+_audit_creation_date 2004-03-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEGDUN
+_database_code_depnum_ccdc_archive 'CCDC 225364'
+_chemical_formula_sum 'C18 H21 N2 O2'
+_chemical_formula_moiety
+;
+C18 H21 N2 O2
+;
+_journal_coden_Cambridge 1122
+_journal_volume 21
+_journal_year 2003
+_journal_page_first 485
+_journal_name_full 'Chin.J.Chem. '
+loop_
+_publ_author_name
+"De-Qing Zhang"
+"Hong-Qing Zhu"
+"Liang Ding"
+"Wei Xu"
+"Wei Liu"
+"Dao-Ben Zhu"
+_chemical_name_systematic
+;
+2-Methyl-6-(4,4,5,5-tetramethylimidazolin-2-yl-1-oxy-3-oxide)-naphthalene
+;
+_chemical_melting_point 449.15
+_cell_volume   1573.728
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.255
+_exptl_special_details
+;
+Melts with decomposition.
+The b cell value is published as 11.1426 and 14.4426, in the paper, the 
+former has been used
+;
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.052
+_refine_ls_wR_factor_gt 0.052
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.1262(2)
+_cell_length_b 11.1426(6)
+_cell_length_c 23.0543(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4740(3) 1.16603(18) 0.11723(9)
+O2 O 0.8895(3) 0.88672(17) 0.21637(9)
+N1 N 0.6090(3) 1.1177(2) 0.15224(9)
+N2 N 0.8052(3) 0.9857(2) 0.19905(10)
+C1 C 0.2497(5) 0.6097(3) 0.03751(12)
+H1 H 0.11370 0.61950 0.02020
+C2 C 0.3459(6) 0.4995(3) 0.03580(13)
+C3 C 0.5565(6) 0.4871(3) 0.06039(13)
+H2 H 0.62640 0.41310 0.05850
+C4 C 0.6594(6) 0.5807(3) 0.08671(12)
+H3 H 0.79710 0.56940 0.10280
+C5 C 0.6560(5) 0.7921(3) 0.11920(11)
+H4 H 0.79310 0.78180 0.13580
+C6 C 0.5538(4) 0.9022(3) 0.12407(11)
+C7 C 0.3464(5) 0.9161(3) 0.09763(12)
+H5 H 0.27500 0.98960 0.10000
+C8 C 0.2497(5) 0.8236(3) 0.06878(12)
+H6 H 0.11470 0.83560 0.05130
+C9 C 0.3497(5) 0.7104(3) 0.06483(11)
+C10 C 0.5590(5) 0.6949(3) 0.08985(11)
+C11 C 0.2354(7) 0.3924(3) 0.00939(16)
+H7 H 0.09510 0.41550 -0.00530
+H8 H 0.21730 0.33130 0.03840
+H9 H 0.32330 0.36170 -0.02170
+C12 C 0.6539(4) 0.9988(3) 0.15714(11)
+C13 C 0.7616(4) 1.1937(2) 0.18816(12)
+C14 C 0.8525(4) 1.0995(2) 0.23110(11)
+C15 C 0.9309(5) 1.2438(3) 0.14666(14)
+H10 H 0.86340 1.30150 0.12140
+H11 H 0.99130 1.17970 0.12390
+H12 H 1.04520 1.28210 0.16840
+C16 C 0.6343(5) 1.2967(3) 0.21503(14)
+H13 H 0.58500 1.34980 0.18500
+H14 H 0.72690 1.33980 0.24140
+H15 H 0.51070 1.26540 0.23570
+C17 C 1.0960(4) 1.1079(3) 0.24260(14)
+H16 H 1.13820 1.04650 0.26950
+H17 H 1.12960 1.18530 0.25870
+H18 H 1.17430 1.09740 0.20690
+C18 C 0.7270(5) 1.0927(3) 0.28794(12)
+H19 H 0.79170 1.03290 0.31250
+H20 H 0.57780 1.07180 0.28020
+H21 H 0.73220 1.16930 0.30700
+#END

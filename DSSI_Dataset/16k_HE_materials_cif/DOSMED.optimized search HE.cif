@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DOSMED
+_audit_creation_date 1987-04-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DOSMED
+_database_code_depnum_ccdc_archive 'CCDC 1144490'
+_chemical_formula_sum 'C14 H9 N1 O2'
+_chemical_formula_moiety
+;
+C14 H9 N1 O2
+;
+_journal_coden_Cambridge 207
+_journal_year 1986
+_journal_page_first 1005
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"D.B.Adams"
+"M.Hooper"
+"C.J.Swain"
+"E.S.Raper"
+"B.Stoddart"
+_chemical_name_systematic
+;
+2-Phenyl-3H-indol-3-one-1-oxide
+;
+_chemical_name_common
+;
+2-Phenyl-isatogen
+;
+_cell_volume   2152.705
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.38
+_exptl_special_details
+;
+antibacterial and antifungal activity
+fw reported as 232.22, we calculate 223.23
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0456
+_refine_ls_wR_factor_gt 0.0456
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 11.464(1)
+_cell_length_b 7.831(1)
+_cell_length_c 23.979(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.18180(18) 0.05864(26) 0.06569(9)
+O1 O 0.26879(15) -0.03808(25) 0.07170(8)
+O2 O -0.05301(15) 0.31493(24) 0.09801(7)
+C1 C 0.11020(19) 0.1262(3) 0.10585(10)
+C2 C 0.02593(19) 0.22884(30) 0.07743(10)
+C3 C 0.04894(21) 0.21797(30) 0.01685(10)
+C4 C 0.14435(21) 0.11478(31) 0.01041(10)
+C5 C 0.18988(25) 0.07427(36) -0.04029(12)
+C6 C 0.13452(28) 0.14781(46) -0.08648(12)
+C7 C 0.03753(28) 0.25097(42) -0.08040(12)
+C8 C -0.00675(24) 0.28842(35) -0.02811(12)
+C9 C 0.12040(21) 0.09632(29) 0.16559(10)
+C10 C 0.21581(24) 0.01176(38) 0.18862(12)
+C11 C 0.22244(29) -0.01368(46) 0.24573(14)
+C12 C 0.13502(30) 0.04399(42) 0.28054(12)
+C13 C 0.04188(26) 0.12692(52) 0.25806(12)
+C14 C 0.03244(24) 0.15427(40) 0.20150(12)
+H1 H 0.26620 0.04410 -0.04450
+H2 H 0.16560 0.10730 -0.12560
+H3 H 0.00390 0.28100 -0.12070
+H4 H -0.07910 0.38040 -0.02440
+H5 H 0.27640 -0.03790 0.16300
+H6 H 0.27640 -0.07880 0.26190
+H7 H 0.13940 0.01960 0.32320
+H8 H 0.03240 0.15300 0.28250
+H9 H 0.04400 0.21470 0.18280
+#END

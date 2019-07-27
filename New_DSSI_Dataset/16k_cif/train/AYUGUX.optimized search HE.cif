@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AYUGUX
+_audit_creation_date 2011-10-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AYUGUX
+_database_code_depnum_ccdc_archive 'CCDC 845371'
+_chemical_formula_sum 'C14 H12 N2 O3'
+_chemical_formula_moiety
+;
+C14 H12 N2 O3
+;
+_journal_coeditor_code "IUCr HB6352"
+_journal_coden_Cambridge 1370
+_journal_volume 67
+_journal_year 2011
+_journal_page_first o2319
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"M.N.Tahir"
+"H.A.Shad"
+"R.H.Tariq"
+_chemical_name_systematic
+;
+2-((E)-((4-Methylphenyl)imino)methyl)-4-nitrophenol
+;
+_cell_volume   1237.229
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.376
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+A hydrogen atom is disordered over the phenol oxygen and imino nitrogen sites 
+with occupancies 0.60:0.40. This results in the molecule being modelled as 
+mixed occupancy neutral imino-phenol and zwitterionic iminio-phenolate forms.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0486
+_refine_ls_wR_factor_gt 0.0486
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.0623(6)
+_cell_length_b 14.1723(8)
+_cell_length_c 6.2357(3)
+_cell_angle_alpha 90
+_cell_angle_beta 95.400(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.18732(12) 0.66637(13) 0.3141(3)
+O2 O -0.21627(11) 0.59616(18) 0.6085(3)
+O3 O -0.13153(11) 0.55621(14) 0.8965(3)
+N1 N 0.28626(12) 0.62025(13) 0.6653(3)
+N2 N -0.13922(12) 0.58577(15) 0.7115(3)
+C1 C 0.37651(14) 0.62162(15) 0.7884(3)
+C2 C 0.45601(14) 0.59352(16) 0.6902(4)
+C3 C 0.54536(15) 0.59847(17) 0.8003(4)
+C4 C 0.55810(15) 0.63374(16) 1.0085(4)
+C5 C 0.47796(15) 0.66189(16) 1.1032(3)
+C6 C 0.38783(14) 0.65645(16) 0.9965(3)
+C7 C 0.65595(16) 0.6427(2) 1.1264(4)
+C8 C 0.20829(14) 0.60487(15) 0.7508(3)
+C9 C 0.11702(14) 0.61460(15) 0.6278(3)
+C10 C 0.11017(15) 0.64786(15) 0.4120(3)
+C11 C 0.01983(15) 0.66214(15) 0.3029(3)
+C12 C -0.06138(15) 0.64214(15) 0.3987(3)
+C13 C -0.05334(14) 0.60742(15) 0.6096(3)
+C14 C 0.03375(13) 0.59379(15) 0.7226(3)
+H1 H 0.234(4) 0.652(3) 0.39(1)
+H2 H 0.44905 0.57122 0.54928
+H3 H 0.59813 0.57782 0.73398
+H4 H 0.48500 0.68523 1.24322
+H5 H 0.33496 0.67605 1.06375
+H6 H 0.65363 0.62414 1.27390
+H7 H 0.67695 0.70705 1.12087
+H8 H 0.69974 0.60270 1.05983
+H9 H 0.21077 0.58713 0.89483
+H10 H 0.01490 0.68561 0.16300
+H11 H -0.12117 0.65149 0.32459
+H12 H 0.03733 0.57065 0.86269
+H13? H 0.274(5) 0.641(4) 0.518(13)
+#END

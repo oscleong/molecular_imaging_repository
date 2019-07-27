@@ -1,0 +1,93 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOHDFR
+_audit_creation_date 1981-07-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOHDFR
+_database_code_depnum_ccdc_archive 'CCDC 1221790'
+_chemical_formula_sum 'C8 H9 N1 O7'
+_chemical_formula_moiety
+;
+C8 H9 N1 O7
+;
+_journal_coden_Cambridge 292
+_journal_year 1980
+_journal_page_first 479
+_journal_name_full 'Latv.PSR Zinat.Akad.Vestis,Khim.Ser. '
+loop_
+_publ_author_name
+"K.K.Venter"
+"A.A.Kemme"
+"Ya.Ya.Bleidelis"
+_chemical_name_systematic
+;
+cis-2-Acetoxy-2-methoxycarbonyl-5-nitro-2,5-dihydrofuran
+;
+_cell_volume    510.812
+_exptl_crystal_density_diffrn 1.5
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.058
+_refine_ls_wR_factor_gt 0.058
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.457(1)
+_cell_length_b 8.108(1)
+_cell_length_c 10.988(1)
+_cell_angle_alpha 74.16(1)
+_cell_angle_beta 77.96(1)
+_cell_angle_gamma 68.41(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.33320 0.12900 0.41470
+O2 O 0.41870 0.31480 0.54880
+O3 O 0.21380 0.22590 0.71870
+O4 O 0.24250 0.41360 0.27330
+O5 O 0.57710 0.25030 0.18590
+O6 O 0.25510 -0.00920 0.23690
+O7 O 0.12540 0.27200 0.11660
+N1 N 0.29130 0.23420 0.60690
+C1 C 0.20210 0.15000 0.22100
+C2 C 0.18590 0.25140 0.32450
+C3 C -0.04420 0.30480 0.39620
+C4 C -0.03260 0.23730 0.51890
+C5 C 0.20690 0.13310 0.53710
+C6 C 0.10740 0.19340 0.01590
+C7 C 0.44880 0.39410 0.20460
+C8 C 0.47910 0.57510 0.15730
+#END

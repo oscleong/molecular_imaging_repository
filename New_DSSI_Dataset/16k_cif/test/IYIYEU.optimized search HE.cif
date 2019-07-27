@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IYIYEU
+_audit_creation_date 2004-10-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IYIYEU
+_database_code_depnum_ccdc_archive 'CCDC 209294'
+_chemical_formula_sum 'C10 H8 N2 O3'
+_chemical_formula_moiety
+;
+C10 H8 N2 O3
+;
+_journal_coden_Cambridge 198
+_journal_volume 125
+_journal_year 2004
+_journal_page_first 661
+_journal_name_full 'J.Fluorine Chem. '
+loop_
+_publ_author_name
+"R.D.Chambers"
+"D.Holling"
+"G.Sandford"
+"A.S.Batsanov"
+"J.A.K.Howard"
+_chemical_name_systematic
+;
+6-Methoxy-8-nitroquinoline
+;
+_cell_volume    921.746
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.466
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+There is a minor disorder with the 5-fluoro analogue; occupancy for H and F 
+at the site is 0.97:0.03.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0409
+_refine_ls_wR_factor_gt 0.0409
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 6.714(2)
+_cell_length_b 16.015(3)
+_cell_length_c 8.624(2)
+_cell_angle_alpha 90
+_cell_angle_beta 96.27(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.25108(11) -0.19335(4) 0.60189(9)
+O2 O 0.45486(15) 0.09102(7) 0.90764(11)
+O3 O 0.13353(14) 0.09587(6) 0.89396(10)
+N1 N 0.26344(12) 0.15197(5) 0.55797(10)
+N2 N 0.28876(14) 0.07384(5) 0.84525(9)
+C1 C 0.25252(15) 0.18820(6) 0.42011(12)
+H1 H 0.256(2) 0.2475(10) 0.4166(17)
+C2 C 0.23652(15) 0.14505(7) 0.27652(12)
+H2 H 0.235(2) 0.1758(9) 0.1792(18)
+C3 C 0.23112(15) 0.05962(6) 0.27721(11)
+H3 H 0.224(2) 0.0265(9) 0.1820(18)
+C4 C 0.24032(13) -0.07161(6) 0.43263(11)
+H4 H 0.22880 -0.10460 0.34080
+F1? F 0.235(3) -0.1174(15) 0.301(3)
+C5 C 0.25393(13) -0.10972(6) 0.57613(11)
+C6 C 0.27198(14) -0.06099(6) 0.71445(11)
+H5 H 0.280(2) -0.0888(9) 0.8149(18)
+C7 C 0.27339(14) 0.02353(6) 0.70184(10)
+C8 C 0.25938(13) 0.06681(6) 0.55809(10)
+C9 C 0.24331(12) 0.01671(6) 0.42156(10)
+C10 C 0.23067(18) -0.24609(7) 0.46652(14)
+H6 H 0.343(2) -0.2423(9) 0.4097(17)
+H7 H 0.110(2) -0.2348(9) 0.4009(18)
+H8 H 0.224(2) -0.3029(11) 0.5087(19)
+#END

@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUZWEE
+_audit_creation_date 2011-03-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUZWEE
+_database_code_depnum_ccdc_archive 'CCDC 755751'
+_chemical_formula_sum 'C14 H18 N2 O4'
+_chemical_formula_moiety
+;
+C14 H18 N2 O4
+;
+_journal_coden_Cambridge 1088
+_journal_year 2010
+_journal_page_first 493
+_journal_name_full 'Synlett '
+loop_
+_publ_author_name
+"H.Schwertfeger"
+"C.Wurtele"
+"P.R.Schreiner"
+_chemical_name_systematic
+;
+4,9-Dinitropentacyclo[7.3.1.1^4,12^.0^2,7^.0^6,11^]tetradecane
+;
+_chemical_name_common
+;
+4,9-Dinitrodiamantane
+;
+_chemical_melting_point 508.15
+_cell_volume   1234.876
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.481
+_exptl_special_details
+;
+Melting point range 508.15-512.15K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0439
+_refine_ls_wR_factor_gt 0.0439
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 18.127(3)
+_cell_length_b 6.4409(6)
+_cell_length_c 13.2648(17)
+_cell_angle_alpha 90
+_cell_angle_beta 127.122(12)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.07929(8) 0.6703(2) 0.43915(12)
+H1 H 0.07190 0.64240 0.36160
+H2 H 0.10750 0.80610 0.47000
+C2 C -0.01510(8) 0.66608(19) 0.41382(11)
+H3 H -0.05540 0.77150 0.35030
+C3 C -0.00378(8) 0.71190(19) 0.53606(12)
+H4 H 0.02440 0.84920 0.56750
+C4 C -0.15516(8) 0.4489(2) 0.33929(12)
+H5 H -0.19540 0.55290 0.27650
+H6 H -0.18400 0.31400 0.30730
+C5 C -0.09815(8) 0.7100(2) 0.51094(12)
+H7 H -0.09070 0.74070 0.58820
+H8 H -0.13830 0.81440 0.44840
+C6 C -0.06039(8) 0.4519(2) 0.36533(11)
+H9 H -0.06880 0.42180 0.28650
+C7 C 0.14050(8) 0.5054(2) 0.53741(12)
+N1 N 0.23323(7) 0.50464(18) 0.55827(11)
+O1 O 0.23085(7) 0.49969(19) 0.46467(11)
+O2 O 0.30464(7) 0.5058(2) 0.66566(11)
+C1D C -0.07929(8) 0.3297(2) 0.56085(12)
+H1D H -0.07190 0.35760 0.63840
+H2D H -0.10750 0.19390 0.53000
+C2D C 0.01510(8) 0.33392(19) 0.58618(11)
+H3D H 0.05540 0.22850 0.64970
+C3D C 0.00378(8) 0.28810(19) 0.46394(12)
+H4D H -0.02440 0.15080 0.43250
+C4D C 0.15516(8) 0.5511(2) 0.66071(12)
+H5D H 0.19540 0.44710 0.72350
+H6D H 0.18400 0.68600 0.69270
+C5D C 0.09815(8) 0.2900(2) 0.48906(12)
+H7D H 0.09070 0.25930 0.41180
+H8D H 0.13830 0.18560 0.55160
+C6D C 0.06039(8) 0.5481(2) 0.63467(11)
+H9D H 0.06880 0.57820 0.71350
+C7D C -0.14050(8) 0.4946(2) 0.46259(12)
+N1D N -0.23323(7) 0.49536(18) 0.44173(11)
+O1D O -0.23085(7) 0.50031(19) 0.53533(11)
+O2D O -0.30464(7) 0.4942(2) 0.33434(11)
+#END

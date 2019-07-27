@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HORWES
+_audit_creation_date 2014-09-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HORWES
+_database_code_depnum_ccdc_archive 'CCDC 1018650'
+_chemical_formula_sum 'C5 H8 N6 O2'
+_chemical_formula_moiety
+;
+C5 H8 N6 O2
+;
+_journal_coden_Cambridge 182
+_journal_volume 50
+_journal_year 2014
+_journal_page_first 12504
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"S.P.Kelley"
+"P.S.Barber"
+"P.H.K.Mullins"
+"R.D.Rogers"
+_chemical_name_systematic
+;
+4,5-(diamidoximyl)imidazole
+;
+_cell_volume   1525.332
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.604
+_exptl_crystal_preparation 'Re-crystallisation from solvent'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0334
+_refine_ls_wR_factor_gt 0.0334
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 9.9861(5)
+_cell_length_b 9.1996(5)
+_cell_length_c 16.6035(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.16592(12) 0.32443(14) 0.73455(7)
+H1 H 0.108(2) 0.266(3) 0.7102(12)
+O2 O 0.64079(11) 0.11976(12) 0.47467(6)
+H2 H 0.682(2) 0.137(2) 0.4296(12)
+N1 N 0.63052(12) 0.53194(15) 0.57185(8)
+H3 H 0.693(2) 0.522(2) 0.5336(11)
+N2 N 0.50534(13) 0.63263(14) 0.66554(7)
+N3 N 0.26067(14) 0.35801(14) 0.67395(7)
+N4 N 0.35623(15) 0.47826(16) 0.78348(8)
+H4 H 0.286(2) 0.469(2) 0.8073(12)
+H5 H 0.413(2) 0.542(2) 0.8014(13)
+N5 N 0.64116(12) 0.26563(15) 0.50547(7)
+N6 N 0.46818(15) 0.17231(15) 0.58864(8)
+H6 H 0.460(2) 0.088(2) 0.5577(12)
+H7 H 0.391(2) 0.201(2) 0.6154(12)
+C1 C 0.60461(16) 0.65256(18) 0.61498(9)
+H8 H 0.6550(18) 0.736(2) 0.6084(11)
+C2 C 0.46368(15) 0.49097(16) 0.65403(8)
+C3 C 0.54180(14) 0.42583(16) 0.59557(8)
+C4 C 0.35439(14) 0.43762(16) 0.70533(9)
+C5 C 0.55033(15) 0.27967(16) 0.56016(8)
+#END

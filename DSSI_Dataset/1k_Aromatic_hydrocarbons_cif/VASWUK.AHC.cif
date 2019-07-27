@@ -1,0 +1,187 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VASWUK
+_audit_creation_date 2017-05-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VASWUK
+_database_code_depnum_ccdc_archive 'CCDC 1520360'
+_chemical_formula_sum 'C28 H20'
+_chemical_formula_moiety
+;
+C28 H20
+;
+_journal_coden_Cambridge 4
+_journal_volume 139
+_journal_year 2017
+_journal_page_first 1428
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"E.Gonzalez-Fernandez"
+"L.D.M.Nicholls"
+"L.Schaaf"
+"C.Fares"
+"C.W.Lehmann"
+"M.Alcarazo"
+_chemical_name_systematic
+;
+5,12-dimethylhexahelicene
+;
+_cell_volume   1795.659
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.318
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'toluene'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0471
+_refine_ls_wR_factor_gt 0.0471
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.5356(11)
+_cell_length_b 15.5623(19)
+_cell_length_c 13.6640(17)
+_cell_angle_alpha 90
+_cell_angle_beta 98.380(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.76779(14) 0.55788(9) 0.82948(10)
+C2 C 0.77717(15) 0.49061(9) 0.89293(10)
+H1 H 0.87770 0.47610 0.92850
+C3 C 0.64288(15) 0.44046(8) 0.90882(9)
+C4 C 0.65566(16) 0.37991(8) 0.98761(9)
+H2 H 0.75650 0.36740 1.02420
+C5 C 0.52459(17) 0.33993(8) 1.01080(9)
+H3 H 0.53130 0.30690 1.06980
+C6 C 0.37703(15) 0.34705(8) 0.94742(9)
+C7 C 0.24008(17) 0.30586(8) 0.97278(10)
+H4 H 0.24670 0.27470 1.03300
+C8 C 0.10012(16) 0.31064(8) 0.91193(10)
+H5 H 0.00590 0.29120 0.93420
+C9 C 0.09357(15) 0.34471(7) 0.81457(10)
+C10 C -0.05011(15) 0.33939(8) 0.74652(11)
+H6 H -0.14310 0.31980 0.77020
+C11 C -0.05955(14) 0.36107(8) 0.64984(10)
+C12 C 0.08357(14) 0.38553(7) 0.61229(9)
+C13 C 0.08326(15) 0.40162(8) 0.51036(10)
+H7 H -0.01460 0.40260 0.46720
+C14 C 0.22097(16) 0.41584(8) 0.47259(10)
+H8 H 0.21790 0.42830 0.40430
+C15 C 0.36666(15) 0.41193(8) 0.53506(9)
+H9 H 0.46290 0.41730 0.50830
+C16 C 0.36991(14) 0.40035(7) 0.63526(9)
+H10 H 0.46920 0.39890 0.67690
+C17 C 0.22964(13) 0.39060(7) 0.67785(9)
+C18 C 0.23092(14) 0.37938(7) 0.78373(9)
+C19 C 0.36784(14) 0.39468(7) 0.85787(9)
+C20 C 0.49531(14) 0.45426(7) 0.84936(8)
+C21 C 0.47755(13) 0.53354(7) 0.79254(8)
+C22 C 0.32674(14) 0.56768(7) 0.75648(9)
+H11 H 0.23490 0.53570 0.76510
+C23 C 0.30918(15) 0.64583(8) 0.70929(9)
+H12 H 0.20620 0.66740 0.68650
+C24 C 0.44327(16) 0.69375(8) 0.69475(10)
+H13 H 0.43130 0.74690 0.66030
+C25 C 0.59161(15) 0.66351(8) 0.73055(10)
+H14 H 0.68180 0.69630 0.72060
+C26 C 0.61288(14) 0.58448(8) 0.78198(9)
+C27 C 0.91409(16) 0.60771(11) 0.81524(11)
+H15 H 0.92460 0.60890 0.74480
+H16 H 1.00740 0.58000 0.85240
+H17 H 0.90540 0.66660 0.83920
+C28 C -0.21364(15) 0.35335(9) 0.58117(12)
+H18 H -0.24220 0.40930 0.55080
+H19 H -0.29700 0.33440 0.61860
+H20 H -0.20210 0.31130 0.52930
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.354 1_555 1_555
+C2 H1 0.950 1_555 1_555
+C3 C2 1.429 1_555 1_555
+C4 C3 1.423 1_555 1_555
+H2 C4 0.950 1_555 1_555
+C5 C4 1.357 1_555 1_555
+H3 C5 0.951 1_555 1_555
+C6 C5 1.425 1_555 1_555
+C7 C6 1.420 1_555 1_555
+H4 C7 0.950 1_555 1_555
+C8 C7 1.354 1_555 1_555
+H5 C8 0.950 1_555 1_555
+C9 C8 1.426 1_555 1_555
+C10 C9 1.429 1_555 1_555
+H6 C10 0.950 1_555 1_555
+C11 C10 1.354 1_555 1_555
+C12 C11 1.443 1_555 1_555
+C13 C12 1.415 1_555 1_555
+H7 C13 0.950 1_555 1_555
+C14 C13 1.369 1_555 1_555
+H8 C14 0.950 1_555 1_555
+C15 C14 1.403 1_555 1_555
+H9 C15 0.950 1_555 1_555
+C16 C15 1.377 1_555 1_555
+H10 C16 0.950 1_555 1_555
+C17 C12 1.427 1_555 1_555
+C18 C9 1.410 1_555 1_555
+C19 C6 1.423 1_555 1_555
+C20 C3 1.412 1_555 1_555
+C21 C20 1.454 1_555 1_555
+C22 C21 1.413 1_555 1_555
+H11 C22 0.950 1_555 1_555
+C23 C22 1.374 1_555 1_555
+H12 C23 0.950 1_555 1_555
+C24 C23 1.404 1_555 1_555
+H13 C24 0.950 1_555 1_555
+C25 C24 1.372 1_555 1_555
+H14 C25 0.950 1_555 1_555
+C26 C1 1.446 1_555 1_555
+C27 C1 1.506 1_555 1_555
+H15 C27 0.980 1_555 1_555
+H16 C27 0.980 1_555 1_555
+H17 C27 0.980 1_555 1_555
+C28 C11 1.505 1_555 1_555
+H18 C28 0.980 1_555 1_555
+H19 C28 0.980 1_555 1_555
+H20 C28 0.980 1_555 1_555
+C16 C17 1.414 1_555 1_555
+C17 C18 1.456 1_555 1_555
+C18 C19 1.450 1_555 1_555
+C19 C20 1.447 1_555 1_555
+C21 C26 1.426 1_555 1_555
+C25 C26 1.415 1_555 1_555
+#END

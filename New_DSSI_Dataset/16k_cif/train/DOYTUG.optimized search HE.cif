@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DOYTUG
+_audit_creation_date 2000-11-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DOYTUG
+_database_code_depnum_ccdc_archive 'CCDC 148847'
+_chemical_formula_sum 'C5 H9 N3 O1'
+_chemical_formula_moiety
+;
+C5 H9 N3 O1
+;
+_journal_coden_Cambridge 692
+_journal_year 2000
+_journal_page_first 681
+_journal_name_full 'Synthesis '
+loop_
+_publ_author_name
+"V.K.Khlestkin"
+"D.G.Mazhukin"
+"A.Ya.Tikhonov"
+"T.V.Rybalova"
+"I.Yu.Bagryanskaya"
+"Yu.V.Gatilov"
+_chemical_name_systematic
+;
+4,4,5-Trimethyl-4H-1,2,3-triazol-2-oxide
+;
+_chemical_melting_point 351
+_cell_volume    685.884
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.231
+_exptl_special_details
+;
+Melting point range 351-354K
+
+;
+_exptl_crystal_description 'plates'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0393
+_refine_ls_wR_factor_gt 0.0393
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.0490(8)
+_cell_length_b 7.7203(9)
+_cell_length_c 14.687(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.6516(4) 0.6327(3) 0.50669(14)
+N2 N 0.7461(5) 0.4893(3) 0.45514(13)
+N3 N 0.8658(4) 0.3846(3) 0.49921(14)
+C1 C 0.8681(4) 0.4487(3) 0.59296(15)
+C2 C 0.7308(5) 0.6081(4) 0.5863(2)
+C3 C 0.6879(9) 0.7300(6) 0.6626(3)
+C4 C 1.1054(5) 0.4865(4) 0.6224(2)
+C5 C 0.7611(7) 0.3125(4) 0.6547(2)
+O1 O 0.7027(5) 0.4831(3) 0.37261(11)
+H1 H 0.801(13) 0.782(11) 0.6738(44)
+H2 H 0.6759(67) 0.6691(56) 0.7187(28)
+H3 H 0.5524(84) 0.8151(57) 0.6450(29)
+H4 H 1.1803(56) 0.3816(41) 0.6225(20)
+H5 H 1.1710(61) 0.5771(45) 0.5818(21)
+H6 H 1.0983(66) 0.5295(43) 0.6896(25)
+H7 H 0.7756(59) 0.3664(43) 0.7183(22)
+H8 H 0.8597(68) 0.2054(52) 0.6457(23)
+H9 H 0.6225(67) 0.2903(47) 0.6310(23)
+#END

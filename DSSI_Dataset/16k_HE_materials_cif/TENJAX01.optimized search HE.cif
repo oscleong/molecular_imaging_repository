@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TENJAX01
+_audit_creation_date 1997-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TENJAX01
+_chemical_formula_sum 'C17 H18 N2 O1'
+_chemical_formula_moiety
+;
+C17 H18 N2 O1
+;
+_journal_coden_Cambridge 456
+_journal_volume 70
+_journal_year 1996
+_journal_page_first 607
+_journal_name_full 'Pol.J.Chem. '
+loop_
+_publ_author_name
+"M.Gdaniec"
+"M.J.Milewska"
+"T.Polonski"
+_chemical_name_systematic
+;
+N-Nitroso-cis-2,6-diphenylpiperidine
+;
+_chemical_melting_point 341.15
+_cell_volume    731.177
+_exptl_crystal_density_diffrn 1.21
+_exptl_special_details
+;
+monoclinic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The nitroso group is disordered over two sites with occupancies of 0.59:0.41.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P n'
+_symmetry_Int_Tables_number 7
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2+z
+_cell_length_a 8.883(2)
+_cell_length_b 8.753(2)
+_cell_length_c 9.678(2)
+_cell_angle_alpha 90
+_cell_angle_beta 103.67(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.1399(16) 0.6729(17) 0.6524(15)
+O1 O 0.1739(10) 0.7599(14) 0.7505(10)
+N2? N 0.1372(13) 0.7637(19) 0.6780(15)
+O2? O 0.1867(27) 0.6293(22) 0.6999(19)
+N3 N 0.06430 0.7564(7) 0.53570
+C1 C 0.0284(7) 0.6403(7) 0.4215(7)
+C2 C -0.1423(8) 0.6557(7) 0.3505(9)
+C3 C -0.1975(6) 0.8177(7) 0.3157(8)
+C4 C -0.1620(6) 0.9141(9) 0.4479(8)
+C5 C 0.0108(6) 0.9132(8) 0.5181(7)
+C6 C 0.1451(7) 0.6493(5) 0.3298(8)
+C7 C 0.2988(7) 0.6096(7) 0.3904(9)
+C8 C 0.4059(9) 0.6115(7) 0.3092(11)
+C9 C 0.3678(10) 0.6463(7) 0.1705(10)
+C10 C 0.2147(9) 0.6802(7) 0.1064(9)
+C11 C 0.1061(8) 0.6819(7) 0.1864(8)
+C12 C 0.1096(7) 1.0108(7) 0.4409(7)
+C13 C 0.2683(7) 0.9827(7) 0.4665(7)
+C14 C 0.3616(9) 1.0749(9) 0.4042(10)
+C15 C 0.3012(10) 1.194(1) 0.3198(11)
+C16 C 0.1442(11) 1.2228(8) 0.2933(9)
+C17 C 0.0510(8) 1.1334(8) 0.3562(8)
+H1 H 0.04320 0.54130 0.46520
+H2 H -0.20620 0.60680 0.40470
+H3 H -0.15800 0.60440 0.26050
+H4 H -0.30640 0.82260 0.27260
+H5 H -0.14360 0.86190 0.25040
+H6 H -0.20020 1.01620 0.42730
+H7 H -0.21400 0.87000 0.51470
+H8 H 0.02480 0.95830 0.61070
+H9 H 0.33230 0.58520 0.48970
+H10 H 0.51230 0.58700 0.35080
+H11 H 0.44820 0.64970 0.11950
+H12 H 0.18600 0.70410 0.00680
+H13 H 0.00050 0.70610 0.14120
+H14 H 0.31140 0.89780 0.52540
+H15 H 0.47150 1.05790 0.42660
+H16 H 0.36880 1.25530 0.27840
+H17 H 0.10110 1.30530 0.23110
+H18 H -0.05810 1.15370 0.33950
+#END

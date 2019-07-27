@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BANHOO02
+_audit_creation_date 2003-03-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BANHOO02
+_database_code_depnum_ccdc_archive 'CCDC 202490'
+_chemical_formula_sum 'C16 H12 N2 O3'
+_chemical_formula_moiety
+;
+C16 H12 N2 O3
+;
+_journal_coden_Cambridge 1147
+_journal_volume 2
+_journal_year 2002
+_journal_page_first 609
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"R.M.Vrcelj"
+"E.E.A.Shepherd"
+"Choon-Sup Yoon"
+"J.N.Sherwood"
+"A.R.Kennedy"
+_chemical_name_systematic
+;
+trans-\a-((4-Methoxyphenyl)methylene)-4-nitrobenzeneacetonitrile
+;
+_chemical_melting_point 436.15
+_cell_volume   1396.081
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.333
+_exptl_special_details
+;
+orange Cc polymorph II
+phase transition at 293 K by mechanical damage to polymorph III
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0409
+_refine_ls_wR_factor_gt 0.0409
+loop_
+_citation_database_id_CSD
+_citation_special_details
+BANJEG "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 4.6002(7)
+_cell_length_b 31.947(4)
+_cell_length_c 9.511(1)
+_cell_angle_alpha 90
+_cell_angle_beta 92.81(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.81730 -0.96006(8) -0.15740
+O2 O -0.7323(7) -1.00989(7) -0.0125(4)
+O3 O 1.1220(7) -0.82746(7) 0.7752(3)
+N1 N -0.6900(7) -0.97439(8) -0.0542(4)
+N2 N 0.1767(9) -0.79734(10) 0.1738(4)
+C1 C -0.4828(8) -0.94806(9) 0.0270(4)
+C2 C -0.4365(8) -0.90734(10) -0.0139(4)
+C3 C -0.2391(8) -0.88328(10) 0.0632(4)
+C4 C -0.0844(7) -0.89900(9) 0.1806(4)
+C5 C -0.1380(8) -0.94051(9) 0.2195(4)
+C6 C -0.3329(9) -0.96471(10) 0.1429(4)
+C7 C 0.1279(7) -0.87304(8) 0.2635(4)
+C8 C 0.1577(8) -0.8306(1) 0.2157(4)
+C9 C 0.2907(8) -0.88753(9) 0.3751(4)
+C10 C 0.5080(8) -0.86844(9) 0.4706(4)
+C11 C 0.5813(8) -0.82632(9) 0.4788(4)
+C12 C 0.7837(9) -0.81136(10) 0.5786(4)
+C13 C 0.9228(8) -0.83856(9) 0.6723(4)
+C14 C 0.8576(8) -0.88123(10) 0.6645(4)
+C15 C 0.6543(9) -0.89511(10) 0.5675(4)
+C16 C 1.180(1) -0.7837(1) 0.7954(6)
+H1 H -0.534(6) -0.8968(10) -0.089(3)
+H2 H -0.210(6) -0.8572(9) 0.036(3)
+H3 H -0.030(6) -0.9511(9) 0.302(3)
+H4 H -0.390(7) -0.992(1) 0.172(3)
+H5 H 0.254(7) -0.9143(9) 0.391(3)
+H6 H 0.490(7) -0.8062(9) 0.411(3)
+H7 H 0.836(7) -0.782(1) 0.579(3)
+H8 H 0.976(6) -0.8999(8) 0.725(3)
+H9 H 0.607(7) -0.921(1) 0.560(4)
+H10 H 0.98(1) -0.770(1) 0.824(5)
+H11 H 1.266(7) -0.771(1) 0.703(4)
+H12 H 1.307(8) -0.7831(9) 0.859(4)
+#END

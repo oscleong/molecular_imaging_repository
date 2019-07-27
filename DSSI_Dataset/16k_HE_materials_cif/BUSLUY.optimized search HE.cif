@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BUSLUY
+_audit_creation_date 2015-08-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BUSLUY
+_database_code_depnum_ccdc_archive 'CCDC 936461'
+_chemical_formula_sum 'C14 H12 N2 O2'
+_chemical_formula_moiety
+;
+C14 H12 N2 O2
+;
+_journal_coden_Cambridge 41
+_journal_volume 59
+_journal_year 2014
+_journal_page_first 961
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"A.Lapczuk-Krygier"
+"L.Ponikiewski"
+"R.Jasinski"
+_chemical_name_systematic
+;
+(1RS,4RS,5RS,6SR)-5-cyano-5-nitro-6-phenyl-bicyclo[2.2.1]hept-2-ene
+;
+_chemical_name_common
+;
+2-nitro-3-phenylbicyclo[2.2.1]hept-5-ene-2-carbonitrile
+;
+_cell_volume   1247.702
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.279
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0543
+_refine_ls_wR_factor_gt 0.0543
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.9551(5)
+_cell_length_b 9.8789(6)
+_cell_length_c 16.2881(11)
+_cell_angle_alpha 90
+_cell_angle_beta 102.907(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.2477(2) 0.02355(19) 0.08913(14)
+N2 N 0.0695(2) 0.2706(2) 0.18487(14)
+O1 O 0.1425(3) -0.0439(2) 0.11385(17)
+O2 O 0.2965(4) -0.0034(3) 0.02721(16)
+C1 C 0.6209(3) 0.2301(2) 0.17330(13)
+H1 H 0.70350 0.30330 0.17220
+C2 C 0.6888(3) 0.0873(3) 0.16838(15)
+H2 H 0.78440 0.06300 0.14760
+C3 C 0.5874(3) 0.0031(3) 0.19899(15)
+H3 H 0.59780 -0.09070 0.20230
+C4 C 0.4522(3) 0.0874(2) 0.22751(14)
+H4 H 0.39630 0.04560 0.26900
+C5 C 0.3281(2) 0.14357(19) 0.14474(12)
+C6 C 0.4481(2) 0.2369(2) 0.10389(12)
+H5 H 0.46740 0.19110 0.05340
+C7 C 0.5525(3) 0.2184(3) 0.25476(14)
+H6 H 0.64380 0.20700 0.30480
+H7 H 0.47840 0.29340 0.26210
+C8 C 0.1810(3) 0.2151(2) 0.16561(13)
+C9 C 0.3748(2) 0.3767(2) 0.07788(12)
+C10 C 0.2638(3) 0.3911(2) -0.00036(13)
+H8 H 0.23610 0.31560 -0.03490
+C11 C 0.1931(3) 0.5161(3) -0.02820(16)
+H9 H 0.11870 0.52340 -0.08090
+C12 C 0.2324(3) 0.6281(3) 0.02143(17)
+H10 H 0.18510 0.71170 0.00280
+C13 C 0.3419(4) 0.6164(2) 0.09888(17)
+H11 H 0.36880 0.69250 0.13290
+C14 C 0.4136(3) 0.4918(2) 0.12736(15)
+H12 H 0.48810 0.48550 0.18010
+#END

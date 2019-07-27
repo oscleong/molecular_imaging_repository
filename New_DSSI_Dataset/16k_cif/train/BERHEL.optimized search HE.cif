@@ -1,0 +1,106 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BERHEL
+_audit_creation_date 1983-01-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BERHEL
+_chemical_formula_sum 'C13 H9 N1 O4'
+_chemical_formula_moiety
+;
+C13 H9 N1 O4
+;
+_journal_coden_Cambridge 189
+_journal_volume 11
+_journal_year 1982
+_journal_page_first 409
+_journal_name_full 'Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"G.Bravic"
+"J.P.Bideau"
+"C.Courseille"
+_chemical_name_systematic
+;
+2-Nitro-7-methoxy-naphtho(2,1-b)furan
+;
+_cell_volume   1083.209
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 3.851(1)
+_cell_length_b 26.957(4)
+_cell_length_c 10.547(3)
+_cell_angle_alpha 90
+_cell_angle_beta 98.38(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.70160 0.50820 0.33770
+C2 C 0.48800 0.49850 0.22400
+C3 C 0.42300 0.53850 0.14830
+C4 C 0.97300 0.58520 0.42870
+C5 C 1.00700 0.63420 0.40640
+C6 C 0.89200 0.70930 0.27390
+C7 C 0.74400 0.73160 0.16250
+C8 C 0.54700 0.70380 0.06510
+C9 C 0.49900 0.65450 0.07980
+C10 C 0.64600 0.62970 0.19350
+C11 C 0.84600 0.65820 0.29090
+C12 C 0.60600 0.57860 0.21680
+C13 C 0.76900 0.55850 0.33160
+N21 N 0.38050 0.44850 0.20710
+O22 O 0.16940 0.43910 0.10970
+O23 O 0.49770 0.41760 0.28650
+O71 O 0.76960 0.78100 0.13420
+C72 C 0.96800 0.81180 0.22930
+H3 H 0.27900 0.53800 0.07000
+H4 H 1.08800 0.56900 0.51000
+H5 H 1.15200 0.65500 0.46800
+H6 H 1.04000 0.72900 0.34200
+H8 H 0.44100 0.72100 -0.01900
+H9 H 0.36700 0.63500 0.01200
+H721 H 0.85500 0.81100 0.31400
+H722 H 0.95300 0.84700 0.19900
+H723 H 1.21000 0.79900 0.24600
+#END

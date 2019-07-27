@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NITOLU01
+_audit_creation_date 2009-09-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NITOLU01
+_database_code_depnum_ccdc_archive 'CCDC 728953'
+_chemical_formula_sum 'C7 H7 N1 O2'
+_chemical_formula_moiety
+;
+C7 H7 N1 O2
+;
+_journal_coden_Cambridge 1147
+_journal_volume 9
+_journal_year 2009
+_journal_page_first 57
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"A.A.Yakovenko"
+"M.Yu.Antipin"
+"T.V.Timofeeva"
+_chemical_name_systematic
+;
+1-Methyl-4-nitrobenzene
+;
+_chemical_melting_point 327
+_cell_volume   1346.224
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.353
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0438
+_refine_ls_wR_factor_gt 0.0438
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 13.6516(19)
+_cell_length_b 6.3323(9)
+_cell_length_c 15.573(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.92277(8) 0.42393(16) 0.39850(7)
+N1 N 0.89251(9) 0.24114(18) 0.39444(7)
+C1 C 0.88429(9) 0.1189(2) 0.47428(8)
+O2 O 0.86872(9) 0.15581(18) 0.32682(7)
+C2 C 0.84849(10) -0.0858(2) 0.47035(9)
+H1 H 0.8293(12) -0.146(3) 0.4160(11)
+C3 C 0.83993(10) -0.1985(2) 0.54659(9)
+H2 H 0.8143(11) -0.338(3) 0.5444(10)
+C4 C 0.86661(10) -0.1090(2) 0.62538(8)
+C5 C 0.90279(10) 0.0984(2) 0.62630(9)
+H3 H 0.9215(12) 0.162(3) 0.6795(11)
+C6 C 0.91232(10) 0.2133(2) 0.55094(9)
+H4 H 0.9371(12) 0.351(3) 0.5527(10)
+C7 C 0.85728(12) -0.2341(2) 0.70726(9)
+H5 H 0.89390 -0.36660 0.70180
+H6 H 0.78810 -0.26550 0.71810
+H7 H 0.88380 -0.15180 0.75520
+#END

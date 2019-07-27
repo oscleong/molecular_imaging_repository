@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAPYOW
+_audit_creation_date 2005-10-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAPYOW
+_database_code_depnum_ccdc_archive 'CCDC 245040'
+_chemical_formula_sum 'C21 H19 N7 O4'
+_chemical_formula_moiety
+;
+C21 H19 N7 O4
+;
+_journal_coden_Cambridge 1003
+_journal_volume 35
+_journal_year 2005
+_journal_page_first 385
+_journal_name_full 'J.Chem.Cryst. '
+loop_
+_publ_author_name
+"Yingqun Mao"
+"I.Maley"
+"W.H.Watson"
+_chemical_name_systematic
+;
+5-(4-Nitrophenyl)-2-(4-(diethylamino)benzylideneamine)-2H-(pyrrolo(4,5-d)(1,2,
+3)triazole)-1,4-dione
+;
+_chemical_melting_point 613.15
+_cell_volume   2012.732
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.43
+_exptl_special_details
+;
+Melts above 613.15K
+
+;
+_exptl_crystal_description 'Prismatic'
+_exptl_crystal_preparation 'acetic acid'
+_diffrn_ambient_temperature 213
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0604
+_refine_ls_wR_factor_gt 0.0604
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 15.836(3)
+_cell_length_b 8.2362(15)
+_cell_length_c 15.447(3)
+_cell_angle_alpha 90
+_cell_angle_beta 92.551(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.04247(9) 1.10968(18) 0.72145(9)
+O2 O -0.09438(9) 0.57689(19) 0.64067(10)
+O3 O -0.27598(12) 0.8464(3) 1.04603(12)
+O4 O -0.35823(12) 0.6899(2) 0.96935(12)
+N1 N -0.08338(11) 0.8401(2) 0.69732(11)
+N2 N 0.08784(11) 0.9942(2) 0.57451(12)
+N3 N 0.10621(11) 0.8675(2) 0.52346(11)
+N4 N 0.05931(11) 0.7314(2) 0.53006(11)
+N5 N 0.17208(11) 0.8915(2) 0.46799(12)
+N6 N -0.29481(14) 0.7748(3) 0.97873(14)
+N7 N 0.39751(13) 0.9081(3) 0.13719(13)
+C1 C -0.03428(14) 0.9827(3) 0.68450(14)
+C2 C 0.02345(14) 0.9331(3) 0.61700(13)
+C3 C 0.00636(14) 0.7778(3) 0.59080(14)
+C4 C -0.06232(14) 0.7088(3) 0.64135(13)
+C5 C -0.13747(14) 0.8222(3) 0.76830(14)
+C6 C -0.21323(14) 0.7377(3) 0.75698(15)
+H1 H -0.22970 0.69330 0.70280
+C7 C -0.26395(15) 0.7203(3) 0.82731(15)
+H2 H -0.31460 0.66080 0.82180
+C8 C -0.23968(15) 0.7905(3) 0.90494(14)
+C9 C -0.16488(15) 0.8751(3) 0.91681(14)
+H3 H -0.14980 0.92270 0.97060
+C10 C -0.11280(14) 0.8882(3) 0.84811(14)
+H4 H -0.06060 0.94180 0.85530
+C11 C 0.17656(14) 0.7869(3) 0.40649(14)
+H5 H 0.13910 0.69830 0.40340
+C12 C 0.23952(14) 0.8063(3) 0.34215(14)
+C13 C 0.23350(14) 0.7175(3) 0.26529(14)
+H6 H 0.19220 0.63580 0.25890
+C14 C 0.28634(15) 0.7461(3) 0.19832(15)
+H7 H 0.28060 0.68400 0.14740
+C15 C 0.34862(15) 0.8672(3) 0.20566(16)
+C16 C 0.35781(15) 0.9501(3) 0.28564(16)
+H8 H 0.40170 1.02610 0.29420
+C17 C 0.30383(15) 0.9217(3) 0.35097(15)
+H9 H 0.31030 0.98130 0.40280
+C18 C 0.38896(17) 0.8235(4) 0.05258(18)
+H10 H 0.40580 0.89740 0.00670
+H11 H 0.32960 0.79420 0.04080
+C19 C 0.44166(19) 0.6747(4) 0.05089(19)
+H12 H 0.50050 0.70330 0.06220
+H13 H 0.43490 0.62380 -0.00560
+H14 H 0.42400 0.59970 0.09500
+C20 C 0.46620(17) 1.0283(3) 0.14741(17)
+H15 H 0.44610 1.12030 0.18110
+H16 H 0.47950 1.06910 0.09000
+C21 C 0.54568(17) 0.9634(4) 0.19129(18)
+H17 H 0.53300 0.92020 0.24770
+H18 H 0.58680 1.05020 0.19840
+H19 H 0.56860 0.87770 0.15620
+#END

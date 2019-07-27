@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CATJAI
+_audit_creation_date 1984-08-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CATJAI
+_database_code_depnum_ccdc_archive 'CCDC 1120705'
+_chemical_formula_sum 'C6 H8 N8 O10'
+_chemical_formula_moiety
+;
+C6 H8 N8 O10
+;
+_journal_coeditor_code "IUCr A22844"
+_journal_coden_Cambridge 591
+_journal_volume 39
+_journal_year 1983
+_journal_page_first 1680
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"H.L.Ammon"
+"R.D.Gilardi"
+"S.K.Bhattacharjee"
+_chemical_name_systematic
+;
+3,3,7,7-Tetranitro-1,5-dinitroso-1,5-diazacyclo-octane
+;
+_cell_volume   1313.090
+_exptl_crystal_density_diffrn 1.781
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The nitroso groups are disordered; positions of 0.857 occupancy retained for 
+the oxygen atoms.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.051
+_refine_ls_wR_factor_gt 0.051
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 10.695(4)
+_cell_length_b 10.607(3)
+_cell_length_c 11.575(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.36640 -0.00970 -0.09520
+C2 C 0.43890 -0.13140 -0.11930
+C3 C 0.55860 -0.15300 -0.05070
+N1 N 0.37680 0.03450 0.02280
+N2 N 0.30610 -0.01330 0.10610
+N3 N 0.35130 -0.24550 -0.10480
+N4 N 0.47160 -0.13900 -0.24870
+O1 O 0.24920 -0.10640 0.08100
+O2 O 0.38310 -0.32980 -0.04180
+O3 O 0.25500 -0.24210 -0.15950
+O4 O 0.48900 -0.24380 -0.28660
+O5 O 0.48430 -0.04270 -0.30150
+H1 H 0.29300 -0.02400 -0.11600
+H2 H 0.38600 0.05300 -0.14900
+H3 H 0.62900 -0.20200 -0.10000
+H4 H 0.52400 -0.19200 0.02600
+N1D N 0.62320 -0.03450 -0.02280
+C3D C 0.44140 0.15300 0.05070
+C1D C 0.63360 0.00970 0.09520
+N2D N 0.69390 0.01330 -0.10610
+C2D C 0.56110 0.13140 0.11930
+H3D H 0.37100 0.20200 0.10000
+H4D H 0.47600 0.19200 -0.02600
+H1D H 0.70700 0.02400 0.11600
+H2D H 0.61400 -0.05300 0.14900
+O1D O 0.75080 0.10640 -0.08100
+N3D N 0.64870 0.24550 0.10480
+N4D N 0.52840 0.13900 0.24870
+O2D O 0.61690 0.32980 0.04180
+O3D O 0.74500 0.24210 0.15950
+O4D O 0.51100 0.24380 0.28660
+O5D O 0.51570 0.04270 0.30150
+#END

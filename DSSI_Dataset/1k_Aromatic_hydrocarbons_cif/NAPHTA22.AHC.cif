@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NAPHTA22
+_audit_creation_date 2006-11-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NAPHTA22
+_database_code_depnum_ccdc_archive 'CCDC 624346'
+_chemical_formula_sum 'C10 H8'
+_chemical_formula_moiety
+;
+C10 H8
+;
+_journal_coeditor_code "IUCr BS5035"
+_journal_coden_Cambridge 622
+_journal_volume 62
+_journal_year 2006
+_journal_page_first 826
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"F.P.A.Fabbiani"
+"D.R.Allan"
+"S.Parsons"
+"C.R.Pulham"
+_chemical_name_systematic
+;
+Naphthalene
+;
+_cell_volume    303.712
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.401
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298
+_diffrn_ambient_pressure 2100000.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.1204
+_refine_ls_wR_factor_gt 0.1204
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 7.6778(17)
+_cell_length_b 5.721(1)
+_cell_length_c 8.395(3)
+_cell_angle_alpha 90
+_cell_angle_beta 124.55(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0842(9) 0.0203(7) 0.3373(7)
+H1 H 0.12720 0.06300 0.46150
+C2 C 0.1147(8) 0.1718(6) 0.2280(7)
+H2 H 0.17900 0.31570 0.27910
+C3 C 0.0486(7) 0.1098(6) 0.0371(7)
+C4 C 0.0773(10) 0.2630(8) -0.0797(9)
+H3 H 0.14120 0.40770 -0.03110
+C5 C -0.0121(11) -0.1998(7) 0.2623(9)
+H4 H -0.03100 -0.30160 0.33770
+C1B C -0.0842(9) -0.0203(7) -0.3373(7)
+H1B H -0.12720 -0.06300 -0.46150
+C2B C -0.1147(8) -0.1718(6) -0.2280(7)
+H2B H -0.17900 -0.31570 -0.27910
+C3B C -0.0486(7) -0.1098(6) -0.0371(7)
+C4B C -0.0773(10) -0.2630(8) 0.0797(9)
+H3B H -0.14120 -0.40770 0.03110
+C5B C 0.0121(11) 0.1998(7) -0.2623(9)
+H4B H 0.03100 0.30160 -0.33770
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 0.930 1_555 1_555
+C2 C1 1.375 1_555 1_555
+H2 C2 0.930 1_555 1_555
+C3 C2 1.425 1_555 1_555
+C4 C3 1.422 1_555 1_555
+H3 C4 0.930 1_555 1_555
+C5 C1 1.414 1_555 1_555
+H4 C5 0.930 1_555 1_555
+C1B H1B 0.930 1_555 1_555
+C2B C1B 1.375 1_555 1_555
+H2B C2B 0.930 1_555 1_555
+C3B C3 1.413 1_555 1_555
+C4B C5 1.364 1_555 1_555
+H3B C4B 0.930 1_555 1_555
+C5B C4 1.364 1_555 1_555
+H4B C5B 0.930 1_555 1_555
+C1B C5B 1.414 1_555 1_555
+C2B C3B 1.425 1_555 1_555
+C3B C4B 1.422 1_555 1_555
+#END

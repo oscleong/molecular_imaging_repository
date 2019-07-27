@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QORSAS
+_audit_creation_date 2009-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QORSAS
+_database_code_depnum_ccdc_archive 'CCDC 699142'
+_chemical_formula_sum 'C4 H5 N7 O12'
+_chemical_formula_moiety
+;
+C4 H5 N7 O12
+;
+_journal_coden_Cambridge 1367
+_journal_volume 19
+_journal_year 2009
+_journal_page_first 347
+_journal_name_full 'Adv.Funct.Mater. '
+loop_
+_publ_author_name
+"M.Gobel"
+"T.M.Klapotke"
+_chemical_name_systematic
+;
+bis(2,2,2-Trinitroethyl)amine
+;
+_cell_volume   2423.949
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.881
+_exptl_special_details
+;
+high oxygen explosive; BAM (Bundesanstalt fur Materialprufung) classification 
+as a sensitive material
+friction- and impact-sensitive
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0392
+_refine_ls_wR_factor_gt 0.0392
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 12.8907(3)
+_cell_length_b 11.7069(3)
+_cell_length_c 16.0622(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.56426(12) 0.07860(14) 0.28138(10)
+C2 C 0.58514(13) 0.18671(14) 0.33121(11)
+C3 C 0.79221(12) 0.17684(13) 0.49525(10)
+C4 C 0.73172(13) 0.22543(14) 0.42284(10)
+N1 N 0.48212(11) 0.00072(12) 0.31932(10)
+N2 N 0.66417(11) 0.00959(12) 0.27375(9)
+N3 N 0.52547(11) 0.10484(12) 0.19459(9)
+N4 N 0.74797(12) 0.21041(13) 0.58020(9)
+N5 N 0.90402(11) 0.21807(12) 0.49678(8)
+N6 N 0.7952(1) 0.04708(12) 0.49114(9)
+N7 N 0.63922(11) 0.15695(12) 0.40787(9)
+O1 O 0.46143(12) 0.01653(14) 0.39161(9)
+O2 O 0.44424(12) -0.06990(12) 0.27292(10)
+O3 O 0.66370(12) -0.08802(11) 0.29801(9)
+O4 O 0.73635(10) 0.06276(14) 0.24549(9)
+O5 O 0.45936(10) 0.17865(12) 0.19186(9)
+O6 O 0.56043(12) 0.05094(13) 0.13678(8)
+O7 O 0.80831(12) 0.22157(15) 0.63742(9)
+O8 O 0.6548(1) 0.22312(12) 0.58260(9)
+O9 O 0.96979(9) 0.15259(12) 0.52200(9)
+O10 O 0.91618(10) 0.31649(11) 0.47509(9)
+O11 O 0.75597(10) -0.00592(11) 0.54780(9)
+O12 O 0.83488(10) 0.00914(10) 0.42850(9)
+H1 H 0.5176(17) 0.2226(18) 0.3399(12)
+H2 H 0.6281(15) 0.2391(17) 0.2942(12)
+H3 H 0.7172(15) 0.3019(19) 0.4331(12)
+H4 H 0.7743(15) 0.2217(15) 0.3774(13)
+H5 H 0.5966(14) 0.1616(16) 0.4474(13)
+#END

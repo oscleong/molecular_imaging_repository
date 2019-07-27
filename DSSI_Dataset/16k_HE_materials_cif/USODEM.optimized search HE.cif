@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_USODEM
+_audit_creation_date 2011-07-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD USODEM
+_database_code_depnum_ccdc_archive 'CCDC 764024'
+_chemical_formula_sum 'C13 H21 N1 O8'
+_chemical_formula_moiety
+;
+C13 H21 N1 O8
+;
+_journal_coeditor_code "IUCr CV5090"
+_journal_coden_Cambridge 1370
+_journal_volume 67
+_journal_year 2011
+_journal_page_first o1402
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Qiurong Zhang"
+"Yu Ke"
+"Weiyan Cheng"
+"Pengyun Li"
+"Hongmin Liu"
+_chemical_name_systematic
+;
+5-(2,2-Dimethyl-1,3-dioxolan-4-yl)-2,2-dimethyl-6-(nitromethyl)tetrahydrofuro[
+2,3-d][1,3]dioxol-6-ol
+;
+_chemical_name_common
+;
+1,2;5,6-Di-O-isopropylidene-3-C-nitromethyl-alpha-D-allofuranose
+;
+_cell_volume   2505.970
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.27
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 291
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0614
+_refine_ls_wR_factor_gt 0.0614
+loop_
+_citation_database_id_CSD
+_citation_special_details
+CIDVAO "is a stereoisomer of this entry"
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 61'
+_symmetry_Int_Tables_number 169
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,1/3+z
+3 -x+y,-x,2/3+z
+4 -x,-y,1/2+z
+5 y,-x+y,5/6+z
+6 x-y,x,1/6+z
+_cell_length_a 13.2581(19)
+_cell_length_b 13.2581(19)
+_cell_length_c 16.462(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2338(3) 0.7097(4) 0.2334(2)
+O2 O 0.0552(3) 0.6458(3) 0.1793(2)
+O3 O 0.0092(2) 0.5408(3) 0.0319(2)
+O4 O 0.3029(3) 0.6935(3) 0.1082(2)
+O5 O 0.1802(3) 0.4394(3) -0.0205(3)
+O6 O 0.3601(3) 0.4537(4) -0.0197(3)
+O7 O 0.0437(7) 0.7865(7) -0.0252(4)
+O8 O 0.0234(7) 0.6912(7) -0.1261(4)
+N1 N 0.0764(5) 0.7349(5) -0.0646(3)
+C1 C 0.2559(4) 0.7508(4) 0.1523(3)
+H1 H 0.30680 0.83550 0.15020
+C2 C 0.1347(4) 0.7135(4) 0.1170(3)
+H2 H 0.12630 0.78000 0.10050
+C3 C 0.1227(4) 0.6337(4) 0.0451(3)
+C4 C 0.2095(3) 0.5932(4) 0.0705(3)
+H3 H 0.17210 0.53170 0.11140
+C5 C 0.2641(4) 0.5535(5) 0.0066(3)
+H4 H 0.29180 0.60810 -0.03920
+C6 C 0.3605(5) 0.5349(5) 0.0379(3)
+H5 H 0.43470 0.60700 0.03810
+H6 H 0.34380 0.50250 0.09230
+C7 C 0.1610(4) 0.7012(5) -0.0346(3)
+H7 H 0.23600 0.77090 -0.02680
+H8 H 0.17030 0.65370 -0.07540
+C8 C 0.1192(4) 0.6842(5) 0.2544(3)
+C9 C 0.0671(6) 0.5833(6) 0.3133(4)
+H9 H 0.06720 0.51740 0.28920
+H10 H -0.01140 0.56350 0.32580
+H11 H 0.11250 0.60500 0.36230
+C10 C 0.1218(6) 0.7930(6) 0.2860(4)
+H12 H 0.15420 0.85280 0.24530
+H13 H 0.16890 0.81960 0.33410
+H14 H 0.04400 0.77550 0.29860
+C11 C 0.2428(4) 0.3839(5) -0.0501(4)
+C12 C 0.1872(7) 0.2647(6) -0.0156(6)
+H15 H 0.18860 0.26900 0.04260
+H16 H 0.22910 0.22690 -0.03320
+H17 H 0.10800 0.22100 -0.03400
+C13 C 0.2482(6) 0.3881(7) -0.1415(4)
+H18 H 0.28600 0.46770 -0.15920
+H19 H 0.17070 0.34690 -0.16320
+H20 H 0.29150 0.35230 -0.16020
+H21 H -0.017(6) 0.497(6) 0.077(5)
+#END

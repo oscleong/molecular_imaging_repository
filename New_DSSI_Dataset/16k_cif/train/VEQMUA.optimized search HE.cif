@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VEQMUA
+_audit_creation_date 2006-12-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VEQMUA
+_database_code_depnum_ccdc_archive 'CCDC 601355'
+_database_code_depnum_ccdc_journal 1135/244
+_chemical_formula_sum 'C5 H10 N2 O4'
+_chemical_formula_moiety
+;
+C5 H10 N2 O4
+;
+_journal_coden_Cambridge 1135
+_journal_year 2006
+_journal_page_first 222
+_journal_name_full 'Mendeleev Commun. '
+loop_
+_publ_author_name
+"O.V.Shishkin"
+"R.I.Zubatyuk"
+"V.G.Shtamburg"
+"A.V.Tsygankov"
+"E.A.Klots"
+"A.V.Mazepa"
+"R.G.Kostyanovsky"
+_chemical_name_systematic
+;
+N-Acetoxy-N-ethoxyurea
+;
+_chemical_melting_point 377.15
+_cell_volume    782.570
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.376
+_exptl_special_details
+;
+Melting point range 377.15-378.15K
+
+;
+_diffrn_ambient_temperature 165
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0436
+_refine_ls_wR_factor_gt 0.0436
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.760(4)
+_cell_length_b 7.4009(19)
+_cell_length_c 10.072(3)
+_cell_angle_alpha 90
+_cell_angle_beta 102.66(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.22520(14) -0.3813(2) -0.56316(15)
+O2 O -0.13847(16) -0.1416(2) -0.43756(17)
+O3 O -0.40953(14) -0.1342(2) -0.59368(16)
+O4 O -0.26403(14) -0.4467(2) -0.35353(16)
+N1 N -0.32052(17) -0.3877(3) -0.48471(19)
+N2 N -0.4253(2) -0.1811(3) -0.3745(2)
+H1 H -0.396(2) -0.237(4) -0.296(3)
+H2 H -0.473(3) -0.088(4) -0.383(3)
+C1 C -0.1346(2) -0.2487(3) -0.5253(2)
+C2 C -0.3849(2) -0.2190(3) -0.4870(2)
+C3 C -0.2994(3) -0.6336(3) -0.3401(3)
+H3 H -0.27660 -0.70740 -0.41320
+H4 H -0.39240 -0.64330 -0.34720
+C4 C -0.0383(2) -0.2641(4) -0.6099(3)
+H5 H 0.00720 -0.14910 -0.60840
+H6 H -0.08090 -0.29330 -0.70380
+H7 H 0.02250 -0.36000 -0.57360
+C5 C -0.2293(3) -0.6984(4) -0.2049(3)
+H8 H -0.25390 -0.82350 -0.19160
+H9 H -0.25020 -0.62180 -0.13360
+H10 H -0.13750 -0.69290 -0.20040
+#END

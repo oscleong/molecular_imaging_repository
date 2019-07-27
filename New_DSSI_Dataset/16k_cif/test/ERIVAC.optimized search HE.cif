@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ERIVAC
+_audit_creation_date 2004-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ERIVAC
+_database_code_depnum_ccdc_archive 'CCDC 234859'
+_chemical_formula_sum 'C4 H6 N2 O3'
+_chemical_formula_moiety
+;
+C4 H6 N2 O3
+;
+_journal_coeditor_code "IUCr NA6283"
+_journal_coden_Cambridge 1370
+_journal_volume 60
+_journal_year 2004
+_journal_page_first o181
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"M.Gdaniec"
+"M.J.Milewska"
+"T.Polonski"
+_chemical_name_systematic
+;
+(S)-N-Nitrosoazetidine-2-carboxylic acid
+;
+_chemical_melting_point 388
+_cell_volume    573.543
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.507
+_exptl_special_details
+;
+Melting point range 388-389K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'benzene-hexane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.6521(11)
+_cell_length_b 7.948(2)
+_cell_length_c 10.848(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8442(3) 0.7297(2) 0.53813(13)
+O2 O 0.8536(3) 0.5374(2) 0.38881(14)
+H1 H 0.85020 0.46940 0.44920
+O3 O 0.6429(3) 0.6975(2) 0.05219(13)
+N1 N 0.7527(3) 0.7920(2) 0.22005(14)
+N2 N 0.7704(3) 0.6787(2) 0.13624(15)
+C1 C 0.8738(3) 0.8222(2) 0.33104(18)
+H2 H 1.01360 0.83990 0.31340
+C2 C 0.7521(4) 0.9866(3) 0.3482(2)
+H3 H 0.83530 1.08490 0.34170
+H4 H 0.67620 0.98900 0.42350
+C3 C 0.6247(4) 0.9412(3) 0.2340(2)
+H5 H 0.48640 0.92540 0.25630
+H6 H 0.62940 1.00780 0.16010
+C4 C 0.8530(4) 0.6919(3) 0.43120(19)
+#END

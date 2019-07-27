@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIYNAU
+_audit_creation_date 2014-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIYNAU
+_database_code_depnum_ccdc_archive 'CCDC 944729'
+_chemical_formula_sum 'C9 H11 N1 O2'
+_chemical_formula_moiety
+;
+C9 H11 N1 O2
+;
+_journal_coden_Cambridge 1003
+_journal_volume 44
+_journal_year 2014
+_journal_page_first 98
+_journal_name_full 'J.Chem.Cryst. '
+loop_
+_publ_author_name
+"E.Bosch"
+_chemical_name_systematic
+;
+2,6-Dimethyl-4-nitrosophenyl methyl ether
+;
+_chemical_name_common
+;
+2,6-dimethyl-4-nitrosoanisole
+;
+_chemical_melting_point 326
+_cell_volume    427.257
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.284
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'hexane'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+O2 disordered by symmetry over two sites with occupancy 0.5.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0482
+_refine_ls_wR_factor_gt 0.0482
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 3.9667(5)
+_cell_length_b 11.2679(15)
+_cell_length_c 9.6508(13)
+_cell_angle_alpha 90
+_cell_angle_beta 97.905(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.5578(4) 0.25000 0.08395(17)
+N1 N 0.0324(7) 0.25000 0.5885(3)
+C1 C 0.4199(5) 0.25000 0.2076(2)
+C2 C 0.3619(4) 0.35865(16) 0.26934(17)
+C3 C 0.2358(4) 0.35683(16) 0.39595(17)
+H1 H 0.19340 0.42930 0.44080
+C4 C 0.1713(6) 0.25000 0.4575(2)
+C5 C 0.3156(6) 0.25000 -0.0402(2)
+H2 H 0.43560 0.25000 -0.12240
+H3 H 0.17250 0.32100 -0.04160
+C6 C 0.4409(5) 0.47376(19) 0.2012(2)
+H4 H 0.67380 0.47120 0.17810
+H5 H 0.41940 0.53960 0.26570
+H6 H 0.28090 0.48530 0.11540
+O2 O -0.0430(7) 0.3181(3) 0.6443(3)
+H7? H 0.17250 0.32100 -0.04160
+C2C C 0.3619(4) 0.14135(16) 0.26934(17)
+C3C C 0.2358(4) 0.14317(16) 0.39595(17)
+H1C H 0.19340 0.07070 0.44080
+H3C H 0.17250 0.17900 -0.04160
+C6C C 0.4409(5) 0.02624(19) 0.2012(2)
+H4C H 0.67380 0.02880 0.17810
+H5C H 0.41940 -0.03960 0.26570
+H6C H 0.28090 0.01470 0.11540
+O2C O -0.0430(7) 0.1819(3) 0.6443(3)
+#END

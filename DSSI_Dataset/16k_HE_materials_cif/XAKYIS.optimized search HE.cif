@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XAKYIS
+_audit_creation_date 2005-08-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XAKYIS
+_database_code_depnum_ccdc_archive 'CCDC 269519'
+_chemical_formula_sum 'C12 H9 N5 O2'
+_chemical_formula_moiety
+;
+C12 H9 N5 O2
+;
+_journal_coden_Cambridge 151
+_journal_volume 47
+_journal_year 2004
+_journal_page_first 3438
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"F.Saczewski"
+"P.Reszka"
+"M.Gdaniec"
+"R.Grunert"
+"P.J.Bednarski"
+_chemical_name_systematic
+;
+2-(5-Methyl-1H-(1,2,4)-triazol-3-yl)-3-(3-nitrophenyl)acrylonitrile
+;
+_chemical_melting_point 454.15
+_cell_volume   2335.472
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.452
+_exptl_special_details
+;
+Melting point range 454.15-455.15K
+tested for in vitro cytotoxic activity against cervical cancer (SISO), 
+non-small-cell lung cancer (LCLC-103H), three oesophagus cancer (KYSE-70, 
+KYSE-710 and KYSE-520), three bladder cancer (RT-4, RT-112 and 5637), two 
+pancreas cancer (YAPC and DAN-G) and the breast cancer (MCF-7) cell lines
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 9.2700(4)
+_cell_length_b 13.7023(6)
+_cell_length_c 18.3866(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.85205(14) 0.27323(11) 0.32289(7)
+O2 O 1.02717(15) 0.24029(10) 0.24896(7)
+N1 N 0.89967(14) 0.03116(10) 0.70458(7)
+N2 N 0.97349(16) 0.24160(11) 0.30995(8)
+N3 N 0.67391(14) 0.07243(10) 0.66962(7)
+N4 N 0.67468(15) 0.03514(10) 0.73832(7)
+N5 N 0.64586(15) 0.11781(11) 0.49010(8)
+C1 C 0.81224(16) 0.06861(11) 0.65188(8)
+C2 C 0.80825(17) 0.01089(11) 0.75843(9)
+C3 C 0.86031(16) 0.10034(11) 0.57970(9)
+C4 C 1.00019(17) 0.11531(11) 0.56272(9)
+C5 C 1.06524(17) 0.14334(11) 0.49333(9)
+C6 C 1.21478(18) 0.13150(12) 0.48505(9)
+C7 C 1.28391(19) 0.15333(12) 0.42036(10)
+C8 C 1.20604(18) 0.18851(11) 0.36150(9)
+C9 C 1.05880(18) 0.20253(11) 0.37098(9)
+C10 C 0.98739(18) 0.18155(11) 0.43460(9)
+C11 C 0.74265(17) 0.11139(12) 0.52876(9)
+C12 C 0.8423(2) -0.03237(14) 0.83051(10)
+H1 H 0.590(2) 0.0293(15) 0.7648(11)
+H2 H 1.0689(19) 0.1054(12) 0.6016(9)
+H3 H 1.2699(19) 0.1086(14) 0.5258(10)
+H4 H 1.385(2) 0.1428(13) 0.4172(9)
+H5 H 1.252(2) 0.2067(14) 0.3166(11)
+H6 H 0.884(2) 0.1946(13) 0.4378(9)
+H7 H 0.753(2) -0.0361(14) 0.8586(12)
+H8 H 0.913(2) 0.0063(15) 0.8554(11)
+H9 H 0.881(2) -0.0960(17) 0.8242(13)
+#END

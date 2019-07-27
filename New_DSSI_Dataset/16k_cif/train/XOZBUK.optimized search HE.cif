@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOZBUK
+_audit_creation_date 2009-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOZBUK
+_database_code_depnum_ccdc_archive 'CCDC 744471'
+_chemical_formula_sum 'C6 H5 N1 O3'
+_chemical_formula_moiety
+;
+C6 H5 N1 O3
+;
+_journal_coeditor_code "IUCr FJ2237"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o1979
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"P.Valerga"
+"M.C.Puerta"
+"Z.Rodriguez Negrin"
+"N.Castanedo Cancio"
+"M.Palma Lovillo"
+_chemical_name_systematic
+;
+(E)-2-(2-Nitroethenyl)furan
+;
+_chemical_name_common
+;
+2-(2-Nitrovinyl)furan
+;
+_cell_volume    606.988
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.522
+_exptl_special_details
+;
+monoclinic polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0406
+_refine_ls_wR_factor_gt 0.0406
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.0374(18)
+_cell_length_b 5.2012(10)
+_cell_length_c 13.027(3)
+_cell_angle_alpha 90
+_cell_angle_beta 97.58(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.67495(10) 0.19614(17) 0.08110(7)
+O2 O 0.15283(11) 0.49888(19) 0.10417(8)
+O3 O 0.16242(10) 0.13012(19) 0.18291(7)
+N1 N 0.21943(12) 0.3007(2) 0.13567(8)
+C1 C 0.59854(14) 0.0119(2) 0.12894(9)
+C2 C 0.68866(14) -0.1941(2) 0.15531(9)
+H1 H 0.66270 -0.34650 0.18900
+C3 C 0.82904(14) -0.1370(3) 0.1227(1)
+H2 H 0.91520 -0.24350 0.13000
+C4 C 0.81535(14) 0.0996(3) 0.07909(10)
+H3 H 0.89300 0.18700 0.05080
+C5 C 0.44755(13) 0.0618(2) 0.14455(9)
+H4 H 0.39740 -0.06670 0.17870
+C6 C 0.37162(14) 0.2755(3) 0.11477(10)
+H5 H 0.41720 0.40900 0.08030
+#END

@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HAPQIA03
+_audit_creation_date 2012-06-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HAPQIA03
+_database_code_depnum_ccdc_archive 'CCDC 878774'
+_chemical_formula_sum 'C14 H17 N4 O2'
+_chemical_formula_moiety
+;
+C14 H17 N4 O2
+;
+_journal_coden_Cambridge 4
+_journal_volume 134
+_journal_year 2012
+_journal_page_first 3825
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"G.Seber"
+"R.S.Freitas"
+"J.T.Mague"
+"A.Paduan-Filho"
+"X.Gratens"
+"V.Bindilatti"
+"N.F.Oliveira Junior"
+"N.Yoshioka"
+"P.M.Lahti"
+_chemical_name_systematic
+;
+2-(benzimidazol-2-yl)-4,4,5,5-tetramethyl-4,5-dihydro-1H-imidazole-3-oxide-1-o
+xyl
+;
+_cell_volume   2781.821
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Four H atoms are mixed disordered with H:F occupancies 0.78:0.22, 
+respectively. The 2D diagram has been represented with fully occupied H 
+atoms.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0563
+_refine_ls_wR_factor_gt 0.0563
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 8.7685(3)
+_cell_length_b 15.6827(6)
+_cell_length_c 20.2294(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.20431(19) 0.36559(13) 0.37054(9)
+O2 O 0.5280(2) 0.22817(13) 0.22537(9)
+N1 N 0.3981(2) 0.37711(13) 0.17613(10)
+H1 H 0.494(4) 0.362(2) 0.1735(14)
+N2 N 0.1784(2) 0.40811(13) 0.2280(1)
+N3 N 0.2999(2) 0.31181(14) 0.34619(10)
+N4 N 0.4525(2) 0.24594(14) 0.27781(10)
+F1? F 0.4679(10) 0.4322(5) 0.0428(4)
+F2? F 0.2614(10) 0.5311(6) -0.0117(4)
+F3? F 0.0127(9) 0.5726(5) 0.0488(4)
+F4? F -0.0468(9) 0.5138(5) 0.1694(4)
+C1 C 0.3179(3) 0.42796(15) 0.13385(12)
+C2 C 0.3483(3) 0.45720(17) 0.07019(13)
+C3 C 0.2375(3) 0.50637(17) 0.04087(13)
+C4 C 0.1022(3) 0.52623(18) 0.07351(15)
+C5 C 0.0712(3) 0.49729(17) 0.13578(14)
+C6 C 0.1810(3) 0.44682(15) 0.16670(12)
+C7 C 0.3108(3) 0.36748(15) 0.23124(11)
+C8 C 0.3546(2) 0.31107(16) 0.28467(12)
+C9 C 0.3600(3) 0.24014(17) 0.38771(12)
+C10 C 0.4646(3) 0.19192(17) 0.33801(14)
+C11 C 0.2230(4) 0.1896(2) 0.41160(19)
+H2 H 0.17210 0.16440 0.37440
+H3 H 0.15390 0.22700 0.43430
+H4 H 0.25640 0.14550 0.44120
+C12 C 0.4415(5) 0.2807(3) 0.44592(18)
+H5 H 0.52720 0.31300 0.43020
+H6 H 0.47650 0.23690 0.47540
+H7 H 0.37250 0.31780 0.46890
+C13 C 0.4070(5) 0.1035(2) 0.31844(19)
+H8 H 0.30110 0.10690 0.30660
+H9 H 0.41880 0.06510 0.35510
+H10 H 0.46470 0.08280 0.28140
+C14 C 0.6328(4) 0.1882(3) 0.35703(18)
+H11 H 0.66740 0.24420 0.36880
+H12 H 0.69120 0.16750 0.32020
+H13 H 0.64560 0.15050 0.39400
+#END

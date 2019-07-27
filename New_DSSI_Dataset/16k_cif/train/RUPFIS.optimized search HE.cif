@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUPFIS
+_audit_creation_date 2010-03-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUPFIS
+_database_code_depnum_ccdc_archive 'CCDC 726780'
+_chemical_formula_sum 'C9 H16 N2 O2'
+_chemical_formula_moiety
+;
+C9 H16 N2 O2
+;
+_journal_coden_Cambridge 1090
+_journal_volume 20
+_journal_year 2009
+_journal_page_first 1308
+_journal_name_full 'Tetrahedron:Asymm. '
+loop_
+_publ_author_name
+"T.Olszewska"
+"M.Gdaniec"
+"T.Polonski"
+_chemical_name_systematic
+;
+N-Nitroso-2,2,6,6-tetramethyl-4-piperidinone
+;
+_chemical_melting_point 344.15
+_cell_volume   1024.512
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.194
+_exptl_special_details
+;
+Melting point range 344.15-345.15K
+monoclinic polymorph
+Undergoes a phase transition on cooling below 157 K from the monoclinic P21/n 
+form to a twinned triclinic P-1 form
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 180
+_refine_special_details
+;
+The nitrosopiperidone molecule is partially disordered, reflecting a mixture 
+of two enantiomers occupying the same site. This has been modelled with an 
+oxygen and five carbon atoms disordered over two sites with occupancies 
+0.880:0.120.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0427
+_refine_ls_wR_factor_gt 0.0427
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.0613(8)
+_cell_length_b 16.489(2)
+_cell_length_c 10.2529(13)
+_cell_angle_alpha 90
+_cell_angle_beta 91.166(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.5491(5) 0.10642(12) 1.0242(2)
+O2 O 0.1520(2) 0.11905(7) 0.59702(11)
+N1 N -0.08785(18) 0.15192(7) 0.74376(10)
+N2 N 0.0795(2) 0.17236(7) 0.67106(12)
+C1 C -0.1931(2) 0.06921(8) 0.74110(14)
+C2 C -0.4082(4) 0.07163(12) 0.8183(2)
+H1 H -0.52560 0.09240 0.76200
+H2 H -0.44580 0.01600 0.83910
+C3 C -0.4036(5) 0.11684(13) 0.9444(3)
+C4 C -0.2233(3) 0.17779(11) 0.96173(16)
+H3 H -0.09550 0.15050 0.99960
+H4 H -0.26930 0.21930 1.02250
+C5 C -0.1590(2) 0.21792(8) 0.83435(14)
+C6 C -0.2694(3) 0.04622(11) 0.60296(17)
+H5 H -0.14430 0.04400 0.54710
+H6 H -0.37200 0.08610 0.57050
+H7 H -0.34000 -0.00590 0.60450
+C7 C -0.0281(3) 0.00738(9) 0.79520(17)
+H8 H 0.01940 0.02330 0.88130
+H9 H 0.09700 0.00510 0.73940
+H10 H -0.09630 -0.04510 0.79870
+C8 C -0.3538(3) 0.26476(11) 0.7711(2)
+H11 H -0.30750 0.28910 0.69110
+H12 H -0.40100 0.30640 0.82980
+H13 H -0.47400 0.22820 0.75320
+C9 C 0.0266(4) 0.27747(12) 0.8613(2)
+H14 H 0.15140 0.25020 0.90020
+H15 H -0.02360 0.31890 0.91930
+H16 H 0.06870 0.30170 0.78030
+C10? C -0.028(2) 0.2067(9) 0.9776(13)
+C11? C -0.334(3) 0.0618(8) 0.8712(14)
+C12? C -0.469(3) 0.1297(11) 0.9036(16)
+C13? C -0.4000(19) 0.2092(7) 0.8529(11)
+C14? C -0.096(3) 0.3021(10) 0.7837(17)
+H17? H -0.06040 0.15440 1.01370
+H18? H 0.12800 0.21110 0.96440
+H19? H -0.07390 0.24830 1.03650
+H20? H -0.23410 0.05100 0.94290
+H21? H -0.42920 0.01550 0.86190
+H22? H -0.47610 0.21830 0.77110
+H23? H -0.44700 0.25020 0.91270
+H24? H -0.16940 0.31150 0.70120
+H25? H -0.14110 0.34240 0.84510
+H26? H 0.06080 0.30530 0.77300
+O3? O -0.614(4) 0.1264(11) 0.970(2)
+#END

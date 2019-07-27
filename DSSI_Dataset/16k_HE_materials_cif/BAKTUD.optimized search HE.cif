@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAKTUD
+_audit_creation_date 2003-03-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAKTUD
+_database_code_depnum_ccdc_archive 'CCDC 191574'
+_chemical_formula_sum 'C6 H7 N1 O3'
+_chemical_formula_moiety
+;
+C6 H7 N1 O3
+;
+_journal_coden_Cambridge 188
+_journal_year 2002
+_journal_page_first 2031
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"C.K.Y.Lee"
+"C.J.Easton"
+"M.Gebara-Coghlan"
+"L.Radom"
+"A.P.Scott"
+"G.W.Simpson"
+"A.C.Willis"
+_chemical_name_systematic
+;
+3-Methylisoxazole-5-carboxylic acid methyl ester
+;
+_chemical_melting_point 367.15
+_cell_volume    324.388
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.445
+_exptl_special_details
+;
+Melting point range 367.15-368.15K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'hexanes/diethyl ether'
+_diffrn_ambient_temperature 200.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0345
+_refine_ls_wR_factor_gt 0.0345
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,z
+3 -x,-y,-z
+4 -x,-1/2+y,-z
+_cell_length_a 5.8086(2)
+_cell_length_b 6.3238(3)
+_cell_length_c 8.8391(4)
+_cell_angle_alpha 90
+_cell_angle_beta 92.435(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4487(2) 0.25000 0.4885(1)
+O2 O 0.7107(2) 0.25000 0.8564(1)
+O3 O 0.3395(2) 0.25000 0.7759(1)
+N1 N 0.5495(2) 0.25000 0.3455(1)
+C1 C 0.7726(2) 0.25000 0.3728(2)
+C2 C 0.8283(2) 0.25000 0.5308(2)
+C3 C 0.6221(2) 0.25000 0.5950(2)
+C4 C 0.9321(3) 0.25000 0.2459(2)
+C5 C 0.5639(2) 0.25000 0.7563(2)
+C6 C 0.2730(3) 0.25000 0.9333(2)
+H1 H 0.985(3) 0.25000 0.583(2)
+H2 H 0.859(4) 0.25000 0.152(3)
+H3 H 1.033(3) 0.124(2) 0.250(2)
+H4 H 0.115(4) 0.25000 0.930(3)
+H5 H 0.330(2) 0.126(2) 0.984(2)
+H5A H 0.330(2) 0.374(2) 0.984(2)
+H3A H 1.033(3) 0.376(2) 0.250(2)
+#END

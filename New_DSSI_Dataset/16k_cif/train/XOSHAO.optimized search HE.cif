@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOSHAO
+_audit_creation_date 2002-10-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOSHAO
+_database_code_depnum_ccdc_archive 'CCDC 177113'
+_chemical_formula_sum 'C8 H6 N2 O2'
+_chemical_formula_moiety
+;
+C8 H6 N2 O2
+;
+_journal_coeditor_code "IUCr FG1652"
+_journal_coden_Cambridge 591
+_journal_volume 58
+_journal_year 2002
+_journal_page_first o528
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"S.Boitsov"
+"J.Songstad"
+"K.W.Tornroos"
+_chemical_name_systematic
+;
+(2-Nitrophenyl)acetonitrile
+;
+_chemical_melting_point 354
+_cell_volume   1493.725
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.442
+_exptl_special_details
+;
+Melting point range 354-355K
+
+;
+_exptl_crystal_description 'flat prism'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,y,1/2-z
+3 x,1/2-y,1/2+z
+4 1/2-x,1/2+y,z
+5 -x,-y,-z
+6 -1/2-x,-y,-1/2+z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,-1/2-y,-z
+_cell_length_a 7.9689(11)
+_cell_length_b 7.6030(8)
+_cell_length_c 24.654(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.14973(10) -0.03738(11) 0.64198(3)
+N1 N -0.17723(11) 0.17364(12) 0.71155(4)
+O1 O -0.04864(10) 0.17042(10) 0.52866(3)
+O2 O -0.15648(10) -0.01393(15) 0.58578(3)
+C2 C 0.13061(10) 0.03658(11) 0.59023(3)
+N2 N -0.0367(1) 0.06786(11) 0.56683(3)
+C3 C 0.26637(11) 0.08303(11) 0.55779(3)
+H1 H 0.24860 0.13430 0.52310
+C4 C 0.42832(11) 0.05354(12) 0.57667(4)
+H2 H 0.52230 0.08400 0.55490
+C5 C 0.45176(11) -0.02075(12) 0.62753(4)
+H3 H 0.56220 -0.04200 0.64050
+C6 C 0.31413(11) -0.06426(11) 0.65970(4)
+H4 H 0.33270 -0.11350 0.69460
+C7 C 0.00907(12) -0.08991(12) 0.68009(4)
+H5 H -0.06230 -0.17860 0.66190
+H6 H 0.05830 -0.14560 0.71270
+C8 C -0.09655(11) 0.05855(12) 0.69712(4)
+#END

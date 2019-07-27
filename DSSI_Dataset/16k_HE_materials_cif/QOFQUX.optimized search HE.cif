@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOFQUX
+_audit_creation_date 2001-07-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOFQUX
+_database_code_depnum_ccdc_archive 'CCDC 149144'
+_chemical_formula_sum 'C6 H16 N2 O2'
+_chemical_formula_moiety
+;
+C6 H16 N2 O2
+;
+_journal_coden_Cambridge 1220
+_journal_volume 7
+_journal_year 2001
+_journal_page_first 2007
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"C.Hirel"
+"K.E.Vostrikova"
+"J.Pecaut"
+"V.I.Ovcharenko"
+"P.Rey"
+_chemical_name_systematic
+;
+2,3-bis(Hydroxyamino)-2,3-dimethylbutane
+;
+_cell_volume   1658.166
+_exptl_crystal_density_diffrn 1.187
+_exptl_crystal_preparation 'tetrahydrofuran'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One hydroxyamine group is disordered over two sites with occupancies 
+0.9069:0.0931.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0521
+_refine_ls_wR_factor_gt 0.0521
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 23.644(2)
+_cell_length_b 6.1340(6)
+_cell_length_c 13.4623(13)
+_cell_angle_alpha 90
+_cell_angle_beta 121.868(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.06108(4) 0.64516(12) 0.35361(6)
+H1 H 0.0156(14) 0.632(4) 0.3044(18)
+O2? O 0.0049(4) 0.1410(15) 0.4140(7)
+O3 O 0.06748(3) -0.13279(12) 0.57497(6)
+H2 H 0.0305(12) -0.137(4) 0.5679(19)
+N1 N 0.06569(4) 0.48327(16) 0.43621(7)
+H3 H 0.0698(6) 0.520(3) 0.4902(11)
+N2 N 0.06880(4) 0.02002(14) 0.49342(6)
+H4 H 0.0705(6) -0.040(3) 0.4535(11)
+C1 C 0.12312(4) 0.33775(16) 0.46884(7)
+C2 C 0.18698(5) 0.47309(19) 0.52252(9)
+H5 H 0.1798(5) 0.586(2) 0.4682(9)
+H6 H 0.2229(6) 0.388(2) 0.5337(10)
+H7 H 0.1960(5) 0.536(2) 0.5955(9)
+C3 C 0.11227(5) 0.2250(2) 0.35881(8)
+H8 H 0.0699(5) 0.167(2) 0.3177(10)
+H9 H 0.1185(6) 0.328(2) 0.3123(11)
+H10 H 0.1441(6) 0.099(2) 0.3817(10)
+C4 C 0.12581(4) 0.17215(16) 0.55999(8)
+C5 C 0.11892(6) 0.2854(2) 0.65469(8)
+H11 H 0.0738(5) 0.342(2) 0.6168(10)
+H12 H 0.1291(6) 0.182(2) 0.7138(11)
+H13 H 0.1538(6) 0.408(2) 0.6978(10)
+C6 C 0.19060(5) 0.0417(2) 0.61858(10)
+H14 H 0.1973(5) -0.020(2) 0.5544(9)
+H15 H 0.1875(6) -0.068(2) 0.6632(10)
+H16 H 0.2270(5) 0.135(2) 0.6713(10)
+#END

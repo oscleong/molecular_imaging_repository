@@ -1,0 +1,185 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOZQOT
+_audit_creation_date 2009-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOZQOT
+_database_code_depnum_ccdc_archive 'CCDC 706689'
+_chemical_formula_sum 'C21 H12'
+_chemical_formula_moiety
+;
+C21 H12
+;
+_journal_coden_Cambridge 4
+_journal_volume 131
+_journal_year 2009
+_journal_page_first 408
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"T.Amaya"
+"S.Seki"
+"T.Moriuchi"
+"K.Nakamoto"
+"T.Nakata"
+"H.Sakane"
+"A.Saeki"
+"S.Tagawa"
+"T.Hirao"
+_chemical_name_systematic
+;
+4,7-Dihydro-1H-tricyclopenta[def,jkl,pqr]triphenylene
+;
+_chemical_name_common
+;
+Sumanene
+;
+_cell_volume   1846.857
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.426
+_exptl_special_details
+;
+The paper states that the H atom on position 2 is partially occupied by a Br 
+atom with the Br atom having an occupancy of about 2%. This low occupancy Br 
+atom was not determined from the x-ray analysis but was determined from EI-MS 
+and elemental analysis
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 277.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0347
+_refine_ls_wR_factor_gt 0.0347
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R 3 c'
+_symmetry_Int_Tables_number 161
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -y,-x,1/2+z
+4 -x+y,-x,z
+5 x,x-y,1/2+z
+6 -x+y,y,1/2+z
+7 1/3+x,2/3+y,2/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-y,2/3-x,1/6+z
+10 1/3-x+y,2/3-x,2/3+z
+11 1/3+x,2/3+x-y,1/6+z
+12 1/3-x+y,2/3+y,1/6+z
+13 2/3+x,1/3+y,1/3+z
+14 2/3-y,1/3+x-y,1/3+z
+15 2/3-y,1/3-x,5/6+z
+16 2/3-x+y,1/3-x,1/3+z
+17 2/3+x,1/3+x-y,5/6+z
+18 2/3-x+y,1/3+y,5/6+z
+_cell_length_a 16.6391(3)
+_cell_length_b 16.6391(3)
+_cell_length_c 7.7027(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 6
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.05222(9) 0.04556(9) 0.2440(2)
+C2 C 0.04371(9) 0.09719(9) 0.2438(2)
+C3 C 0.09194(8) 0.18373(9) 0.3239(2)
+C4 C 0.19142(9) 0.2026(1) 0.3613(2)
+C5 C -0.10699(9) 0.07588(9) 0.3241(2)
+C6 C -0.06040(8) 0.1667(1) 0.3885(3)
+C7 C 0.03850(9) 0.2204(1) 0.3881(2)
+H1 H 0.240(1) 0.253(1) 0.291(3)
+H2 H 0.211(1) 0.223(1) 0.480(2)
+H3 H -0.093(1) 0.189(1) 0.455(2)
+H4 H 0.065(1) 0.277(1) 0.459(3)
+C1C C 0.09778(9) 0.05222(9) 0.2440(2)
+C2C C 0.05348(9) -0.04371(9) 0.2438(2)
+C1A C -0.04556(9) -0.09778(9) 0.2440(2)
+C2A C -0.09719(9) -0.05348(9) 0.2438(2)
+C4A C -0.20260(9) -0.01118(10) 0.3613(2)
+C3A C -0.18373(8) -0.09179(9) 0.3239(2)
+C7A C -0.22040(9) -0.1819(1) 0.3881(2)
+C6A C -0.16670(8) -0.2271(1) 0.3885(3)
+C5A C -0.07588(9) -0.18287(9) 0.3241(2)
+C4C C 0.01118(9) -0.19142(10) 0.3613(2)
+C3C C 0.09179(8) -0.09194(9) 0.3239(2)
+C7C C 0.18190(9) -0.0385(1) 0.3881(2)
+C6C C 0.22710(8) 0.0604(1) 0.3885(3)
+C5C C 0.18287(9) 0.10699(9) 0.3241(2)
+H3C H 0.282(1) 0.093(1) 0.455(2)
+H4C H 0.212(1) -0.065(1) 0.459(3)
+H1C H 0.013(1) -0.240(1) 0.291(3)
+H2C H 0.012(1) -0.211(1) 0.480(2)
+H3A H -0.189(1) -0.282(1) 0.455(2)
+H4A H -0.277(1) -0.212(1) 0.459(3)
+H1A H -0.253(1) -0.013(1) 0.291(3)
+H2A H -0.223(1) -0.012(1) 0.480(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.384 1_555 1_555
+C2 C3 1.394 1_555 1_555
+C3 C4 1.550 1_555 1_555
+C4 H1 0.986 1_555 1_555
+C5 C1 1.388 1_555 1_555
+C6 C5 1.400 1_555 1_555
+C7 C3 1.396 1_555 1_555
+H2 C4 0.973 1_555 1_555
+H3 C6 0.946 1_555 1_555
+H4 C7 0.982 1_555 1_555
+C1C C2 1.429 1_555 1_555
+C2C C1C 1.384 1_555 1_555
+C1A C2C 1.429 1_555 1_555
+C2A C1 1.429 1_555 1_555
+C4A C5 1.551 1_555 1_555
+C3A C2A 1.394 1_555 1_555
+C7A C3A 1.396 1_555 1_555
+C6A C7A 1.427 1_555 1_555
+C5A C1A 1.388 1_555 1_555
+C4C C5A 1.551 1_555 1_555
+C3C C2C 1.394 1_555 1_555
+C7C C3C 1.396 1_555 1_555
+C6C C7C 1.427 1_555 1_555
+C5C C4 1.551 1_555 1_555
+H3C C6C 0.946 1_555 1_555
+H4C C7C 0.982 1_555 1_555
+H1C C4C 0.986 1_555 1_555
+H2C C4C 0.973 1_555 1_555
+H3A C6A 0.946 1_555 1_555
+H4A C7A 0.982 1_555 1_555
+H1A C4A 0.986 1_555 1_555
+H2A C4A 0.973 1_555 1_555
+C6 C7 1.427 1_555 1_555
+C1C C5C 1.388 1_555 1_555
+C1A C2A 1.384 1_555 1_555
+C4A C3A 1.550 1_555 1_555
+C6A C5A 1.400 1_555 1_555
+C4C C3C 1.550 1_555 1_555
+C6C C5C 1.400 1_555 1_555
+#END

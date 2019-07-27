@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NCBXRF
+_audit_creation_date 1981-02-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NCBXRF
+_chemical_formula_sum 'C11 H12 N8 O14'
+_chemical_formula_moiety
+;
+C11 H12 N8 O14
+;
+_journal_coden_Cambridge 101
+_journal_volume 63
+_journal_year 1980
+_journal_page_first 1353
+_journal_name_full 'Dissertation Abstr.B '
+loop_
+_publ_author_name
+"P.C.Wyss"
+"P.Schonholzer"
+"W.Arnold"
+_chemical_name_systematic
+;
+2-Methyl-5-(N-nitrocarboxamido)-1-(2',3',5'-tri-O-nitro-\b-D-ribofuranosyl)-im
+idazole-4-carboxamide
+;
+_chemical_melting_point 437.15
+_cell_volume    938.079
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.7
+_exptl_special_details
+;
+In BOND-table, bond N(3')-C(7') should read N(3')-O(7')=1.184(10) A
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0703
+_refine_ls_wR_factor_gt 0.0703
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.647(4)
+_cell_length_b 8.946(3)
+_cell_length_c 10.589(4)
+_cell_angle_alpha 90
+_cell_angle_beta 111.55(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.92360 0.95310 0.84250
+C2 C 0.85030 1.07390 0.73480
+C3 C 0.70050 1.05710 0.72190
+C4 C 0.70790 0.95620 0.83990
+O1 O 0.82400 0.86280 0.86370
+O2 O 0.89280 1.21940 0.79230
+N1 N 1.01600 1.26890 0.78370
+O3 O 1.04440 1.39130 0.82910
+O4 O 1.07380 1.18290 0.73620
+O5 O 0.64190 1.19440 0.74430
+N2 N 0.60110 1.29050 0.63050
+O6 O 0.54680 1.40180 0.64940
+O7 O 0.62340 1.25240 0.53370
+C5 C 0.58450 0.85570 0.80310
+O8 O 0.59430 0.75310 0.91310
+N3 N 0.56700 0.82080 1.02140
+O9 O 0.58350 0.73420 1.11250
+O10 O 0.53210 0.94670 1.00880
+N4 N 1.01800 0.85540 0.81160
+C6 C 1.15250 0.84720 0.89080
+N5 N 1.21340 0.74640 0.84590
+C7 C 1.11890 0.68530 0.73220
+C8 C 0.99370 0.75130 0.70800
+C9 C 1.21830 0.94530 1.00920
+C10 C 1.16160 0.57110 0.65500
+N6 N 1.29490 0.54430 0.70180
+O11 O 1.08440 0.50660 0.55600
+C11 C 0.85600 0.72980 0.60430
+O12 O 0.76470 0.81230 0.58900
+N7 N 0.85050 0.60250 0.52940
+N8 N 0.73440 0.55340 0.42690
+O13 O 0.75050 0.45770 0.35630
+O14 O 0.62730 0.60330 0.41860
+H1 H 0.98350 1.01560 0.93020
+H2 H 0.86600 1.05930 0.64040
+H3 H 0.64040 1.01770 0.62220
+H4 H 0.71620 1.02450 0.92740
+H5 H 0.57760 0.79070 0.71510
+H6 H 0.49410 0.92180 0.78100
+H7 H 1.14990 1.00790 1.03840
+H8 H 1.28510 1.02040 0.98790
+H9 H 1.27320 0.87140 1.09200
+#END

@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TIBMIA
+_audit_creation_date 1997-03-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TIBMIA
+_database_code_depnum_ccdc_archive 'CCDC 1270762'
+_chemical_formula_sum 'C5 H5 N5 O5'
+_chemical_formula_moiety
+;
+C5 H5 N5 O5
+;
+_journal_coden_Cambridge 34
+_journal_volume 33
+_journal_year 1996
+_journal_page_first 895
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"R.A.Hollins"
+"L.H.Merwin"
+"R.A.Nissan"
+"W.S.Wilson"
+"R.Gilardi"
+_chemical_name_systematic
+;
+2,6-Diamino-3,5-dinitropyridine-1-oxide
+;
+_chemical_melting_point 613.15
+_cell_volume    760.931
+_exptl_crystal_colour 'deep yellow'
+_exptl_crystal_density_diffrn 1.878
+_exptl_special_details
+;
+Melts above 613.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0355
+_refine_ls_wR_factor_gt 0.0355
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.864(2)
+_cell_length_b 7.336(1)
+_cell_length_c 7.509(1)
+_cell_angle_alpha 90
+_cell_angle_beta 111.67(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.50000 -0.0384(3) 0.25000
+O1 O 0.50000 -0.2194(2) 0.25000
+C1 C 0.57412(12) 0.0488(3) 0.3900(2)
+N2 N 0.63830(12) -0.0627(3) 0.5090(2)
+H1 H 0.6885(18) -0.0261(33) 0.6025(34)
+H2 H 0.6257(17) -0.1784(35) 0.4797(33)
+C2 C 0.57168(11) 0.2419(3) 0.3906(2)
+N3 N 0.64387(10) 0.3426(2) 0.5392(2)
+O2 O 0.70959(10) 0.2592(2) 0.6617(2)
+O3 O 0.63792(12) 0.5081(2) 0.5408(2)
+C3 C 0.50000 0.3358(4) 0.25000
+H3 H 0.50000 0.4586(43) 0.25000
+C2A C 0.42832(11) 0.2419(3) 0.1094(2)
+C1A C 0.42588(12) 0.0488(3) 0.1100(2)
+N2A N 0.36170(12) -0.0627(3) -0.0090(2)
+H1A H 0.3115(18) -0.0261(33) -0.1025(34)
+H2A H 0.3743(17) -0.1784(35) 0.0203(33)
+N3A N 0.35613(10) 0.3426(2) -0.0392(2)
+O2A O 0.29041(10) 0.2592(2) -0.1617(2)
+O3A O 0.36208(12) 0.5081(2) -0.0408(2)
+#END

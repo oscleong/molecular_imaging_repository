@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NHANTQ
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NHANTQ
+_chemical_formula_sum 'C14 H6 N2 O8'
+_chemical_formula_moiety
+;
+C14 H6 N2 O8
+;
+_journal_coeditor_code "IUCr A05471"
+_journal_coden_Cambridge 1
+_journal_volume 22
+_journal_year 1967
+_journal_page_first 392
+_journal_name_full 'Acta Crystallogr. '
+loop_
+_publ_author_name
+"M.Bailey"
+"C.J.Brown"
+_chemical_name_systematic
+;
+1,5-Dinitro-4,8-dihydroxyanthraquinone
+;
+_cell_volume    639.660
+_exptl_crystal_density_diffrn 1.715
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.081
+_refine_ls_wR_factor_gt 0.081
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 10.17
+_cell_length_b 10.49
+_cell_length_c 6.015
+_cell_angle_alpha 90
+_cell_angle_beta 94.57
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.15650 0.12970 -0.29100
+C2 C 0.16320 0.26120 -0.29740
+C3 C 0.09200 0.33200 -0.16290
+C4 C 0.01290 0.27100 -0.01630
+C5 C 0.00620 0.13920 -0.00920
+C6 C 0.08080 0.06490 -0.15070
+C7 C -0.07530 0.07510 0.14490
+H1 H -0.11620 0.29800 0.22740
+H2 H 0.22550 0.30750 -0.41030
+H3 H 0.09610 0.43490 -0.16870
+N1 N 0.23830 0.06450 -0.44850
+O1 O -0.05500 0.34530 0.11390
+O2 O -0.13790 0.13720 0.27130
+O3 O 0.19080 0.04340 -0.63010
+O4 O 0.34700 0.03540 -0.38230
+C7B C 0.07530 -0.07510 -0.14490
+C6B C -0.08080 -0.06490 0.15070
+C5B C -0.00620 -0.13920 0.00920
+O2B O 0.13790 -0.13720 -0.27130
+C1B C -0.15650 -0.12970 0.29100
+C4B C -0.01290 -0.27100 0.01630
+C2B C -0.16320 -0.26120 0.29740
+N1B N -0.23830 -0.06450 0.44850
+C3B C -0.09200 -0.33200 0.16290
+O1B O 0.05500 -0.34530 -0.11390
+H2B H -0.22550 -0.30750 0.41030
+O3B O -0.19080 -0.04340 0.63010
+O4B O -0.34700 -0.03540 0.38230
+H3B H -0.09610 -0.43490 0.16870
+H1B H 0.11620 -0.29800 -0.22740
+#END

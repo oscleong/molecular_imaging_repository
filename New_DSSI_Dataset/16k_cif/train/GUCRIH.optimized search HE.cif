@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUCRIH
+_audit_creation_date 2015-04-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUCRIH
+_database_code_depnum_ccdc_archive 'CCDC 1026376'
+_chemical_formula_sum 'C14 H23 N3 O2'
+_chemical_formula_moiety
+;
+C14 H23 N3 O2
+;
+_journal_coden_Cambridge 423
+_journal_volume 39
+_journal_year 2014
+_journal_page_first 98
+_journal_name_full 'J.Chem.Res. '
+loop_
+_publ_author_name
+"M.J.Plater"
+"W.T.A.Harrison"
+_chemical_name_systematic
+;
+N,N'-Di-n-butyl-4-nitrobenzene-1,3-diamine
+;
+_cell_volume   7231.839
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.097
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ether/light petroleum ether'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+C13A,C14A and C13B,C14B disordered over two sites with occupancies 
+0.549:0.451.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0773
+_refine_ls_wR_factor_gt 0.0773
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3'
+_symmetry_Int_Tables_number 148
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 2/3+x,1/3+y,1/3+z
+5 2/3-y,1/3+x-y,1/3+z
+6 2/3-x+y,1/3-x,1/3+z
+7 1/3+x,2/3+y,2/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-x+y,2/3-x,2/3+z
+10 -x,-y,-z
+11 y,-x+y,-z
+12 x-y,x,-z
+13 -2/3-x,-1/3-y,-1/3-z
+14 -2/3+y,-1/3-x+y,-1/3-z
+15 -2/3+x-y,-1/3+x,-1/3-z
+16 -1/3-x,-2/3-y,-2/3-z
+17 -1/3+y,-2/3-x+y,-2/3-z
+18 -1/3+x-y,-2/3+x,-2/3-z
+_cell_length_a 28.3820(19)
+_cell_length_b 28.3820(19)
+_cell_length_c 10.3665(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 18
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.38355(8) 0.31083(8) 0.32906(19)
+C2 C 0.34246(8) 0.32619(7) 0.33088(18)
+C3 C 0.35982(8) 0.38212(8) 0.33676(19)
+H1 H 0.33340 0.39330 0.33850
+C4 C 0.41501(8) 0.42155(8) 0.34004(19)
+C5 C 0.45517(8) 0.40512(8) 0.33679(19)
+H2 H 0.49270 0.43170 0.33830
+C6 C 0.43941(8) 0.35148(8) 0.33155(19)
+H3 H 0.46630 0.34090 0.32950
+C7 C 0.24543(8) 0.30201(8) 0.32423(19)
+H4 H 0.25050 0.32600 0.24990
+H5 H 0.24640 0.32160 0.40420
+C8 C 0.19074(8) 0.24981(8) 0.3132(2)
+H6 H 0.18640 0.22570 0.38680
+H7 H 0.19010 0.23060 0.23290
+C9 C 0.14303(9) 0.26053(10) 0.3119(2)
+H8 H 0.14230 0.27760 0.39470
+H9 H 0.14860 0.28660 0.24190
+C10 C 0.08853(10) 0.20893(11) 0.2923(3)
+H10 H 0.05950 0.21810 0.28950
+H11 H 0.08180 0.18380 0.36380
+H12 H 0.08910 0.19170 0.21080
+C11 C 0.39711(9) 0.49814(8) 0.3524(2)
+H13 H 0.37410 0.48420 0.43050
+H14 H 0.37280 0.48640 0.27620
+C12 C 0.42954(10) 0.55989(9) 0.3573(3)
+H15 H 0.45170 0.57360 0.28020
+H16 H 0.45370 0.57140 0.43130
+C13 C 0.3931(2) 0.5850(2) 0.3929(8)
+H17 H 0.36430 0.57370 0.32680
+H18 H 0.37510 0.56940 0.47640
+C14 C 0.4216(3) 0.6440(3) 0.4030(9)
+H19 H 0.39500 0.65640 0.40880
+H20 H 0.44450 0.66000 0.32660
+H21 H 0.44450 0.65540 0.48040
+N1 N 0.28893(7) 0.28891(7) 0.32656(17)
+H22 H 0.2811(10) 0.2559(11) 0.316(2)
+N2 N 0.43266(7) 0.47544(7) 0.34511(18)
+H23 H 0.4664(12) 0.4971(11) 0.348(3)
+N3 N 0.37164(7) 0.25669(7) 0.32550(16)
+O1 O 0.32260(6) 0.21807(6) 0.32539(15)
+O2 O 0.40960(6) 0.24637(6) 0.32393(15)
+C15? C 0.3911(3) 0.5826(3) 0.3311(9)
+H24? H 0.37080 0.56660 0.25020
+H25? H 0.36440 0.57160 0.40220
+C16? C 0.4213(3) 0.6434(3) 0.3197(10)
+H26? H 0.39520 0.65650 0.31880
+H27? H 0.44240 0.65420 0.23960
+H28? H 0.44590 0.65930 0.39350
+#END

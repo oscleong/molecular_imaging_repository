@@ -1,0 +1,109 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CYNONA
+_audit_creation_date 1981-05-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CYNONA
+_database_code_depnum_ccdc_archive 'CCDC 1134663'
+_chemical_formula_sum 'C9 H17 N1 O1'
+_chemical_formula_moiety
+;
+C9 H17 N1 O1
+;
+_journal_coden_Cambridge 3
+_journal_volume 34
+_journal_year 1980
+_journal_page_first 603
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"P.Groth"
+_chemical_name_systematic
+;
+Cyclononane oxime
+;
+_cell_volume    461.128
+_exptl_crystal_density_diffrn 1.09
+_exptl_special_details
+;
+Calculated density given as 1.09, we calculate 1.12
+
+;
+_diffrn_ambient_temperature 123.15
+_refine_special_details
+;
+The hydroxyl group is disordered. Co-ordinates are retained for the position 
+of 0.81 occupancy.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.107
+_refine_ls_wR_factor_gt 0.107
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.633(1)
+_cell_length_b 7.217(2)
+_cell_length_c 12.180(5)
+_cell_angle_alpha 81.14(3)
+_cell_angle_beta 78.94(2)
+_cell_angle_gamma 72.55(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.21700 -0.10540 0.90970
+N1 N 0.20310 0.08850 0.93030
+C1 C 0.38260 0.15480 0.87820
+C2 C 0.37230 0.35930 0.89390
+C3 C 0.42240 0.49070 0.79090
+C4 C 0.20500 0.55990 0.72280
+C5 C 0.12930 0.41560 0.67070
+C6 C 0.29160 0.31400 0.57940
+C7 C 0.55530 0.16610 0.59720
+C8 C 0.55680 0.00740 0.68440
+C9 C 0.60670 0.02960 0.80810
+H1 H 0.50000 0.34900 0.94300
+H2 H 0.20000 0.42000 0.93400
+H3 H 0.57800 0.41900 0.74500
+H4 H 0.45100 0.60700 0.81700
+H5 H 0.25600 0.65400 0.65900
+H6 H 0.05400 0.63000 0.77200
+H7 H -0.03300 0.48400 0.64200
+H8 H 0.10200 0.30900 0.73200
+H9 H 0.32400 0.41800 0.51900
+H10 H 0.19300 0.23900 0.55300
+H11 H 0.66300 0.24300 0.61400
+H12 H 0.63200 0.10900 0.52400
+H13 H 0.68900 -0.11100 0.65600
+H14 H 0.38700 -0.01900 0.69400
+H15 H 0.74700 0.09000 0.79800
+H16 H 0.65400 -0.10300 0.85000
+#END

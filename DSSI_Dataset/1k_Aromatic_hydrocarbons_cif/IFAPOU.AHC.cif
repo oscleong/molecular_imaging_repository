@@ -1,0 +1,203 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IFAPOU
+_audit_creation_date 2002-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IFAPOU
+_database_code_depnum_ccdc_archive 'CCDC 177456'
+_chemical_formula_sum 'C28 H22'
+_chemical_formula_moiety
+;
+C28 H22
+;
+_journal_coden_Cambridge 35
+_journal_volume 67
+_journal_year 2002
+_journal_page_first 1663
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"C.Dell'Erba"
+"F.Gasparrini"
+"S.Grilli"
+"L.Lunazzi"
+"A.Mazzanti"
+"M.Novi"
+"M.Pierini"
+"C.Tavani"
+"C.Villani"
+_chemical_name_systematic
+;
+1,2-bis(4-Methyl-1-naphthyl)benzene
+;
+_chemical_melting_point 492.15
+_cell_volume   1988.003
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.198
+_exptl_special_details
+;
+Melting point range 492.15-493.15K
+
+;
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'diethyl ether/petroleum ether'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2-z
+3 x,-y,1/2+z
+4 1/2-x,1/2+y,z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-1/2+z
+7 -x,y,-1/2-z
+8 -1/2+x,-1/2-y,-z
+_cell_length_a 13.8718(5)
+_cell_length_b 16.7831(6)
+_cell_length_c 8.5391(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.46446(9) 0.06430(7) 0.1939(2)
+H1 H 0.44020 0.01630 0.15630
+C2 C 0.42926(9) 0.13523(7) 0.13714(16)
+H2 H 0.38140 0.13470 0.06090
+C3 C 0.46431(7) 0.20827(6) 0.19233(14)
+C4 C 0.42821(7) 0.28345(6) 0.12006(13)
+C5 C 0.49029(8) 0.33163(6) 0.03833(15)
+H3 H 0.55560 0.31920 0.03580
+C6 C 0.45708(9) 0.39928(7) -0.04145(15)
+H4 H 0.50130 0.43100 -0.09450
+C7 C 0.36211(9) 0.41998(7) -0.04368(14)
+C8 C 0.29537(8) 0.37239(6) 0.04251(13)
+C9 C 0.32859(7) 0.30461(6) 0.12684(12)
+C10 C 0.26149(8) 0.26067(7) 0.21672(15)
+H5 H 0.28280 0.21710 0.27430
+C11 C 0.16652(9) 0.28074(8) 0.22080(18)
+H6 H 0.12390 0.25140 0.28200
+C12 C 0.13313(10) 0.34518(8) 0.13337(17)
+H7 H 0.06780 0.35770 0.13370
+C13 C 0.19555(9) 0.38990(7) 0.04752(15)
+H8 H 0.17210 0.43300 -0.00930
+C14 C 0.32874(12) 0.49170(9) -0.1342(2)
+H9 H 0.38280 0.51580 -0.18590
+H10 H 0.30010 0.52950 -0.06370
+H11 H 0.28200 0.47560 -0.21080
+C1F C 0.53554(9) 0.06430(7) 0.3061(2)
+H1F H 0.55980 0.01630 0.34370
+C2F C 0.57074(9) 0.13523(7) 0.36286(16)
+H2F H 0.61860 0.13470 0.43910
+C3F C 0.53569(7) 0.20827(6) 0.30767(14)
+C4F C 0.57179(7) 0.28345(6) 0.37994(13)
+C5F C 0.50971(8) 0.33163(6) 0.46167(15)
+H3F H 0.44440 0.31920 0.46420
+C6F C 0.54292(9) 0.39928(7) 0.54145(15)
+H4F H 0.49870 0.43100 0.59450
+C7F C 0.63789(9) 0.41998(7) 0.54368(14)
+C8F C 0.70463(8) 0.37239(6) 0.45749(13)
+C9F C 0.67141(7) 0.30461(6) 0.37316(12)
+C10F C 0.73851(8) 0.26067(7) 0.28328(15)
+H5F H 0.71720 0.21710 0.22570
+C11F C 0.83348(9) 0.28074(8) 0.27920(18)
+H6F H 0.87610 0.25140 0.21800
+C12F C 0.86687(10) 0.34518(8) 0.36663(17)
+H7F H 0.93220 0.35770 0.36630
+C13F C 0.80445(9) 0.38990(7) 0.45248(15)
+H8F H 0.82790 0.43300 0.50930
+C14F C 0.67126(12) 0.49170(9) 0.6342(2)
+H9F H 0.61720 0.51580 0.68590
+H10F H 0.69990 0.52950 0.56370
+H11F H 0.71800 0.47560 0.71080
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 0.930 1_555 1_555
+C2 C1 1.375 1_555 1_555
+H2 C2 0.930 1_555 1_555
+C3 C2 1.400 1_555 1_555
+C4 C3 1.491 1_555 1_555
+C5 C4 1.372 1_555 1_555
+H3 C5 0.930 1_555 1_555
+C6 C5 1.402 1_555 1_555
+H4 C6 0.930 1_555 1_555
+C7 C6 1.363 1_555 1_555
+C8 C7 1.427 1_555 1_555
+C9 C4 1.428 1_555 1_555
+C10 C9 1.414 1_555 1_555
+H5 C10 0.929 1_555 1_555
+C11 C10 1.360 1_555 1_555
+H6 C11 0.930 1_555 1_555
+C12 C11 1.393 1_555 1_555
+H7 C12 0.930 1_555 1_555
+C13 C8 1.416 1_555 1_555
+H8 C13 0.930 1_555 1_555
+C14 C7 1.504 1_555 1_555
+H9 C14 0.960 1_555 1_555
+H10 C14 0.961 1_555 1_555
+H11 C14 0.960 1_555 1_555
+C1F C1 1.375 1_555 1_555
+H1F C1F 0.930 1_555 1_555
+C2F C1F 1.375 1_555 1_555
+H2F C2F 0.930 1_555 1_555
+C3F C3 1.397 1_555 1_555
+C4F C3F 1.491 1_555 1_555
+C5F C4F 1.372 1_555 1_555
+H3F C5F 0.930 1_555 1_555
+C6F C5F 1.402 1_555 1_555
+H4F C6F 0.930 1_555 1_555
+C7F C6F 1.363 1_555 1_555
+C8F C7F 1.427 1_555 1_555
+C9F C4F 1.428 1_555 1_555
+C10F C9F 1.414 1_555 1_555
+H5F C10F 0.929 1_555 1_555
+C11F C10F 1.360 1_555 1_555
+H6F C11F 0.930 1_555 1_555
+C12F C11F 1.393 1_555 1_555
+H7F C12F 0.930 1_555 1_555
+C13F C8F 1.416 1_555 1_555
+H8F C13F 0.930 1_555 1_555
+C14F C7F 1.504 1_555 1_555
+H9F C14F 0.960 1_555 1_555
+H10F C14F 0.961 1_555 1_555
+H11F C14F 0.960 1_555 1_555
+C8 C9 1.423 1_555 1_555
+C12 C13 1.360 1_555 1_555
+C2F C3F 1.400 1_555 1_555
+C8F C9F 1.423 1_555 1_555
+C12F C13F 1.360 1_555 1_555
+#END

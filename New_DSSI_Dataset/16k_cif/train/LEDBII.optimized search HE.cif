@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LEDBII
+_audit_creation_date 2017-08-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LEDBII
+_database_code_depnum_ccdc_archive 'CCDC 1551508'
+_chemical_formula_sum 'C15 H17 N1 O5'
+_chemical_formula_moiety
+;
+C15 H17 N1 O5
+;
+_journal_coden_Cambridge 179
+_journal_volume 56
+_journal_year 2017
+_journal_page_first 11579
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"T.W.Reidl"
+"Jongwoo Son"
+"D.J.Wink"
+"L.L.Anderson"
+_chemical_name_systematic
+;
+dimethyl 3-ethyl-1-oxy-4-phenyl-1-azete-2,2(3H)-dicarboxylate
+;
+_cell_volume   1481.024
+_exptl_crystal_density_diffrn 1.306
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0321
+_refine_ls_wR_factor_gt 0.0321
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+_cell_length_a 11.1976(12)
+_cell_length_b 11.2960(12)
+_cell_length_c 11.7088(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.19426(17) 0.74550(17) 0.54386(17)
+O2 O 0.0129(2) 0.7848(2) 0.4768(2)
+O3 O 0.02665(17) 1.06986(18) 0.48526(17)
+O4 O 0.27638(17) 0.9934(2) 0.56443(17)
+O5 O 0.2524(2) 0.9579(2) 0.7490(2)
+C1 C -0.2300(3) 1.0643(3) 0.7805(3)
+H1 H -0.20020 1.01600 0.83820
+C2 C -0.3758(3) 1.2031(3) 0.7143(4)
+H2 H -0.44320 1.24910 0.72790
+C3 C -0.3315(3) 1.1301(3) 0.7990(3)
+H3 H -0.37050 1.12550 0.86900
+C4 C -0.1717(2) 1.0697(2) 0.6755(2)
+C5 C -0.0642(2) 1.0016(2) 0.6587(2)
+C6 C 0.0014(2) 0.9040(2) 0.7218(2)
+H4 H 0.03680 0.93460 0.79240
+C7 C 0.0936(2) 0.9108(2) 0.6210(2)
+C8 C 0.0945(2) 0.8073(2) 0.5376(2)
+C9 C 0.2044(3) 0.6439(3) 0.4670(3)
+H5 H 0.15540 0.58040 0.49480
+H6 H 0.28620 0.61840 0.46390
+H7 H 0.17840 0.66630 0.39190
+N1 N 0.01421(19) 1.00737(19) 0.57500(19)
+C10 C -0.3199(3) 1.2074(3) 0.6101(3)
+H8 H -0.35130 1.25460 0.55240
+C11 C -0.2178(3) 1.1425(3) 0.5898(3)
+H9 H -0.17980 1.14720 0.51930
+C12 C -0.0631(3) 0.7878(2) 0.7443(3)
+H10 H -0.13120 0.80240 0.79360
+H11 H -0.09270 0.75620 0.67270
+C13 C 0.0179(3) 0.6975(3) 0.8001(3)
+H12 H 0.08040 0.67600 0.74790
+H13 H -0.02760 0.62840 0.81970
+H14 H 0.05230 0.73080 0.86790
+C14 C 0.2166(2) 0.9562(3) 0.6536(3)
+C15 C 0.3942(3) 1.0414(3) 0.5856(3)
+H15 H 0.38850 1.10550 0.63910
+H16 H 0.42760 1.06990 0.51520
+H17 H 0.44470 0.98060 0.61640
+#END

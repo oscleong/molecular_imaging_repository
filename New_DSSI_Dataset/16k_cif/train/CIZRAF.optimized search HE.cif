@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIZRAF
+_audit_creation_date 2008-08-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIZRAF
+_database_code_depnum_ccdc_archive 'CCDC 686662'
+_chemical_formula_sum 'C24 H23 N1 O1'
+_chemical_formula_moiety
+;
+C24 H23 N1 O1
+;
+_journal_coden_Cambridge 35
+_journal_volume 73
+_journal_year 2008
+_journal_page_first 2396
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"V.V.Diev"
+"O.N.Stetsenko"
+"T.Q.Tung"
+"J.Kopf"
+"R.R.Kostikov"
+"A.P.Molchanov"
+_chemical_name_systematic
+;
+endo-3,6-dimethyl-1,4,5-triphenyl-2-oxa-3-azabicyclo[3.1.0]hexane
+;
+_chemical_melting_point 375.15
+_cell_volume   1875.268
+_exptl_crystal_density_diffrn 1.209
+_exptl_special_details
+;
+Melting point range 375.15-378.15K
+
+;
+_diffrn_ambient_temperature 153
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0476
+_refine_ls_wR_factor_gt 0.0476
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.2505(4)
+_cell_length_b 14.0328(6)
+_cell_length_c 13.0709(5)
+_cell_angle_alpha 90
+_cell_angle_beta 94.134(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.23803(7) 0.53106(5) -0.05219(5)
+N1 N 0.18392(8) 0.53576(6) 0.04854(6)
+C1 C 0.25997(9) 0.43247(6) -0.07020(7)
+C2 C 0.25912(9) 0.46340(6) 0.10930(7)
+H1 H 0.34790 0.48920 0.13060
+C3 C 0.27227(9) 0.38238(6) 0.03247(7)
+C4 C 0.15134(9) 0.36605(7) -0.03957(7)
+H2 H 0.07140 0.39980 -0.01890
+C5 C 0.12386(11) 0.27218(7) -0.09254(8)
+H3 H 0.20670 0.24060 -0.10440
+H4 H 0.07430 0.28320 -0.15840
+H5 H 0.07270 0.23160 -0.04930
+C6 C 0.33521(9) 0.42082(7) -0.16204(7)
+C7 C 0.33789(10) 0.49635(7) -0.23159(8)
+H6 H 0.29640 0.55480 -0.21680
+C8 C 0.39995(12) 0.48723(8) -0.32149(9)
+H7 H 0.39940 0.53900 -0.36840
+C9 C 0.46267(13) 0.40351(9) -0.34361(9)
+H8 H 0.50440 0.39710 -0.40580
+C10 C 0.46406(12) 0.32910(8) -0.27419(9)
+H9 H 0.50880 0.27180 -0.28820
+C11 C 0.40085(11) 0.33731(7) -0.18454(8)
+H10 H 0.40230 0.28540 -0.13780
+C12 C 0.21140(11) 0.63242(7) 0.08463(9)
+H11 H 0.30600 0.64350 0.08880
+H12 H 0.17870 0.64070 0.15270
+H13 H 0.16800 0.67810 0.03670
+C13 C 0.19076(9) 0.43701(6) 0.20318(7)
+C14 C 0.26466(11) 0.40965(8) 0.29179(8)
+H14 H 0.35730 0.40820 0.29210
+C15 C 0.20476(12) 0.38452(8) 0.37958(9)
+H15 H 0.25630 0.36580 0.43950
+C16 C 0.07023(12) 0.38664(8) 0.37994(9)
+H16 H 0.02890 0.37020 0.44030
+C17 C -0.00378(11) 0.41277(7) 0.29209(9)
+H17 H -0.09640 0.41380 0.29220
+C18 C 0.05516(10) 0.43756(7) 0.20372(8)
+H18 H 0.00300 0.45490 0.14360
+C19 C 0.36725(9) 0.30673(6) 0.06649(7)
+C20 C 0.50093(10) 0.32526(7) 0.07251(8)
+H19 H 0.53170 0.38500 0.05010
+C21 C 0.58949(10) 0.25734(8) 0.11093(8)
+H20 H 0.68050 0.27100 0.11550
+C22 C 0.54570(11) 0.16970(8) 0.14267(8)
+H21 H 0.60660 0.12280 0.16810
+C23 C 0.41326(11) 0.15058(7) 0.13736(8)
+H22 H 0.38300 0.09040 0.15900
+C24 C 0.32442(10) 0.21903(7) 0.10060(8)
+H23 H 0.23330 0.20590 0.09870
+#END

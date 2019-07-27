@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PAVJAY
+_audit_creation_date 2006-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PAVJAY
+_database_code_depnum_ccdc_archive 'CCDC 274998'
+_chemical_formula_sum 'C14 H10 N2 O6'
+_chemical_formula_moiety
+;
+C14 H10 N2 O6
+;
+_journal_coden_Cambridge 1078
+_journal_year 2005
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"J.Wagler"
+"D.Gerlach"
+_chemical_name_systematic
+;
+3,5-dinitrobenzoic acid 4-methylphenyl ester
+;
+_chemical_melting_point 456
+_cell_volume   1362.864
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.473
+_exptl_special_details
+;
+contribution from Institut fur Anorganische Chemie, Technische Universitat 
+Bergakademie Freiberg, 09596 Freiberg, Germany
+;
+_exptl_crystal_preparation 'dichloroethane'
+_diffrn_ambient_temperature 293
+_diffrn_special_details
+;
+The authors report that the Flack parameter might indicate racemic twinning
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 6.3963(2)
+_cell_length_b 8.1375(3)
+_cell_length_c 26.1838(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4668(2) 0.82996(19) 0.73360(5)
+O2 O 0.2484(2) 0.66054(19) 0.77578(6)
+O3 O 0.3953(4) 0.5633(3) 0.95633(7)
+O4 O 0.6743(4) 0.6517(4) 0.99092(6)
+O5 O 1.1051(2) 1.01533(19) 0.81173(5)
+O6 O 1.1668(3) 0.9666(3) 0.89113(6)
+N1 N 0.5599(4) 0.6370(3) 0.95469(7)
+N2 N 1.0587(2) 0.9559(2) 0.85284(6)
+C1 C 0.0265(5) 0.7989(4) 0.54502(8)
+H1 H 0.05480 0.69550 0.52880
+H2 H -0.12100 0.80910 0.55100
+H3 H 0.07250 0.88690 0.52330
+C2 C 0.1427(3) 0.8076(3) 0.59548(8)
+C3 C 0.0541(3) 0.8824(3) 0.63770(7)
+H4 H -0.07770 0.92960 0.63460
+C4 C 0.1546(3) 0.8893(2) 0.68406(7)
+H5 H 0.09270 0.94020 0.71200
+C5 C 0.3500(3) 0.8186(2) 0.68787(7)
+C6 C 0.4448(3) 0.7451(3) 0.64707(7)
+H6 H 0.57720 0.69900 0.65030
+C7 C 0.3398(4) 0.7405(3) 0.60082(7)
+H7 H 0.40330 0.69120 0.57280
+C8 C 0.4029(3) 0.7438(2) 0.77426(7)
+C9 C 0.5493(3) 0.7651(2) 0.81824(6)
+C10 C 0.4935(3) 0.6943(2) 0.86442(7)
+H8 H 0.36960 0.63510 0.86730
+C11 C 0.6222(3) 0.7123(2) 0.90576(7)
+C12 C 0.8092(3) 0.7968(2) 0.90337(7)
+H9 H 0.89580 0.80750 0.93170
+C13 C 0.8605(3) 0.8644(2) 0.85691(6)
+C14 C 0.7356(3) 0.8520(2) 0.81412(6)
+H10 H 0.77500 0.90030 0.78340
+#END

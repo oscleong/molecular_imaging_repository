@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HEMCEK
+_audit_creation_date 2018-02-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HEMCEK
+_database_code_depnum_ccdc_archive 'CCDC 1821213'
+_chemical_formula_sum 'C15 H16 N2 O4'
+_chemical_formula_moiety
+;
+C15 H16 N2 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Nieger"
+"Martin"
+"Vogtle"
+"Fritz"
+"Dragut"
+"Patrik"
+_chemical_name_systematic
+;
+N-(3,4-dimethoxyphenyl)-2-methoxy-4-nitrosoaniline
+;
+_chemical_name_common
+;
+(3,4-dimethoxyphenyl)-(2-methoxy-4-nitrosophenyl)amine
+;
+_cell_volume   1382.448
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.385
+_exptl_special_details
+;
+Department of Chemistry, Universitity of Helsinki, P.O. Box 55, FIN-00014 
+University of Helsinki, Finland
+;
+_exptl_crystal_description 'plates'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.4029(4)
+_cell_length_b 8.0991(4)
+_cell_length_c 20.3727(11)
+_cell_angle_alpha 90
+_cell_angle_beta 94.372(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.94006(12) 0.29686(13) 0.00666(5)
+N1 N 0.84114(14) 0.23880(16) 0.04301(6)
+C1 C 0.72607(16) 0.34871(18) 0.06285(7)
+C2 C 0.71823(16) 0.51721(17) 0.04505(7)
+H1 H 0.79370 0.56310 0.01780
+C3 C 0.60041(16) 0.61317(17) 0.06771(7)
+C4 C 0.48623(16) 0.54588(17) 0.10915(7)
+C5 C 0.49771(17) 0.37856(18) 0.12624(7)
+H2 H 0.42340 0.33170 0.15380
+C6 C 0.61644(17) 0.28151(19) 0.10323(7)
+H3 H 0.62340 0.16810 0.11500
+O2 O 0.57606(11) 0.77732(12) 0.05437(5)
+C7 C 0.68771(18) 0.85532(19) 0.01426(8)
+H4 H 0.65670 0.97080 0.00660
+H5 H 0.68770 0.79750 -0.02800
+H6 H 0.79490 0.85090 0.03680
+N2 N 0.37010(14) 0.64639(16) 0.12873(6)
+H7 H 0.3763(16) 0.7489(16) 0.1199(8)
+C8 C 0.25420(16) 0.59492(17) 0.17272(7)
+C9 C 0.30013(17) 0.57823(17) 0.23970(7)
+H8 H 0.40650 0.60330 0.25580
+C10 C 0.19118(16) 0.52536(17) 0.28271(7)
+C11 C 0.03341(16) 0.49072(17) 0.25833(7)
+C12 C -0.01119(17) 0.50898(17) 0.19239(7)
+H9 H -0.11810 0.48670 0.17630
+C13 C 0.10045(17) 0.56031(18) 0.14875(8)
+H10 H 0.07000 0.57100 0.10310
+O3 O 0.22391(11) 0.50142(12) 0.34910(5)
+C14 C 0.38528(16) 0.5292(2) 0.37453(8)
+H11 H 0.39570 0.50380 0.42170
+H12 H 0.41360 0.64500 0.36780
+H13 H 0.45690 0.45780 0.35150
+O4 O -0.06567(11) 0.43828(13) 0.30480(5)
+C15 C -0.21813(17) 0.3763(2) 0.28203(8)
+H14 H -0.27100 0.33030 0.31920
+H15 H -0.20540 0.28970 0.24920
+H16 H -0.28310 0.46620 0.26200
+#END

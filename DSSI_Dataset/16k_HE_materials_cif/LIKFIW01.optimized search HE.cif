@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIKFIW01
+_audit_creation_date 2015-09-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIKFIW01
+_database_code_depnum_ccdc_archive 'CCDC 1414866'
+_chemical_formula_sum 'C17 H12 N2 O2'
+_chemical_formula_moiety
+;
+C17 H12 N2 O2
+;
+_journal_coden_Cambridge 16
+_journal_volume 71
+_journal_year 2015
+_journal_page_first 8975
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"J.Saczewski"
+"J.Fedorowicz"
+"M.Korcz"
+"F.Saczewski"
+"B.Wicher"
+"M.Gdaniec"
+"A.Konopacka"
+_chemical_name_systematic
+;
+1-benzyl[1,2]oxazolo[3,4-b]quinolin-3(1H)-one
+;
+_chemical_melting_point 442
+_cell_volume   1317.508
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.393
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'petroleum ether/dichloromethane'
+_diffrn_ambient_temperature 130
+_refine_special_details
+;
+C15A,C16A,C17A,C18A,C19A,C20A,C21A and C15B,C16B,C17B,C18B,C19B,C20B,C21B 
+disordered over two sites with occupancies 0.783:0.217.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0409
+_refine_ls_wR_factor_gt 0.0409
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.8748(12)
+_cell_length_b 4.9254(4)
+_cell_length_c 18.9056(16)
+_cell_angle_alpha 90
+_cell_angle_beta 107.974(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.72347(9) 0.6311(3) 0.07026(7)
+O1 O 0.80058(7) 0.4527(2) 0.10785(6)
+C1 C 0.87298(10) 0.4816(3) 0.07702(8)
+C2 C 0.88678(10) 0.8109(3) -0.02601(8)
+H1 H 0.94720 0.75410 -0.02740
+C3 C 0.87302(11) 1.1576(3) -0.12396(8)
+H2 H 0.93340 1.10940 -0.12740
+C4 C 0.82241(12) 1.3591(3) -0.16816(8)
+H3 H 0.84800 1.45160 -0.20160
+C5 C 0.73211(12) 1.4305(3) -0.16436(8)
+H4 H 0.69700 1.56900 -0.19600
+C6 C 0.69468(11) 1.3032(3) -0.11582(8)
+H5 H 0.63390 1.35420 -0.11390
+N2 N 0.70416(8) 0.9774(2) -0.02037(7)
+C7 C 0.74539(10) 1.0962(3) -0.06836(8)
+C8 C 0.83633(10) 1.0189(3) -0.07275(8)
+C9 C 0.75492(10) 0.7848(3) 0.02099(8)
+C10 C 0.84488(10) 0.6947(3) 0.02138(8)
+O2 O 0.94254(8) 0.3404(2) 0.09803(6)
+C11 C 0.68297(15) 0.7566(4) 0.12052(11)
+H6 H 0.64400 0.90730 0.09560
+H7 H 0.73340 0.83020 0.16170
+C12 C 0.6245(2) 0.5705(8) 0.1507(3)
+H8 H 0.56710 0.46470 0.30110
+C13 C 0.5680(3) 0.3700(9) 0.10738(18)
+H9 H 0.56690 0.34640 0.05830
+C14 C 0.5128(3) 0.2030(9) 0.1363(3)
+H10 H 0.47570 0.06810 0.10700
+C15 C 0.5119(3) 0.2382(9) 0.2087(4)
+H11 H 0.47480 0.12650 0.22800
+C16 C 0.5661(4) 0.4402(10) 0.2518(2)
+C17 C 0.6222(2) 0.6046(6) 0.2227(2)
+H12 H 0.65860 0.74060 0.25210
+C18? C 0.6292(5) 0.5575(15) 0.0586(4)
+H13? H 0.62900 0.41750 0.02320
+H14? H 0.59230 0.70890 0.03360
+C19? C 0.5991(9) 0.472(3) 0.1267(7)
+C20? C 0.6400(8) 0.571(2) 0.1926(11)
+H15? H 0.69140 0.69400 0.19980
+C21? C 0.6092(11) 0.500(3) 0.2528(10)
+H16? H 0.63740 0.57570 0.30080
+C22? C 0.5368(11) 0.319(3) 0.2398(9)
+H17? H 0.51640 0.26130 0.28030
+C23? C 0.4938(10) 0.218(3) 0.1724(10)
+H18? H 0.44300 0.09340 0.16550
+C24? C 0.5214(11) 0.291(3) 0.1147(7)
+H19? H 0.48970 0.22420 0.06630
+#END

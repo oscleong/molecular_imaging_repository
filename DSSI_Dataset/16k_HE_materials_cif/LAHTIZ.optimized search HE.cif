@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LAHTIZ
+_audit_creation_date 2011-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LAHTIZ
+_database_code_depnum_ccdc_archive 'CCDC 743605'
+_chemical_formula_sum 'C14 H10 N2 O2'
+_chemical_formula_moiety
+;
+C14 H10 N2 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2009
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"C.Glidewell"
+"C.E.M.Carvalho"
+_chemical_name_systematic
+;
+2-(3-Phenyl-1,2,4-oxadiazol-5-yl)phenol
+;
+_cell_volume    561.280
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.41
+_exptl_special_details
+;
+contribution from School of Chemistry, University of St Andrews, St Andrews, 
+Fife KY16 9ST, UK
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+C3,C31,C32,C33,C34,C35,C36,C5,C51,C52,C53,C54,C55,C56, N2,O1,O52 disordered 
+by symmetry over two sites with occupancy 0.50.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0635
+_refine_ls_wR_factor_gt 0.0635
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.5436(12)
+_cell_length_b 5.226(2)
+_cell_length_c 17.330(3)
+_cell_angle_alpha 90
+_cell_angle_beta 108.72(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7856(7) 0.6062(9) 0.4776(3)
+N1 N 0.6914(11) 0.3992(13) 0.4249(4)
+N2 N 0.50000 0.50000 0.50000
+C1 C 0.5145(10) 0.3454(11) 0.4407(4)
+C2 C 0.370(2) 0.139(3) 0.4014(11)
+C3 C 0.4174(17) -0.015(2) 0.3422(7)
+H1 H 0.54210 0.01440 0.32670
+C4 C 0.2741(18) -0.213(2) 0.3077(8)
+H2 H 0.30550 -0.32370 0.26950
+C5 C 0.087(2) -0.253(2) 0.3274(6)
+H3 H -0.00960 -0.38650 0.30200
+C6 C 0.0446(14) -0.0984(18) 0.3837(6)
+H4 H -0.08310 -0.12590 0.39740
+C7 C 0.1815(14) 0.0963(18) 0.4210(6)
+H5 H 0.14840 0.20160 0.46010
+C8 C 0.6504(11) 0.6508(12) 0.5209(4)
+C9 C 0.299(2) 0.148(3) 0.4181(11)
+C10 C 0.4464(13) 0.101(2) 0.3745(7)
+C11 C 0.3931(19) -0.098(2) 0.3176(7)
+H6 H 0.48580 -0.13200 0.28640
+C12 C 0.2109(17) -0.247(2) 0.3049(9)
+H7 H 0.17870 -0.37930 0.26530
+C13 C 0.078(2) -0.202(2) 0.3501(6)
+H8 H -0.04350 -0.30980 0.34350
+C14 C 0.1158(8) -0.0027(10) 0.4048(3)
+H9 H 0.01700 0.03190 0.43340
+O2 O 0.6265(8) 0.251(1) 0.3863(3)
+O1B O 0.2144(7) 0.3938(9) 0.5224(3)
+N1B N 0.3086(11) 0.6008(13) 0.5751(4)
+C1B C 0.4855(10) 0.6546(11) 0.5593(4)
+C2B C 0.630(2) 0.861(3) 0.5986(11)
+C3B C 0.5826(17) 1.015(2) 0.6578(7)
+H1B H 0.45790 0.98560 0.67330
+C4B C 0.7259(18) 1.213(2) 0.6923(8)
+H2B H 0.69450 1.32370 0.73050
+C5B C 0.913(2) 1.253(2) 0.6726(6)
+H3B H 1.00960 1.38650 0.69800
+C6B C 0.9554(14) 1.0984(18) 0.6163(6)
+H4B H 1.08310 1.12590 0.60260
+C7B C 0.8185(14) 0.9037(18) 0.5790(6)
+H5B H 0.85160 0.79840 0.53990
+C8B C 0.3496(11) 0.3492(12) 0.4791(4)
+C9B C 0.701(2) 0.852(3) 0.5819(11)
+C10B C 0.5536(13) 0.899(2) 0.6255(7)
+C11B C 0.6069(19) 1.098(2) 0.6824(7)
+H6B H 0.51420 1.13200 0.71360
+C12B C 0.7891(17) 1.247(2) 0.6951(9)
+H7B H 0.82130 1.37930 0.73470
+C13B C 0.922(2) 1.202(2) 0.6499(6)
+H8B H 1.04350 1.30980 0.65650
+C14B C 0.8842(8) 1.0027(10) 0.5952(3)
+H9B H 0.98300 0.96810 0.56660
+O2B O 0.3735(8) 0.749(1) 0.6137(3)
+#END

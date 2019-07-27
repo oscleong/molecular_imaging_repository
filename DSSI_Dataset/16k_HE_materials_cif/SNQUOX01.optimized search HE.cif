@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SNQUOX01
+_audit_creation_date 2010-10-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SNQUOX01
+_database_code_depnum_ccdc_archive 'CCDC 743233'
+_chemical_formula_sum 'C10 H7 N1 O2'
+_chemical_formula_moiety
+;
+C10 H7 N1 O2
+;
+_journal_coden_Cambridge 489
+_journal_volume 15
+_journal_year 2010
+_journal_page_first 429
+_journal_name_full 'J.Biol.Inorg.Chem.(JBIC) '
+loop_
+_publ_author_name
+"S.Wirth"
+"C.J.Rohbogner"
+"M.Cieslak"
+"J.Kazmierczak-Baranska"
+"S.Donevski"
+"B.Nawrot"
+"I.-P.Lorenz"
+_chemical_name_systematic
+;
+1-Nitroso-2-naphthol
+;
+_cell_volume    761.599
+_exptl_crystal_colour 'yellow-brown'
+_exptl_crystal_density_diffrn 1.51
+_exptl_special_details
+;
+oxo-oxime tautomer
+anticancer activity
+
+;
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0337
+_refine_ls_wR_factor_gt 0.0337
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.4470(11)
+_cell_length_b 9.1179(18)
+_cell_length_c 15.664(4)
+_cell_angle_alpha 90
+_cell_angle_beta 101.77(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.23411(18) 0.20417(10) -0.12137(5)
+O2 O 0.65258(17) 0.09106(10) -0.06073(5)
+N1 N 0.25608(19) 0.28787(11) -0.04812(6)
+C1 C 0.4613(2) 0.27337(13) 0.01195(7)
+C2 C 0.6657(2) 0.16863(13) 0.00588(8)
+C3 C 0.8744(2) 0.15887(13) 0.07903(8)
+H1 H 1.00590 0.09130 0.07710
+C4 C 0.8859(2) 0.24374(13) 0.14994(8)
+H2 H 1.02640 0.23390 0.19680
+C5 C 0.6927(2) 0.34987(13) 0.15810(7)
+C6 C 0.7139(2) 0.43460(13) 0.23396(8)
+H3 H 0.85500 0.42250 0.28030
+C7 C 0.5308(2) 0.53558(13) 0.24165(8)
+H4 H 0.54570 0.59260 0.29320
+C8 C 0.3240(2) 0.55374(14) 0.17360(8)
+H5 H 0.19910 0.62410 0.17860
+C9 C 0.2999(2) 0.46995(13) 0.09891(8)
+H6 H 0.15770 0.48300 0.05310
+C10 C 0.4821(2) 0.36614(13) 0.08986(7)
+H7 H 0.389(3) 0.1478(17) -0.1123(10)
+#END

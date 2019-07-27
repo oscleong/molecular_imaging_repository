@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAXTAE
+_audit_creation_date 2006-01-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAXTAE
+_database_code_depnum_ccdc_archive 'CCDC 287750'
+_chemical_formula_sum 'C14 H10 N4 O4'
+_chemical_formula_moiety
+;
+C14 H10 N4 O4
+;
+_journal_coeditor_code "IUCr WN6382"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o3485
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Peng-Wu Zheng"
+"Wei Wang"
+"Xue-Min Duan"
+_chemical_name_systematic
+;
+(E,E)-N,N'-bis(3-Nitrobenzylidene)hydrazine
+;
+_chemical_melting_point 469
+_cell_volume    684.414
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.447
+_exptl_special_details
+;
+Melting point range 469-470K
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'THF'
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0381
+_refine_ls_wR_factor_gt 0.0381
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.9694(19)
+_cell_length_b 7.833(2)
+_cell_length_c 12.990(4)
+_cell_angle_alpha 90
+_cell_angle_beta 105.175(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6567(2) 0.8906(2) 1.09525(13)
+O2 O 0.8984(2) 0.7322(2) 1.17929(11)
+N1 N 0.8070(2) 0.8074(2) 1.09941(14)
+N2 N 1.4133(2) 0.53887(19) 1.00720(13)
+C1 C 1.3163(3) 0.6158(2) 0.92344(15)
+H1 H 1.36490 0.61580 0.86320
+C2 C 1.1288(2) 0.7046(2) 0.92005(14)
+C3 C 1.0230(3) 0.7846(2) 0.82660(15)
+H2 H 1.07080 0.78050 0.76620
+C4 C 0.8475(3) 0.8700(3) 0.82294(16)
+H3 H 0.77880 0.92320 0.76010
+C5 C 0.7733(3) 0.8773(2) 0.91120(16)
+H4 H 0.65500 0.93400 0.90900
+C6 C 0.8800(2) 0.7978(2) 1.00290(14)
+C7 C 1.0551(2) 0.7121(2) 1.00964(13)
+H5 H 1.12310 0.65990 1.07300
+O1B O 2.3433(2) 0.1094(2) 0.90475(13)
+O2B O 2.1016(2) 0.2678(2) 0.82071(11)
+N1B N 2.1930(2) 0.1926(2) 0.90059(14)
+N2B N 1.5867(2) 0.46113(19) 0.99280(13)
+C1B C 1.6837(3) 0.3842(2) 1.07656(15)
+H1B H 1.63510 0.38420 1.13680
+C2B C 1.8712(2) 0.2954(2) 1.07995(14)
+C3B C 1.9770(3) 0.2154(2) 1.17340(15)
+H2B H 1.92920 0.21950 1.23380
+C4B C 2.1525(3) 0.1300(3) 1.17706(16)
+H3B H 2.22120 0.07680 1.23990
+C5B C 2.2267(3) 0.1227(2) 1.08880(16)
+H4B H 2.34500 0.06600 1.09100
+C6B C 2.1200(2) 0.2022(2) 0.99710(14)
+C7B C 1.9449(2) 0.2879(2) 0.99036(13)
+H5B H 1.87690 0.34010 0.92700
+#END

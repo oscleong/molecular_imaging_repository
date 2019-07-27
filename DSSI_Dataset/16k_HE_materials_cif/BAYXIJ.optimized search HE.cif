@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAYXIJ
+_audit_creation_date 2004-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAYXIJ
+_database_code_depnum_ccdc_archive 'CCDC 211978'
+_chemical_formula_sum 'C9 H7 N3 O7'
+_chemical_formula_moiety
+;
+C9 H7 N3 O7
+;
+_journal_coden_Cambridge 182
+_journal_year 2003
+_journal_page_first 2326
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Zhenming Yin"
+"Ling Jiang"
+"Jiaqi He"
+"Jin-Pei Cheng"
+_chemical_name_systematic
+;
+methyl (2,4-dinitrophenylamidocarboxylate)
+;
+_chemical_name_common
+;
+N-oxalyl 2,4-dinitroanilide
+;
+_chemical_melting_point 448.15
+_cell_volume   1076.838
+_exptl_crystal_density_diffrn 1.66
+_exptl_special_details
+;
+Melting point range 448.15-450.15K
+
+;
+_exptl_crystal_preparation 'ethyl acetate/petroleum ether'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0496
+_refine_ls_wR_factor_gt 0.0496
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 12.810(3)
+_cell_length_b 4.645(2)
+_cell_length_c 18.340(5)
+_cell_angle_alpha 90
+_cell_angle_beta 99.33(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1363(3) 0.6691(7) 0.08666(17)
+H1 H 0.08090 0.60200 0.05160
+C2 C 0.2338(3) 0.5582(7) 0.08852(19)
+H2 H 0.24550 0.41540 0.05520
+C3 C 0.3143(3) 0.6560(8) 0.1391(2)
+C4 C 0.2991(3) 0.8606(8) 0.18869(19)
+H3 H 0.35530 0.92500 0.22340
+C5 C 0.2000(3) 0.9715(7) 0.18704(19)
+C6 C 0.1170(3) 0.8792(7) 0.13538(18)
+C7 C -0.0706(3) 0.9349(8) 0.0847(2)
+C8 C -0.1620(3) 1.1173(9) 0.1017(2)
+C9 C -0.3436(3) 1.1866(9) 0.0747(2)
+H4 H -0.40390 1.11060 0.04250
+H5 H -0.33630 1.38770 0.06450
+H6 H -0.35320 1.16230 0.12520
+N1 N 0.4203(3) 0.5373(9) 0.1418(2)
+N2 N 0.1905(3) 1.1907(7) 0.24144(17)
+N3 N 0.0172(2) 0.9940(5) 0.13251(14)
+H7 H 0.01060 1.12020 0.16580
+O1 O 0.4299(3) 0.3525(8) 0.0976(2)
+O2 O 0.4900(2) 0.6313(8) 0.1852(2)
+O3 O 0.2697(2) 1.2706(6) 0.28021(14)
+O4 O 0.1041(2) 1.2916(6) 0.24426(14)
+O5 O -0.07957(17) 0.7729(6) 0.03458(13)
+O6 O -0.2492(2) 1.0344(5) 0.06232(14)
+O7 O -0.1507(2) 1.3029(6) 0.14568(15)
+#END

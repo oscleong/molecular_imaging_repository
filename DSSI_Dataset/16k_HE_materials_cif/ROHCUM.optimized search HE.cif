@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ROHCUM
+_audit_creation_date 1998-01-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ROHCUM
+_database_code_depnum_ccdc_archive 'CCDC 129159'
+_chemical_formula_sum 'C17 H18 N2 O2'
+_chemical_formula_moiety
+;
+C17 H18 N2 O2
+;
+_journal_coeditor_code "IUCr CF1113"
+_journal_coden_Cambridge 591
+_journal_volume 53
+_journal_year 1997
+_journal_page_first 1468
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"E.Diaz"
+"H.Barrios"
+"R.A.Toscano"
+_chemical_name_systematic
+;
+trans-1-Hydroxy-2,6-diphenyl-4-piperidone oxime
+;
+_cell_volume   1512.708
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.24
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Hydroxylimino O9 is disordered over two sites with occupancies 0.526:0.474.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0501
+_refine_ls_wR_factor_gt 0.0501
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.890(3)
+_cell_length_b 10.437(3)
+_cell_length_c 14.790(4)
+_cell_angle_alpha 90
+_cell_angle_beta 97.75(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.0840(2) 0.6226(2) 0.47643(14)
+C1 C 0.0559(3) 0.7566(3) 0.5026(2)
+C2 C 0.1833(3) 0.8241(3) 0.5515(2)
+C3 C 0.3074(3) 0.8050(3) 0.5056(2)
+C4 C 0.3289(3) 0.6742(3) 0.4708(2)
+C5 C 0.1963(3) 0.6195(3) 0.4198(2)
+O1 O 0.1330(2) 0.5549(2) 0.56002(13)
+N2 N 0.3934(3) 0.8942(2) 0.5001(2)
+O2 O 0.3606(4) 1.0109(4) 0.5454(3)
+O3? O 0.5083(5) 0.8620(5) 0.4496(3)
+C6 C -0.0152(3) 0.8233(3) 0.4182(2)
+C7 C -0.1451(3) 0.7843(3) 0.3829(2)
+C8 C -0.2113(4) 0.8360(4) 0.3037(3)
+C9 C -0.1504(4) 0.9281(4) 0.2578(3)
+C10 C -0.0233(4) 0.9688(4) 0.2916(2)
+C11 C 0.0439(3) 0.9175(3) 0.3707(2)
+C12 C 0.2083(3) 0.4875(3) 0.3797(2)
+C13 C 0.3009(3) 0.3976(3) 0.4173(3)
+C14 C 0.3070(4) 0.2791(4) 0.3790(3)
+C15 C 0.2225(5) 0.2469(4) 0.3027(3)
+C16 C 0.1281(4) 0.3344(4) 0.2639(3)
+C17 C 0.1224(3) 0.4542(3) 0.3024(2)
+H1 H -0.01020 0.75200 0.54630
+H2 H 0.16480 0.91510 0.55470
+H3 H 0.20160 0.79200 0.61350
+H4 H 0.36180 0.61850 0.52160
+H5 H 0.39790 0.67710 0.43010
+H6 H 0.16930 0.67710 0.36820
+H7 H 0.0744(27) 0.4963(27) 0.5633(18)
+H8 H 0.4267(20) 1.0598(23) 0.5379(19)
+H9 H -0.18850 0.72170 0.41330
+H10 H -0.29860 0.80800 0.28120
+H11 H -0.19540 0.96260 0.20410
+H12 H 0.01880 1.03200 0.26090
+H13 H 0.13090 0.94670 0.39270
+H14 H 0.36030 0.41780 0.46950
+H15 H 0.37010 0.21960 0.40570
+H16 H 0.22820 0.16630 0.27660
+H17 H 0.06840 0.31290 0.21200
+H18 H 0.05930 0.51360 0.27550
+#END

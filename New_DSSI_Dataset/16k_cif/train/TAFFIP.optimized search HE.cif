@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAFFIP
+_audit_creation_date 1991-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAFFIP
+_chemical_formula_sum 'C14 H10 N2 O4'
+_chemical_formula_moiety
+;
+C14 H10 N2 O4
+;
+_journal_coden_Cambridge 35
+_journal_volume 55
+_journal_year 1990
+_journal_page_first 4322
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"G.L.Squadrito"
+"F.R.Fronczek"
+"S.F.Watkins"
+"D.F.Church"
+"W.A.Pryor"
+_chemical_name_systematic
+;
+trans-9,10-Dinitro-9,10-dihydroanthracene
+;
+_cell_volume    605.499
+_exptl_crystal_density_diffrn 1.482
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.04
+_refine_ls_wR_factor_gt 0.04
+loop_
+_citation_database_id_CSD
+_citation_special_details
+TAFFEL "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.733(1)
+_cell_length_b 12.735(2)
+_cell_length_c 6.383(1)
+_cell_angle_alpha 90
+_cell_angle_beta 105.58(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4345(1) -0.1267(1) 0.0211(2)
+O2 O 0.2632(2) -0.1559(1) 0.2291(2)
+N1 N 0.3054(1) -0.1064(1) 0.0885(2)
+C1 C 0.1865(2) -0.0133(1) -0.0173(2)
+C2 C 0.1457(2) 0.0508(1) 0.1608(2)
+C3 C 0.0279(2) -0.0602(1) -0.1828(2)
+C4 C 0.0576(2) -0.1161(1) -0.3577(2)
+C5 C -0.0838(2) -0.1635(1) -0.5078(2)
+C6 C -0.2566(2) -0.1566(1) -0.4841(2)
+C7 C 0.2878(2) 0.0994(1) 0.3133(2)
+H1 H 0.270(2) 0.025(1) -0.087(2)
+H2 H 0.181(2) -0.119(1) -0.374(2)
+H3 H -0.065(2) -0.201(2) -0.633(2)
+H4 H -0.350(2) -0.190(2) -0.582(3)
+H5 H 0.408(2) 0.094(2) 0.296(2)
+C3B C -0.0279(2) 0.0602(1) 0.1828(2)
+C2B C -0.1457(2) -0.0508(1) -0.1608(2)
+C7B C -0.2878(2) -0.0994(1) -0.3133(2)
+C6B C 0.2566(2) 0.1566(1) 0.4841(2)
+C1B C -0.1865(2) 0.0133(1) 0.0173(2)
+C4B C -0.0576(2) 0.1161(1) 0.3577(2)
+H5B H -0.408(2) -0.094(2) -0.296(2)
+C5B C 0.0838(2) 0.1635(1) 0.5078(2)
+H4B H 0.350(2) 0.190(2) 0.582(3)
+N1B N -0.3054(1) 0.1064(1) -0.0885(2)
+H1B H -0.270(2) -0.025(1) 0.087(2)
+H2B H -0.181(2) 0.119(1) 0.374(2)
+H3B H 0.065(2) 0.201(2) 0.633(2)
+O1B O -0.4345(1) 0.1267(1) -0.0211(2)
+O2B O -0.2632(2) 0.1559(1) -0.2291(2)
+#END

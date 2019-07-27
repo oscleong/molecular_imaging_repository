@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YAHKID
+_audit_creation_date 2011-11-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YAHKID
+_database_code_depnum_ccdc_archive 'CCDC 852266'
+_chemical_formula_sum 'C14 H8 N6 O12'
+_chemical_formula_moiety
+;
+C14 H8 N6 O12
+;
+_journal_coeditor_code "IUCr XU5348"
+_journal_coden_Cambridge 1370
+_journal_volume 67
+_journal_year 2011
+_journal_page_first o3044
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Wen-Yan Wang"
+"Ying Diao"
+"Zhi-Hua Wei"
+"Jian-Long Wang"
+_chemical_name_systematic
+;
+1,1'-Ethane-1,2-diylbis(2,4,6-trinitrobenzene)
+;
+_chemical_name_common
+;
+1,2-bis(2,4,6-trinitrophenyl)ethane
+;
+_cell_volume    847.385
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.773
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 113
+_refine_special_details
+;
+Nitro groups are disordered over two sites with occupancies 0.513:0.487.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0343
+_refine_ls_wR_factor_gt 0.0343
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.8468(5)
+_cell_length_b 8.1253(11)
+_cell_length_c 17.977(2)
+_cell_angle_alpha 90
+_cell_angle_beta 97.154(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.788(2) 0.4687(13) 0.1645(5)
+O1 O 0.8771(5) 0.5628(3) 0.12216(13)
+O2 O 0.815(3) 0.489(2) 0.2328(6)
+O3 O 0.72410(17) -0.11091(14) 0.26187(5)
+O4 O 0.48405(19) -0.23368(11) 0.17726(5)
+N2 N 0.15225(18) 0.19328(12) 0.00293(5)
+O5 O -0.0105(3) 0.2748(3) 0.01446(10)
+O6 O 0.1555(3) 0.0949(3) -0.04988(9)
+N3 N 0.59258(19) -0.11271(15) 0.20272(6)
+C1 C 0.4345(2) 0.49440(15) 0.03484(6)
+H1 H 0.47970 0.58850 0.06850
+H2 H 0.26680 0.50290 0.01850
+C2 C 0.4834(2) 0.33521(15) 0.07792(6)
+C3 C 0.6575(2) 0.31668(17) 0.13844(6)
+C4 C 0.6978(2) 0.17462(17) 0.18056(6)
+H3 H 0.81680 0.16920 0.22160
+C5 C 0.5584(2) 0.04194(16) 0.16040(7)
+C6 C 0.3810(2) 0.04812(17) 0.10198(7)
+H4 H 0.28500 -0.04450 0.08920
+C7 C 0.3490(2) 0.19428(16) 0.06306(6)
+N4? N 0.824(2) 0.4472(14) 0.1631(5)
+O7? O 0.9430(5) 0.4872(4) 0.11433(14)
+O8? O 0.822(3) 0.503(2) 0.2263(7)
+O9? O -0.0438(3) 0.1733(4) 0.01768(11)
+O10? O 0.2022(4) 0.2111(3) -0.06168(10)
+N1B N 0.212(2) 0.5313(13) -0.1645(5)
+O1B O 0.1229(5) 0.4372(3) -0.12216(13)
+O2B O 0.185(3) 0.511(2) -0.2328(6)
+O3B O 0.27590(17) 1.11091(14) -0.26187(5)
+O4B O 0.51595(19) 1.23368(11) -0.17726(5)
+N2B N 0.84775(18) 0.80672(12) -0.00293(5)
+O5B O 1.0105(3) 0.7252(3) -0.01446(10)
+O6B O 0.8445(3) 0.9051(3) 0.04988(9)
+N3B N 0.40742(19) 1.11271(15) -0.20272(6)
+C1B C 0.5655(2) 0.50560(15) -0.03484(6)
+H1B H 0.52030 0.41150 -0.06850
+H2B H 0.73320 0.49710 -0.01850
+C2B C 0.5166(2) 0.66479(15) -0.07792(6)
+C3B C 0.3425(2) 0.68332(17) -0.13844(6)
+C4B C 0.3022(2) 0.82538(17) -0.18056(6)
+H3B H 0.18320 0.83080 -0.22160
+C5B C 0.4416(2) 0.95806(16) -0.16040(7)
+C6B C 0.6190(2) 0.95188(17) -0.10198(7)
+H4B H 0.71500 1.04450 -0.08920
+C7B C 0.6510(2) 0.80572(16) -0.06306(6)
+#END

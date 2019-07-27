@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIVTOQ10
+_audit_creation_date 1987-05-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIVTOQ10
+_chemical_formula_sum 'C13 H4 N4 O10'
+_chemical_formula_moiety
+;
+C13 H4 N4 O10
+;
+_journal_coden_Cambridge 93
+_journal_volume 285
+_journal_year 1985
+_journal_page_first 1160
+_journal_name_full 'Dokl.Akad.Nauk SSSR(Russ.)(Proc.Nat.Acad.Sci.USSR) '
+loop_
+_publ_author_name
+"L.A.Chetkina"
+"E.G.Popova"
+"V.K.Bel'skii"
+"A.M.Andrievskii"
+"A.N.Poplavskii"
+"K.M.Dyumaev"
+_chemical_name_systematic
+;
+3,7,8,9-Tetranitro-5H-dibenzo(b,d)pyran-5-one
+;
+_chemical_melting_point 535.15
+_cell_volume   1404.626
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.783
+_exptl_special_details
+;
+Melting point range 535.15-536.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 -x,-y,-z
+4 x,-1/2+y,-1/2-z
+_cell_length_a 7.073(2)
+_cell_length_b 14.789(4)
+_cell_length_c 13.429(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90.62(2)
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.4655(3) 0.2701(2) 0.2108(2)
+C2 C 0.6273(4) 0.2763(2) 0.1536(2)
+C3 C 0.6973(4) 0.3593(2) 0.1242(2)
+C4 C 0.6064(4) 0.4362(2) 0.1546(2)
+C5 C 0.2132(4) 0.5143(2) 0.3047(2)
+C6 C -0.0536(4) 0.4314(2) 0.3777(2)
+C7 C -0.1451(3) 0.3516(2) 0.3977(2)
+C8 C -0.0727(3) 0.2685(2) 0.3712(2)
+C9 C 0.0970(4) 0.2660(2) 0.3214(2)
+C10 C 0.1943(4) 0.3455(2) 0.2987(2)
+C11 C 0.3705(3) 0.3472(2) 0.2414(2)
+C12 C 0.4446(4) 0.4307(2) 0.2132(2)
+C13 C 0.1179(4) 0.4281(2) 0.3282(2)
+O1 O 0.6799(3) 0.1239(1) 0.1690(2)
+O2 O 0.8098(3) 0.1930(1) 0.0466(2)
+O3 O 0.8422(3) 0.4023(2) -0.0202(2)
+O4 O 1.0171(3) 0.3481(2) 0.0953(2)
+O5 O 0.3682(2) 0.5104(1) 0.2420(1)
+O6 O 0.1673(3) 0.5876(2) 0.3318(2)
+O7 O 0.8476(3) 0.5405(2) 0.1552(2)
+O8 O 0.5861(4) 0.5778(2) 0.0849(2)
+O9 O -0.4111(3) 0.4242(2) 0.4542(2)
+O10 O -0.3939(3) 0.2829(2) 0.4792(2)
+N1 N 0.7133(3) 0.1910(2) 0.1210(2)
+N2 N 0.8683(3) 0.3705(2) 0.0613(2)
+N3 N 0.6848(8) 0.5260(2) 0.1285(2)
+N4 N -0.3295(3) 0.3534(2) 0.4483(2)
+#END

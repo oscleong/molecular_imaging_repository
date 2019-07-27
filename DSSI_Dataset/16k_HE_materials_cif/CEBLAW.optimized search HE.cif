@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CEBLAW
+_audit_creation_date 1984-08-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CEBLAW
+_database_code_depnum_ccdc_archive 'CCDC 1121908'
+_chemical_formula_sum 'C24 H21 N3 O3'
+_chemical_formula_moiety
+;
+C24 H21 N3 O3
+;
+_journal_coden_Cambridge 194
+_journal_volume 31
+_journal_year 1983
+_journal_page_first 2623
+_journal_name_full 'Chem.Pharm.Bull. '
+loop_
+_publ_author_name
+"M.Sakamoto"
+"Y.Akiyama"
+"N.Furumi"
+"K.Ishii"
+"Y.Tomimatsu"
+"T.Date"
+_chemical_name_systematic
+;
+1-Benzyl-4-hydroxy-5-imino-3-methyl-4-(4-nitrophenyl)-2-phenyl-4,5-dihydropyrr
+ole
+;
+_chemical_melting_point 441.15
+_cell_volume   2130.567
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.244
+_exptl_special_details
+;
+Melting point range 441.15-503.15K
+In the Bond table, atoms C4 and C3, and atoms C2 and C5, have become 
+interchanged
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 12.109
+_cell_length_b 22.916
+_cell_length_c 7.678
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.64860 0.40420 0.24420
+C1 C 0.74600 0.43050 0.19980
+C2 C 0.82940 0.41620 0.34320
+C3 C 0.75870 0.38770 0.48130
+C4 C 0.65700 0.38160 0.41960
+N2 N 0.76120 0.46180 0.06630
+O1 O 0.88450 0.46800 0.39700
+C5 C 0.91800 0.37450 0.27640
+C6 C 0.89340 0.33360 0.14980
+C7 C 0.97420 0.29660 0.08510
+C8 C 1.08010 0.30210 0.15120
+C9 C 1.10570 0.34040 0.28070
+C10 C 1.02430 0.37750 0.34430
+N3 N 1.16590 0.26310 0.07960
+O2 O 1.26100 0.27260 0.12750
+O3 O 1.14250 0.22580 -0.02340
+C11 C 0.80070 0.36930 0.65460
+C12 C 0.55670 0.35720 0.50460
+C13 C 0.51390 0.38510 0.64630
+C14 C 0.41820 0.36430 0.72600
+C15 C 0.36770 0.31490 0.65780
+C16 C 0.41070 0.28620 0.51770
+C17 C 0.50640 0.30700 0.43700
+C18 C 0.54540 0.41250 0.15170
+C19 C 0.46900 0.45620 0.23870
+C20 C 0.36100 0.44230 0.27010
+C21 C 0.29080 0.48340 0.35100
+C22 C 0.33020 0.53740 0.39890
+C23 C 0.43930 0.55080 0.36980
+C24 C 0.50650 0.50990 0.29150
+#END

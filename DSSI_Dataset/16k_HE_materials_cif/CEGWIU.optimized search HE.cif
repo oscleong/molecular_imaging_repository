@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CEGWIU
+_audit_creation_date 1984-10-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CEGWIU
+_database_code_depnum_ccdc_archive 'CCDC 1122444'
+_chemical_formula_sum 'C16 H13 N1 O4'
+_chemical_formula_moiety
+;
+C16 H13 N1 O4
+;
+_journal_coden_Cambridge 54
+_journal_volume 92
+_journal_year 1983
+_journal_page_first 865
+_journal_name_full 'Bull.Soc.Chim.Belg. '
+loop_
+_publ_author_name
+"B.Tinant"
+"R.Touillaux"
+"J.P.Declercq"
+"M.van Meerssche"
+"G.Leroy"
+"J.Weiler"
+_chemical_name_systematic
+;
+(Z)-Methyl \b-p-nitrophenyl-\a-phenylacrylate
+;
+_cell_volume   1374.366
+_exptl_crystal_density_diffrn 1.37
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+loop_
+_citation_database_id_CSD
+_citation_special_details
+CEGWUG "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.296(1)
+_cell_length_b 6.703(2)
+_cell_length_c 24.863(5)
+_cell_angle_alpha 90
+_cell_angle_beta 96.25(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.17640 0.29720 0.38540
+C2 C 0.03070 0.33180 0.41310
+C3 C -0.03510 0.52160 0.41580
+C4 C -0.17110 0.55580 0.44210
+C5 C -0.24580 0.40090 0.46470
+C6 C -0.18480 0.21020 0.46260
+C7 C -0.04710 0.17760 0.43720
+C8 C 0.20080 0.38460 0.33910
+C9 C 0.34210 0.37700 0.30850
+C10 C 0.50120 0.35340 0.33360
+C11 C 0.63100 0.35130 0.30420
+C12 C 0.60420 0.36970 0.24850
+C13 C 0.45120 0.39420 0.22210
+C14 C 0.32200 0.39970 0.25210
+N1 N 0.74340 0.36840 0.21690
+O1 O 0.87970 0.36140 0.24070
+O2 O 0.71770 0.37570 0.16750
+C15 C 0.29720 0.15350 0.41370
+O3 O 0.36530 0.18350 0.45820
+O4 O 0.31620 -0.00900 0.38420
+C16 C 0.43890 -0.14920 0.40630
+#END

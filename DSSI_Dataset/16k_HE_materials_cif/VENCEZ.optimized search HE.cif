@@ -1,0 +1,95 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VENCEZ
+_audit_creation_date 2018-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VENCEZ
+_database_code_depnum_ccdc_archive 'CCDC 1816967'
+_chemical_formula_sum 'C7 H5 N1 O3'
+_chemical_formula_moiety
+;
+C7 H5 N1 O3
+;
+_journal_coeditor_code "hb4202"
+_journal_coden_Cambridge 1959
+_journal_volume 3
+_journal_year 2018
+_journal_page_first x180092
+_journal_name_full 'IUCrData '
+loop_
+_publ_author_name
+"A.H.J.Engwerda"
+"S.J.T.Brugman"
+"P.Tinnemans"
+"E.Vlieg"
+_chemical_name_systematic
+;
+3-nitrobenzaldehyde
+;
+_chemical_melting_point 327
+_cell_volume    328.391
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.528
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0299
+_refine_ls_wR_factor_gt 0.0299
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 3.7363(2)
+_cell_length_b 7.0071(3)
+_cell_length_c 12.5877(6)
+_cell_angle_alpha 90
+_cell_angle_beta 94.8144(16)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3805(2) 0.36964(11) 0.47803(5)
+O2 O 0.5659(2) 0.81726(10) 0.79109(6)
+O3 O 0.3141(2) 0.75360(14) 0.93565(6)
+N1 N 0.39008(18) 0.71338(9) 0.84537(5)
+C1 C 0.26607(18) 0.52935(9) 0.79964(5)
+C2 C 0.1223(2) 0.39635(11) 0.86644(6)
+H1 H 0.10130 0.42495 0.93943
+C3 C 0.0102(2) 0.22081(11) 0.82413(6)
+H2 H -0.08744 0.12761 0.86827
+C4 C 0.0419(2) 0.18223(10) 0.71667(6)
+H3 H -0.03658 0.06284 0.68750
+C5 C 0.18828(17) 0.31822(9) 0.65163(5)
+C6 C 0.30344(19) 0.49536(10) 0.69286(5)
+H4 H 0.40338 0.58864 0.64924
+C7 C 0.2287(2) 0.26924(11) 0.53892(6)
+H5 H 0.12979 0.15191 0.51249
+#END

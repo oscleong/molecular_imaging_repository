@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QODFOF
+_audit_creation_date 2008-09-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QODFOF
+_database_code_depnum_ccdc_archive 'CCDC 615109 (not 615090 as published)'
+_chemical_formula_sum 'C21 H22 N2 O4'
+_chemical_formula_moiety
+;
+C21 H22 N2 O4
+;
+_journal_coden_Cambridge 206
+_journal_volume 38
+_journal_year 2008
+_journal_page_first 873
+_journal_name_full 'Synth.Commun. '
+loop_
+_publ_author_name
+"A.Habibi"
+"L.Mousavifar"
+"M.R.Yazdanbakhsh"
+"I.Yavari"
+_chemical_name_systematic
+;
+1-(2,6-Dimethylphenyl)-N-hydroxy-4,4-dimethyl-2,5-dioxo-N-phenyl-3-pyrrolidine
+carboxamide
+;
+_chemical_melting_point 430.15
+_cell_volume   1911.400
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.273
+_exptl_special_details
+;
+Melting point range 430.15-432.15K
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0556
+_refine_ls_wR_factor_gt 0.0556
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.4991(7)
+_cell_length_b 13.3360(12)
+_cell_length_c 19.3906(17)
+_cell_angle_alpha 90
+_cell_angle_beta 99.716(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.0038(2) 0.23264(12) 0.37953(8)
+N2 N -0.16536(19) 0.56082(11) 0.41132(8)
+O1 O 0.0493(2) 0.23406(12) 0.26549(8)
+O2 O -0.03619(17) 0.2759(1) 0.49006(6)
+O3 O -0.31808(17) 0.41386(10) 0.40792(7)
+O4 O -0.00515(16) 0.60398(10) 0.39616(7)
+H1 H 0.03610 0.63440 0.43510
+C1 C -0.0132(2) 0.30013(13) 0.43162(9)
+C2 C 0.0016(2) 0.40545(13) 0.40426(9)
+H2 H 0.10190 0.44070 0.43320
+C3 C 0.0423(2) 0.39256(14) 0.32830(9)
+C4 C 0.0327(3) 0.27921(15) 0.31758(10)
+C5 C -0.1760(2) 0.45923(14) 0.40788(9)
+C6 C -0.0947(3) 0.44262(16) 0.27123(10)
+H3 H -0.06000 0.43120 0.22640
+H4 H -0.09750 0.51340 0.28000
+H5 H -0.21260 0.41470 0.27150
+C7 C 0.2346(3) 0.42713(17) 0.32369(11)
+H6 H 0.25660 0.41840 0.27670
+H7 H 0.32000 0.38800 0.35510
+H8 H 0.24780 0.49660 0.33640
+C8 C -0.3197(2) 0.62557(13) 0.40191(9)
+C9 C -0.3457(3) 0.69299(14) 0.34669(10)
+H9 H -0.26360 0.69650 0.31580
+C10 C -0.4965(3) 0.75526(15) 0.33820(11)
+H10 H -0.51580 0.80060 0.30120
+C11 C -0.6181(3) 0.75023(16) 0.38451(12)
+H11 H -0.72030 0.79090 0.37790
+C12 C -0.5877(3) 0.68463(16) 0.44078(11)
+H12 H -0.66760 0.68280 0.47260
+C13 C -0.4379(2) 0.62161(14) 0.44969(10)
+H13 H -0.41730 0.57730 0.48720
+C14 C -0.0119(3) 0.12592(14) 0.38851(9)
+C15 C 0.1373(3) 0.07266(15) 0.4230(1)
+C16 C 0.1151(3) -0.02962(16) 0.43280(11)
+H14 H 0.21150 -0.06730 0.45570
+C17 C -0.0480(3) -0.07584(15) 0.40896(11)
+H15 H -0.06010 -0.14440 0.41560
+C18 C -0.1938(3) -0.02115(16) 0.37526(11)
+H16 H -0.30340 -0.05330 0.35990
+C19 C -0.1785(3) 0.08118(15) 0.36403(10)
+C20 C 0.3130(3) 0.12476(19) 0.45057(13)
+H17 H 0.39940 0.07660 0.47250
+H18 H 0.29310 0.17460 0.48420
+H19 H 0.35850 0.15630 0.41260
+C21 C -0.3345(3) 0.14114(18) 0.32606(13)
+H20 H -0.29880 0.21000 0.32350
+H21 H -0.43480 0.13670 0.35080
+H22 H -0.36950 0.11500 0.27960
+#END

@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LOJBIV
+_audit_creation_date 2000-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LOJBIV
+_database_code_depnum_ccdc_archive 'CCDC 102569'
+_database_code_depnum_ccdc_journal 1145/158
+_chemical_formula_sum 'C11 H16 N2 O2'
+_chemical_formula_moiety
+;
+C11 H16 N2 O2
+;
+_journal_coden_Cambridge 1145
+_journal_volume 9
+_journal_year 1999
+_journal_page_first 1699
+_journal_name_full 'J.Mater.Chem. '
+loop_
+_publ_author_name
+"P.Gangopadhyay"
+"S.V.Rao"
+"D.N.Rao"
+"T.P.Radhakrishnan"
+_chemical_name_systematic
+;
+N-(n-Pentyl)-4-nitroaniline
+;
+_chemical_melting_point 340.15
+_cell_volume   1135.631
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.218
+_exptl_special_details
+;
+Melting point range 340.15-341.15K
+The space group is P21/n, not P21/c
+
+;
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'toluene/chloroform'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.192(3)
+_cell_length_b 15.61(7)
+_cell_length_c 11.851(6)
+_cell_angle_alpha 90
+_cell_angle_beta 97.52(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1691(2) 0.05483(9) 0.20815(13)
+H1 H 0.25530 0.10190 0.23170
+N1 N 0.2027(2) -0.18014(8) 0.22232(12)
+O1 O 0.0849(2) -0.24196(7) 0.19778(12)
+C2 C -0.0401(2) 0.06792(8) 0.15084(12)
+N2 N -0.1144(2) 0.14823(7) 0.12837(12)
+H2 H -0.02790 0.18980 0.15020
+C3 C -0.3268(2) 0.16997(9) 0.07083(14)
+H3 H -0.43760 0.15080 0.11580
+H4 H -0.35060 0.14100 -0.00210
+C4 C 0.1192(2) -0.09553(8) 0.19687(12)
+O2 O 0.3910(2) -0.18806(8) 0.26884(14)
+C5 C -0.1694(2) -0.00453(10) 0.11825(13)
+H5 H -0.31000 0.00240 0.08090
+C6 C -0.0883(3) -0.08495(9) 0.14157(13)
+H6 H -0.17380 -0.13260 0.11990
+C7 C -0.3460(3) 0.26569(9) 0.05277(14)
+H7 H -0.23210 0.28440 0.00950
+H8 H -0.32290 0.29400 0.12620
+C8 C 0.2494(2) -0.02543(9) 0.23023(13)
+H9 H 0.38990 -0.03310 0.26730
+C9 C -0.5640(3) 0.29289(9) -0.00902(14)
+H10 H -0.67860 0.27130 0.03180
+H11 H -0.58350 0.26740 -0.08430
+C10 C -0.5858(3) 0.38915(10) -0.02042(14)
+H12 H -0.56010 0.41450 0.05490
+H13 H -0.47380 0.41020 -0.06340
+C11 C -0.8037(3) 0.41853(12) -0.07769(19)
+H14 H -0.83210 0.39290 -0.15180
+H15 H -0.80340 0.47980 -0.08510
+H16 H -0.91480 0.40170 -0.03280
+#END

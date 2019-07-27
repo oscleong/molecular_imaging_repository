@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BICCIZ
+_audit_creation_date 1983-02-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BICCIZ
+_database_code_depnum_ccdc_archive 'CCDC 1110171'
+_chemical_formula_sum 'C17 H18 N2 O6'
+_chemical_formula_moiety
+;
+C17 H18 N2 O6
+;
+_journal_coden_Cambridge 151
+_journal_volume 23
+_journal_year 1980
+_journal_page_first 1442
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"A.M.Triggle"
+"E.Shefter"
+"D.J.Triggle"
+_chemical_name_systematic
+;
+2,6-Dimethyl-3,5-dicarbomethoxy-4-(2-nitrophenyl)-1,4-dihydropyridine
+;
+_chemical_name_common
+;
+Nifedipine; DrugBank: DB01115
+;
+_cell_volume   1669.029
+_exptl_special_details
+;
+polymorph A
+calcium channel antagonist activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.923(5)
+_cell_length_b 10.326(6)
+_cell_length_c 14.814(7)
+_cell_angle_alpha 90
+_cell_angle_beta 92.70(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.14400 -0.56020 0.30410
+C1 C -0.23250 -0.57810 0.36620
+C2 C -0.31740 -0.68630 0.34160
+C3 C -0.23420 -0.49660 0.43840
+C4 C -0.31180 -0.51310 0.51490
+O1 O -0.32300 -0.43100 0.57140
+O2 O -0.36140 -0.62990 0.52270
+C5 C -0.43070 -0.64960 0.60250
+C6 C -0.15680 -0.37500 0.44380
+C7 C -0.04880 -0.38510 0.38270
+C8 C 0.04790 -0.28960 0.39200
+O3 O 0.12750 -0.26550 0.34080
+O4 O 0.03850 -0.22120 0.46940
+C9 C 0.12940 -0.12180 0.48730
+C10 C -0.04880 -0.47390 0.31540
+C11 C 0.05030 -0.49300 0.25050
+C12 C -0.23520 -0.25710 0.41760
+C13 C -0.27040 -0.24050 0.32530
+C14 C -0.34240 -0.14110 0.29390
+C15 C -0.38990 -0.05180 0.35370
+C16 C -0.36120 -0.06550 0.44450
+C17 C -0.28610 -0.16590 0.47530
+N2 N -0.25920 -0.16780 0.57350
+O5 O -0.15890 -0.19630 0.60430
+O6 O -0.34370 -0.13730 0.62040
+#END

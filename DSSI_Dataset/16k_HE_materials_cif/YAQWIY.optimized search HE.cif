@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YAQWIY
+_audit_creation_date 2012-06-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YAQWIY
+_database_code_depnum_ccdc_archive 'CCDC 876994'
+_chemical_formula_sum 'C8 H13 N3 O2'
+_chemical_formula_moiety
+;
+C8 H13 N3 O2
+;
+_journal_coden_Cambridge 151
+_journal_volume 54
+_journal_year 2011
+_journal_page_first 4018
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"H.Maruoka"
+"M.P.S.Jayasekara"
+"M.O.Barrett"
+"D.A.Franklin"
+"S.de Castro"
+"N.Kim"
+"S.Costanzi"
+"T.K.Harden"
+"K.A.Jacobson"
+_chemical_name_systematic
+;
+4-(t-Butoxyimino)-3,4-dihydropyrimidin-2(1H)-one
+;
+_cell_volume   1939.507
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.255
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0534
+_refine_ls_wR_factor_gt 0.0534
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.98(1)
+_cell_length_b 7.543(5)
+_cell_length_c 12.120(6)
+_cell_angle_alpha 90
+_cell_angle_beta 105.16(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.88181(5) 0.32493(14) 0.37139(9)
+O2 O 0.99581(5) -0.1017(2) 0.61695(10)
+N1 N 0.91734(5) 0.0787(2) 0.52042(10)
+N2 N 0.90530(6) -0.0893(2) 0.67159(11)
+N3 N 0.83476(5) 0.2689(2) 0.42519(11)
+C1 C 0.85683(6) 0.1478(2) 0.49900(11)
+C2 C 0.94276(7) -0.0407(2) 0.60389(12)
+C3 C 0.81825(6) 0.0767(2) 0.56857(14)
+C4 C 0.84409(7) -0.0334(2) 0.65342(14)
+C5 C 0.86689(8) 0.5022(2) 0.32350(14)
+C6 C 0.80714(10) 0.4931(3) 0.2265(2)
+C7 C 0.85901(12) 0.6300(3) 0.4142(2)
+C8 C 0.92326(10) 0.5478(3) 0.2799(2)
+H1 H 0.94000 0.10900 0.48010
+H2 H 0.92000 -0.14970 0.73340
+H3 H 0.82000 -0.08080 0.70410
+H4 H 0.78000 0.11380 0.55880
+H5 H 0.96000 0.54750 0.33410
+H6 H 0.93000 0.46270 0.22080
+H7 H 0.92000 0.65470 0.24750
+H8 H 0.82000 0.42280 0.16190
+H9 H 0.80000 0.60160 0.19920
+H10 H 0.78000 0.43650 0.25500
+H11 H 0.90000 0.62340 0.46360
+H12 H 0.83000 0.60760 0.44340
+H13 H 0.86000 0.74340 0.38820
+#END

@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TUFBEB
+_audit_creation_date 1997-05-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TUFBEB
+_chemical_formula_sum 'C14 H11 N7 O3'
+_chemical_formula_moiety
+;
+C14 H11 N7 O3
+;
+_journal_coden_Cambridge 95
+_journal_year 1996
+_journal_page_first 2050
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"A.V.Samet"
+"A.M.Shestopalov"
+"M.I.Struchkova"
+"V.N.Nesterov"
+"Yu.T.Struchkov"
+"V.V.Semenov"
+_chemical_name_systematic
+;
+2-Amino-3-cyano-6-methyl-5-(5-nitrotetrazol-2-yl)-4-phenyl-4H-pyran
+;
+_chemical_melting_point 440
+_cell_volume   1503.538
+_exptl_crystal_density_diffrn 1.441
+_exptl_special_details
+;
+Melting point range 440-443K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The nitro group and the N atoms of the tetrazole ring are disordered over two 
+equally-occupied positions about the C5-N3 bond.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 14.404(3)
+_cell_length_b 12.295(3)
+_cell_length_c 8.491(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.92(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.34416(11) 0.75496(13) 0.04206(22)
+O2? O -0.01573(34) 0.54320(45) -0.46518(61)
+O3 O -0.03799(31) 0.69583(41) -0.44852(60)
+O4 O -0.13497(75) 0.5881(11) -0.33037(96)
+O5? O -0.1356(10) 0.5994(15) -0.3331(17)
+N1 N 0.47080(18) 0.69510(24) 0.16758(36)
+N2 N 0.43797(16) 0.40878(19) 0.2345(3)
+N3 N 0.12185(14) 0.63813(18) -0.08338(26)
+N4 N 0.09979(37) 0.60299(40) -0.22636(64)
+N5? N 0.08859(37) 0.66156(41) -0.21479(67)
+N6 N -0.02039(29) 0.67232(40) -0.09926(59)
+N7? N -0.01899(30) 0.57011(43) -0.08212(62)
+N8 N 0.05438(31) 0.68944(39) -0.01074(55)
+N9? N 0.05616(31) 0.57333(42) 0.00783(59)
+N10 N -0.05074(50) 0.58155(57) -0.35101(94)
+N11? N -0.06200(51) 0.63746(53) -0.34175(90)
+C1 C 0.38892(17) 0.66628(20) 0.10432(29)
+C2 C 0.35099(16) 0.56571(19) 0.10033(28)
+C3 C 0.26194(17) 0.53895(20) 0.01119(31)
+C4 C 0.21586(16) 0.64566(21) -0.02573(29)
+C5 C 0.25412(17) 0.74310(21) -0.01534(30)
+C6 C 0.21470(25) 0.85049(26) -0.05868(44)
+C7 C 0.39972(17) 0.47889(21) 0.1738(3)
+C8 C 0.27929(16) 0.47268(18) -0.13634(28)
+C9 C 0.34508(18) 0.50649(23) -0.24254(33)
+C10 C 0.36279(20) 0.44789(25) -0.37600(35)
+C11 C 0.31579(24) 0.35326(27) -0.40538(38)
+C12 C 0.25083(28) 0.31884(28) -0.30200(43)
+C13 C 0.23231(22) 0.37716(24) -0.16810(38)
+C14 C 0.00628(17) 0.62142(21) -0.21809(32)
+H1 H 0.5103(21) 0.6465(26) 0.2053(35)
+H2 H 0.4852(20) 0.7598(26) 0.1740(34)
+H3 H 0.2216(16) 0.4946(19) 0.0750(26)
+H4 H 0.2077(20) 0.8918(25) 0.0362(36)
+H5 H 0.2579(26) 0.8915(30) -0.1183(43)
+H6 H 0.1609(27) 0.8419(30) -0.1083(42)
+H7 H 0.3805(19) 0.5659(24) -0.2177(32)
+H8 H 0.4066(20) 0.4729(24) -0.4493(33)
+H9 H 0.3253(19) 0.3178(23) -0.5007(33)
+H10 H 0.2162(24) 0.2509(31) -0.3131(40)
+H11 H 0.1894(21) 0.3557(25) -0.0906(35)
+#END

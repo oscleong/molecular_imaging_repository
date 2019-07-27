@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HEKVIC
+_audit_creation_date 1995-01-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HEKVIC
+_chemical_formula_sum 'C16 H13 N1 O5'
+_chemical_formula_moiety
+;
+C16 H13 N1 O5
+;
+_journal_coeditor_code "IUCr VS1007"
+_journal_coden_Cambridge 591
+_journal_volume 50
+_journal_year 1994
+_journal_page_first 1312
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.Lokaj"
+"V.Vrabel"
+"J.Sivy"
+"D.Ilavsky"
+"A.Korenova"
+_chemical_name_systematic
+;
+3-(5-(3-Nitrophenyl)furfurylidene)-2,4-pentanedione
+;
+_cell_volume   1408.985
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.41
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.023(6)
+_cell_length_b 10.393(4)
+_cell_length_c 19.092(8)
+_cell_angle_alpha 90
+_cell_angle_beta 117.74(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.5123(4) 0.9937(3) 0.1466(2)
+O2 O -0.0815(4) 0.8790(3) 0.2028(2)
+O3 O 0.0725(3) 0.7912(3) 0.3732(1)
+O4 O 0.4914(4) 1.0823(3) 0.3432(2)
+O5 O 0.7827(4) 1.0874(3) 0.4244(2)
+N1 N 0.6270(5) 1.0408(3) 0.4004(2)
+C1 C -0.4910(6) 0.9116(4) 0.1959(2)
+C2 C -0.6560(5) 0.8585(5) 0.2011(3)
+C3 C -0.1459(5) 0.9355(4) 0.2395(2)
+C4 C -0.0878(7) 1.0662(4) 0.2701(3)
+C5 C -0.2992(5) 0.8727(4) 0.2518(2)
+C6 C -0.2668(5) 0.7821(4) 0.3058(2)
+C7 C -0.0911(5) 0.7322(4) 0.3638(2)
+C8 C -0.0446(6) 0.6351(4) 0.4157(2)
+C9 C 0.1510(5) 0.6319(4) 0.4590(2)
+C10 C 0.2222(5) 0.7276(4) 0.4325(2)
+C11 C 0.4037(5) 0.7772(4) 0.4518(2)
+C12 C 0.4235(5) 0.8839(4) 0.4147(2)
+C13 C 0.6059(5) 0.9247(4) 0.4410(2)
+C14 C 0.7644(5) 0.8708(5) 0.4984(2)
+C15 C 0.7332(6) 0.7655(5) 0.5349(3)
+C16 C 0.5602(5) 0.7161(5) 0.5133(2)
+H1 H -0.68280 0.80290 0.16590
+H2 H -0.64370 0.83880 0.26230
+H3 H -0.77130 0.94080 0.17550
+H4 H -0.03338 1.06470 0.33470
+H5 H 0.01910 1.11240 0.26420
+H6 H -0.18330 1.14130 0.26050
+H7 H -0.37220 0.74220 0.30750
+H8 H -0.14240 0.58220 0.41480
+H9 H 0.22950 0.56850 0.49880
+H10 H 0.30860 0.92280 0.35800
+H11 H 0.89300 0.90550 0.51410
+H12 H 0.82770 0.72180 0.56500
+H13 H 0.51080 0.63650 0.53550
+#END

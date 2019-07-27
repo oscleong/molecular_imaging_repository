@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIPWUG
+_audit_creation_date 1994-10-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIPWUG
+_database_code_depnum_ccdc_archive 'CCDC 1234267'
+_chemical_formula_sum 'C14 H17 N1 O5'
+_chemical_formula_moiety
+;
+C14 H17 N1 O5
+;
+_journal_coden_Cambridge 469
+_journal_volume 56
+_journal_year 1993
+_journal_page_first 747
+_journal_name_full 'J.Nat.Prod. '
+loop_
+_publ_author_name
+"Y.F.Hallock"
+"H.S.M.Lu"
+"J.Clardy"
+"G.A.Strobel"
+"F.Sugawara"
+"R.Samsoedin"
+"S.Yoshida"
+_chemical_name_systematic
+;
+Triticone D
+;
+_cell_volume   1352.564
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.37
+_exptl_special_details
+;
+exhibits weak phytotoxic activity
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0505
+_refine_ls_wR_factor_gt 0.0505
+_chemical_compound_source
+;
+culture broth of fungus Drechslera tritici-repentis
+;
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 8.375(4)
+_cell_length_b 6.499(3)
+_cell_length_c 24.850(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8794(3) 0.3748(5) 0.0805(1)
+O2 O 0.9063(4) 0.9808(5) 0.1363(1)
+O3 O 0.6655(4) 0.3170(5) 0.1713(1)
+C1 C 0.8219(5) 0.5405(7) 0.0933(2)
+C2 C 0.8077(5) 0.6321(6) 0.1504(2)
+C3 C 0.6538(5) 0.5358(7) 0.1745(2)
+N1 N 0.7460(4) 0.6730(6) 0.0599(1)
+C4 C 0.6866(5) 0.8536(7) 0.0837(2)
+C5 C 0.7648(5) 0.8624(7) 0.1386(2)
+O4 O 0.4902(6) 0.6168(5) 0.2492(2)
+C6 C 0.9484(5) 0.6056(6) 0.1869(2)
+O5 O 0.7305(3) 0.6361(5) 0.0057(1)
+C7 C 0.7672(8) 0.5997(8) 0.2659(2)
+C8 C 1.2559(8) 0.4223(11) 0.0997(3)
+C9 C 0.5848(6) 0.9839(8) 0.0616(2)
+C10 C 0.9160(7) 0.5978(7) 0.2441(2)
+C11 C 0.5934(7) 0.5037(9) -0.0042(2)
+C12 C 1.1042(6) 0.6021(7) 0.1716(2)
+C13 C 0.6263(7) 0.5941(7) 0.2323(2)
+C14 C 1.1744(6) 0.6250(9) 0.1176(2)
+H1 H 0.58240 0.47830 -0.04420
+H2 H 0.49370 0.57330 0.00880
+H3 H 0.60720 0.37020 0.01460
+H4 H 1.30390 0.43220 0.06310
+H5 H 1.17470 0.30520 0.09940
+H6 H 1.34230 0.38230 0.12620
+H7 H 1.25660 0.73800 0.11730
+H8 H 1.08870 0.66080 0.09040
+H9 H 0.56130 0.58600 0.15180
+H10 H 0.54150 0.96000 0.02510
+H11 H 0.54980 1.10940 0.08270
+H12 H 0.75210 0.60920 0.30610
+H13 H 1.01140 0.59320 0.26910
+H14 H 1.18220 0.58210 0.20170
+H15 H 0.69420 0.92740 0.16720
+H16 H 0.68550 0.27340 0.13300
+H17 H 0.87810 1.12880 0.12930
+#END

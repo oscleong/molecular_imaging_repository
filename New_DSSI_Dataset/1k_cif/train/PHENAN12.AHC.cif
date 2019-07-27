@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PHENAN12
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PHENAN12
+_chemical_formula_sum 'C14 H10'
+_chemical_formula_moiety
+;
+C14 H10
+;
+_journal_coeditor_code "IUCr A08005"
+_journal_coden_Cambridge 107
+_journal_volume 27
+_journal_year 1971
+_journal_page_first 26
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"M.I.Kay"
+"Y.Okaya"
+"D.E.Cox"
+_chemical_name_systematic
+;
+Phenanthrene
+;
+_cell_volume    489.716
+_exptl_special_details
+;
+room temperature polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+loop_
+_citation_database_id_CSD
+_citation_special_details
+PHENAN08 "is a reinterpretation of this cif"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 8.472(4)
+_cell_length_b 6.166(4)
+_cell_length_c 9.467(5)
+_cell_angle_alpha 90
+_cell_angle_beta 98.01(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.16760 0.38310 -0.30390
+C2 C 0.32220 0.57630 -0.10180
+C3 C 0.22670 0.39360 -0.15550
+C4 C 0.19080 0.22790 -0.06330
+C5 C 0.25540 0.24220 0.08730
+C6 C 0.34840 0.42450 0.13560
+C7 C 0.07580 0.21280 -0.35580
+C8 C 0.03720 0.05050 -0.26540
+C9 C 0.09350 0.05710 -0.12100
+C10 C 0.22970 0.07950 0.18600
+C11 C 0.29700 0.10350 0.32890
+C12 C 0.38690 0.28090 0.37580
+C13 C 0.41330 0.44210 0.28150
+C14 C 0.37910 0.59250 0.03650
+H1 H 0.19800 0.51600 -0.37500
+H2 H 0.34800 0.70100 -0.17400
+H3 H 0.02800 0.19700 -0.46500
+H4 H -0.04000 -0.09000 -0.30400
+H5 H 0.06100 -0.07100 -0.05300
+H6 H 0.16200 -0.06800 0.15500
+H7 H 0.27100 -0.02700 0.40400
+H8 H 0.43200 0.28800 0.48700
+H9 H 0.48800 0.58400 0.31400
+H10 H 0.44800 0.72400 0.07900
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C3 1.426 1_555 1_555
+C2 C3 1.438 1_555 1_555
+C3 C4 1.404 1_555 1_555
+C4 C5 1.457 1_555 1_555
+C5 C6 1.412 1_555 1_555
+C6 C13 1.418 1_555 1_555
+C7 C1 1.357 1_555 1_555
+C8 C7 1.385 1_555 1_555
+C9 C4 1.401 1_555 1_555
+C10 C5 1.408 1_555 1_555
+C11 C10 1.401 1_555 1_555
+C12 C11 1.371 1_555 1_555
+C13 C12 1.375 1_555 1_555
+C14 C2 1.334 1_555 1_555
+H1 C1 1.113 1_555 1_555
+H2 C2 1.071 1_555 1_555
+H3 C7 1.061 1_555 1_555
+H4 C8 1.116 1_555 1_555
+H5 C9 1.079 1_555 1_555
+H6 C10 1.093 1_555 1_555
+H7 C11 1.116 1_555 1_555
+H8 C12 1.070 1_555 1_555
+H9 C13 1.098 1_555 1_555
+H10 C14 1.046 1_555 1_555
+C6 C14 1.445 1_555 1_555
+C8 C9 1.384 1_555 1_555
+#END

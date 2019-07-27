@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KEFJOX
+_audit_creation_date 2017-07-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KEFJOX
+_database_code_depnum_ccdc_archive 'CCDC 1565258'
+_chemical_formula_sum 'C9 H18 N1 O2'
+_chemical_formula_moiety
+;
+C9 H18 N1 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2017
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"G.S.Nichol"
+"D.Georgiev"
+"A.N.Hulme"
+_chemical_name_systematic
+;
+(3R)-3-hydroxymethyl-1-oxyl-2,2,5,5-tetramethylpyrrolidine
+;
+_cell_volume    482.288
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.186
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'The material was recrystallised from a mixture of THF and hexane by vapour diffusion'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0352
+_refine_ls_wR_factor_gt 0.0352
+loop_
+_citation_database_id_CSD
+_citation_special_details
+TMXPYP "is a stereoisomer of this entry"
+RHMPYO "is a racemate of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.66675(6)
+_cell_length_b 9.78374(8)
+_cell_length_c 8.10060(8)
+_cell_angle_alpha 90
+_cell_angle_beta 114.1064(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.17101(19) 0.43551(16) 0.43072(15)
+O2 O -0.1213(2) 0.49783(15) -0.21884(17)
+H1 H -0.112(7) 0.469(5) -0.325(5)
+N1 N -0.0521(2) 0.43543(16) 0.34050(17)
+C1 C -0.1520(2) 0.43893(17) 0.13918(19)
+C2 C 0.0548(3) 0.46595(17) 0.1025(2)
+H2 H 0.08430 0.56650 0.11370
+C3 C 0.2407(3) 0.39467(19) 0.2602(2)
+H3 H 0.24080 0.29520 0.23790
+H4 H 0.38550 0.43280 0.27740
+C4 C 0.1912(2) 0.42315(19) 0.4258(2)
+C5 C -0.3200(3) 0.55395(19) 0.0734(2)
+H5 H -0.43550 0.53840 0.11670
+H6 H -0.38530 0.55610 -0.05910
+H7 H -0.24730 0.64140 0.12020
+C6 C -0.2611(3) 0.29991(17) 0.0722(3)
+H8 H -0.14990 0.22760 0.11560
+H9 H -0.32920 0.29940 -0.06040
+H10 H -0.37390 0.28390 0.11840
+C7 C 0.0416(3) 0.4202(2) -0.0804(2)
+H11 H 0.18590 0.43330 -0.08610
+H12 H 0.00390 0.32190 -0.09810
+C8 C 0.2589(4) 0.3053(2) 0.5610(3)
+H13 H 0.21770 0.32660 0.66120
+H14 H 0.41830 0.29220 0.60780
+H15 H 0.18420 0.22150 0.50060
+C9 C 0.2871(3) 0.5588(2) 0.5192(3)
+H16 H 0.24730 0.63200 0.42880
+H17 H 0.44750 0.55150 0.57960
+H18 H 0.22780 0.57970 0.60880
+#END

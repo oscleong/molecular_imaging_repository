@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HEFWAR
+_audit_creation_date 2006-04-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HEFWAR
+_database_code_depnum_ccdc_archive 'CCDC 298542'
+_chemical_formula_sum 'C15 H19 N1 O2'
+_chemical_formula_moiety
+;
+C15 H19 N1 O2
+;
+_journal_coeditor_code "IUCr SJ2001"
+_journal_coden_Cambridge 1370
+_journal_volume 62
+_journal_year 2006
+_journal_page_first o579
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"J.Hartung"
+"I.Svoboda"
+"H.Fuess"
+_chemical_name_systematic
+;
+1-(Adamant-1-yloxy)pyridin-2(1H)-one
+;
+_cell_volume   1251.633
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.296
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'acetone/chloroform'
+_diffrn_ambient_temperature 299
+_refine_special_details
+;
+The carbonyl O atom is disordered over two equal sites because the pyridone 
+ring lies on a mirror plane.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.082
+_refine_ls_wR_factor_gt 0.082
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,-1/2+z
+8 x,-1/2-y,z
+_cell_length_a 16.982(3)
+_cell_length_b 6.559(3)
+_cell_length_c 11.237(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.58
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.2127(4) 0.563(2) 0.4245(7)
+C2 C 0.2514(4) 0.566(2) 0.5379(7)
+H1 H 0.26410 0.44480 0.57640
+C3 C 0.2696(8) 0.75000 0.5888(12)
+H2 H 0.29560 0.75000 0.66170
+C4 C 0.0736(4) 0.75000 0.2668(6)
+C5 C 0.0397(4) 0.9317(13) 0.3229(6)
+H3 H 0.06250 1.05290 0.28740
+H4 H 0.05260 0.93210 0.40700
+C6 C -0.0502(4) 0.9372(14) 0.3077(6)
+H5 H -0.07180 1.05930 0.34590
+C7 C -0.0830(6) 0.75000 0.3652(9)
+H6 H -0.13990 0.75000 0.35790
+H7 H -0.06990 0.75000 0.44920
+C8 C 0.0567(6) 0.75000 0.1322(8)
+H8 H 0.065(4) 0.896(3) 0.148(6)
+C9 C -0.0674(5) 0.942(2) 0.1742(7)
+H9 H -0.1227(16) 0.906(13) 0.168(7)
+H10 H -0.043(5) 1.054(9) 0.131(7)
+C10 C -0.0351(6) 0.75000 0.1170(9)
+H11 H -0.04820 0.75000 0.03210
+N1 N 0.1932(4) 0.75000 0.3800(7)
+O1 O 0.1600(3) 0.75000 0.2671(4)
+O2 O 0.1959(5) 0.3690(17) 0.3545(9)
+C1G C 0.2127(4) 0.937(2) 0.4245(7)
+C2G C 0.2514(4) 0.934(2) 0.5379(7)
+H1G H 0.26410 1.05520 0.57640
+C5G C 0.0397(4) 0.5683(13) 0.3229(6)
+H3G H 0.06250 0.44710 0.28740
+H4G H 0.05260 0.56790 0.40700
+C6G C -0.0502(4) 0.5628(14) 0.3077(6)
+H5G H -0.07180 0.44070 0.34590
+H8G H 0.065(4) 0.604(3) 0.148(6)
+C9G C -0.0674(5) 0.558(2) 0.1742(7)
+H9G H -0.1227(16) 0.594(13) 0.168(7)
+H10G H -0.043(5) 0.446(9) 0.131(7)
+O2G O 0.1959(5) 1.1310(17) 0.3545(9)
+#END

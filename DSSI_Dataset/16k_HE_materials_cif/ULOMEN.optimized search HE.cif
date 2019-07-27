@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ULOMEN
+_audit_creation_date 2004-03-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ULOMEN
+_database_code_depnum_ccdc_archive 'CCDC 147968'
+_chemical_formula_sum 'C15 H21 N1 O10'
+_chemical_formula_moiety
+;
+C15 H21 N1 O10
+;
+_journal_coden_Cambridge 206
+_journal_volume 33
+_journal_year 2003
+_journal_page_first 1707
+_journal_name_full 'Synth.Commun. '
+loop_
+_publ_author_name
+"K.W.J.Baker"
+"A.Gibb"
+"A.R.March"
+"S.Parsons"
+"R.M.Paton"
+_chemical_name_systematic
+;
+Tetra-O-acetyl-\b-D-mannopyranosylformaldoxime
+;
+_chemical_melting_point 427.15
+_cell_volume   1842.693
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.353
+_exptl_special_details
+;
+Melting point range 427.15-429.15K
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 220
+_refine_special_details
+;
+The oxime group is disordered over two sites with occupancies 0.75:0.25.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0611
+_refine_ls_wR_factor_gt 0.0611
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+_cell_length_a 8.179(2)
+_cell_length_b 10.831(2)
+_cell_length_c 20.801(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0467(6) 0.0348(5) 1.0521(2)
+H1 H -0.05720 0.02410 1.03350
+H2? H -0.05350 -0.00210 1.04100
+N1 N 0.0591(8) -0.0136(7) 1.1086(3)
+O1 O 0.2154(6) 0.0190(6) 1.1326(2)
+H3 H 0.22760 -0.01090 1.16900
+N2? N 0.118(2) 0.038(2) 1.1076(6)
+O2? O 0.003(2) -0.0258(16) 1.1463(9)
+H4? H 0.03530 -0.02660 1.18410
+C2 C 0.1618(6) 0.1036(5) 1.0105(2)
+H5 H 0.21250 0.17120 1.03560
+C3 C 0.2956(6) 0.0217(5) 0.9828(2)
+H6 H 0.36580 -0.01100 1.01760
+O3 O 0.2158(4) -0.0787(3) 0.94881(15)
+C4 C 0.2899(6) -0.1913(5) 0.9505(2)
+O4 O 0.4104(5) -0.2114(4) 0.9812(2)
+C5 C 0.2001(7) -0.2800(5) 0.9093(3)
+H7 H 0.10870 -0.23830 0.88890
+H8 H 0.15970 -0.34760 0.93540
+H9 H 0.27300 -0.31200 0.87650
+C6 C 0.3980(6) 0.0932(4) 0.9341(2)
+H10 H 0.45470 0.16210 0.95600
+O5 O 0.5161(4) 0.0161(3) 0.90265(16)
+C7 C 0.6538(6) -0.0076(5) 0.9379(3)
+O6 O 0.6752(4) 0.0350(4) 0.9896(2)
+C8 C 0.7668(7) -0.0910(6) 0.9026(3)
+H11 H 0.72060 -0.11070 0.86090
+H12 H 0.78210 -0.16640 0.92710
+H13 H 0.87140 -0.05030 0.89690
+C9 C 0.2863(6) 0.1438(4) 0.8832(2)
+H14 H 0.23390 0.07580 0.85890
+O7 O 0.3802(4) 0.2212(3) 0.84052(18)
+C10 C 0.4002(8) 0.1824(7) 0.7798(3)
+O8 O 0.3375(8) 0.0888(5) 0.7590(2)
+C11 C 0.4959(12) 0.2728(8) 0.7421(4)
+H15 H 0.53090 0.33960 0.76990
+H16 H 0.42860 0.30570 0.70770
+H17 H 0.59110 0.23240 0.72380
+C12 C 0.1569(6) 0.2260(5) 0.9144(2)
+H18 H 0.21160 0.29510 0.93700
+C13 C 0.0374(6) 0.2774(5) 0.8661(2)
+H19 H -0.04750 0.32480 0.88840
+H20 H 0.09440 0.33290 0.83640
+O9 O -0.0357(5) 0.1775(3) 0.83103(18)
+C14 C -0.0343(12) 0.1844(6) 0.7681(3)
+O10 O 0.0123(13) 0.2714(5) 0.7385(2)
+C15 C -0.0984(16) 0.0682(6) 0.7383(4)
+H21 H -0.14090 0.01450 0.77170
+H22 H -0.01070 0.02660 0.71570
+H23 H -0.18520 0.08840 0.70830
+O11 O 0.0651(4) 0.1555(3) 0.95971(15)
+#END

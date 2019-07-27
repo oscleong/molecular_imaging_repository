@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OPMHOC
+_audit_creation_date 1978-07-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OPMHOC
+_database_code_depnum_ccdc_archive 'CCDC 1226157'
+_chemical_formula_sum 'C17 H14 N2 O2'
+_chemical_formula_moiety
+;
+C17 H14 N2 O2
+;
+_journal_coden_Cambridge 10
+_journal_volume 61
+_journal_year 1978
+_journal_page_first 1091
+_journal_name_full 'Helv.Chim.Acta '
+loop_
+_publ_author_name
+"J.H.Bieri"
+"H.Meier"
+"H.Heimgartner"
+_chemical_name_systematic
+;
+2-Oxo-1-phenyl-1,5-methano-1,2,4,5,6,11-hexahydro(1,2,3)oxadiazolo(3,2-a)cinno
+line
+;
+_chemical_melting_point 448.15
+_cell_volume   2699.069
+_exptl_crystal_density_diffrn 1.37
+_exptl_special_details
+;
+Melting point range 448.15-451.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 10.546
+_cell_length_b 15.482
+_cell_length_c 16.531
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.16420 -0.35320 -0.46370
+C2 C -0.13560 -0.34050 -0.55310
+O1 O -0.23150 -0.38060 -0.59420
+N1 N -0.31230 -0.42310 -0.53360
+C3 C -0.38550 -0.35120 -0.49410
+C4 C -0.47610 -0.39730 -0.43760
+C5 C -0.40470 -0.46150 -0.38600
+C6 C -0.46050 -0.50260 -0.32030
+C7 C -0.39260 -0.55890 -0.27280
+C8 C -0.26590 -0.57560 -0.28970
+C9 C -0.20900 -0.53680 -0.35570
+C10 C -0.27790 -0.47990 -0.40330
+N2 N -0.21560 -0.44330 -0.47320
+C11 C -0.28440 -0.29810 -0.44890
+O2 O -0.05160 -0.30400 -0.58760
+C12 C -0.05190 -0.34530 -0.40870
+C13 C -0.05090 -0.28910 -0.34320
+C14 C 0.05550 -0.28350 -0.29400
+C15 C 0.16090 -0.33310 -0.30950
+C16 C 0.16100 -0.38890 -0.37450
+C17 C 0.05590 -0.39490 -0.42390
+H1 H -0.42940 -0.32000 -0.53800
+H2 H -0.51510 -0.35490 -0.40450
+H3 H -0.54120 -0.42540 -0.46910
+H4 H -0.55170 -0.49140 -0.30780
+H5 H -0.43290 -0.58520 -0.22480
+H6 H -0.21570 -0.61460 -0.25440
+H7 H -0.11700 -0.54830 -0.36940
+H8 H -0.30340 -0.29460 -0.38930
+H9 H -0.27430 -0.23690 -0.47030
+H10 H -0.12850 -0.25480 -0.33080
+H11 H 0.05160 -0.24820 -0.25020
+H12 H 0.23770 -0.33020 -0.27400
+H13 H 0.23720 -0.42340 -0.38720
+H14 H 0.05430 -0.43830 -0.46990
+#END

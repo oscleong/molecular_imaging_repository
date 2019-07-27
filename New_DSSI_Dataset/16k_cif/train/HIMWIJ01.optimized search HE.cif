@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HIMWIJ01
+_audit_creation_date 1999-06-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HIMWIJ01
+_database_code_depnum_ccdc_fiz 'CSD 406613'
+_chemical_formula_sum 'C15 H13 N1 O4'
+_chemical_formula_moiety
+;
+C15 H13 N1 O4
+;
+_journal_coden_Cambridge 643
+_journal_volume 213
+_journal_year 1998
+_journal_page_first 411
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"A.Gleixner"
+"J.Hiller"
+"T.Debaerdemaeker"
+"A.Lentz"
+"L.Walz"
+_chemical_name_systematic
+;
+4-Hydroxy-3-methoxy-4'-nitro-trans-stilbene
+;
+_chemical_melting_point 449
+_cell_volume   2642.704
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.364
+_exptl_special_details
+;
+polymorph 2
+CSD 406613 - number is incorrect. y(C7) is -0.2498 not -0.2698
+
+;
+_exptl_crystal_preparation 'gel growth'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0616
+_refine_ls_wR_factor_gt 0.0616
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 18.788(2)
+_cell_length_b 6.6945(5)
+_cell_length_c 21.013(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90.761(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1955(1) 0.1265(4) 0.3414(1)
+C2 C 0.2214(2) -0.0670(4) 0.3329(1)
+C3 C 0.1905(2) -0.1923(5) 0.2883(1)
+C4 C 0.1343(2) -0.1302(5) 0.2561(1)
+C5 C 0.1088(2) 0.0643(6) 0.2599(1)
+C6 C 0.1400(2) 0.1953(5) 0.3054(1)
+C7 C 0.1010(2) -0.2498(5) 0.2053(2)
+C8 C 0.0449(2) -0.2419(5) 0.1728(2)
+C9 C 0.0081(2) -0.3805(5) 0.1284(1)
+C10 C 0.0292(2) -0.5753(1) 0.1155(1)
+C11 C -0.0091(2) -0.6969(5) 0.0744(1)
+C12 C -0.0694(1) -0.6188(5) 0.0456(1)
+C13 C -0.0917(2) -0.4281(5) 0.0568(1)
+C14 C -0.0538(2) -0.3091(5) 0.0979(1)
+N1 N -0.1110(2) -0.7420(5) 0.0016(1)
+O1 O -0.0951(2) -0.9178(5) -0.0036(1)
+O2 O -0.1597(1) -0.6646(5) -0.0278(1)
+O3 O 0.2249(1) 0.2495(3) 0.3861(1)
+O4 O 0.2780(1) -0.1168(3) 0.3709(1)
+C15 C 0.2879(2) -0.3146(5) 0.3887(2)
+#END

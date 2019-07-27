@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZZZJPA01
+_audit_creation_date 1994-12-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZZZJPA01
+_chemical_formula_sum 'C12 H8 N2 O4'
+_chemical_formula_moiety
+;
+C12 H8 N2 O4
+;
+_journal_coeditor_code "IUCr AS1085"
+_journal_coden_Cambridge 591
+_journal_volume 50
+_journal_year 1994
+_journal_page_first 1101
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"A.Sekine"
+"Y.Ohashi"
+"K.Yoshimura"
+"M.Yagi"
+"J.Higuchi"
+_chemical_name_systematic
+;
+2,2'-Dinitrobiphenyl
+;
+_cell_volume   1121.042
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.447
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.067(3)
+_cell_length_b 8.271(2)
+_cell_length_c 10.634(2)
+_cell_angle_alpha 90
+_cell_angle_beta 102.73(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.14274(12) 0.4689(2) 0.74630(14)
+O2 O -0.22097(16) 0.3650(4) 0.8822(2)
+N1 N -0.14456(14) 0.3824(2) 0.83736(19)
+C1 C -0.04927(14) 0.2928(2) 0.89809(17)
+C2 C -0.02598(17) 0.2803(3) 1.03117(19)
+C3 C 0.06394(19) 0.2012(3) 1.09100(19)
+C4 C 0.12841(15) 0.1332(3) 1.0191(2)
+C5 C 0.10336(13) 0.1457(2) 0.88598(18)
+C6 C 0.01398(12) 0.2270(2) 0.82195(16)
+H1 H -0.07500 0.32600 1.08290
+H2 H 0.08410 0.19380 1.18690
+H3 H 0.19230 0.07400 1.06320
+H4 H 0.15050 0.09440 0.83540
+C6B C -0.01398(12) 0.2270(2) 0.67805(16)
+C1B C 0.04927(14) 0.2928(2) 0.60191(17)
+C5B C -0.10336(13) 0.1457(2) 0.61402(18)
+N1B N 0.14456(14) 0.3824(2) 0.66264(19)
+C2B C 0.02598(17) 0.2803(3) 0.46883(19)
+C4B C -0.12841(15) 0.1332(3) 0.4809(2)
+H4B H -0.15050 0.09440 0.66460
+O1B O 0.14274(12) 0.4689(2) 0.75370(14)
+O2B O 0.22097(16) 0.3650(4) 0.6178(2)
+C3B C -0.06394(19) 0.2012(3) 0.40900(19)
+H1B H 0.07500 0.32600 0.41710
+H3B H -0.19230 0.07400 0.43680
+H2B H -0.08410 0.19380 0.31310
+#END

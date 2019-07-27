@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNBZAC04
+_audit_creation_date 1990-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNBZAC04
+_database_code_depnum_ccdc_archive 'CCDC 1212635'
+_chemical_formula_sum 'C7 H5 N1 O4'
+_chemical_formula_moiety
+;
+C7 H5 N1 O4
+;
+_journal_coden_Cambridge 1094
+_journal_volume 1
+_journal_year 1990
+_journal_page_first 107
+_journal_name_full 'Struct.Chem. '
+loop_
+_publ_author_name
+"A.Domenicano"
+"G.Schultz"
+"I.Hargittai"
+"M.Colapietro"
+"G.Portalone"
+"P.George"
+"C.W.Bock"
+_chemical_name_systematic
+;
+3-Nitrobenzoic acid
+;
+_chemical_melting_point 413
+_cell_volume   1461.348
+_exptl_crystal_density_diffrn 1.519
+_exptl_special_details
+;
+Melting point range 413-415K
+i polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The carboxylic hydrogen is disordered over two positions with occupancies of 
+0.41 and 0.59 for both molecules.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0365
+_refine_ls_wR_factor_gt 0.0365
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.233(6)
+_cell_length_b 10.676(2)
+_cell_length_c 10.347(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.39(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.32513(11) 0.04848(14) 0.46244(14)
+O2 O 0.38270(12) 0.23644(15) 0.40528(16)
+O3 O 0.04876(12) -0.12991(15) 0.19086(17)
+O4 O -0.06432(10) -0.00035(17) 0.11718(15)
+N1 N 0.01933(12) -0.02392(17) 0.16530(15)
+C1 C 0.25310(14) 0.16176(18) 0.29912(17)
+C2 C 0.16799(14) 0.06326(18) 0.27798(18)
+C3 C 0.08919(13) 0.08098(18) 0.18990(18)
+C4 C 0.07468(15) 0.19208(20) 0.12282(19)
+C5 C 0.14312(17) 0.28825(20) 0.14352(21)
+C6 C 0.22252(16) 0.27382(19) 0.23151(19)
+C7 C 0.31905(14) 0.14580(18) 0.39566(17)
+H1 H 0.426(3) 0.229(3) 0.463(4)
+H2 H 0.174(1) -0.014(2) 0.323(2)
+H3 H 0.017(2) 0.203(2) 0.066(2)
+H4 H 0.133(2) 0.366(2) 0.098(2)
+H5 H 0.270(2) 0.340(2) 0.242(2)
+O5 O 0.51311(12) 0.21692(16) 0.59801(16)
+O6 O 0.45330(12) 0.03318(15) 0.66428(16)
+O7 O 0.79704(15) 0.40698(17) 0.82378(18)
+O8 O 0.85568(14) 0.33021(18) 1.00287(19)
+N2 N 0.79827(13) 0.32781(17) 0.90848(18)
+C8 C 0.58797(13) 0.12627(17) 0.78459(17)
+C9 C 0.65517(14) 0.22569(18) 0.79667(17)
+C10 C 0.72593(14) 0.22327(18) 0.89759(17)
+C11 C 0.73115(6) 0.12690(21) 0.98624(19)
+C12 C 0.66366(18) 0.02941(22) 0.97304(21)
+C13 C 0.59179(16) 0.02784(20) 0.87273(20)
+C14 C 0.51386(14) 0.12724(18) 0.67483(18)
+H6 H 0.413(3) 0.037(3) 0.601(4)
+H7 H 0.653(2) 0.290(2) 0.735(2)
+H8 H 0.780(2) 0.130(2) 1.054(2)
+H9 H 0.666(2) -0.037(2) 1.031(2)
+H10 H 0.545(2) -0.042(3) 0.863(2)
+H11? H 0.367(4) 0.049(5) 0.524(6)
+H12? H 0.481(4) 0.216(5) 0.535(6)
+#END

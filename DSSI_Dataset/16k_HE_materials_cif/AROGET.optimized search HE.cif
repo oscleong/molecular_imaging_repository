@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_AROGET
+_audit_creation_date 2004-05-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD AROGET
+_database_code_depnum_ccdc_archive 'CCDC 185563'
+_chemical_formula_sum 'C13 H12 N4 O1'
+_chemical_formula_moiety
+;
+C13 H12 N4 O1
+;
+_journal_coden_Cambridge 34
+_journal_volume 40
+_journal_year 2003
+_journal_page_first 523
+_journal_name_full 'J.Heterocycl.Chem. '
+loop_
+_publ_author_name
+"J.Suwinski"
+"K.Swierczek"
+"P.Wagner"
+"M.Kubicki"
+"T.Borowiak"
+"J.Slowikowska"
+_chemical_name_systematic
+;
+(E)-5-(\a-Cyanobenzylidene)-1,2-dimethyl-4-imidazolone (E)-oxime
+;
+_chemical_melting_point 460.15
+_cell_volume    607.782
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.313
+_exptl_special_details
+;
+Melts with decomposition.
+space group is P-1 as in the cif not P1 as published
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+The phenyl group is disordered over two sites with ocupancies 0.45:0.55.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0382
+_refine_ls_wR_factor_gt 0.0382
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.9126(9)
+_cell_length_b 8.1129(3)
+_cell_length_c 11.4568(6)
+_cell_angle_alpha 108.249(4)
+_cell_angle_beta 93.334(7)
+_cell_angle_gamma 92.614(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.26004(14) 0.01662(12) 0.11243(9)
+C1 C 0.2951(2) 0.10907(14) 0.03063(10)
+C2 C 0.2473(2) -0.00485(13) -0.09772(10)
+N2 N 0.18407(14) -0.16087(12) -0.08224(9)
+C3 C 0.1970(2) -0.13839(14) 0.04200(11)
+C4 C 0.1433(2) -0.2830(2) 0.09027(14)
+H1 H 0.2250(11) -0.3770(6) 0.0587(8)
+H2 H 0.0100(5) -0.323(1) 0.0646(9)
+H3 H 0.1601(16) -0.2425(4) 0.17867(14)
+N3 N 0.36119(14) 0.26880(12) 0.05656(9)
+O1 O 0.39595(14) 0.34820(11) 0.18264(7)
+H4 H 0.4451(25) 0.4469(9) 0.1962(1)
+C5 C 0.2653(2) 0.03144(13) -0.20451(8)
+C6 C 0.3428(2) 0.19941(15) -0.20031(11)
+N4 N 0.4026(2) 0.32930(14) -0.20734(11)
+C7 C 0.2333(9) -0.0937(6) -0.3329(2)
+C8 C 0.3916(7) -0.1764(7) -0.3885(3)
+H5 H 0.5141(8) -0.1522(10) -0.3466(5)
+C9 C 0.3666(7) -0.2952(7) -0.5066(3)
+H6 H 0.4725(8) -0.3505(10) -0.5438(5)
+C10 C 0.1835(8) -0.3314(6) -0.5692(2)
+H7 H 0.1668(11) -0.4108(8) -0.6483(3)
+C11 C 0.0252(6) -0.2487(7) -0.5137(4)
+H8 H -0.0973(6) -0.2729(11) -0.5555(5)
+C12 C 0.0502(7) -0.1299(8) -0.3955(3)
+H9 H -0.0557(9) -0.0746(12) -0.3583(5)
+C13 C 0.1130(2) -0.3213(2) -0.17810(13)
+H10 H 0.2009(9) -0.3479(8) -0.2424(5)
+H11 H -0.0132(7) -0.3069(5) -0.2116(7)
+H12 H 0.1047(16) -0.4146(3) -0.1434(3)
+C14? C 0.2068(12) -0.0856(9) -0.3326(3)
+C15? C 0.3502(8) -0.1459(9) -0.4127(5)
+H13? H 0.4802(9) -0.1143(13) -0.3862(8)
+C16? C 0.2991(9) -0.2534(8) -0.5324(4)
+H14? H 0.3950(11) -0.2938(13) -0.5859(6)
+C17? C 0.1047(10) -0.3006(8) -0.5720(2)
+H15? H 0.0705(14) -0.3726(12) -0.6521(4)
+C18? C -0.0387(8) -0.2403(11) -0.4919(5)
+H16? H -0.1688(8) -0.2718(15) -0.5184(8)
+C19? C 0.0124(10) -0.1327(11) -0.3723(4)
+H17? H -0.0836(13) -0.0924(16) -0.3187(7)
+#END

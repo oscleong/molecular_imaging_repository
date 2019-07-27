@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAZBZO12
+_audit_creation_date 2018-02-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAZBZO12
+_database_code_depnum_ccdc_archive 'CCDC 1576225'
+_chemical_formula_sum 'C12 H10 N2 O2'
+_chemical_formula_moiety
+;
+C12 H10 N2 O2
+;
+_journal_coden_Cambridge 1147
+_journal_volume 18
+_journal_year 2018
+_journal_page_first 1293
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"P.P.Rodenbough"
+"D.P.Karothu"
+"T.Gjorgjieva"
+"P.Commins"
+"H.Hara"
+"P.Naumov"
+_chemical_name_systematic
+;
+Nitrosobenzene
+;
+_cell_volume   2101.497
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.354
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0369
+_refine_ls_wR_factor_gt 0.0369
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-y,-1/2+z
+_cell_length_a 10.215(6)
+_cell_length_b 13.727(9)
+_cell_length_c 14.987(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.93080(12) 0.33970(9) 0.38318(7)
+O2 O 0.83117(12) 0.49393(8) 0.45439(7)
+N1 N 0.85193(14) 0.41969(10) 0.50183(9)
+N2 N 0.90637(14) 0.34179(10) 0.46603(9)
+C1 C 0.80349(16) 0.41419(12) 0.59255(10)
+C2 C 0.84788(17) 0.48152(12) 0.65343(11)
+H1 H 0.90880 0.52860 0.63720
+C3 C 0.71071(16) 0.34514(12) 0.61296(11)
+H2 H 0.68040 0.30210 0.56970
+C4 C 1.09565(18) 0.21001(13) 0.63766(12)
+H3 H 1.16130 0.22190 0.67920
+C5 C 1.04938(17) 0.28480(13) 0.58510(11)
+H4 H 1.08260 0.34760 0.59090
+C6 C 0.95302(17) 0.26459(12) 0.52388(11)
+C7 C 0.79938(18) 0.47711(13) 0.73940(11)
+H5 H 0.82810 0.52130 0.78220
+C8 C 0.66375(17) 0.34125(13) 0.69906(12)
+H6 H 0.60220 0.29440 0.71490
+C9 C 0.90137(17) 0.17268(12) 0.51300(11)
+H7 H 0.83670 0.16080 0.47070
+C10 C 0.94820(18) 0.09878(13) 0.56657(12)
+H8 H 0.91470 0.03610 0.56080
+C11 C 1.04467(18) 0.11764(13) 0.62870(12)
+H9 H 1.07550 0.06760 0.66480
+C12 C 0.70835(18) 0.40702(13) 0.76169(12)
+H10 H 0.67660 0.40400 0.81980
+#END

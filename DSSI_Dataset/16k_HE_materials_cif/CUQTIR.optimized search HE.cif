@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUQTIR
+_audit_creation_date 2000-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUQTIR
+_database_code_depnum_ccdc_archive 'CCDC 134182'
+_database_code_depnum_ccdc_journal 1003/5624
+_chemical_formula_sum 'C16 H18 N4 O4'
+_chemical_formula_moiety
+;
+C16 H18 N4 O4
+;
+_journal_coden_Cambridge 1003
+_journal_volume 29
+_journal_year 1999
+_journal_page_first 749
+_journal_name_full 'J.Chem.Cryst. '
+loop_
+_publ_author_name
+"D.J.Burkhart"
+"A.Vij"
+"N.R.Natale"
+_chemical_name_systematic
+;
+3-Ethoxycarbonyl-5-methyl-4-(1-(phenylsemicarbzono)ethyl)-isoxazole
+;
+_chemical_name_common
+;
+3-Isoxazolecarboxylic acid 5-methyl-4-(1-(phenylsemicarbazono)ethyl)-ethyl 
+ester
+;
+_chemical_melting_point 443.15
+_cell_volume   3200.881
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.371
+_exptl_special_details
+;
+Melting point range 443.15-445.15K
+possible antagonistic activity for the AMPA receptor
+;
+_exptl_crystal_description 'chunk'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 213
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0546
+_refine_ls_wR_factor_gt 0.0546
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 19.738(2)
+_cell_length_b 10.4155(7)
+_cell_length_c 15.583(1)
+_cell_angle_alpha 90
+_cell_angle_beta 92.348(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.30049(7) 0.59869(14) 0.06543(9)
+O2 O 0.30314(8) 1.0008(2) 0.17296(13)
+O3 O 0.40002(7) 0.9215(2) 0.12510(11)
+O4 O -0.04480(6) 0.8846(2) 0.15403(8)
+N1 N 0.34316(8) 0.7031(2) 0.08185(11)
+N2 N 0.12466(7) 0.8035(2) 0.12806(9)
+N3 N 0.06743(8) 0.8469(2) 0.16619(11)
+H1 H 0.0653(11) 0.8615(23) 0.2226(17)
+N4 N 0.01173(8) 0.8343(2) 0.03315(10)
+H2 H 0.0523(11) 0.8201(19) 0.0159(13)
+C1 C 0.23815(9) 0.6244(2) 0.09511(12)
+C2 C 0.23826(9) 0.7428(2) 0.13107(11)
+C3 C 0.30579(9) 0.7870(2) 0.12088(12)
+C4 C 0.33498(10) 0.9148(2) 0.14354(13)
+C5 C 0.43360(13) 1.0448(3) 0.1386(2)
+H3 H 0.4226(13) 1.0767(27) 0.1964(19)
+H4 H 0.4126(14) 1.1054(29) 0.0972(19)
+C6 C 0.50766(14) 1.0199(4) 0.1289(3)
+H5 H 0.5236(15) 0.9581(32) 0.1747(20)
+H6 H 0.5320(16) 1.0986(34) 0.1384(21)
+H7 H 0.5160(18) 0.9902(37) 0.0678(24)
+C7 C 0.18691(12) 0.5222(2) 0.0834(2)
+H8 H 0.1510(15) 0.5471(29) 0.0455(19)
+H9 H 0.1667(14) 0.4983(28) 0.1365(20)
+H10 H 0.2063(16) 0.4421(34) 0.0642(20)
+C8 C 0.18038(9) 0.8031(2) 0.17338(11)
+C9 C 0.18960(11) 0.8461(3) 0.26478(14)
+H11 H 0.2361(14) 0.8545(25) 0.2815(17)
+H12 H 0.1664(13) 0.9238(28) 0.2734(17)
+H13 H 0.1682(15) 0.7886(31) 0.3056(20)
+C10 C 0.00776(9) 0.8573(2) 0.11847(12)
+C11 C -0.04236(9) 0.8362(2) -0.02942(11)
+C12 C -0.02551(11) 0.8208(3) -0.11348(14)
+H14 H 0.0206(14) 0.8104(26) -0.1252(17)
+C13 C -0.07562(12) 0.8205(3) -0.17862(15)
+H15 H -0.0617(15) 0.8184(31) -0.2350(22)
+C14 C -0.14236(11) 0.8373(2) -0.16091(14)
+H16 H -0.1784(11) 0.8400(21) -0.2053(14)
+C15 C -0.15873(11) 0.8528(3) -0.07756(14)
+H17 H -0.2048(13) 0.8670(25) -0.0648(16)
+C16 C -0.10998(10) 0.8530(3) -0.01131(14)
+H18 H -0.1222(12) 0.8686(24) 0.0473(17)
+#END

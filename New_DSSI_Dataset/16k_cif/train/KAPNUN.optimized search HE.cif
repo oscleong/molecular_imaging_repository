@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KAPNUN
+_audit_creation_date 2017-03-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KAPNUN
+_database_code_depnum_ccdc_archive 'CCDC 1536567'
+_chemical_formula_sum 'C10 H12 N2 O4'
+_chemical_formula_moiety
+;
+C10 H12 N2 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 2017
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Yuji Nishii"
+"T.Hirai"
+"K.Mashima"
+_chemical_name_systematic
+;
+N-(2-hydroxyethyl)-N-methyl-4-nitrobenzamide
+;
+_cell_volume   1055.386
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.411
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 113
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0412
+_refine_ls_wR_factor_gt 0.0412
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.1605(19)
+_cell_length_b 21.350(5)
+_cell_length_c 7.1078(19)
+_cell_angle_alpha 90
+_cell_angle_beta 103.770(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.50448(17) 0.16882(5) 0.66971(19)
+O2 O 0.85325(16) 0.22373(5) 0.27066(19)
+H1 H 0.89783 0.25337 0.21701
+O3 O 0.14100(16) -0.05262(5) -0.02643(18)
+O4 O 0.19122(17) 0.01370(6) -0.24029(18)
+N1 N 0.7951(2) 0.15844(6) 0.6014(2)
+N2 N 0.20444(18) -0.00251(6) -0.0714(2)
+C1 C 0.5038(2) 0.11248(7) 0.3839(3)
+C2 C 0.5098(2) 0.12607(7) 0.1941(3)
+H2 H 0.58466 0.16030 0.16818
+C3 C 0.4066(2) 0.08976(7) 0.0420(3)
+H3 H 0.40722 0.09939 -0.08839
+C4 C 0.3030(2) 0.03919(7) 0.0853(3)
+C5 C 0.2893(2) 0.02590(7) 0.2726(3)
+H4 H 0.21438 -0.00837 0.29813
+C6 C 0.3873(2) 0.06377(7) 0.4207(3)
+H5 H 0.37534 0.05663 0.54922
+C7 C 0.6040(2) 0.14987(7) 0.5590(3)
+C8 C 0.8827(3) 0.19374(9) 0.7772(3)
+H6 H 0.85458 0.23842 0.75500
+H7 H 1.02218 0.18729 0.80960
+H8 H 0.82979 0.17910 0.88453
+C9 C 0.9245(2) 0.13628(8) 0.4837(3)
+H9 H 0.85312 0.10756 0.38247
+H10 H 1.03115 0.11236 0.56708
+C10 C 1.0068(2) 0.18931(8) 0.3884(3)
+H11 H 1.08498 0.21703 0.48848
+H12 H 1.09074 0.17241 0.30821
+#END

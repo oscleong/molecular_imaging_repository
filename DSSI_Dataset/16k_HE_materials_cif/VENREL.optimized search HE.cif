@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VENREL
+_audit_creation_date 2001-03-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VENREL
+_chemical_formula_sum 'C18 H15 N1 O3'
+_chemical_formula_moiety
+;
+C18 H15 N1 O3
+;
+_journal_coden_Cambridge 151
+_journal_volume 42
+_journal_year 1999
+_journal_page_first 1358
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"J.R.Dimmock"
+"N.M.Kandepu"
+"A.J.Nazarali"
+"T.P.Kowalchuk"
+"N.Motaganahalli"
+"J.W.Quail"
+"P.A.Mykytiuk"
+"G.F.Audette"
+"L.Prasad"
+"P.Perjesi"
+"T.M.Allen"
+"C.L.Santos"
+"J.Szydlowski"
+"E.De Clercq"
+"J.Balzarini"
+_chemical_name_systematic
+;
+2-(3-Nitrophenylmethylene)-1-benzosuberone
+;
+_cell_volume    704.054
+_exptl_crystal_density_diffrn 1.384
+_exptl_special_details
+;
+cytotoxic activity against murine P388 and L1210 leukemia cell lines and 
+human molt 4/C8 and CEM lymphocytes, with preferential cytotoxicity towards 
+colon, breast and leukemic cells
+;
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0484
+_refine_ls_wR_factor_gt 0.0484
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.952(3)
+_cell_length_b 8.874(2)
+_cell_length_c 10.428(3)
+_cell_angle_alpha 100.27(2)
+_cell_angle_beta 96.88(4)
+_cell_angle_gamma 100.13(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.0752(2) 0.4372(2) 0.1741(2)
+O2 O -0.1885(2) 1.3586(2) 0.4416(1)
+O3 O -0.3485(2) 1.1296(2) 0.3719(2)
+N1 N -0.2074(2) 1.2183(2) 0.3982(2)
+C1 C 0.0771(2) 0.4954(2) 0.1762(2)
+C2 C 0.1402(2) 0.6700(2) 0.2065(2)
+C3 C 0.3004(2) 0.7307(2) 0.1518(2)
+C4 C 0.4704(2) 0.7248(2) 0.2363(2)
+C5 C 0.4543(2) 0.5792(2) 0.2968(2)
+C6 C 0.3781(2) 0.4308(2) 0.1976(2)
+C7 C 0.4830(3) 0.3252(2) 0.1613(2)
+C8 C 0.4159(3) 0.1835(2) 0.0773(2)
+C9 C 0.2404(3) 0.1419(2) 0.0264(2)
+C10 C 0.1353(3) 0.2454(2) 0.0604(2)
+C11 C 0.2018(2) 0.3905(2) 0.1440(2)
+C12 C 0.0427(2) 0.7554(2) 0.2723(2)
+C13 C 0.0700(2) 0.9258(2) 0.3176(2)
+C14 C 0.2335(2) 1.0254(2) 0.3536(2)
+C15 C 0.2515(2) 1.1846(2) 0.4003(2)
+C16 C 0.1075(2) 1.2508(2) 0.4138(2)
+C17 C -0.0526(2) 1.1518(2) 0.3791(2)
+C18 C -0.0745(2) 0.9929(2) 0.3330(2)
+H1 H 0.30110 0.84030 0.14370
+H2 H 0.29490 0.66830 0.06210
+H3 H 0.56310 0.72550 0.18080
+H4 H 0.50380 0.81930 0.30770
+H5 H 0.57040 0.57210 0.33860
+H6 H 0.38080 0.59010 0.36670
+H7 H 0.60310 0.35160 0.19510
+H8 H 0.49000 0.11340 0.05390
+H9 H 0.19400 0.04360 -0.03100
+H10 H 0.01530 0.21750 0.02640
+H11 H -0.05930 0.69720 0.29270
+H12 H 0.33410 0.98270 0.34570
+H13 H 0.36380 1.24910 0.42330
+H14 H 0.11860 1.35980 0.44560
+H15 H -0.18730 0.92940 0.31170
+#END

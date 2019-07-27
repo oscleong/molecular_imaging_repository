@@ -1,0 +1,91 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NTSALA
+_audit_creation_date 1978-03-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NTSALA
+_database_code_depnum_ccdc_archive 'CCDC 1223575'
+_chemical_formula_sum 'C7 H5 N1 O4'
+_chemical_formula_moiety
+;
+C7 H5 N1 O4
+;
+_journal_coden_Cambridge 3
+_journal_volume 31
+_journal_year 1977
+_journal_page_first 485
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"H.J.Talberg"
+_chemical_name_systematic
+;
+5-Nitrososalicylic acid
+;
+_cell_volume    671.920
+_exptl_crystal_density_diffrn 1.651
+_diffrn_ambient_temperature 108.15
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.049
+_refine_ls_wR_factor_gt 0.049
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 22.829(2)
+_cell_length_b 8.028(1)
+_cell_length_c 3.6669(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.07(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.17728 -0.13572 0.23519
+O2 O 0.15285 -0.84421 -0.40799
+O3 O 0.00595 -0.22093 -0.16595
+O4 O 0.06644 -0.04498 0.13367
+N1 N 0.11344 -0.74018 -0.37815
+C1 C 0.10188 -0.31032 -0.04256
+C2 C 0.15994 -0.27915 0.08051
+C3 C 0.20328 -0.40201 0.04711
+C4 C 0.18981 -0.55313 -0.10307
+C5 C 0.13193 -0.58639 -0.21943
+C6 C 0.08883 -0.46650 -0.18987
+C7 C 0.05683 -0.18021 -0.01487
+H1 H 0.15060 -0.07820 0.26400
+H2 H 0.21840 -0.64360 -0.12940
+H3 H -0.01520 -0.14480 -0.14880
+H4 H 0.24170 -0.37690 0.12800
+H5 H 0.05010 -0.48940 -0.26990
+#END

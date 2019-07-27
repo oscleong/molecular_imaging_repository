@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUCPAA
+_audit_creation_date 2015-03-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUCPAA
+_database_code_depnum_ccdc_archive 'CCDC 994770'
+_chemical_formula_sum 'C8 H6 N14 O15'
+_chemical_formula_moiety
+;
+C8 H6 N14 O15
+;
+_journal_coden_Cambridge 1500
+_journal_volume 5
+_journal_year 2015
+_journal_page_first 27305
+_journal_name_full 'RSC Advances '
+loop_
+_publ_author_name
+"Qiong Yu"
+"Zhixin Wang"
+"Hongwei Yang"
+"Bo Wu"
+"Qiuhan Lin"
+"Xuehai Ju"
+"Chunxu Lu"
+"Guangbin Cheng"
+_chemical_name_systematic
+;
+N,N'-bis(2,2,2-Trinitroethyl)-3,3'-diamino-4,4'-azoxyfurazan
+;
+_cell_volume   1931.425
+_exptl_crystal_density_diffrn 1.851
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+O1 disordered by symmetry over two configurations with occupancy 0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0511
+_refine_ls_wR_factor_gt 0.0511
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.343(4)
+_cell_length_b 7.8125(16)
+_cell_length_c 11.766(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.11(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.50528(14) 0.4255(4) 0.1415(3)
+O2 O 0.32396(9) 0.5044(2) -0.10222(15)
+O3 O 0.35228(9) -0.0457(3) -0.00296(15)
+O4 O 0.43649(8) -0.1597(2) 0.10180(16)
+O5 O 0.45108(7) 0.0724(2) 0.32446(13)
+O6 O 0.41819(8) -0.1877(2) 0.34263(17)
+O7 O 0.27990(7) -0.0925(2) 0.28734(14)
+O8 O 0.29904(9) -0.2647(2) 0.15261(18)
+N1 N 0.48283(9) 0.4747(2) 0.03600(16)
+N2 N 0.38622(10) 0.5502(2) -0.09614(18)
+N3 N 0.31566(9) 0.3947(2) -0.01134(17)
+N4 N 0.38779(8) 0.2713(2) 0.14247(16)
+H1 H 0.4222(12) 0.299(3) 0.191(2)
+N5 N 0.38653(9) -0.0812(2) 0.08739(17)
+N6 N 0.41538(8) -0.0470(2) 0.29706(16)
+N7 N 0.30846(9) -0.1384(2) 0.21228(17)
+C1 C 0.41629(10) 0.4720(2) -0.00474(19)
+C2 C 0.37245(9) 0.3747(2) 0.04871(18)
+C3 C 0.33999(9) 0.1664(2) 0.18214(18)
+H2 H 0.29960 0.17310 0.12620
+H3 H 0.33210 0.20960 0.25740
+C4 C 0.36231(9) -0.0187(2) 0.19481(17)
+O1D O 0.49472(14) 0.5745(4) -0.1415(3)
+O2D O 0.67604(9) 0.4956(2) 0.10222(15)
+O3D O 0.64772(9) 1.0457(3) 0.00296(15)
+O4D O 0.56351(8) 1.1597(2) -0.10180(16)
+O5D O 0.54892(7) 0.9276(2) -0.32446(13)
+O6D O 0.58181(8) 1.1877(2) -0.34263(17)
+O7D O 0.72010(7) 1.0925(2) -0.28734(14)
+O8D O 0.70096(9) 1.2647(2) -0.15261(18)
+N1D N 0.51717(9) 0.5253(2) -0.03600(16)
+N2D N 0.61378(10) 0.4498(2) 0.09614(18)
+N3D N 0.68434(9) 0.6053(2) 0.01134(17)
+N4D N 0.61221(8) 0.7287(2) -0.14247(16)
+H1D H 0.5778(12) 0.701(3) -0.191(2)
+N5D N 0.61347(9) 1.0812(2) -0.08739(17)
+N6D N 0.58462(8) 1.0470(2) -0.29706(16)
+N7D N 0.69154(9) 1.1384(2) -0.21228(17)
+C1D C 0.58371(10) 0.5280(2) 0.00474(19)
+C2D C 0.62755(9) 0.6253(2) -0.04871(18)
+C3D C 0.66001(9) 0.8336(2) -0.18214(18)
+H2D H 0.70040 0.82690 -0.12620
+H3D H 0.66790 0.79040 -0.25740
+C4D C 0.63769(9) 1.0187(2) -0.19481(17)
+#END

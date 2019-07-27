@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAJSUC
+_audit_creation_date 1986-04-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAJSUC
+_chemical_formula_sum 'C15 H16 N2 O1'
+_chemical_formula_moiety
+;
+C15 H16 N2 O1
+;
+_journal_coeditor_code "IUCr A24945"
+_journal_coden_Cambridge 591
+_journal_volume 41
+_journal_year 1985
+_journal_page_first 1253
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.D.Walkinshaw"
+_chemical_name_systematic
+;
+4-Phenyl-6,7,8,9-tetrahydro-1H-2,3-benzodiazepine-2-oxide
+;
+_cell_volume   1278.359
+_exptl_crystal_density_diffrn 1.248
+_exptl_special_details
+;
+sg should be P21/a not P21/c
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 8.062(2)
+_cell_length_b 13.900(2)
+_cell_length_c 12.007(2)
+_cell_angle_alpha 90
+_cell_angle_beta 108.180(17)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1322(3) 0.20068(16) 1.14596(24)
+N1 N 0.20414(22) 0.27156(12) 1.07930(17)
+N2 N 0.22614(22) 0.25045(11) 0.98115(16)
+C2 C 0.1959(3) 0.15560(13) 0.94008(19)
+C3 C 0.2449(3) 0.07440(15) 1.00484(19)
+C4 C 0.3194(3) 0.06841(14) 1.13045(18)
+C5 C 0.4496(4) -0.01129(17) 1.17882(20)
+C6 C 0.4953(4) -0.02108(18) 1.31129(22)
+C7 C 0.5306(4) 0.07696(19) 1.36862(25)
+C8 C 0.3676(4) 0.13934(19) 1.32979(22)
+C9 C 0.2757(3) 0.13172(14) 1.20090(18)
+C10 C 0.1347(3) 0.15191(14) 0.80961(19)
+C11 C 0.1787(3) 0.22335(18) 0.74296(22)
+C12 C 0.1232(4) 0.21879(20) 0.62176(24)
+C13 C 0.0218(4) 0.14315(20) 0.5650(3)
+C14 C -0.0229(4) 0.07226(21) 0.62978(24)
+C15 C 0.0323(4) 0.07578(18) 0.75054(22)
+O1 O 0.2500(2) 0.35298(9) 1.12646(14)
+H1 H 0.028(3) 0.1706(15) 1.0872(20)
+H2 H 0.102(3) 0.2404(16) 1.2025(19)
+H3 H 0.2454(23) 0.0173(15) 0.9639(16)
+H4 H 0.403(3) -0.0709(17) 1.1434(19)
+H5 H 0.553(3) 0.0018(16) 1.1579(19)
+H6 H 0.596(3) -0.0632(19) 1.3401(21)
+H7 H 0.390(3) -0.0519(19) 1.3347(22)
+H8 H 0.622(3) 0.1073(20) 1.3392(23)
+H9 H 0.572(3) 0.0736(18) 1.455(3)
+H10 H 0.285(3) 0.1255(17) 1.3758(22)
+H11 H 0.397(3) 0.2072(18) 1.3456(19)
+H12 H 0.244(3) 0.2748(17) 0.7828(21)
+H13 H 0.157(3) 0.2686(18) 0.5799(21)
+H14 H -0.017(3) 0.1407(20) 0.480(3)
+H15 H -0.089(3) 0.0184(19) 0.5925(22)
+H16 H 0.006(3) 0.0268(18) 0.7965(21)
+#END

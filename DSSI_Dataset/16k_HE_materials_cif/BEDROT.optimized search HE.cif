@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEDROT
+_audit_creation_date 2013-02-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEDROT
+_database_code_depnum_ccdc_archive 'CCDC 742099'
+_chemical_formula_sum 'C16 H12 N4 O6'
+_chemical_formula_moiety
+;
+C16 H12 N4 O6
+;
+_journal_coden_Cambridge 781
+_journal_volume 8
+_journal_year 2011
+_journal_page_first 732
+_journal_name_full 'Lett.Org.Chem. '
+loop_
+_publ_author_name
+"Yong-Hong Wen"
+"Xiao-Na Chen"
+"Hui-Ling Wen"
+"Xiao-Fang Tang"
+_chemical_name_systematic
+;
+1,4-bis(2-Nitrophenyl)piperazine-2,5-dione
+;
+_cell_volume   1533.590
+_exptl_crystal_density_diffrn 1.543
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0389
+_refine_ls_wR_factor_gt 0.0389
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c c n'
+_symmetry_Int_Tables_number 56
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2-y,z
+3 -x,1/2+y,1/2-z
+4 1/2+x,-y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2+y,-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,y,-1/2+z
+_cell_length_a 16.087(4)
+_cell_length_b 6.7803(16)
+_cell_length_c 14.060(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.70383(9) 0.5430(2) 0.74784(10)
+O2 O 0.63178(10) 0.6786(3) 0.6364(1)
+O3 O 0.65358(8) 1.06803(19) 0.90841(10)
+N1 N 0.64106(10) 0.6237(2) 0.71877(11)
+N2 N 0.66642(9) 0.7339(2) 0.91617(10)
+C1 C 0.58443(11) 0.7016(3) 0.87986(12)
+C2 C 0.57068(11) 0.6525(3) 0.78460(13)
+C3 C 0.49143(12) 0.6334(3) 0.74792(14)
+H1 H 0.48360 0.60320 0.68400
+C4 C 0.42402(12) 0.6598(3) 0.80708(15)
+H2 H 0.37050 0.64250 0.78360
+C5 C 0.43582(12) 0.7115(3) 0.90076(15)
+H3 H 0.39020 0.73260 0.94000
+C6 C 0.51571(12) 0.7324(3) 0.93678(14)
+H4 H 0.52300 0.76760 1.00020
+C7 C 0.69518(11) 0.9212(3) 0.92459(12)
+C8 C 0.71491(11) 0.5680(3) 0.95433(13)
+H5 H 0.69110 0.44500 0.93190
+H6 H 0.71160 0.56890 1.02320
+O1A O 0.79617(9) 0.9570(2) 0.74784(10)
+O2A O 0.86822(10) 0.8214(3) 0.6364(1)
+O3A O 0.84642(8) 0.43197(19) 0.90841(10)
+N1A N 0.85894(10) 0.8763(2) 0.71877(11)
+N2A N 0.83358(9) 0.7661(2) 0.91617(10)
+C1A C 0.91557(11) 0.7984(3) 0.87986(12)
+C2A C 0.92932(11) 0.8475(3) 0.78460(13)
+C3A C 1.00857(12) 0.8666(3) 0.74792(14)
+H1A H 1.01640 0.89680 0.68400
+C4A C 1.07598(12) 0.8402(3) 0.80708(15)
+H2A H 1.12950 0.85750 0.78360
+C5A C 1.06418(12) 0.7885(3) 0.90076(15)
+H3A H 1.10980 0.76740 0.94000
+C6A C 0.98429(12) 0.7676(3) 0.93678(14)
+H4A H 0.97700 0.73240 1.00020
+C7A C 0.80482(11) 0.5788(3) 0.92459(12)
+C8A C 0.78509(11) 0.9320(3) 0.95433(13)
+H5A H 0.80890 1.05500 0.93190
+H6A H 0.78840 0.93110 1.02320
+#END

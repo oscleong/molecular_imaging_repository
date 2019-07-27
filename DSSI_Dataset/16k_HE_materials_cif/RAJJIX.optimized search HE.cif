@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAJJIX
+_audit_creation_date 2012-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAJJIX
+_database_code_depnum_ccdc_archive 'CCDC 862317'
+_database_code_depnum_ccdc_journal 1267/226
+_chemical_formula_sum 'C7 H9 N3 O3'
+_chemical_formula_moiety
+;
+C7 H9 N3 O3
+;
+_journal_coden_Cambridge 1267
+_journal_volume 226
+_journal_year 2011
+_journal_page_first 623
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"G.Laus"
+"V.Kahlenberg"
+"W.Reischl"
+"H.Schottenberger"
+_chemical_name_systematic
+;
+1-(1-Methoxy-1H-imidazol-2-yl)-2-(methoxyimino)ethanone
+;
+_cell_volume    864.881
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.407
+_exptl_crystal_description 'thin plate'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0274
+_refine_ls_wR_factor_gt 0.0274
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,y,1/2+z
+4 1/2+x,-y,z
+_cell_length_a 17.3539(4)
+_cell_length_b 4.02431(10)
+_cell_length_c 12.3842(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.34889(5) 0.6947(3) 0.45840(8)
+O2 O 0.24240(7) 0.9458(3) 0.62012(9)
+O3 O 0.01315(6) 0.9813(3) 0.70014(11)
+N1 N 0.27965(7) 0.5513(3) 0.42787(10)
+N2 N 0.15576(7) 0.4361(3) 0.41651(10)
+N3 N 0.09217(7) 0.9836(3) 0.68205(10)
+C1 C 0.10960(9) 0.8167(4) 0.59850(12)
+H1 H 0.07140 0.70730 0.55670
+C2 C 0.20908(8) 0.5981(3) 0.47331(12)
+C3 C 0.27215(9) 0.3596(4) 0.33904(12)
+H2 H 0.31160 0.28880 0.29100
+C4 C 0.38322(10) 0.5111(4) 0.54666(14)
+H3 H 0.35060 0.53110 0.61090
+H4 H 0.43450 0.60150 0.56230
+H5 H 0.38790 0.27650 0.52650
+C5 C 0.19261(8) 0.8003(3) 0.56914(11)
+C6 C 0.19503(8) 0.2902(3) 0.33367(11)
+H6 H 0.17180 0.15740 0.27920
+C7 C -0.00223(10) 1.1526(5) 0.79975(15)
+H7 H 0.01420 1.01420 0.86060
+H8 H -0.05760 1.19740 0.80560
+H9 H 0.02620 1.36300 0.80090
+#END

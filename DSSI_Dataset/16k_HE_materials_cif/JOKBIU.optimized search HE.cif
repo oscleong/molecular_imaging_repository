@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOKBIU
+_audit_creation_date 1992-09-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOKBIU
+_database_code_depnum_ccdc_archive 'CCDC 1188516'
+_database_code_depnum_ccdc_fiz 'CSD 55448'
+_chemical_formula_sum 'C28 H36 N4 O4'
+_chemical_formula_moiety
+;
+C28 H36 N4 O4
+;
+_journal_coden_Cambridge 167
+_journal_year 1991
+_journal_page_first 1259
+_journal_name_full 'Liebigs Ann. '
+loop_
+_publ_author_name
+"S.Shatzmiller"
+"N.Menashe"
+"E.Shalon"
+"E.Bahar"
+_chemical_name_systematic
+;
+5,8,20,23-Tetramethyl-3,10,18,25-tetraoxa-4,9,19,24-tetra-azatricyclo(25.3.1.1
+^12,16^)dotriaconta-1(31),4,8,12,14,16(32),19,23,27,29-decaene
+;
+_chemical_melting_point 360.15
+_cell_volume   1325.108
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+CSD 55448 contains no further data for this compound; Dx given as 1.133, we 
+find 1.23. y(C3) is 0.1348, not 0.0136
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.242(2)
+_cell_length_b 5.886(2)
+_cell_length_c 17.530(2)
+_cell_angle_alpha 90
+_cell_angle_beta 104.11
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0528(3) 0.1116(8) 0.1855(2)
+C1 C -0.0249(5) 0.2183(12) 0.2175(4)
+C2 C -0.1329(4) 0.1348(11) 0.1790(3)
+C3 C -0.1680(5) -0.0708(12) 0.1997(3)
+C4 C -0.2669(6) -0.1423(11) 0.1661(4)
+C5 C -0.3341(5) -0.0112(12) 0.1111(4)
+C6 C -0.2996(4) 0.1935(11) 0.0886(3)
+C7 C -0.2007(40) 0.2659(10) 0.1230(3)
+C8 C -0.3707(5) 0.3308(11) 0.0253(4)
+O2 O -0.3471(3) 0.2972(8) -0.0495(2)
+N1 N -0.3849(4) 0.0798(9) -0.0774(3)
+C9 C -0.3388(4) 0.0088(11) -0.1293(4)
+C10 C -0.3758(5) -0.2155(12) -0.1644(4)
+C11 C -0.2544(5) 0.1284(10) -0.1552(3)
+C12 C -0.1493(5) 0.1171(11) -0.0944(4)
+C13 C -0.1089(4) -0.1186(11) -0.0758(4)
+C14 C -0.1255(5) -0.2364(12) -0.0054(4)
+N2 N 0.0600(4) 0.2349(9) 0.1177(3)
+N2B N -0.0600(4) -0.2349(9) -0.1177(3)
+C13B C 0.1089(4) 0.1186(11) 0.0758(4)
+O1B O -0.0528(3) -0.1116(8) -0.1855(2)
+C12B C 0.1493(5) -0.1171(11) 0.0944(4)
+C14B C 0.1255(5) 0.2364(12) 0.0054(4)
+C1B C 0.0249(5) -0.2183(12) -0.2175(4)
+C11B C 0.2544(5) -0.1284(10) 0.1552(3)
+C2B C 0.1329(4) -0.1348(11) -0.1790(3)
+C9B C 0.3388(4) -0.0088(11) 0.1293(4)
+C3B C 0.1680(5) 0.0708(12) -0.1997(3)
+C7B C 0.2007(40) -0.2659(10) -0.1230(3)
+N1B N 0.3849(4) -0.0798(9) 0.0774(3)
+C10B C 0.3758(5) 0.2155(12) 0.1644(4)
+C4B C 0.2669(6) 0.1423(11) -0.1661(4)
+C6B C 0.2996(4) -0.1935(11) -0.0886(3)
+O2B O 0.3471(3) -0.2972(8) 0.0495(2)
+C5B C 0.3341(5) 0.0112(12) -0.1111(4)
+C8B C 0.3707(5) -0.3308(11) -0.0253(4)
+#END

@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VECCOV
+_audit_creation_date 1990-07-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VECCOV
+_chemical_formula_sum 'C22 H22 N2 O7'
+_chemical_formula_moiety
+;
+C22 H22 N2 O7
+;
+_journal_coden_Cambridge 643
+_journal_volume 189
+_journal_year 1989
+_journal_page_first 293
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"G.D.Nigam"
+"G.Mattern"
+"R.Frohlich"
+_chemical_name_systematic
+;
+1-(m-Nitrophenyl)-2,2-bis(ethoxycarbonyl)-3-phenylpyrrolidin-5-one
+;
+_cell_volume   4151.288
+_exptl_crystal_colour 'white'
+_exptl_special_details
+;
+y(C8) .2914, not .2194
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One of the ethoxycarbonyl groups is 2-fold disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.062
+_refine_ls_wR_factor_gt 0.062
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 18.618(16)
+_cell_length_b 10.606(9)
+_cell_length_c 21.163(18)
+_cell_angle_alpha 90
+_cell_angle_beta 96.59(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.0567(2) 0.1025(5) 0.3773(2)
+C2 C 0.0422(3) 0.0030(6) 0.4155(3)
+C3 C -0.0287(3) -0.0369(7) 0.4187(4)
+C4 C -0.0856(3) 0.0255(7) 0.3845(3)
+C5 C -0.0697(3) 0.1246(6) 0.3468(3)
+N1 N -0.1295(2) 0.1967(5) 0.3104(2)
+O1 O -0.1897(2) 0.1844(5) 0.3286(2)
+O2 O -0.1159(2) 0.2629(4) 0.2657(2)
+C6 C 0.0002(2) 0.1646(5) 0.3406(2)
+N2 N 0.1284(2) 0.1473(4) 0.3736(2)
+C7 C 0.1447(3) 0.2753(5) 0.3771(3)
+O3 O 0.1015(2) 0.3579(4) 0.3842(2)
+C8 C 0.2247(3) 0.2914(5) 0.3730(3)
+C9 C 0.2502(2) 0.1625(4) 0.3519(2)
+C10 C 0.3287(2) 0.1292(4) 0.3734(2)
+C11 C 0.3643(2) 0.1700(5) 0.4312(2)
+C12 C 0.4350(3) 0.1319(5) 0.4507(3)
+C13 C 0.4713(2) 0.0571(5) 0.4121(3)
+C14 C 0.4365(3) 0.0160(5) 0.3539(3)
+C15 C 0.3651(3) 0.0518(5) 0.3345(3)
+C16 C 0.1927(2) 0.0673(4) 0.3742(2)
+C17 C 0.2193(2) 0.0216(4) 0.4435(2)
+O4 O 0.2022(2) 0.0722(4) 0.4892(2)
+O5 O 0.2657(2) -0.0730(3) 0.4416(1)
+C18 C 0.3062(2) -0.1059(4) 0.5029(2)
+C19 C 0.3631(3) -0.1985(5) 0.4885(3)
+C20 C 0.1775(2) -0.0408(5) 0.3234(3)
+O6 O 0.1858(3) -0.0258(4) 0.2694(2)
+O7 O 0.1531(2) -0.1424(3) 0.3491(2)
+C21 C 0.1357(3) -0.2454(6) 0.3022(3)
+C22? C 0.1217(8) -0.3526(11) 0.3301(5)
+C23 C 0.0572(7) -0.2316(11) 0.2833(8)
+H1 H 0.083(3) -0.048(5) 0.449(2)
+H2 H -0.036(3) -0.115(6) 0.454(3)
+H3 H -0.141(3) 0.000(5) 0.394(3)
+H4 H 0.011(2) 0.241(4) 0.306(2)
+H5 H 0.248(3) 0.322(5) 0.423(2)
+H6 H 0.234(3) 0.372(5) 0.340(2)
+H7 H 0.241(2) 0.161(4) 0.301(2)
+H8 H 0.337(2) 0.229(4) 0.463(2)
+H9 H 0.461(3) 0.169(5) 0.4964(2)
+H10 H 0.528(2) 0.025(4) 0.427(2)
+H11 H 0.467(3) -0.043(5) 0.321(3)
+H12 H 0.337(3) 0.019(5) 0.288(3)
+H13 H 0.327(2) -0.025(4) 0.520(2)
+H14 H 0.269(2) -0.145(4) 0.532(2)
+H15 H 0.34100 -0.27200 0.46800
+H16 H 0.38800 -0.22200 0.52900
+H17 H 0.39600 -0.16500 0.46200
+H18? H 0.16100 -0.36900 0.36200
+H19? H 0.10900 -0.42800 0.30600
+H20? H 0.08100 -0.32500 0.35000
+H21 H 0.04900 -0.16300 0.25400
+H22 H 0.03000 -0.21800 0.31800
+H23 H 0.04200 -0.30900 0.26200
+#END

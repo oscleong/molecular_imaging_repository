@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BURJED
+_audit_creation_date 1984-02-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BURJED
+_database_code_depnum_ccdc_archive 'CCDC 1117116'
+_chemical_formula_sum 'C15 H16 N2 O7'
+_chemical_formula_moiety
+;
+C15 H16 N2 O7
+;
+_journal_coden_Cambridge 5
+_journal_volume 163
+_journal_year 1983
+_journal_page_first 75
+_journal_name_full 'Z.Kristallogr.,Kristallgeom.,Kristallphys.,Kristallchem. '
+loop_
+_publ_author_name
+"P.G.Jones"
+"G.M.Sheldrick"
+"A.J.Kirby"
+"R.Glenn"
+"M.Halstenberg"
+_chemical_name_systematic
+;
+5-(3',5'-Dinitrobenzoyloxy)-cyclo-octanone
+;
+_chemical_melting_point 356.15
+_cell_volume   1569.235
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.42
+_exptl_special_details
+;
+Melting point range 356.15-358.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.989(3)
+_cell_length_b 6.512(2)
+_cell_length_c 18.701(5)
+_cell_angle_alpha 90
+_cell_angle_beta 97.23(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.12410 0.39460 0.69190
+O1 O 0.04880 0.25960 0.68960
+O2 O 0.17350 0.45970 0.74530
+C2 C 0.14070 0.46070 0.61730
+C3 C 0.19210 0.64420 0.60920
+H1 H 0.21720 0.72660 0.65030
+C4 C 0.20620 0.70510 0.54060
+C5 C 0.17450 0.58950 0.48050
+H2 H 0.18560 0.63470 0.43320
+C6 C 0.12640 0.40740 0.49100
+C7 C 0.10720 0.33960 0.55800
+H3 H 0.07160 0.21230 0.56340
+N1 N 0.25620 0.90510 0.53000
+O3 O 0.26970 0.95370 0.46930
+O4 O 0.27920 1.01000 0.58320
+N2 N 0.09280 0.27740 0.42800
+O5 O 0.11410 0.33430 0.36980
+O6 O 0.04400 0.12220 0.43710
+C8 C -0.00340 0.06830 0.91170
+O7 O 0.05430 0.18400 0.94760
+C9 C -0.11340 0.12690 0.88950
+H4 H -0.15170 0.00510 0.87420
+H5 H -0.14050 0.18490 0.93040
+C10 C -0.12750 0.28030 0.82940
+H6 H -0.20020 0.31220 0.82120
+H7 H -0.08930 0.40100 0.84590
+C11 C -0.09470 0.22290 0.75710
+H8 H -0.11200 0.33560 0.72470
+H9 H -0.13330 0.10350 0.73960
+C12 C 0.01920 0.17640 0.75720
+H10 H 0.05290 0.23450 0.80120
+C13 C 0.04930 -0.04700 0.75710
+H11 H 0.12370 -0.05370 0.76500
+H12 H 0.02500 -0.10080 0.71020
+C14 C 0.00870 -0.18510 0.81150
+H13 H 0.03610 -0.31980 0.80500
+H14 H -0.06550 -0.18790 0.80060
+C15 C 0.03310 -0.13350 0.88950
+H15 H 0.10720 -0.13730 0.90150
+H16 H 0.00210 -0.23690 0.91650
+#END

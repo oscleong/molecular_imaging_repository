@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LUKTAN
+_audit_creation_date 2010-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LUKTAN
+_database_code_depnum_ccdc_archive 'CCDC 266708'
+_chemical_formula_sum 'C14 H7 N5 O11'
+_chemical_formula_moiety
+;
+C14 H7 N5 O11
+;
+_journal_coden_Cambridge 1457
+_journal_volume 2
+_journal_year 2005
+_journal_page_first 3
+_journal_name_full 'Central European Journal of Energetic Materials '
+loop_
+_publ_author_name
+"A.J.Bellamy"
+"M.F.Mahon"
+"R.Drake"
+"J.Mansell"
+"P.Golding"
+_chemical_name_systematic
+;
+3,5-Dinitro-4-(2-(2,4,6-trinitrophenyl)vinyl)phenol
+;
+_chemical_name_common
+;
+4-hydroxy-2,2',4',6,6'-pentanitrostilbene
+;
+_cell_volume   1597.707
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.751
+_exptl_special_details
+;
+Published space group is C2/c whereas the cif gives P21/c which has been used 
+here
+;
+_exptl_crystal_description 'irregular'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.5020(1)
+_cell_length_b 13.8850(2)
+_cell_length_c 12.9460(2)
+_cell_angle_alpha 90
+_cell_angle_beta 110.706(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.04355(15) -0.10525(14) -0.02221(14)
+O2 O 0.40265(13) 0.18773(9) -0.19481(9)
+O3 O 0.54292(14) -0.03270(8) 0.33019(10)
+O4 O 0.19794(15) 0.25539(8) -0.30216(11)
+O5 O 0.53108(13) 0.34963(9) -0.01605(9)
+N1 N 0.88839(13) 0.24046(9) 0.35265(10)
+C1 C 0.34208(14) 0.07918(9) -0.04379(10)
+H1 H 0.44250 0.06870 -0.04020
+O6 O 0.31446(12) 0.31133(8) -0.00809(9)
+O7 O 0.32436(13) 0.01082(9) 0.21681(11)
+O8 O 0.27708(12) -0.11714(8) -0.00395(10)
+N2 N 0.46006(14) 0.02170(8) 0.2607(1)
+N3 N 0.26707(15) 0.18742(8) -0.24674(10)
+C2 C 0.52652(14) 0.24137(9) 0.1185(1)
+O9 O 0.95273(14) 0.30284(11) 0.32163(10)
+O10 O -0.15326(13) -0.01292(9) -0.43134(9)
+H2 H -0.19860 -0.06300 -0.42430
+C3 C 0.32038(14) 0.12013(10) 0.04182(11)
+H3 H 0.22230 0.12560 0.04490
+C4 C 0.73488(14) 0.21516(10) 0.2808(1)
+C5 C 0.21772(14) 0.04888(9) -0.14474(10)
+C6 C 0.17964(15) 0.10061(9) -0.24367(11)
+C7 C -0.00507(15) -0.05056(10) -0.24092(12)
+H4 H -0.06910 -0.10230 -0.23810
+C8 C 0.11989(15) -0.02687(9) -0.14947(11)
+C9 C 0.66582(15) 0.27146(10) 0.18881(11)
+H5 H 0.71200 0.32810 0.17460
+C10 C 0.05902(17) 0.07977(11) -0.33790(11)
+H6 H 0.04000 0.11730 -0.40280
+O11 O 0.94460(16) 0.19435(10) 0.43547(11)
+N4 N 0.45209(14) 0.30492(8) 0.02328(9)
+C11 C 0.52879(15) 0.10774(9) 0.23118(11)
+C12 C 0.66812(15) 0.13440(9) 0.30570(11)
+H7 H 0.71590 0.09860 0.37130
+C13 C -0.03432(16) 0.00319(11) -0.33678(12)
+N5 N 0.14901(14) -0.08770(9) -0.05106(11)
+C14 C 0.45410(14) 0.15725(9) 0.13291(10)
+#END

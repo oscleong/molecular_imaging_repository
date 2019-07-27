@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAPJOD
+_audit_creation_date 2005-08-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAPJOD
+_database_code_depnum_ccdc_archive 'CCDC 277269'
+_chemical_formula_sum 'C7 H8 N4 O5'
+_chemical_formula_moiety
+;
+C7 H8 N4 O5
+;
+_journal_coeditor_code "IUCr HG6183"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o2099
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"A.C.Doriguetto"
+"C.H.T.de Paula Silva"
+"J.Ellena"
+"G.H.G.Trossini"
+"Chung Man Chin"
+"E.I.Ferreira"
+_chemical_name_systematic
+;
+5-Nitro-2-furaldehyde 4-(hydroxymethyl)semicarbazone
+;
+_cell_volume   1899.798
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.596
+_exptl_special_details
+;
+potential activity against Chagas' disease; active against the trypomastigote 
+or amastigote forms of Trypanosoma cruzi
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'methanol/water'
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+The nitro group is disordered equally over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0386
+_refine_ls_wR_factor_gt 0.0386
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 10.3757(5)
+_cell_length_b 10.8125(5)
+_cell_length_c 16.9455(8)
+_cell_angle_alpha 90
+_cell_angle_beta 92.095(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.85510(17) 0.46319(18) 0.30115(10)
+N2 N 0.41500(12) 0.53080(12) 0.08495(8)
+N3 N 0.32951(13) 0.60726(13) 0.04746(9)
+H1 H 0.33370 0.68590 0.05450
+N4 N 0.24375(13) 0.43515(12) -0.01394(9)
+H2 H 0.30560 0.39510 0.00960
+O1 O 0.68403(11) 0.53924(11) 0.21938(7)
+O2 O 0.15337(11) 0.62518(10) -0.03360(8)
+O3 O 0.07951(12) 0.28440(11) -0.02165(8)
+O4 O 0.8972(16) 0.369(2) 0.3360(11)
+O5 O 0.8728(19) 0.5650(15) 0.3258(9)
+C1 C 0.75064(17) 0.43960(17) 0.24722(10)
+C2 C 0.70584(19) 0.33386(18) 0.21729(11)
+H3 H 0.73690 0.25470 0.22790
+C3 C 0.60162(19) 0.36677(17) 0.16629(11)
+H4 H 0.54990 0.31290 0.13640
+C4 C 0.59064(15) 0.49087(16) 0.16884(9)
+C5 C 0.50308(15) 0.57706(15) 0.13029(10)
+H5 H 0.51050 0.66190 0.13810
+C6 C 0.23621(14) 0.55693(15) -0.00192(10)
+C7 C 0.15416(17) 0.36740(16) -0.06393(11)
+H6 H 0.09750 0.42520 -0.09190
+H7 H 0.20150 0.32200 -0.10290
+H8 H 0.012(2) 0.325(2) -0.0022(13)
+O6? O 0.9298(17) 0.377(2) 0.3184(12)
+O7? O 0.896(2) 0.5726(18) 0.3076(10)
+#END

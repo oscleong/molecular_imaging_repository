@@ -1,0 +1,165 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OVALEN
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OVALEN
+_database_code_depnum_ccdc_archive 'CCDC 1226288'
+_chemical_formula_sum 'C32 H14'
+_chemical_formula_moiety
+;
+C32 H14
+;
+_journal_coden_Cambridge 14
+_journal_volume 220
+_journal_year 1953
+_journal_page_first 157
+_journal_name_full 'Proc.R.Soc.London,Ser.A '
+loop_
+_publ_author_name
+"D.M.Donaldson"
+"J.M.Robertson"
+_chemical_name_systematic
+;
+Ovalene
+;
+_chemical_name_common
+;
+Octabenzonaphthalene
+;
+_cell_volume    894.516
+_exptl_crystal_density_diffrn 1.477
+_exptl_special_details
+;
+AVERAGE BOND LENGTHS ONLY GIVEN
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.146
+_refine_ls_wR_factor_gt 0.146
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 19.47(5)
+_cell_length_b 4.70(1)
+_cell_length_c 10.12(4)
+_cell_angle_alpha 90
+_cell_angle_beta 105.0(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.05700 -0.02000 0.31600
+C2 C 0.11100 0.12700 0.42400
+C3 C 0.15700 0.32000 0.39600
+C4 C 0.15600 0.40900 0.26100
+C5 C 0.20300 0.61000 0.23200
+C6 C 0.19900 0.69000 0.09800
+C7 C 0.14800 0.57100 -0.01200
+C8 C 0.14200 0.64500 -0.15100
+C9 C 0.09200 0.53100 -0.25700
+C10 C 0.04200 0.32400 -0.23400
+C11 C 0.00900 -0.20200 0.34100
+C12 C 0.00200 -0.04100 0.06900
+C13 C 0.05500 0.08300 0.17800
+C14 C 0.10400 0.28900 0.15100
+C15 C 0.10000 0.36900 0.01500
+C16 C 0.04700 0.24600 -0.09500
+C11B C -0.00900 0.20200 -0.34100
+C10B C -0.04200 -0.32400 0.23400
+C12B C -0.00200 0.04100 -0.06900
+C16B C -0.04700 -0.24600 0.09500
+C1B C -0.05700 0.02000 -0.31600
+C9B C -0.09200 -0.53100 0.25700
+C13B C -0.05500 -0.08300 -0.17800
+C15B C -0.10000 -0.36900 -0.01500
+C2B C -0.11100 -0.12700 -0.42400
+C8B C -0.14200 -0.64500 0.15100
+C14B C -0.10400 -0.28900 -0.15100
+C7B C -0.14800 -0.57100 0.01200
+C3B C -0.15700 -0.32000 -0.39600
+C4B C -0.15600 -0.40900 -0.26100
+C6B C -0.19900 -0.69000 -0.09800
+C5B C -0.20300 -0.61000 -0.23200
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.477 1_555 1_555
+C2 C3 1.355 1_555 1_555
+C3 C4 1.424 1_555 1_555
+C4 C5 1.398 1_555 1_555
+C5 C6 1.390 1_555 1_555
+C6 C7 1.402 1_555 1_555
+C7 C8 1.424 1_555 1_555
+C8 C9 1.358 1_555 1_555
+C9 C10 1.437 1_555 1_555
+C10 C16 1.432 1_555 1_555
+C11 C1 1.338 1_555 1_555
+C12 C13 1.426 1_555 1_555
+C13 C1 1.469 1_555 1_555
+C14 C4 1.414 1_555 1_555
+C15 C7 1.408 1_555 1_555
+C16 C15 1.430 1_555 1_555
+C11B C10 1.390 1_555 1_555
+C10B C11 1.390 1_555 1_555
+C12B C12 1.431 1_555 1_555
+C16B C12 1.427 1_555 1_555
+C1B C11B 1.338 1_555 1_555
+C9B C10B 1.437 1_555 1_555
+C13B C12B 1.426 1_555 1_555
+C15B C16B 1.430 1_555 1_555
+C2B C1B 1.477 1_555 1_555
+C8B C9B 1.358 1_555 1_555
+C14B C13B 1.434 1_555 1_555
+C7B C15B 1.408 1_555 1_555
+C3B C2B 1.355 1_555 1_555
+C4B C14B 1.414 1_555 1_555
+C6B C7B 1.402 1_555 1_555
+C5B C4B 1.398 1_555 1_555
+C13 C14 1.434 1_555 1_555
+C14 C15 1.409 1_555 1_555
+C16 C12B 1.427 1_555 1_555
+C10B C16B 1.432 1_555 1_555
+C1B C13B 1.469 1_555 1_555
+C15B C14B 1.409 1_555 1_555
+C8B C7B 1.424 1_555 1_555
+C3B C4B 1.424 1_555 1_555
+C6B C5B 1.390 1_555 1_555
+#END

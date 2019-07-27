@@ -1,0 +1,95 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NOMBEA
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NOMBEA
+_chemical_formula_sum 'C8 H6 N2 O6'
+_chemical_formula_moiety
+;
+C8 H6 N2 O6
+;
+_journal_coeditor_code "IUCr A06668"
+_journal_coden_Cambridge 107
+_journal_volume 25
+_journal_year 1969
+_journal_page_first 564
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"D.F.Grant"
+"J.P.G.Richards"
+_chemical_name_systematic
+;
+3,5-Dinitro-4-methylbenzoic acid
+;
+_cell_volume    927.960
+_exptl_crystal_density_diffrn 1.62
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.13
+_refine_ls_wR_factor_gt 0.13
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 12.34(3)
+_cell_length_b 8.94(2)
+_cell_length_c 9.01(2)
+_cell_angle_alpha 90
+_cell_angle_beta 111(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.17088 -0.15060 -0.27405
+C2 C 0.20691 -0.02817 -0.33460
+C3 C 0.16927 0.01045 -0.49595
+C4 C 0.09103 -0.08452 -0.60366
+C5 C 0.04948 -0.20922 -0.55341
+C6 C 0.09077 -0.24240 -0.39074
+C7 C 0.20499 -0.18555 -0.09832
+C8 C 0.04959 -0.04402 -0.77881
+N1 N 0.04463 -0.37861 -0.34332
+N2 N 0.28884 0.08112 -0.22620
+O1 O -0.02693 -0.12959 -0.87259
+O2 O 0.08985 0.06713 -0.82088
+O3 O 0.26695 0.21597 -0.25577
+O4 O 0.37194 0.03238 -0.11772
+O5 O -0.06042 -0.40054 -0.40497
+O6 O 0.11267 -0.46675 -0.25543
+#END

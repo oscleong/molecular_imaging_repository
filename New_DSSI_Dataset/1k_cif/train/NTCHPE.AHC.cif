@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NTCHPE
+_audit_creation_date 1977-07-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NTCHPE
+_chemical_formula_sum 'C14 H10'
+_chemical_formula_moiety
+;
+C14 H10
+;
+_journal_coeditor_code "IUCr A14365"
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 272
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"A.C.Hazell"
+_chemical_name_systematic
+;
+Pentacyclo(8.3.1.0^2,4^.0^3,5^.0^6,14^)tetradeca-1(13),6,8,10(4),11-pentaene
+;
+_cell_volume   1944.969
+_exptl_crystal_density_diffrn 1.22
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'I b a 2'
+_symmetry_Int_Tables_number 45
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 1/2-x,1/2+y,z
+4 -x,y,1/2+z
+5 1/2+x,1/2-y,z
+6 x,-y,1/2+z
+7 -x,-y,z
+8 1/2-x,1/2-y,1/2+z
+_cell_length_a 17.424
+_cell_length_b 13.948
+_cell_length_c 8.003
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.12800 0.24300 0.00000
+C2 C 0.17600 0.23600 0.14100
+C3 C 0.20800 0.14600 0.17000
+C4 C 0.19700 0.07100 0.07200
+C5 C 0.15000 0.07800 -0.07000
+C6 C 0.11400 0.16300 -0.10900
+C7 C 0.06400 0.18100 -0.24900
+C8 C 0.06600 0.27800 -0.33400
+C9 C 0.18800 0.31800 0.24100
+C10 C 0.15500 0.40100 0.19900
+C11 C 0.10700 0.41000 0.06000
+C12 C 0.09300 0.33200 -0.03700
+C13 C 0.04400 0.33700 -0.18800
+C14 C -0.00100 0.25000 -0.23400
+H1 H 0.23300 0.14200 0.27700
+H2 H 0.22400 0.00900 0.12100
+H3 H 0.14300 0.02100 -0.14700
+H4 H 0.05400 0.11900 -0.33200
+H5 H 0.06600 0.28000 -0.46900
+H6 H 0.21900 0.30900 0.35900
+H7 H 0.16400 0.46200 0.26700
+H8 H 0.08700 0.47200 0.02700
+H9 H 0.01700 0.39800 -0.22700
+H10 H -0.04900 0.24100 -0.26200
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.408 1_555 1_555
+C2 C3 1.393 1_555 1_555
+C3 C4 1.321 1_555 1_555
+C4 C5 1.404 1_555 1_555
+C5 C6 1.377 1_555 1_555
+C6 C1 1.437 1_555 1_555
+C7 C6 1.441 1_555 1_555
+C8 C7 1.515 1_555 1_555
+C9 C2 1.411 1_555 1_555
+C10 C9 1.336 1_555 1_555
+C11 C10 1.397 1_555 1_555
+C12 C1 1.414 1_555 1_555
+C13 C8 1.480 1_555 1_555
+C14 C7 1.491 1_555 1_555
+H1 C3 0.962 1_555 1_555
+H2 C4 1.060 1_555 1_555
+H3 C5 1.013 1_555 1_555
+H4 C7 1.104 1_555 1_555
+H5 C8 1.081 1_555 1_555
+H6 C9 1.095 1_555 1_555
+H7 C10 1.022 1_555 1_555
+H8 C11 0.969 1_555 1_555
+H9 C13 1.021 1_555 1_555
+H10 C14 0.875 1_555 1_555
+C8 C14 1.468 1_555 1_555
+C11 C12 1.359 1_555 1_555
+C12 C13 1.481 1_555 1_555
+C13 C14 1.491 1_555 1_555
+#END

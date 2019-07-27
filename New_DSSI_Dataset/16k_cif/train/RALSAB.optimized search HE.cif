@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RALSAB
+_audit_creation_date 2017-01-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RALSAB
+_database_code_depnum_ccdc_archive 'CCDC 867547'
+_chemical_formula_sum 'C24 H29 N1 O3'
+_chemical_formula_moiety
+;
+C24 H29 N1 O3
+;
+_journal_coden_Cambridge 241
+_journal_volume 41
+_journal_year 2012
+_journal_page_first 999
+_journal_name_full 'Chem.Lett. '
+loop_
+_publ_author_name
+"T.Koike"
+"Yusuke Yasu"
+"M.Akita"
+_chemical_name_systematic
+;
+1,3-diphenyl-2-((2,2,6,6-tetramethylpiperidin-1-yl)oxy)propane-1,3-dione
+;
+_cell_volume   2118.744
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.19
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 213
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0521
+_refine_ls_wR_factor_gt 0.0521
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 21.789(4)
+_cell_length_b 8.2479(17)
+_cell_length_c 21.588(5)
+_cell_angle_alpha 90
+_cell_angle_beta 33.101(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.21268(8) 0.19182(12) 0.41100(8)
+O2 O 0.30108(12) 0.47874(14) 0.31200(12)
+O3 O 0.35683(10) 0.03929(15) 0.16184(10)
+N1 N 0.1019(1) 0.11552(16) 0.50418(10)
+C1 C 0.25308(12) 0.21578(18) 0.31513(12)
+C2 C 0.28911(12) 0.39376(18) 0.27659(13)
+C3 C 0.31256(12) 0.45826(18) 0.19350(12)
+C4 C 0.28399(15) 0.3763(2) 0.16356(15)
+C5 C 0.30766(18) 0.4460(3) 0.08634(17)
+C6 C 0.35952(16) 0.5955(3) 0.03918(16)
+C7 C 0.38742(15) 0.6773(3) 0.06884(14)
+C8 C 0.36345(13) 0.6096(2) 0.14633(13)
+C9 C 0.35387(12) 0.10505(18) 0.21483(12)
+C10 C 0.44694(12) 0.08510(18) 0.18221(12)
+C11 C 0.53403(14) -0.0220(2) 0.09363(13)
+C12 C 0.62422(15) -0.0405(3) 0.05775(15)
+C13 C 0.62920(15) 0.0472(3) 0.10807(15)
+C14 C 0.54352(14) 0.1535(3) 0.19552(15)
+C15 C 0.45268(13) 0.1726(2) 0.23254(13)
+C16 C 0.02031(13) 0.2384(3) 0.59667(13)
+C17 C -0.09389(15) 0.1534(3) 0.69791(15)
+C18 C -0.09113(17) -0.0013(3) 0.73274(16)
+C19 C -0.00487(17) -0.1140(3) 0.63235(16)
+C20 C 0.11400(14) -0.0409(2) 0.52807(14)
+C21 C 0.01169(17) 0.3704(3) 0.55426(17)
+C22 C 0.05225(17) 0.3190(3) 0.63154(16)
+C23 C 0.16815(18) -0.0287(3) 0.54718(18)
+C24 C 0.18696(18) -0.1516(3) 0.42676(17)
+H1 H 0.19150 0.19200 0.33770
+H2 H 0.24890 0.27440 0.19540
+H3 H 0.28830 0.39100 0.06620
+H4 H 0.37580 0.64140 -0.01340
+H5 H 0.42270 0.77910 0.03660
+H6 H 0.38180 0.66640 0.16720
+H7 H 0.53160 -0.08110 0.05850
+H8 H 0.68230 -0.11330 -0.00120
+H9 H 0.69080 0.03460 0.08280
+H10 H 0.54670 0.21280 0.22990
+H11 H 0.39470 0.24510 0.29190
+H12 H -0.14790 0.22800 0.76260
+H13 H -0.12070 0.12880 0.67870
+H14 H -0.07180 0.02280 0.75960
+H15 H -0.16530 -0.05290 0.79470
+H16 H -0.02900 -0.14470 0.61100
+H17 H -0.00190 -0.21300 0.65490
+H18 H -0.01450 0.32280 0.53790
+H19 H 0.08500 0.41900 0.48580
+H20 H -0.04090 0.45310 0.61220
+H21 H 0.12360 0.37470 0.56670
+H22 H 0.05870 0.23670 0.65800
+H23 H -0.00540 0.39640 0.69190
+H24 H 0.11340 0.01280 0.62280
+H25 H 0.23210 0.04420 0.49140
+H26 H 0.19300 -0.13530 0.53930
+H27 H 0.25980 -0.10150 0.35880
+H28 H 0.15090 -0.16890 0.41750
+H29 H 0.19660 -0.25480 0.43940
+#END

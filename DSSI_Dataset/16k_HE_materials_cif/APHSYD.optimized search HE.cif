@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_APHSYD
+_audit_creation_date 1980-05-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD APHSYD
+_chemical_formula_sum 'C8 H7 N3 O2'
+_chemical_formula_moiety
+;
+C8 H7 N3 O2
+;
+_journal_coden_Cambridge 188
+_journal_year 1979
+_journal_page_first 1751
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"T.J.King"
+"P.N.Preston"
+"J.S.Suffolk"
+"K.Turnbull"
+_chemical_name_systematic
+;
+3-(2-Aminophenyl)-sydnone
+;
+_cell_volume   1561.817
+_exptl_crystal_density_diffrn 1.507
+_exptl_special_details
+;
+Cell dimensions given in paper are incorrect. Correct cell is a 19.852 (1) b 
+3.805(1) c 20.848(1) beta 97.36(2). z(H(C2))= 0.0432, not 0.432. 
+y(H(N3A))=1.44, not 1.94
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.062
+_refine_ls_wR_factor_gt 0.062
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 19.852(1)
+_cell_length_b 3.805(1)
+_cell_length_c 20.848(1)
+_cell_angle_alpha 90
+_cell_angle_beta 97.36(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.36380 0.96220 0.01690
+N2 N 0.32620 1.05170 -0.03700
+N3 N 0.23120 1.28530 0.03000
+O1 O 0.45910 0.62890 -0.09350
+C1 C 0.42090 0.76140 -0.05850
+C2 C 0.42040 0.78800 0.00790
+C3 C 0.34140 1.05330 0.07790
+C4 C 0.27750 1.20160 0.08190
+C5 C 0.26220 1.27600 0.14450
+C6 C 0.30610 1.20550 0.19840
+C7 C 0.36860 1.05310 0.19310
+C8 C 0.38630 0.98150 0.13350
+H1 H 0.45100 0.69500 0.04320
+H2 H 0.22200 1.38200 0.14700
+H3 H 0.29500 1.27500 0.24200
+H4 H 0.39800 1.01300 0.23100
+H5 H 0.42700 0.85100 0.12700
+H6 H 0.20500 1.44000 0.03300
+H7 H 0.23900 1.19800 -0.00500
+N4 N 0.45110 0.52930 0.32960
+N5 N 0.50980 0.47450 0.36480
+N6 N 0.52460 0.51660 0.22730
+O2 O 0.40480 0.37890 0.36580
+O3 O 0.40450 0.09750 0.46130
+C9 C 0.43710 0.24220 0.42320
+C10 C 0.50550 0.31370 0.42030
+C11 C 0.57090 0.59610 0.34100
+C12 C 0.57540 0.60460 0.27420
+C13 C 0.63820 0.72080 0.25700
+C14 C 0.69090 0.81610 0.30260
+C15 C 0.68520 0.80150 0.36780
+C16 C 0.62480 0.69220 0.38700
+H8 H 0.53900 0.25800 0.44600
+H9 H 0.62400 0.75000 0.21200
+H10 H 0.72900 0.89600 0.28700
+H11 H 0.72200 0.90400 0.40000
+H12 H 0.61900 0.71200 0.43400
+H13 H 0.53400 0.43300 0.18800
+H14 H 0.48500 0.46700 0.24000
+O4 O 0.36180 0.92570 -0.08490
+#END

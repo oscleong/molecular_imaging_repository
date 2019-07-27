@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAGPAL
+_audit_creation_date 2017-01-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAGPAL
+_database_code_depnum_ccdc_archive 'CCDC 953832'
+_chemical_formula_sum 'C22 H21 N3 O6'
+_chemical_formula_moiety
+;
+C22 H21 N3 O6
+;
+_journal_coden_Cambridge 1078
+_journal_year 2016
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Qing Liu"
+_chemical_name_systematic
+;
+3-((4-methoxy-2-nitrophenyl)amino)-1-(4-nitrophenyl)-3-phenylpropan-1-ol
+;
+_cell_volume   2112.792
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.331
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0381
+_refine_ls_wR_factor_gt 0.0381
+loop_
+_citation_database_id_CSD
+_citation_special_details
+JAGNOX "is a stereoisomer of this entry"
+JAGNUD "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 6.9921(1)
+_cell_length_b 12.1031(2)
+_cell_length_c 24.9662(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.35094(19) 0.36394(13) 0.09168(6)
+H1 H 0.637(4) 0.459(2) 0.047(1)
+N2 N 0.7124(2) 0.47847(13) 0.07245(6)
+N3 N 1.3621(3) 0.40061(18) -0.21922(8)
+O1 O 0.3791(2) 0.39736(16) 0.04559(6)
+O2 O 0.20481(17) 0.31029(12) 0.10193(6)
+O3 O 0.5471(3) 0.31370(14) 0.27504(5)
+O4 O 0.72100(19) 0.38289(14) -0.03387(6)
+H2 H 0.70310 0.32340 -0.04870
+O5 O 1.5198(3) 0.3635(3) -0.21821(11)
+O6 O 1.2961(4) 0.4442(2) -0.25845(9)
+C1 C 0.4874(2) 0.38534(15) 0.13268(7)
+C2 C 0.4423(3) 0.34212(15) 0.18324(7)
+H3 H 0.32650 0.30610 0.18890
+C3 C 0.5707(3) 0.35367(16) 0.22400(7)
+C4 C 0.7411(3) 0.41118(17) 0.21499(8)
+H4 H 0.82670 0.42030 0.24310
+C5 C 0.7849(3) 0.45409(15) 0.16618(7)
+H5 H 0.89870 0.49290 0.16200
+C6 C 0.6617(2) 0.44115(14) 0.12142(7)
+C7 C 0.3783(5) 0.2505(3) 0.28539(11)
+H6 H 0.26780 0.29680 0.28150
+H7 H 0.38300 0.22180 0.32120
+H8 H 0.37090 0.19030 0.26040
+C8 C 0.9035(2) 0.51933(14) 0.06019(7)
+H9 H 0.99610 0.47170 0.07850
+C9 C 0.9429(3) 0.51292(15) 0.00010(7)
+H10 H 1.07230 0.53860 -0.00630
+H11 H 0.85700 0.56370 -0.01800
+C10 C 0.9209(2) 0.39887(15) -0.02572(7)
+H12 H 0.96950 0.34220 -0.00120
+C11 C 1.0318(2) 0.39445(13) -0.07792(7)
+C12 C 1.2124(3) 0.34753(17) -0.07924(8)
+H13 H 1.26190 0.31510 -0.04840
+C13 C 1.3198(3) 0.34812(17) -0.12548(8)
+H14 H 1.44080 0.31620 -0.12610
+C14 C 1.2456(3) 0.39652(15) -0.17039(7)
+C15 C 1.0654(3) 0.44224(17) -0.17076(8)
+H15 H 1.01600 0.47380 -0.20180
+C16 C 0.9594(3) 0.44031(16) -0.12414(8)
+H16 H 0.83710 0.47050 -0.12390
+C17 C 0.9369(3) 0.63744(15) 0.07883(7)
+C18 C 0.8060(3) 0.71997(19) 0.06908(9)
+H17 H 0.69050 0.70300 0.05260
+C19 C 0.8450(5) 0.8278(2) 0.08363(12)
+H18 H 0.75460 0.88240 0.07690
+C20 C 1.0123(4) 0.8555(2) 0.10755(12)
+H19 H 1.03850 0.92860 0.11630
+C21 C 1.1414(4) 0.7743(2) 0.11856(14)
+H20 H 1.25550 0.79180 0.13570
+C22 C 1.1039(3) 0.66586(18) 0.10437(11)
+H21 H 1.19320 0.61130 0.11230
+#END

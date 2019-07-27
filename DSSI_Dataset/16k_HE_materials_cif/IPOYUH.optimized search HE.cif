@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IPOYUH
+_audit_creation_date 2004-04-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IPOYUH
+_chemical_formula_sum 'C6 H4 N10 O2'
+_chemical_formula_moiety
+;
+C6 H4 N10 O2
+;
+_journal_coden_Cambridge 1402
+_journal_volume 3
+_journal_year 2001
+_journal_page_first 13
+_journal_name_full 'Chem.J.Internet '
+loop_
+_publ_author_name
+"Li Zhanxiong"
+"Ou Yuxiang"
+"Chen Boren"
+_chemical_name_systematic
+;
+5,5'-bis(Azidomethyl)-3,3'-bi-1,2,4-oxadiazole
+;
+_chemical_melting_point 340.15
+_cell_volume    249.391
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.652
+_exptl_special_details
+;
+No angles are given for a triclinic space group and the published cell 
+lengths (a=8.5818,2 b=11.4336,4 c=14.3275,5) also appear to be incorrect. New 
+cell parameters have been estimated with space group as P-1 (not P1) and z=1 
+(not z=4)
+;
+_exptl_crystal_preparation 'acetone/water'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0286
+_refine_ls_wR_factor_gt 0.0286
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 3.958
+_cell_length_b 6.715
+_cell_length_c 10.09
+_cell_angle_alpha 104.9
+_cell_angle_beta 90.8
+_cell_angle_gamma 105.0
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2799(3) 0.6111(2) 0.7688(1)
+N1 N 0.6708(3) 0.7527(2) 0.9471(1)
+N2 N 0.2379(3) 0.4587(2) 0.8447(1)
+N3 N 0.8144(3) 0.8948(2) 0.6441(1)
+N4 N 0.6007(4) 0.7988(2) 0.5439(1)
+N5 N 0.4354(5) 0.7111(3) 0.4444(2)
+C1 C 0.5413(3) 0.7780(2) 0.8363(1)
+C2 C 0.4746(3) 0.5523(2) 0.9468(1)
+C3 C 0.6524(4) 0.9596(2) 0.7738(1)
+C2A C 0.5254(3) 0.4477(2) 1.0532(1)
+N1A N 0.3292(3) 0.2473(2) 1.0529(1)
+C1A C 0.4587(3) 0.2220(2) 1.1637(1)
+O1A O 0.7201(3) 0.3889(2) 1.2312(1)
+N2A N 0.7621(3) 0.5413(2) 1.1553(1)
+C3A C 0.3476(4) 0.0404(2) 1.2262(1)
+N3A N 0.1856(3) 0.1052(2) 1.3559(1)
+N4A N 0.3993(4) 0.2012(2) 1.4561(1)
+N5A N 0.5646(5) 0.2889(3) 1.5556(2)
+#END

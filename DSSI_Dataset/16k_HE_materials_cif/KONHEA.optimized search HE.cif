@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KONHEA
+_audit_creation_date 1992-08-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KONHEA
+_chemical_formula_sum 'C6 H8 N2 O4'
+_chemical_formula_moiety
+;
+C6 H8 N2 O4
+;
+_journal_coden_Cambridge 188
+_journal_year 1992
+_journal_page_first 121
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"R.Fruttero"
+"R.Calvino"
+"B.Ferrarotti"
+"A.Gasco"
+"P.Sabatino"
+_chemical_name_systematic
+;
+(E,E)-Hexane-2,3,4,5-tetraone 3,4-dioxime
+;
+_chemical_name_common
+;
+syn-Diacetylglyoxime
+;
+_chemical_melting_point 466.15
+_cell_volume    794.140
+_exptl_crystal_density_diffrn 1.44
+_exptl_special_details
+;
+Melting point range 466.15-467.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2-x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2+x,-1/2+y,-1/2-z
+_cell_length_a 7.293(3)
+_cell_length_b 8.225(2)
+_cell_length_c 13.239(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0007(2) 0.3786(2) 0.1007(2)
+O2 O 0.1834(3) 0.7351(3) 0.3429(1)
+C1 C 0.0924(3) 0.5645(3) 0.2252(2)
+N1 N 0.2284(3) 0.6468(3) 0.2578(2)
+C2 C 0.1234(3) 0.4657(3) 0.1321(2)
+C3 C 0.3045(4) 0.4776(4) 0.0798(2)
+H1 H 0.409(1) 0.437(3) 0.131(1)
+H2 H 0.302(4) 0.398(2) 0.015(1)
+H3 H 0.327(2) 0.600(1) 0.058(2)
+H4 H 0.283(4) 0.814(4) 0.351(3)
+C1F C -0.0924(3) 0.5645(3) 0.2748(2)
+N1F N -0.2284(3) 0.6468(3) 0.2422(2)
+C2F C -0.1234(3) 0.4657(3) 0.3679(2)
+O2F O -0.1834(3) 0.7351(3) 0.1571(1)
+O1F O -0.0007(2) 0.3786(2) 0.3993(2)
+C3F C -0.3045(4) 0.4776(4) 0.4202(2)
+H4F H -0.283(4) 0.814(4) 0.149(3)
+H1F H -0.409(1) 0.437(3) 0.369(1)
+H2F H -0.302(4) 0.398(2) 0.485(1)
+H3F H -0.327(2) 0.600(1) 0.442(2)
+#END

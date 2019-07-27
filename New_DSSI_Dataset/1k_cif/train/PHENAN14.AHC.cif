@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PHENAN14
+_audit_creation_date 2005-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PHENAN14
+_database_code_depnum_ccdc_archive 'CCDC 237775'
+_chemical_formula_sum 'C14 H10'
+_chemical_formula_moiety
+;
+C14 H10
+;
+_journal_coden_Cambridge 1350
+_journal_volume 6
+_journal_year 2004
+_journal_page_first 504
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"F.P.A.Fabbiani"
+"D.R.Allan"
+"W.I.F.David"
+"S.A.Moggach"
+"S.Parsons"
+"C.R.Pulham"
+_chemical_name_systematic
+;
+Phenanthrene
+;
+_cell_volume    863.706
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.371
+_exptl_special_details
+;
+high pressure polymorph
+Study temperature given as 273 K in the supplementary data
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 293
+_diffrn_ambient_pressure 700000.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.113
+_refine_ls_wR_factor_gt 0.113
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 12.937(3)
+_cell_length_b 3.8218(5)
+_cell_length_c 17.693(6)
+_cell_angle_alpha 90
+_cell_angle_beta 99.13(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5939(7) 0.8572(11) 0.4468(8)
+H1 H 0.56470 0.75680 0.48640
+C2 C 0.6912(7) 0.9910(13) 0.4610(8)
+H2 H 0.72900 0.98080 0.51020
+C3 C 0.7350(7) 1.1425(13) 0.4033(8)
+H3 H 0.80170 1.23920 0.41400
+C4 C 0.6814(7) 1.1527(10) 0.3297(8)
+H4 H 0.71270 1.25350 0.29120
+C5 C 0.5606(7) 1.1525(11) 0.1724(8)
+H5 H 0.62760 1.24770 0.17880
+C6 C 0.5009(7) 1.1443(13) 0.1007(8)
+H6 H 0.52860 1.23160 0.05910
+C7 C 0.4000(7) 1.0083(13) 0.0892(8)
+H7 H 0.36040 1.00540 0.04050
+C8 C 0.3600(7) 0.8804(11) 0.1497(8)
+H8 H 0.29230 0.79110 0.14210
+C9 C 0.3761(7) 0.7390(11) 0.2875(8)
+H9 H 0.30830 0.65070 0.27960
+C10 C 0.4322(7) 0.7323(11) 0.3578(8)
+H10 H 0.40300 0.63730 0.39800
+C11 C 0.5355(7) 0.8682(8) 0.3720(8)
+C12 C 0.5813(7) 1.0150(7) 0.3122(8)
+C13 C 0.5212(7) 1.0186(7) 0.2355(8)
+C14 C 0.4185(7) 0.8789(8) 0.2242(8)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 H1 0.930 1_555 1_555
+C2 C1 1.345 1_555 1_555
+H2 C2 0.929 1_555 1_555
+C3 C2 1.372 1_555 1_555
+H3 C3 0.930 1_555 1_555
+C4 C3 1.375 1_555 1_555
+H4 C4 0.929 1_555 1_555
+C5 H5 0.930 1_555 1_555
+C6 C5 1.377 1_555 1_555
+H6 C6 0.930 1_555 1_555
+C7 C6 1.390 1_555 1_555
+H7 C7 0.930 1_555 1_555
+C8 C7 1.352 1_555 1_555
+H8 C8 0.930 1_555 1_555
+C9 H9 0.929 1_555 1_555
+C10 C9 1.337 1_555 1_555
+H10 C10 0.930 1_555 1_555
+C11 C1 1.417 1_555 1_555
+C12 C4 1.387 1_555 1_555
+C13 C5 1.396 1_555 1_555
+C14 C8 1.412 1_555 1_555
+C9 C14 1.427 1_555 1_555
+C10 C11 1.419 1_555 1_555
+C11 C12 1.409 1_555 1_555
+C12 C13 1.453 1_555 1_555
+C13 C14 1.416 1_555 1_555
+#END

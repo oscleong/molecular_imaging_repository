@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KIZDAA
+_audit_creation_date 2014-01-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KIZDAA
+_database_code_depnum_ccdc_archive 'CCDC 923988'
+_chemical_formula_sum 'C3 H4 N4 O8'
+_chemical_formula_moiety
+;
+C3 H4 N4 O8
+;
+_journal_coden_Cambridge 29
+_journal_volume 640
+_journal_year 2014
+_journal_page_first 76
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"Q.J.Axthammer"
+"T.M.Klapotke"
+"B.Krumm"
+"R.Moll"
+"S.F.Rest"
+_chemical_name_systematic
+;
+2,2,2-Trinitroethyl carbamate
+;
+_cell_volume    809.347
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.839
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0292
+_refine_ls_wR_factor_gt 0.0292
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 12.8376(13)
+_cell_length_b 6.5716(6)
+_cell_length_c 9.8689(9)
+_cell_angle_alpha 90
+_cell_angle_beta 103.566(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.90993(8) 0.29654(15) 1.02591(10)
+O2 O 0.51076(9) -0.1414(2) 0.68769(12)
+O3 O 0.6393(1) 0.15811(19) 0.59798(12)
+O4 O 0.84223(8) 0.13672(16) 0.82253(10)
+O5 O 0.68823(12) -0.42658(17) 0.73869(12)
+O6 O 0.72978(10) -0.10203(17) 0.55309(11)
+N1 N 0.58014(10) -0.10811(19) 0.79186(13)
+C1 C 0.75395(13) 0.0767(2) 0.87799(15)
+H1 H 0.70820 0.19520 0.88640
+H2 H 0.77920 0.01360 0.97100
+O7 O 0.57102(9) -0.10073(17) 0.91064(11)
+N2 N 0.68595(10) -0.0013(2) 0.62629(12)
+N3 N 0.74573(12) -0.2853(2) 0.78486(13)
+O8 O 0.84073(10) -0.28990(19) 0.83933(14)
+C2 C 0.69337(11) -0.0753(2) 0.77426(13)
+N4 N 0.99194(11) 0.3125(2) 0.84416(15)
+C3 C 0.91596(12) 0.2564(2) 0.90833(15)
+H3 H 1.0396(15) 0.409(3) 0.8854(18)
+H4 H 0.9820(14) 0.292(3) 0.7553(18)
+#END

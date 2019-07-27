@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NUBZEQ
+_audit_creation_date 2010-04-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NUBZEQ
+_database_code_depnum_ccdc_archive 'CCDC 745152'
+_chemical_formula_sum 'C22 H29 N1 O3'
+_chemical_formula_moiety
+;
+C22 H29 N1 O3
+;
+_journal_coden_Cambridge 179
+_journal_volume 48
+_journal_year 2009
+_journal_page_first 6152
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"E.Jimenez-Nunez"
+"M.Raducan"
+"T.Lauterbach"
+"K.Molawi"
+"C.R.Solorio"
+"A.M.Echavarren"
+_chemical_name_systematic
+;
+(1aR*,4S*,4aR*,7bS*)-1,1,4,7-Tetramethyl-4-(4-nitrobenzyloxy)-1a,2,3,4,4a,5,6,
+7b-octahydro-1H-cyclopropa[e]azulene
+;
+_chemical_melting_point 367.15
+_cell_volume   3882.909
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.216
+_exptl_special_details
+;
+Melting point range 367.15-370.15K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+loop_
+_citation_database_id_CSD
+_citation_special_details
+NUBZAM "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 31.552(2)
+_cell_length_b 8.0624(6)
+_cell_length_c 15.4217(11)
+_cell_angle_alpha 90
+_cell_angle_beta 98.203(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.09509(2) 0.14733(11) 0.46512(5)
+O2 O -0.07978(3) 0.68280(16) 0.29103(9)
+O3 O -0.02646(5) 0.83385(18) 0.34577(13)
+N1 N -0.04321(4) 0.69907(17) 0.32868(9)
+C1 C 0.18643(3) 0.21611(14) 0.44872(6)
+C2 C 0.20313(3) 0.16342(14) 0.36739(6)
+H1 H 0.23330 0.12210 0.37770
+C3 C 0.12470(3) 0.01013(15) 0.47359(6)
+C4 C 0.16859(3) 0.08915(15) 0.50793(6)
+H2 H 0.19000 -0.00250 0.51980
+C5 C 0.18943(3) 0.36762(14) 0.48455(6)
+C6 C 0.19020(3) 0.24054(14) 0.27695(6)
+C7 C 0.12833(3) 0.03543(16) 0.30717(6)
+H3 H 0.11360 -0.01620 0.25290
+H4 H 0.11380 0.14180 0.31580
+C8 C 0.12453(3) -0.07933(15) 0.38502(7)
+H5 H 0.14860 -0.15920 0.39080
+H6 H 0.09760 -0.14370 0.37200
+C9 C 0.15883(3) 0.38314(16) 0.26389(6)
+H7 H 0.14160 0.37420 0.20600
+H8 H 0.17460 0.48830 0.26800
+H9 H 0.14000 0.37930 0.30920
+C10 C 0.02790(3) 0.26635(15) 0.40723(7)
+C11 C 0.17443(3) 0.06938(15) 0.29656(6)
+H10 H 0.18890 -0.02330 0.26930
+C12 C -0.03749(3) 0.39562(17) 0.33726(8)
+H11 H -0.06590 0.38760 0.30740
+C13 C 0.22473(3) 0.24843(17) 0.21783(6)
+H12 H 0.21150 0.24200 0.15650
+H13 H 0.24450 0.15530 0.23110
+H14 H 0.24050 0.35310 0.22780
+C14 C 0.20930(4) 0.51933(16) 0.45118(7)
+H15 H 0.22340 0.48970 0.40060
+H16 H 0.23050 0.56530 0.49760
+H17 H 0.18700 0.60220 0.43350
+C15 C 0.16863(3) 0.18877(18) 0.59436(6)
+H18 H 0.14200 0.16720 0.61970
+H19 H 0.19350 0.15680 0.63790
+C16 C 0.17146(3) 0.37219(17) 0.56979(7)
+H20 H 0.14280 0.42490 0.56220
+H21 H 0.19070 0.43350 0.61510
+C17 C -0.01848(3) 0.54878(16) 0.35537(8)
+C18 C 0.04632(4) 0.42270(18) 0.42296(9)
+H22 H 0.07500 0.43170 0.45140
+C19 C 0.05174(3) 0.10896(17) 0.43479(9)
+H23 H 0.03870 0.05430 0.48200
+H24 H 0.05000 0.03180 0.38450
+C20 C -0.01416(3) 0.25415(16) 0.36368(8)
+H25 H -0.02680 0.14800 0.35220
+C21 C 0.02316(4) 0.56559(18) 0.39748(9)
+H26 H 0.03560 0.67220 0.40870
+C22 C 0.11301(4) -0.11777(18) 0.54027(8)
+H27 H 0.11160 -0.06280 0.59650
+H28 H 0.13490 -0.20500 0.54820
+H29 H 0.08510 -0.16710 0.51860
+#END

@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IHEGOR
+_audit_creation_date 2003-01-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IHEGOR
+_database_code_depnum_ccdc_archive 'CCDC 198928'
+_chemical_formula_sum 'C8 H12 N2 O5'
+_chemical_formula_moiety
+;
+C8 H12 N2 O5
+;
+_journal_coden_Cambridge 93
+_journal_volume 382
+_journal_year 2002
+_journal_page_first 349
+_journal_name_full 'Dokl.Akad.Nauk SSSR(Russ.)(Proc.Nat.Acad.Sci.USSR) '
+loop_
+_publ_author_name
+"O.A.Ivanova"
+"E.B.Averina"
+"Yu.K.Grishin"
+"T.S.Kuznetsova"
+"A.A.Korlyukov"
+"M.Yu.Antipin"
+"N.S.Zefirov"
+_chemical_name_systematic
+;
+3a'-nitrotetrahydrospiro[cyclobutane-1,2'-isoxazolo[2,3-b]isoxazol]-4'-ol
+;
+_chemical_name_common
+;
+5-Spirocyclobutyl-3a-nitrotetrahydro-2H-isoxazolo(2,3-b)isoxazol-3-ol
+;
+_chemical_melting_point 135
+_cell_volume    982.554
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.461
+_exptl_special_details
+;
+Melting point range 135-139K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloroethane'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+One of the methylene groups of cyclobutane cycle is disordered over two 
+positions (C10 and C10') which were refined with the s.o.f.'s equal to 0.60 
+and 0.40 respectively.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0525
+_refine_ls_wR_factor_gt 0.0525
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 10.088(2)
+_cell_length_b 5.3477(11)
+_cell_length_c 18.678(4)
+_cell_angle_alpha 90
+_cell_angle_beta 102.81(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.89121(15) -0.0670(3) -0.10290(8)
+O2 O -1.11403(14) 0.0773(3) -0.13157(9)
+O3 O -0.89094(19) 0.2459(3) -0.31107(9)
+O4 O -0.98095(18) -0.1084(3) -0.29779(9)
+O5 O -1.18112(15) 0.2767(3) -0.27598(9)
+H1 H -1.236(3) 0.396(6) -0.2933(18)
+N1 N -1.00258(15) -0.0209(3) -0.16142(9)
+N2 N -0.94295(16) 0.0974(3) -0.27639(9)
+C1 C -0.82809(19) 0.2917(4) -0.15660(11)
+H2 H -0.750(3) 0.237(5) -0.1800(15)
+H3 H -0.832(2) 0.463(5) -0.1520(14)
+C2 C -0.80932(19) 0.1557(4) -0.08380(11)
+C3 C -1.1265(2) 0.3418(5) -0.14529(13)
+H4 H -1.066(2) 0.441(5) -0.1040(14)
+H5 H -1.217(3) 0.377(5) -0.1528(12)
+C4 C -1.08289(19) 0.3713(3) -0.21643(11)
+H6 H -1.056(2) 0.529(4) -0.2252(12)
+C5 C -0.96187(16) 0.1923(3) -0.20252(9)
+C6 C -0.6639(2) 0.0927(5) -0.04350(14)
+H7 H -0.59630 0.11880 -0.07250
+H8 H -0.65410 -0.07050 -0.02030
+C7 C -0.6761(13) 0.3094(19) 0.0087(6)
+H9 H -0.64320 0.26830 0.06010
+H10 H -0.63600 0.46420 -0.00350
+C8? C -0.6783(18) 0.234(4) 0.0231(9)
+H11? H -0.61830 0.37700 0.03390
+H12? H -0.67170 0.12940 0.06620
+C9 C -0.8284(2) 0.3031(5) -0.01586(12)
+H13 H -0.86980 0.46620 -0.02710
+H14 H -0.87320 0.20920 0.01640
+#END

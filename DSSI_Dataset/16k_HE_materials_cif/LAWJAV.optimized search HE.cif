@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LAWJAV
+_audit_creation_date 2005-12-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LAWJAV
+_database_code_depnum_ccdc_archive 'CCDC 288634'
+_chemical_formula_sum 'C13 H10 N4 O4'
+_chemical_formula_moiety
+;
+C13 H10 N4 O4
+;
+_journal_coeditor_code "IUCr SK1867"
+_journal_coden_Cambridge 591
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o613
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"G.Ferguson"
+"C.Glidewell"
+"J.N.Low"
+"J.M.S.Skakle"
+"J.L.Wardell"
+_chemical_name_systematic
+;
+(E)-3-Nitrobenzaldehyde 2-nitrophenylhydrazone
+;
+_cell_volume    618.975
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.536
+_exptl_special_details
+;
+isostructural and isomorphous with 2- nitrobenzaldehyde 
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethyl acetate'
+_diffrn_ambient_temperature 120
+_refine_special_details
+;
+The compound is disordered across a centre of inversion.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0682
+_refine_ls_wR_factor_gt 0.0682
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.2280(7)
+_cell_length_b 5.3947(10)
+_cell_length_c 19.249(4)
+_cell_angle_alpha 90
+_cell_angle_beta 106.847(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.1660(4) 0.8644(5) 0.44227(13)
+O2 O -0.4434(4) 0.7607(5) 0.35056(13)
+N1 N 0.2348(8) 0.6358(10) 0.4693(3)
+N2 N 0.4566(7) 0.5792(10) 0.5045(3)
+N3 N -0.2507(4) 0.7293(5) 0.38996(15)
+C1 C 0.1037(5) 0.4953(6) 0.41451(17)
+C2 C -0.1197(5) 0.5262(6) 0.37373(17)
+C3 C -0.2236(5) 0.3686(7) 0.31694(18)
+C4 C -0.1032(5) 0.1774(7) 0.29945(17)
+C5 C 0.1177(5) 0.1419(7) 0.33987(18)
+C6 C 0.2211(5) 0.2968(7) 0.39653(18)
+C7 C 0.5502(9) 0.7246(13) 0.5564(3)
+H1 H 0.17590 0.76870 0.48300
+H2 H 0.17330 0.60530 0.45300
+H3 H -0.37650 0.39270 0.29040
+H4 H -0.17100 0.07050 0.26000
+H5 H 0.19980 0.00770 0.32830
+H6 H 0.37310 0.26880 0.42340
+H7 H 0.46320 0.85900 0.56520
+O1B O 1.1660(4) 0.1356(5) 0.55773(13)
+O2B O 1.4434(4) 0.2393(5) 0.64944(13)
+N1B N 0.7652(8) 0.3642(10) 0.5307(3)
+N2B N 0.5434(7) 0.4208(10) 0.4955(3)
+N3B N 1.2507(4) 0.2707(5) 0.61004(15)
+C1B C 0.8963(5) 0.5047(6) 0.58549(17)
+C2B C 1.1197(5) 0.4738(6) 0.62627(17)
+C3B C 1.2236(5) 0.6314(7) 0.68306(18)
+C4B C 1.1032(5) 0.8226(7) 0.70055(17)
+C5B C 0.8823(5) 0.8581(7) 0.66013(18)
+C6B C 0.7789(5) 0.7032(7) 0.60347(18)
+C7B C 0.4498(9) 0.2754(13) 0.4436(3)
+H1B H 0.82410 0.23130 0.51700
+H2B H 0.82670 0.39470 0.54700
+H3B H 1.37650 0.60730 0.70960
+H4B H 1.17100 0.92950 0.74000
+H5B H 0.80020 0.99230 0.67170
+H6B H 0.62690 0.73120 0.57660
+H7B H 0.53680 0.14100 0.43480
+#END

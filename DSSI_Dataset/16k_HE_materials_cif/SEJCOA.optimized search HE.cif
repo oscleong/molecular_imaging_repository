@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEJCOA
+_audit_creation_date 2006-10-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEJCOA
+_database_code_depnum_ccdc_archive 'CCDC 261170'
+_chemical_formula_sum 'C14 H16 N2 O2'
+_chemical_formula_moiety
+;
+C14 H16 N2 O2
+;
+_journal_coden_Cambridge 35
+_journal_volume 71
+_journal_year 2006
+_journal_page_first 3221
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"C.K.Y.Lee"
+"A.J.Herlt"
+"G.W.Simpson"
+"A.C.Willis"
+"C.J.Easton"
+_chemical_name_systematic
+;
+5-Methyl-3-(2,4,6-trimethylphenyl)isoxazole-4-carboxamide
+;
+_chemical_melting_point 487.15
+_cell_volume   1284.963
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.263
+_exptl_special_details
+;
+Melting point range 487.15-488.15K
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'acetone/hexanes'
+_diffrn_ambient_temperature 200.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0672
+_refine_ls_wR_factor_gt 0.0672
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 5.7154(4)
+_cell_length_b 28.899(2)
+_cell_length_c 7.9525(6)
+_cell_angle_alpha 90
+_cell_angle_beta 101.967(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8345(5) 0.8908(1) 0.7229(4)
+O2 O 0.2950(5) 0.9919(1) 0.6429(4)
+N1 N 0.7218(6) 0.8590(1) 0.5957(5)
+N2 N 0.0942(7) 0.9424(1) 0.4494(5)
+C1 C 0.5150(7) 0.8775(1) 0.5275(5)
+C2 C 0.4853(7) 0.9216(1) 0.6045(5)
+C3 C 0.6880(7) 0.9276(1) 0.7226(5)
+C4 C 0.3471(7) 0.8523(1) 0.3900(5)
+C5 C 0.3269(7) 0.8651(1) 0.2186(6)
+C6 C 0.1502(7) 0.8447(1) 0.0956(5)
+C7 C -0.0058(7) 0.8119(1) 0.1382(6)
+C8 C 0.0252(7) 0.7986(1) 0.3089(6)
+C9 C 0.2004(7) 0.8180(1) 0.4373(5)
+C10 C 0.2846(7) 0.9545(2) 0.5667(6)
+C11 C 0.7853(7) 0.9642(1) 0.8497(6)
+C12 C 0.4913(7) 0.9005(2) 0.1657(5)
+C13 C -0.2029(8) 0.7921(1) 0.0035(6)
+C14 C 0.2270(7) 0.8024(1) 0.6203(6)
+H1 H -0.035(7) 0.959(1) 0.408(5)
+H2 H 0.075(7) 0.916(1) 0.410(5)
+H3 H 0.13500 0.85340 -0.02140
+H4 H -0.07670 0.77550 0.33920
+H5 H 0.64780 0.88800 0.17990
+H6 H 0.49530 0.92740 0.23530
+H7 H 0.43430 0.90860 0.04850
+H8 H -0.35170 0.80470 0.01660
+H9 H -0.17620 0.79960 -0.10720
+H10 H -0.20590 0.75940 0.01580
+H11 H 0.09520 0.78330 0.63040
+H12 H 0.37130 0.78530 0.65350
+H13 H 0.23150 0.82860 0.69290
+H14 H 0.79250 0.95280 0.96280
+H15 H 0.94130 0.97260 0.83680
+H16 H 0.68400 0.99060 0.83080
+#END

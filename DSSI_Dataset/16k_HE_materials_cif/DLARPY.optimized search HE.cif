@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DLARPY
+_audit_creation_date 1981-07-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DLARPY
+_database_code_depnum_ccdc_archive 'CCDC 1142397'
+_chemical_formula_sum 'C11 H17 N1 O8'
+_chemical_formula_moiety
+;
+C11 H17 N1 O8
+;
+_journal_coden_Cambridge 156
+_journal_volume 84
+_journal_year 1980
+_journal_page_first 336
+_journal_name_full 'Carbohydr.Res. '
+loop_
+_publ_author_name
+"M.M.Abuaan"
+"H.I.Ahmad"
+"J.S.Brimacombe"
+"T.J.R.Weakley"
+_chemical_name_systematic
+;
+Methyl 2,4-di-O-acetyl-3-deoxy-3-C-methyl-3-nitro-\b-DL-arabinopyranoside
+;
+_cell_volume   1396.108
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.386
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.920(6)
+_cell_length_b 11.509(11)
+_cell_length_c 13.784(17)
+_cell_angle_alpha 90
+_cell_angle_beta 99.39(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.21710 0.48250 0.16930
+O2 O -0.17090 0.36450 0.34640
+O3 O 0.21750 0.27700 0.21350
+O4 O -0.06880 0.34750 0.10080
+O5 O -0.26080 0.18220 0.33440
+O6 O 0.12150 0.26550 0.42590
+O7 O 0.29120 0.39620 0.41760
+O8 O 0.42600 0.33790 0.16240
+N1 N 0.16970 0.35040 0.38810
+C1 C -0.16390 0.36730 0.17160
+C2 C -0.07750 0.33950 0.27340
+C3 C 0.07030 0.40690 0.29800
+C4 C 0.16220 0.39710 0.21330
+C5 C 0.06360 0.42100 0.11570
+C6 C -0.32460 0.50910 0.08360
+C7 C 0.05130 0.53350 0.32650
+C8 C -0.25940 0.27650 0.37060
+C9 C -0.34890 0.31570 0.44720
+C10 C 0.35310 0.26000 0.18310
+C11 C 0.39250 0.13630 0.17590
+#END

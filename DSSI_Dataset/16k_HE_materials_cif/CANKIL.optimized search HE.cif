@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CANKIL
+_audit_creation_date 1984-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CANKIL
+_database_code_depnum_ccdc_archive 'CCDC 1120142'
+_chemical_formula_sum 'C12 H13 N5 O2'
+_chemical_formula_moiety
+;
+C12 H13 N5 O2
+;
+_journal_coden_Cambridge 207
+_journal_year 1983
+_journal_page_first 1953
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"S.Rajappa"
+"B.G.Advani"
+"G.Kartha"
+"H.Hartloff"
+_chemical_name_systematic
+;
+2,5-bis(Methylamino)-4-nitro-3-phenylimino-3H-pyrrole
+;
+_chemical_melting_point 520.15
+_cell_volume   1273.065
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.35
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/a'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,z
+_cell_length_a 8.918(2)
+_cell_length_b 14.896(2)
+_cell_length_c 10.248(1)
+_cell_angle_alpha 90
+_cell_angle_beta 110.75(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.26130 0.90800 0.46860
+N1 N 0.30560 0.82700 0.50250
+N2 N -0.02340 0.69260 0.27620
+O2 O 0.44270 0.81060 0.58470
+N3 N 0.04290 0.54280 0.34120
+N4 N 0.31430 0.60790 0.55000
+N5 N -0.01160 0.84930 0.27710
+C1 C 0.21830 0.66470 0.46840
+C2 C 0.05130 0.77180 0.33010
+C3 C 0.43750 0.62990 0.67570
+C4 C 0.07160 0.62910 0.35510
+C5 C 0.19880 0.75980 0.44470
+C6 C 0.41030 0.68320 0.77590
+C7 C -0.16130 0.85950 0.16080
+C8 C 0.58630 0.58880 0.70420
+C9 C 0.68090 0.65760 0.93070
+C10 C 0.53200 0.69650 0.90300
+C11 C 0.70690 0.60480 0.83060
+C12 C -0.10010 0.50350 0.24000
+H1 H 0.75900 0.66800 1.01800
+H2 H -0.14400 0.87000 0.07200
+H3 H 0.48900 0.73500 0.97500
+H4 H -0.22500 0.80900 0.14800
+H5 H -0.11000 0.51600 0.14200
+H6 H 0.80800 0.57800 0.84700
+H7 H -0.21900 0.90500 0.17500
+H8 H 0.12100 0.50500 0.41200
+H9 H 0.30300 0.70900 0.75800
+H10 H -0.09700 0.44300 0.24500
+H11 H -0.19800 0.53500 0.23000
+H12 H 0.05400 0.89500 0.32600
+H13 H 0.60000 0.55200 0.63200
+#END

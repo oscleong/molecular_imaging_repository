@@ -1,0 +1,191 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GUHLEA
+_audit_creation_date 2000-03-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GUHLEA
+_database_code_depnum_ccdc_archive 'CCDC 140865'
+_chemical_formula_sum 'C33 H38 N4 O2'
+_chemical_formula_moiety
+;
+C33 H38 N4 O2
+;
+_journal_coeditor_code "IUCr QA0187"
+_journal_data_validation_number IUC9900181
+_journal_coden_Cambridge 591
+_journal_volume 56
+_journal_year 2000
+_journal_page_first e25
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"A.Baouid"
+"H.Hasnaoui"
+"A.Benharref"
+"A.Aatif"
+"M.Essaber"
+"J.P.Lavergne"
+"M.Pierrot"
+_chemical_name_systematic
+;
+3,3'-Dimesityl-7-methyl-9a-phenyl-4,4',5,5',6,8,9,9a-octahydro-7H-1,2,4-oxadia
+zolo[4,5-d][1,4]diazepine-8-spiro-5'-isoxazole
+;
+_chemical_melting_point 457.15
+_cell_volume   2867.746
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.2
+_exptl_special_details
+;
+Melting point range 457.15-459.15K
+
+;
+_exptl_crystal_description 'thin plate'
+_exptl_crystal_preparation 'heptane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+H atoms on 4 methyl groups are equally disordered over two sets of positions.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.073
+_refine_ls_wR_factor_gt 0.073
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 22.9235(7)
+_cell_length_b 9.9309(5)
+_cell_length_c 12.8363(7)
+_cell_angle_alpha 90
+_cell_angle_beta 101.078(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.17658(4) -0.1811(1) -0.81897(6)
+O2 O -0.31419(4) 0.0716(1) -0.72296(8)
+N1 N -0.16773(4) -0.2042(1) -0.64187(8)
+C1 C -0.16641(5) -0.1016(1) -0.72308(9)
+N2 N -0.36212(5) 0.0935(1) -0.8087(1)
+C2 C -0.18798(6) -0.1722(2) -0.5448(1)
+N3 N -0.17360(5) -0.3240(1) -0.79071(9)
+N4 N -0.28569(5) -0.1557(1) -0.67058(9)
+C3 C -0.11917(6) -0.4771(2) -0.5471(1)
+C4 C -0.43471(6) -0.0847(2) -1.0309(1)
+C5 C -0.16936(5) -0.4524(1) -0.6276(1)
+C6 C -0.35796(5) 0.0115(2) -0.8837(1)
+C7 C -0.10415(5) -0.0395(2) -0.7055(1)
+C8 C -0.27863(6) -0.0489(2) -0.7437(1)
+C9 C -0.21548(6) 0.0032(2) -0.7280(1)
+C10 C -0.39271(6) 0.1363(2) -1.0527(1)
+C11 C -0.17134(5) -0.3269(1) -0.6900(1)
+C12 C -0.30602(5) -0.0815(2) -0.8591(1)
+C13 C -0.21680(6) -0.5434(2) -0.6449(1)
+C14 C -0.39734(5) 0.0217(2) -0.9897(1)
+C15 C -0.16629(8) -0.6781(2) -0.4956(1)
+C16 C -0.45790(7) 0.0273(2) -1.2010(1)
+C17 C -0.11922(7) -0.5886(2) -0.4828(1)
+C18 C -0.06649(7) -0.3850(2) -0.5300(1)
+C19 C -0.08979(7) 0.0783(2) -0.6507(2)
+C20 C -0.46501(6) -0.0779(2) -1.1350(1)
+C21 C -0.44429(7) -0.2029(2) -0.9636(1)
+C22 C -0.21390(7) -0.6554(2) -0.5777(1)
+C23 C -0.35824(8) 0.2580(2) -1.0101(2)
+C24 C -0.25360(7) -0.1340(2) -0.5618(1)
+C25 C -0.42256(7) 0.1352(2) -1.1580(1)
+C26 C -0.27030(7) -0.5229(2) -0.7302(2)
+C27 C -0.05881(7) -0.1095(2) -0.7393(2)
+C28 C 0.01282(8) 0.0525(3) -0.6606(2)
+C29 C -0.1661(1) -0.7961(2) -0.4220(2)
+C30 C -0.34725(8) -0.1940(3) -0.6727(2)
+C31 C -0.00100(7) -0.0632(3) -0.7169(2)
+C32 C -0.0315(1) 0.1238(3) -0.6279(2)
+C33 C -0.4882(1) 0.0276(3) -1.3161(2)
+H1 H -0.16408 -0.09882 -0.51193
+H2 H -0.18098 -0.25022 -0.49993
+H3 H -0.27722 -0.06507 -0.90296
+H4 H -0.31772 -0.17437 -0.86466
+H5 H -0.08502 -0.60353 -0.42794
+H6 H -0.07359 -0.31296 -0.58083
+H7 H -0.03179 -0.43436 -0.53923
+H8 H -0.06029 -0.34836 -0.45953
+H9 H -0.12059 0.12918 -0.62781
+H10 H -0.49151 -0.15057 -1.16080
+H11 H -0.42059 -0.19367 -0.89363
+H12 H -0.43329 -0.28387 -0.99583
+H13 H -0.48559 -0.20717 -0.95903
+H14 H -0.24670 -0.71728 -0.59027
+H15 H -0.34044 0.24308 -0.93704
+H16 H -0.38434 0.33438 -1.01554
+H17 H -0.32764 0.27468 -1.05014
+H18 H -0.25550 -0.04051 -0.54389
+H19 H -0.27130 -0.18711 -0.51369
+H20 H -0.41806 0.21184 -1.20143
+H21 H -0.26590 -0.44263 -0.76960
+H22 H -0.30470 -0.51483 -0.69830
+H23 H -0.27490 -0.59903 -0.77710
+H24 H -0.06831 -0.19088 -0.77930
+H25 H 0.05302 0.08476 -0.64323
+H26 H -0.12980 -0.79617 -0.37020
+H27 H -0.16900 -0.87807 -0.46220
+H28 H -0.19930 -0.78937 -0.38670
+H29 H -0.36725 -0.20757 -0.74476
+H30 H -0.36675 -0.12337 -0.64126
+H31 H -0.34845 -0.27567 -0.63316
+H32 H 0.02940 -0.11367 -0.74151
+H33 H -0.02282 0.20644 -0.58914
+H34 H -0.51079 -0.05370 -1.33272
+H35 H -0.45879 0.03380 -1.35992
+H36 H -0.51429 0.10390 -1.32912
+H37? H -0.37654 0.30558 -0.95574
+H38? H -0.47759 -0.25787 -1.00093
+H39? H -0.31984 0.20888 -0.98694
+H40? H -0.07449 -0.28716 -0.51103
+H41? H -0.13170 -0.85947 -0.42560
+H42? H -0.44960 -0.14500 -0.89900
+H43? H -0.03229 -0.41166 -0.46923
+H44? H -0.15670 -0.75227 -0.35510
+H45? H -0.35324 0.33658 -1.05264
+H46? H -0.20570 -0.84187 -0.43710
+H47? H -0.40669 -0.25477 -0.96083
+H48? H -0.05109 -0.37946 -0.59763
+H49 H -0.20728 0.05562 -0.65929
+H50 H -0.21308 0.06572 -0.78909
+#END

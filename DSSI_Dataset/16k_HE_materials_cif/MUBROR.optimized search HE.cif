@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MUBROR
+_audit_creation_date 2009-09-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MUBROR
+_database_code_depnum_ccdc_archive 'CCDC 744324'
+_chemical_formula_sum 'C16 H12 N2 O3'
+_chemical_formula_moiety
+;
+C16 H12 N2 O3
+;
+_journal_coeditor_code "IUCr RZ2340"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first o1795
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Min Min Zhao"
+"Yong Hua Li"
+"Yuan Zhang"
+_chemical_name_systematic
+;
+6-((4-Nitrobenzyl)oxy)quinoline
+;
+_cell_volume   1344.251
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.385
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethyl acetate/tetrahydrofuran'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0651
+_refine_ls_wR_factor_gt 0.0651
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.296(3)
+_cell_length_b 8.9146(18)
+_cell_length_c 13.559(3)
+_cell_angle_alpha 90
+_cell_angle_beta 115.25(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3786(4) 0.3414(4) -0.1994(3)
+H1 H 0.34970 0.38390 -0.26860
+C2 C 0.4967(4) 0.3728(4) -0.1275(3)
+H2 H 0.54440 0.43360 -0.14870
+C3 C 0.5411(3) 0.3132(4) -0.0257(3)
+H3 H 0.62020 0.33210 0.02350
+C4 C 0.4671(3) 0.2230(3) 0.0046(2)
+C5 C 0.5069(2) 0.1580(3) 0.1090(2)
+H4 H 0.58470 0.17500 0.16160
+C6 C 0.4303(3) 0.0705(3) 0.1319(2)
+C7 C 0.3126(3) 0.0454(3) 0.0539(2)
+H5 H 0.26130 -0.01470 0.07110
+C8 C 0.2730(3) 0.1074(3) -0.0460(2)
+H6 H 0.19430 0.09020 -0.09670
+C9 C 0.3483(3) 0.1972(3) -0.0747(2)
+C10 C 0.5763(2) 0.0164(3) 0.3124(2)
+H7 H 0.59430 0.12120 0.33180
+H8 H 0.63320 -0.02110 0.28610
+C11 C 0.5866(2) -0.0718(3) 0.4102(2)
+C12 C 0.6722(3) -0.0323(3) 0.5119(2)
+H9 H 0.72110 0.05040 0.51890
+C13 C 0.6870(3) -0.1124(3) 0.6032(2)
+H10 H 0.74560 -0.08550 0.67150
+C14 C 0.6139(2) -0.2321(3) 0.5916(2)
+C15 C 0.5270(3) -0.2749(3) 0.4919(2)
+H11 H 0.47770 -0.35680 0.48590
+C16 C 0.5142(3) -0.1945(3) 0.4008(2)
+H12 H 0.45650 -0.22310 0.33250
+N1 N 0.3048(2) 0.2567(3) -0.1773(2)
+N2 N 0.6285(3) -0.3179(3) 0.6883(2)
+O1 O 0.45682(16) 0.0016(2) 0.22964(15)
+O2 O 0.7111(2) -0.2867(3) 0.77502(18)
+O3 O 0.5578(2) -0.4184(3) 0.67829(19)
+#END

@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAQMEL
+_audit_creation_date 1999-11-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAQMEL
+_database_code_depnum_ccdc_archive 'CCDC 128214'
+_chemical_formula_sum 'C20 H18 N2 O6'
+_chemical_formula_moiety
+;
+C20 H18 N2 O6
+;
+_journal_coden_Cambridge 1078
+_journal_year 1999
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"K.Peseke"
+"L.Goetze"
+"H.Reinke"
+_chemical_name_systematic
+;
+5-Acetyl-3,4-dihydro-6-methyl-3-nitro-2-(2-nitrophenyl)-4-phenyl-2H-pyran
+;
+_chemical_melting_point 422
+_cell_volume   1909.463
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.33
+_exptl_special_details
+;
+contribution from Fachbereich Chemie, Universitat Rostock,Germany
+
+;
+_exptl_crystal_description 'part of plate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The phenyl nitro group is disordered with the O atoms refined over two 
+positions s.o.f.s 0.84:0.17.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0517
+_refine_ls_wR_factor_gt 0.0517
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.053(1)
+_cell_length_b 27.630(2)
+_cell_length_c 8.321(1)
+_cell_angle_alpha 90
+_cell_angle_beta 113.45(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1247(2) 0.60185(8) 0.2784(3)
+O2 O 0.1367(3) 0.73327(10) 0.5454(4)
+O3 O 0.5413(3) 0.61922(10) 0.1734(4)
+O4 O 0.6387(3) 0.56835(11) 0.3842(4)
+O5 O 0.3075(8) 0.5668(3) -0.2466(8)
+O6 O 0.1523(8) 0.60968(17) -0.1663(7)
+O7? O 0.201(5) 0.5580(13) -0.301(3)
+O8? O 0.255(5) 0.6155(7) -0.126(6)
+N1 N 0.5399(3) 0.59827(10) 0.3017(4)
+N2 N 0.2317(4) 0.57375(14) -0.1561(4)
+C1 C 0.2443(3) 0.59818(10) 0.2068(4)
+H1 H 0.22240 0.62190 0.11270
+C2 C 0.2338(3) 0.54738(11) 0.1338(4)
+C3 C 0.2361(4) 0.53619(11) -0.0280(4)
+C4 C 0.2382(5) 0.48910(13) -0.0826(5)
+H2 H 0.24260 0.48280 -0.19040
+C5 C 0.2337(5) 0.45207(14) 0.0233(5)
+H3 H 0.23240 0.42020 -0.01360
+C6 C 0.2313(5) 0.46127(13) 0.1826(5)
+H4 H 0.22840 0.43570 0.25410
+C7 C 0.2330(4) 0.50849(12) 0.2386(4)
+H5 H 0.23370 0.51430 0.34900
+C8 C 0.4053(3) 0.60954(10) 0.3569(4)
+H6 H 0.41680 0.58970 0.45890
+C9 C 0.4086(3) 0.66314(10) 0.4045(4)
+H7 H 0.41850 0.68220 0.31000
+C10 C 0.5538(3) 0.67384(10) 0.5727(4)
+C11 C 0.6925(4) 0.69330(12) 0.5661(4)
+H8 H 0.69570 0.69990 0.45790
+C12 C 0.8258(4) 0.70300(13) 0.7177(5)
+H9 H 0.91890 0.71530 0.71130
+C13 C 0.8207(4) 0.69447(12) 0.8781(5)
+H10 H 0.90980 0.70150 0.98030
+C14 C 0.6836(4) 0.67553(11) 0.8874(4)
+H11 H 0.68010 0.66970 0.99600
+C15 C 0.5516(3) 0.66516(10) 0.7360(4)
+H12 H 0.45980 0.65220 0.74330
+C16 C 0.2491(3) 0.67579(10) 0.4141(4)
+C17 C 0.2330(4) 0.72472(12) 0.4805(4)
+C18 C 0.3359(5) 0.76472(12) 0.4630(5)
+H13 H 0.31270 0.79390 0.51100
+H14 H 0.31420 0.76960 0.34140
+H15 H 0.44730 0.75640 0.52520
+C19 C 0.1245(4) 0.64450(12) 0.3641(4)
+C20 C -0.0299(4) 0.64911(15) 0.3851(5)
+H16 H -0.09530 0.62110 0.33650
+H17 H -0.08560 0.67760 0.32510
+H18 H -0.00900 0.65160 0.50740
+#END

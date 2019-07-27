@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KAKYOM
+_audit_creation_date 2012-03-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KAKYOM
+_database_code_depnum_ccdc_archive 'CCDC 796969'
+_chemical_formula_sum 'C11 H19 N3 O5'
+_chemical_formula_moiety
+;
+C11 H19 N3 O5
+;
+_journal_coden_Cambridge 161
+_journal_volume 96
+_journal_year 2011
+_journal_page_first 604
+_journal_name_full 'Biopolymers '
+loop_
+_publ_author_name
+"J.A.Crapster"
+"J.R.Stringer"
+"I.A.Guzei"
+"H.E.Blackwell"
+_chemical_name_systematic
+;
+N^2^-Acetyl-N,N^2^-dihydroxy-N-(2-oxo-2-(piperidin-1-yl)ethyl)glycinamide
+;
+_chemical_name_common
+;
+PEPSEQ A=2 GLY*-GLY*
+;
+_cell_volume   1290.156
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.407
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.467(3)
+_cell_length_b 9.588(2)
+_cell_length_c 14.370(4)
+_cell_angle_alpha 90
+_cell_angle_beta 98.463(19)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.20073(9) -0.02442(9) 0.59275(6)
+O2 O 0.45408(9) 0.19293(9) 0.51124(6)
+H1 H 0.4314(19) 0.285(2) 0.5307(13)
+O3 O 0.48678(10) 0.23907(9) 0.74140(6)
+O4 O 0.71283(9) -0.05141(9) 0.76092(6)
+H2 H 0.662(2) -0.114(2) 0.7812(13)
+O5 O 0.61489(9) -0.05973(9) 0.93550(6)
+N1 N 0.38940(11) 0.10743(11) 0.57220(7)
+N2 N 0.65376(11) 0.07551(11) 0.78328(7)
+N3 N 0.74165(10) 0.08634(11) 1.04072(7)
+C1 C 0.16935(13) 0.13650(15) 0.46291(9)
+H3 H 0.2142(17) 0.1249(17) 0.4075(12)
+H4 H 0.0746(17) 0.0953(16) 0.4540(11)
+H5 H 0.1646(17) 0.2352(18) 0.4754(12)
+C2 C 0.25265(12) 0.06523(12) 0.54700(8)
+C3 C 0.48980(13) 0.03617(13) 0.64075(8)
+H6 H 0.5703(17) 0.0064(16) 0.6111(11)
+H7 H 0.4457(15) -0.0449(16) 0.6613(10)
+C4 C 0.54142(12) 0.12751(12) 0.72548(8)
+C5 C 0.71771(14) 0.13701(13) 0.87125(8)
+H8 H 0.6799(15) 0.2270(17) 0.8749(10)
+H9 H 0.8197(16) 0.1464(15) 0.8716(10)
+C6 C 0.68694(12) 0.04678(12) 0.95365(8)
+C7 C 0.71492(13) 0.00536(14) 1.12346(8)
+H10 H 0.6633(15) -0.0805(16) 1.1023(10)
+H11 H 0.6534(15) 0.0598(15) 1.1557(10)
+C8 C 0.85419(14) -0.02348(15) 1.18776(9)
+H12 H 0.9120(17) -0.0866(16) 1.1548(11)
+H13 H 0.8329(16) -0.0733(16) 1.2427(12)
+C9 C 0.93420(14) 0.11138(16) 1.21519(9)
+H14 H 0.8772(16) 0.1706(16) 1.2521(11)
+H15 H 1.0255(17) 0.0932(16) 1.2540(11)
+C10 C 0.95887(14) 0.19157(17) 1.12736(9)
+H16 H 1.0233(16) 0.1374(16) 1.0928(11)
+H17 H 1.0048(17) 0.2789(18) 1.1435(11)
+C11 C 0.81814(14) 0.21792(14) 1.06354(9)
+H18 H 0.8314(15) 0.2675(16) 1.0059(11)
+H19 H 0.7566(16) 0.2771(16) 1.0967(11)
+#END

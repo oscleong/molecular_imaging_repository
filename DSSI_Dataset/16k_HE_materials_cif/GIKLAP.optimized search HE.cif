@@ -1,0 +1,156 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GIKLAP
+_audit_creation_date 2013-09-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GIKLAP
+_database_code_depnum_ccdc_archive 'CCDC 817818'
+_chemical_formula_sum 'C18 H13 N3 O3'
+_chemical_formula_moiety
+;
+C18 H13 N3 O3
+;
+_journal_coden_Cambridge 1336
+_journal_volume 15
+_journal_year 2013
+_journal_page_first 2802
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"Chi-Hui Lin"
+"Ding-Yah Yang"
+_chemical_name_systematic
+;
+2-Methyl-2-(4-nitrophenyl)-2,3-dihydro-6H-perimidin-6-one unknown solvate
+;
+_cell_volume   3587.290
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.182
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 297
+_refine_special_details
+;
+Disordered solvent molecules were not modelled and the disordered density was 
+taken into account using the SQUEEZE/PLATON procedure.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0796
+_refine_ls_wR_factor_gt 0.0796
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 2/c'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,-1/2+z
+_cell_length_a 17.2743(16)
+_cell_length_b 8.5457(8)
+_cell_length_c 24.430(2)
+_cell_angle_alpha 90
+_cell_angle_beta 95.898(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.70000(13) 0.5130(3) 0.44118(14)
+O2 O 0.3436(3) 1.0282(5) 0.15480(14)
+O3 O 0.2558(2) 0.8483(6) 0.15013(14)
+N1 N 0.44725(12) 0.8812(3) 0.42896(10)
+N2 N 0.36185(14) 0.6563(3) 0.42482(12)
+H1 H 0.313(2) 0.623(4) 0.4215(14)
+N3 N 0.3057(3) 0.9257(6) 0.17496(15)
+C1 C 0.64095(16) 0.5914(4) 0.44008(15)
+C2 C 0.64511(16) 0.7597(4) 0.44982(14)
+H2 H 0.69390 0.80520 0.45750
+C3 C 0.58287(16) 0.8512(4) 0.44834(13)
+H3 H 0.58890 0.95730 0.45610
+C4 C 0.50433(15) 0.7862(3) 0.43444(11)
+C5 C 0.49740(15) 0.6170(3) 0.42798(11)
+C6 C 0.56228(16) 0.5194(3) 0.43160(12)
+C7 C 0.5523(2) 0.3588(4) 0.42919(15)
+H4 H 0.59520 0.29260 0.43030
+C8 C 0.4780(2) 0.2982(4) 0.42508(15)
+H5 H 0.47150 0.19020 0.42430
+C9 C 0.41317(18) 0.3920(4) 0.42215(14)
+H6 H 0.36370 0.34780 0.41900
+C10 C 0.42228(15) 0.5564(3) 0.42398(11)
+C11 C 0.36999(15) 0.8197(3) 0.40947(13)
+C12 C 0.35631(15) 0.8439(3) 0.34651(13)
+C13 C 0.3965(2) 0.9544(5) 0.31994(15)
+H7 H 0.43530 1.01230 0.33990
+C14 C 0.3803(3) 0.9810(5) 0.26411(17)
+H8 H 0.40790 1.05630 0.24660
+C15 C 0.3242(2) 0.8971(5) 0.23534(14)
+C16 C 0.2835(2) 0.7876(6) 0.25993(17)
+H9 H 0.24490 0.73060 0.23940
+C17 C 0.2994(2) 0.7602(5) 0.31594(16)
+H10 H 0.27140 0.68460 0.33290
+C18 C 0.30920(17) 0.9150(4) 0.43632(14)
+H11 H 0.31680 0.90120 0.47550
+H12 H 0.25800 0.87980 0.42270
+H13 H 0.31460 1.02370 0.42760
+O4 O 0.19568(14) 0.5927(4) 0.41843(13)
+O5 O -0.1680(3) 0.0812(6) 0.16152(16)
+O6 O -0.2560(2) 0.2563(7) 0.16022(17)
+N4 N -0.04912(14) 0.2122(3) 0.43311(11)
+N5 N -0.13512(14) 0.4343(3) 0.43455(12)
+H14 H -0.178(3) 0.483(6) 0.4365(19)
+N6 N -0.2050(3) 0.1793(7) 0.18379(18)
+C19 C 0.13918(17) 0.5120(5) 0.42583(14)
+C20 C 0.14786(17) 0.3478(5) 0.43896(16)
+H15 H 0.19770 0.30570 0.44440
+C21 C 0.08725(18) 0.2546(4) 0.44358(15)
+H16 H 0.09600 0.15010 0.45300
+C22 C 0.00749(15) 0.3117(4) 0.43430(12)
+C23 C -0.00275(15) 0.4795(3) 0.42640(12)
+C24 C 0.05994(17) 0.5791(4) 0.42246(13)
+C25 C 0.0480(2) 0.7392(4) 0.41787(16)
+H17 H 0.08960 0.80620 0.41420
+C26 C -0.0261(2) 0.7979(5) 0.41876(17)
+H18 H -0.03420 0.90540 0.41630
+C27 C -0.08861(19) 0.6994(4) 0.42322(15)
+H19 H -0.13820 0.74120 0.42400
+C28 C -0.07790(16) 0.5386(4) 0.42659(12)
+C29 C -0.12806(15) 0.2724(4) 0.41749(13)
+C30 C -0.14675(17) 0.2504(4) 0.35503(14)
+C31 C -0.1074(3) 0.1439(5) 0.32578(17)
+H20 H -0.06700 0.08630 0.34400
+C32 C -0.1266(3) 0.1201(6) 0.26960(19)
+H21 H -0.10040 0.04620 0.25050
+C33 C -0.1839(3) 0.2067(6) 0.24390(17)
+C34 C -0.2240(3) 0.3110(7) 0.2705(2)
+H22 H -0.26410 0.36820 0.25170
+C35 C -0.2047(2) 0.3324(6) 0.32641(19)
+H23 H -0.23230 0.40520 0.34490
+C36 C -0.18486(18) 0.1729(4) 0.44704(15)
+H24 H -0.17380 0.18570 0.48610
+H25 H -0.17910 0.06470 0.43760
+H26 H -0.23720 0.20590 0.43590
+#END

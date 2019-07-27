@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HICQIT
+_audit_creation_date 1999-05-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HICQIT
+_database_code_depnum_ccdc_archive 'CCDC 112939'
+_chemical_formula_sum 'C12 H16 N3 O2'
+_chemical_formula_moiety
+;
+C12 H16 N3 O2
+;
+_journal_coden_Cambridge 661
+_journal_volume 45
+_journal_year 1998
+_journal_page_first 349
+_journal_name_full 'J.Chin.Chem.Soc.(Taipei) '
+loop_
+_publ_author_name
+"Chin-Jhan Lee"
+"Ho-Hsiang Wei"
+"Gene-Hsiang Lee"
+"Yu Wang"
+_chemical_name_systematic
+;
+2-(3-Pyridyl)-4,4,5,5-tetramethyl-4,5-dihydro-1H-imidazol-1-oxyl-3-oxide
+;
+_chemical_melting_point 385.15
+_cell_volume   2398.282
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.298
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.04
+_refine_ls_wR_factor_gt 0.04
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.1729(9)
+_cell_length_b 30.292(4)
+_cell_length_c 13.0640(13)
+_cell_angle_alpha 90
+_cell_angle_beta 100.959(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.4905(5) 0.71641(10) 0.11735(24)
+O2 O -0.0077(5) 0.81794(10) -0.04964(24)
+N1 N 0.3267(6) 0.73313(12) 0.0560(3)
+N2 N 0.0887(6) 0.78156(12) -0.0225(3)
+N3 N 0.7466(6) 0.84335(14) 0.1841(3)
+C1 C 0.6385(9) 0.87791(16) 0.2123(4)
+C2 C 0.4134(9) 0.88193(15) 0.1921(4)
+C3 C 0.2885(7) 0.84837(15) 0.1395(3)
+C4 C 0.3944(7) 0.81214(14) 0.1090(3)
+C5 C 0.6217(8) 0.81145(15) 0.1332(3)
+C6 C 0.2729(7) 0.77652(14) 0.0499(3)
+C7 C 0.0266(7) 0.74029(14) -0.0841(3)
+C8 C 0.1492(7) 0.70500(14) -0.0088(3)
+C9 C 0.1143(8) 0.74581(16) -0.1840(3)
+C10 C -0.2215(8) 0.73558(15) -0.1083(4)
+C11 C 0.0146(8) 0.68621(16) 0.0664(4)
+C12 C 0.2555(8) 0.66790(15) -0.0587(4)
+H1 H 0.72100 0.90100 0.25000
+H2 H 0.34500 0.90800 0.21300
+H3 H 0.13200 0.85000 0.12600
+H4 H 0.69700 0.78700 0.11200
+H5 H 0.27000 0.74900 -0.17100
+H6 H 0.07700 0.72100 -0.22900
+H7 H 0.05300 0.77100 -0.22100
+H8 H -0.27900 0.73200 -0.04600
+H9 H -0.28800 0.76100 -0.14400
+H10 H -0.26300 0.71100 -0.15200
+H11 H -0.05400 0.70900 0.09800
+H12 H -0.10000 0.66700 0.03200
+H13 H 0.10300 0.67000 0.12100
+H14 H 0.34100 0.67900 -0.10600
+H15 H 0.35100 0.65100 -0.00800
+H16 H 0.14900 0.64800 -0.09600
+O3 O 0.2682(5) 0.58958(10) 0.17685(24)
+O4 O 0.7734(5) 0.48667(10) 0.3329(3)
+N4 N 0.4319(6) 0.57214(11) 0.2377(3)
+N5 N 0.6735(6) 0.52318(12) 0.3120(3)
+N6 N 0.0300(6) 0.46189(13) 0.0956(3)
+C13 C 0.1364(8) 0.43833(15) 0.0360(4)
+C14 C 0.3602(8) 0.44032(15) 0.0406(3)
+C15 C 0.4822(7) 0.46969(14) 0.1090(3)
+C16 C 0.3735(7) 0.49569(14) 0.1692(3)
+C17 C 0.1490(8) 0.49025(15) 0.1607(4)
+C18 C 0.4905(7) 0.52936(14) 0.2391(3)
+C19 C 0.7299(7) 0.56368(14) 0.3785(3)
+C20 C 0.6042(7) 0.59994(14) 0.3063(3)
+C21 C 0.6421(8) 0.55585(17) 0.4771(4)
+C22 C 0.9786(7) 0.56902(15) 0.4048(4)
+C23 C 0.7399(8) 0.62072(14) 0.2335(3)
+C24 C 0.4956(7) 0.63549(15) 0.3593(4)
+H17 H 0.05300 0.41900 -0.01400
+H18 H 0.42800 0.42200 -0.00300
+H19 H 0.63800 0.47200 0.11500
+H20 H 0.07600 0.50700 0.20500
+H21 H 0.48600 0.55300 0.46300
+H22 H 0.70300 0.53000 0.51300
+H23 H 0.67600 0.58000 0.52400
+H24 H 1.03400 0.57400 0.34200
+H25 H 1.02000 0.59400 0.44900
+H26 H 1.04800 0.54300 0.43700
+H27 H 0.81000 0.59900 0.19900
+H28 H 0.65200 0.63800 0.18000
+H29 H 0.85300 0.63900 0.26900
+H30 H 0.41100 0.62300 0.40500
+H31 H 0.60000 0.65400 0.40000
+H32 H 0.39700 0.65300 0.31100
+#END

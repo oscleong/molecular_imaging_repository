@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAMTIO
+_audit_creation_date 2005-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAMTIO
+_database_code_depnum_ccdc_archive 'CCDC 259436'
+_chemical_formula_sum 'C13 H13 N3 O2'
+_chemical_formula_moiety
+;
+C13 H13 N3 O2
+;
+_journal_coden_Cambridge 16
+_journal_volume 61
+_journal_year 2005
+_journal_page_first 5303
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"J.Saczewski"
+"Z.Brzozowski"
+"M.Gdaniec"
+_chemical_name_systematic
+;
+8-Benzyloxy-2,8-dihydro-3H-imidazo(1,2-a)pyrimidin-5-one
+;
+_chemical_melting_point 375.15
+_cell_volume   1191.220
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.356
+_exptl_special_details
+;
+Melting point range 375.15-378.15K
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 160
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.7377(7)
+_cell_length_b 12.1676(8)
+_cell_length_c 8.3598(6)
+_cell_angle_alpha 90
+_cell_angle_beta 93.871(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.15155(10) 0.24218(9) -0.00891(13)
+C1 C 0.05723(12) 0.20894(12) -0.10081(16)
+H1 H 0.0423(14) 0.1291(15) -0.0982(19)
+C2 C -0.00614(12) 0.28119(12) -0.18978(16)
+H2 H -0.0725(14) 0.2568(13) -0.2531(19)
+C3 C 0.02449(11) 0.39633(11) -0.19246(15)
+N2 N 0.11747(9) 0.42279(9) -0.09013(12)
+C4 C 0.18586(11) 0.35008(11) 0.00169(14)
+N3 N 0.2719(1) 0.38878(10) 0.08392(13)
+C5 C 0.26771(13) 0.50906(12) 0.05516(17)
+H3 H 0.34040 0.53470 0.02080
+H4 H 0.25180 0.54750 0.15280
+C6 C 0.17192(12) 0.53079(11) -0.07677(15)
+H5 H 0.11920 0.58660 -0.04420
+H6 H 0.20270 0.55270 -0.17680
+O1 O 0.21083(8) 0.16462(8) 0.08603(11)
+C7 C 0.31443(13) 0.12931(12) 0.01133(17)
+H7 H 0.37750 0.17810 0.04170
+H8 H 0.30190 0.12980 -0.10460
+C8 C 0.33996(11) 0.01530(11) 0.07054(15)
+C9 C 0.27232(12) -0.07196(12) 0.01322(16)
+H9 H 0.21100 -0.05890 -0.06070
+C10 C 0.29547(13) -0.17786(12) 0.06518(18)
+H10 H 0.24990 -0.23570 0.02610
+C11 C 0.38672(13) -0.19794(13) 0.17582(19)
+H11 H 0.40220 -0.26930 0.21070
+C12 C 0.45430(12) -0.11256(13) 0.23396(18)
+H12 H 0.51550 -0.12610 0.30790
+C13 C 0.43073(12) -0.00607(12) 0.18165(16)
+H13 H 0.47620 0.05160 0.22150
+O2 O -0.02583(9) 0.46788(9) -0.27396(12)
+#END

@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FXMCDM
+_audit_creation_date 1974-09-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FXMCDM
+_chemical_formula_sum 'C6 H9 N3 O3'
+_chemical_formula_moiety
+;
+C6 H9 N3 O3
+;
+_journal_coden_Cambridge 189
+_journal_volume 3
+_journal_year 1974
+_journal_page_first 269
+_journal_name_full 'Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.Calleri"
+"D.Viterbo"
+"A.G.Manfredotti"
+"C.Guastini"
+_chemical_name_systematic
+;
+4-Methyl-3-furoxan-carbodimethylamide
+;
+_chemical_melting_point 382.15
+_cell_volume   1617.584
+_exptl_crystal_density_diffrn 1.41
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,-1/2+y,-1/2-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 17.35(1)
+_cell_length_b 7.75(1)
+_cell_length_c 12.03(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.31030 0.45540 0.44750
+C2 C 0.33770 0.36810 0.35110
+C3 C 0.35630 0.54350 0.53350
+C4 C 0.41980 0.33200 0.31970
+C5 C 0.52050 0.32600 0.18260
+C6 C 0.39410 0.45370 0.13190
+H1 H 0.32300 0.61700 0.57900
+H2 H 0.38500 0.46300 0.57900
+H3 H 0.39300 0.61000 0.50200
+H4 H 0.54100 0.22400 0.22100
+H5 H 0.54900 0.42600 0.16700
+H6 H 0.52100 0.24100 0.12300
+H7 H 0.34400 0.50800 0.16700
+H8 H 0.42200 0.55500 0.10300
+H9 H 0.37800 0.36400 0.07700
+N1 N 0.23540 0.44930 0.45120
+N2 N 0.27770 0.30330 0.29970
+N3 N 0.44120 0.36610 0.21500
+O1 O 0.21030 0.35470 0.36060
+O2 O 0.26710 0.21320 0.21670
+O3 O 0.46250 0.27440 0.39180
+#END

@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUGFUV
+_audit_creation_date 1993-08-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUGFUV
+_chemical_formula_sum 'C8 H10 N4 O12'
+_chemical_formula_moiety
+;
+C8 H10 N4 O12
+;
+_journal_coden_Cambridge 95
+_journal_year 1991
+_journal_page_first 830
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"B.S.Fedorov"
+"N.I.Golovina"
+"L.S.Barinova"
+"R.F.Trofimova"
+"V.V.Arakcheeva"
+"L.A.Atovmyan"
+_chemical_name_systematic
+;
+1,1,4,4-Tetranitrobutane-2,3-diol diacetate
+;
+_chemical_melting_point 376.15
+_cell_volume    702.512
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.673
+_exptl_special_details
+;
+Melting point range 376.15-377.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,1/2+z
+3 -x,-y,-z
+4 x,-1/2+y,-1/2-z
+_cell_length_a 7.863(1)
+_cell_length_b 12.650(3)
+_cell_length_c 7.105(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 83.75(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1731(3) 0.3963(2) 0.0410(3)
+O2 O 0.0741(4) 0.2461(2) -0.0616(5)
+O3 O 0.1862(4) 0.4819(3) -0.5395(4)
+O4 O 0.2540(6) 0.3549(3) -0.3490(5)
+O5 O 0.2927(4) 0.6135(3) -0.0153(5)
+O6 O 0.4335(4) 0.5361(4) -0.2374(6)
+N1 N 0.1992(4) 0.4451(3) -0.3828(4)
+N2 N 0.3053(4) 0.5589(2) -0.1512(4)
+C1 C 0.0515(3) 0.4604(2) -0.0673(4)
+C2 C 0.1439(4) 0.5178(2) -0.2195(4)
+C3 C 0.1778(4) 0.2874(2) 0.0268(5)
+C4 C 0.3291(6) 0.2379(3) 0.1287(6)
+H1 H -0.0248(48) 0.4245(30) -0.1382(54)
+H2 H 0.0738(53) 0.5390(34) -0.2754(58)
+H3 H 0.3100(53) 0.2489(37) 0.2581(67)
+H4 H 0.4422(48) 0.2568(31) 0.0575(55)
+H5 H 0.3278(58) 0.1741(38) 0.1408(66)
+C1B C -0.0515(3) 0.5396(2) 0.0673(4)
+O1B O -0.1731(3) 0.6037(2) -0.0410(3)
+C2B C -0.1439(4) 0.4822(2) 0.2195(4)
+H1B H 0.0248(48) 0.5755(30) 0.1382(54)
+C3B C -0.1778(4) 0.7126(2) -0.0268(5)
+N1B N -0.1992(4) 0.5549(3) 0.3828(4)
+N2B N -0.3053(4) 0.4411(2) 0.1512(4)
+H2B H -0.0738(53) 0.4610(34) 0.2754(58)
+O2B O -0.0741(4) 0.7539(2) 0.0616(5)
+C4B C -0.3291(6) 0.7621(3) -0.1287(6)
+O3B O -0.1862(4) 0.5181(3) 0.5395(4)
+O4B O -0.2540(6) 0.6451(3) 0.3490(5)
+O5B O -0.2927(4) 0.3865(3) 0.0153(5)
+O6B O -0.4335(4) 0.4639(4) 0.2374(6)
+H3B H -0.3100(53) 0.7511(37) -0.2581(67)
+H4B H -0.4422(48) 0.7432(31) -0.0575(55)
+H5B H -0.3278(58) 0.8259(38) -0.1408(66)
+#END

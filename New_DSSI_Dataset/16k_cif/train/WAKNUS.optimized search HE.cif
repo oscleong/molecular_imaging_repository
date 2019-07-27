@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAKNUS
+_audit_creation_date 2005-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAKNUS
+_database_code_depnum_ccdc_archive 'CCDC 252022'
+_chemical_formula_sum 'C8 H10 N8 O3'
+_chemical_formula_moiety
+;
+C8 H10 N8 O3
+;
+_journal_coden_Cambridge 95
+_journal_year 2004
+_journal_page_first 569
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"A.B.Sheremetev"
+"V.G.Andrianov"
+"E.V.Mantseva"
+"E.V.Shatunova"
+"N.S.Aleksandrova"
+"I.L.Yudin"
+"D.E.Dmitriev"
+"B.B.Averkiev"
+"M.Yu.Antipin"
+_chemical_name_systematic
+;
+4-((4-(Morpholin-4-yl)-1,2,5-oxadiazol-3-yl)diazenyl)-3-amino-1,2,5-oxadiazole
+;
+_chemical_melting_point 404.15
+_cell_volume   1124.159
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.573
+_exptl_special_details
+;
+Melting point range 404.15-405.15K
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 163
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0333
+_refine_ls_wR_factor_gt 0.0333
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 15.593(3)
+_cell_length_b 4.202(1)
+_cell_length_c 18.150(4)
+_cell_angle_alpha 90
+_cell_angle_beta 109.04(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.11497(8) 0.0909(3) -0.17658(7)
+C1 C 0.08805(8) 0.3026(3) -0.13377(7)
+N2 N 0.01177(8) 0.4628(3) -0.15881(6)
+O1 O 0.00933(6) 0.6510(2) -0.09518(5)
+N3 N 0.08376(8) 0.6014(3) -0.03218(6)
+C2 C 0.13246(8) 0.3909(3) -0.05368(7)
+N4 N 0.21214(7) 0.2827(3) 0.00213(6)
+N5 N 0.25465(7) 0.0916(3) -0.02726(6)
+C3 C 0.33300(9) -0.0374(3) 0.02688(7)
+N6 N 0.39336(8) -0.1406(3) -0.00356(7)
+O2 O 0.46383(7) -0.2491(3) 0.05661(6)
+N7 N 0.44592(8) -0.2258(4) 0.12703(7)
+C4 C 0.36545(9) -0.0955(3) 0.10997(7)
+N8 N 0.32636(7) -0.0363(3) 0.16650(6)
+C5 C 0.38254(9) -0.1502(4) 0.24440(8)
+H1 H 0.3891(10) -0.387(4) 0.2439(9)
+H2 H 0.4415(11) -0.055(4) 0.2562(9)
+C6 C 0.3402(1) -0.0577(4) 0.30495(8)
+H3 H 0.3732(11) -0.153(4) 0.3554(10)
+H4 H 0.3378(11) 0.178(4) 0.308(1)
+O3 O 0.24925(6) -0.1741(2) 0.28570(5)
+C7 C 0.1962(1) -0.0409(4) 0.21282(8)
+H5 H 0.2004(11) 0.199(4) 0.2182(10)
+H6 H 0.1336(10) -0.116(3) 0.2022(8)
+C8 C 0.23118(9) -0.1402(3) 0.14808(8)
+H7 H 0.2262(11) -0.381(4) 0.1411(9)
+H8 H 0.1943(10) -0.039(4) 0.0999(9)
+H9 H 0.1709(11) 0.016(4) -0.1584(11)
+H10 H 0.0783(11) 0.060(4) -0.2257(11)
+#END

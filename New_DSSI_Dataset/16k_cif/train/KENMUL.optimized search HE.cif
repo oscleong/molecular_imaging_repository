@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KENMUL
+_audit_creation_date 1991-01-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KENMUL
+_chemical_formula_sum 'C9 H9 N3 O6'
+_chemical_formula_moiety
+;
+C9 H9 N3 O6
+;
+_journal_coden_Cambridge 154
+_journal_volume 43
+_journal_year 1990
+_journal_page_first 579
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"J.L.M.Gordon"
+"M.P.Hartshorn"
+"W.T.Robinson"
+"C.W.Sies"
+"B.A.Wells"
+"J.L.Wikaira"
+"G.J.Wright"
+_chemical_name_systematic
+;
+2-Cyano-c-6-hydroxy-4,6-dimethyl-r-4,c-5-dinitrocyclohex-2-enone
+;
+_chemical_name_common
+;
+c-5-Hydroxy-3,5-Dimethyl-r-3,c-4-dinitro-6-oxocyclohex-1-enecarbonitrile
+;
+_chemical_melting_point 417.15
+_cell_volume   2149.474
+_exptl_crystal_density_diffrn 1.577
+_exptl_special_details
+;
+Melting point range 417.15-418.15K
+
+;
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 -1/2-x,-1/2+y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 11.514(3)
+_cell_length_b 13.367(4)
+_cell_length_c 13.966(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0038(2) 0.7997(2) 0.1985(2)
+O2 O 0.2367(2) 0.9113(2) -0.1585(2)
+O3 O 0.1740(3) 1.0496(2) -0.0957(2)
+O4 O 0.1098(2) 0.7158(2) -0.1047(2)
+O5 O 0.0182(2) 0.8386(2) -0.0369(2)
+O6 O 0.1393(2) 0.6720(2) 0.0987(2)
+N1 N -0.0017(3) 1.0556(2) 0.2730(2)
+N2 N 0.2123(2) 0.9643(2) -0.0901(2)
+N3 N 0.1046(3) 0.7861(2) -0.0499(2)
+C1 C 0.0852(3) 0.8351(3) 0.1567(2)
+C2 C 0.1062(3) 0.9450(3) 0.1493(2)
+C3 C 0.1754(3) 0.9833(3) 0.0821(2)
+C4 C 0.2401(3) 0.9212(2) 0.0099(2)
+C5 C 0.2100(3) 0.8087(2) 0.0111(2)
+C6 C 0.1801(3) 0.7700(2) 0.1121(2)
+C7 C 0.0465(3) 1.0074(3) 0.2176(3)
+C8 C 0.3721(3) 0.9375(3) 0.0190(3)
+C9 C 0.2848(3) 0.7713(3) 0.1793(2)
+H1 H 0.12600 0.60110 0.10000
+H2 H 0.18440 1.05460 0.07950
+H3 H 0.27850 0.77640 -0.01300
+H4 H 0.39810 0.91300 0.08000
+H5 H 0.38910 1.00760 0.01400
+H6 H 0.41130 0.90200 -0.03120
+H7 H 0.31110 0.83890 0.18760
+H8 H 0.34620 0.73180 0.15210
+H9 H 0.26300 0.74390 0.24020
+#END

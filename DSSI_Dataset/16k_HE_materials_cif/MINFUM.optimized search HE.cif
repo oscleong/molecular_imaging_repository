@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MINFUM
+_audit_creation_date 2013-10-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MINFUM
+_database_code_depnum_ccdc_archive 'CCDC 966457'
+_chemical_formula_sum 'C11 H5 N3 O9'
+_chemical_formula_moiety
+;
+C11 H5 N3 O9
+;
+_journal_coeditor_code "IUCr tk5263"
+_journal_coden_Cambridge 1370
+_journal_volume 69
+_journal_year 2013
+_journal_page_first o1682
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"R.Moreno-Fuquen"
+"F.Mosquera"
+"A.R.Kennedy"
+_chemical_name_systematic
+;
+2,4,6-Trinitrophenyl 2-furoate
+;
+_chemical_melting_point 435
+_cell_volume   1235.676
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.737
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 123
+_refine_special_details
+;
+C10A,C11A,C8A,C9A,O9A and C10B,C11B,C8B,C9B,O9B disordered over two sites 
+with occupancies 0.730:0.270.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0389
+_refine_ls_wR_factor_gt 0.0389
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 7.0982(3)
+_cell_length_b 8.4931(4)
+_cell_length_c 20.4970(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.18433(19) 0.8534(2) 0.26898(7)
+O2 O -0.1529(2) 0.8749(2) 0.37311(8)
+O3 O 0.4160(2) 0.7394(3) 0.48267(7)
+O4 O 0.6111(2) 0.5845(2) 0.43352(8)
+O5 O 0.5765(2) 0.53627(19) 0.19586(8)
+O6 O 0.4404(2) 0.7359(2) 0.15032(7)
+O7 O 0.08707(19) 0.73046(16) 0.19797(6)
+O8 O 0.11722(19) 0.99352(16) 0.18492(7)
+N1 N -0.0930(2) 0.8411(2) 0.31894(8)
+N2 N 0.4759(2) 0.6722(2) 0.43417(8)
+N3 N 0.4676(2) 0.6478(2) 0.19627(8)
+C1 C 0.1840(3) 0.7368(2) 0.25609(9)
+C2 C 0.1026(3) 0.7816(2) 0.31521(9)
+C3 C 0.1979(3) 0.7648(3) 0.37363(10)
+H1 H 0.14250 0.79730 0.41360
+C4 C 0.3760(3) 0.6994(2) 0.37219(9)
+C5 C 0.4643(3) 0.6543(2) 0.31504(9)
+H2 H 0.58590 0.60770 0.31530
+C6 C 0.3678(3) 0.6802(2) 0.25754(9)
+C7 C 0.0627(3) 0.8691(2) 0.16480(9)
+C8 C -0.032(7) 0.8401(19) 0.1031(12)
+O9 O -0.0526(9) 0.9683(6) 0.0630(3)
+C9 C -0.1062(9) 0.7071(7) 0.0776(2)
+H3 H -0.11150 0.60580 0.09720
+C10 C -0.1754(5) 0.7519(7) 0.0143(2)
+H4 H -0.23330 0.68480 -0.01690
+C11 C -0.1425(7) 0.9074(7) 0.0077(2)
+H5 H -0.17580 0.96780 -0.02960
+C12? C -0.044(19) 0.835(5) 0.105(3)
+O10? O -0.077(3) 0.9350(19) 0.0532(8)
+C13? C -0.103(3) 0.687(2) 0.0960(7)
+H6? H -0.09020 0.59780 0.12380
+C14? C -0.1880(18) 0.6968(18) 0.0363(6)
+H7? H -0.25240 0.61150 0.01630
+C15? C -0.171(2) 0.840(2) 0.0088(7)
+H8? H -0.21510 0.86980 -0.03320
+#END

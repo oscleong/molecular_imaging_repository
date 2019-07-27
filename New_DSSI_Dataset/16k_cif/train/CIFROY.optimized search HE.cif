@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIFROY
+_audit_creation_date 1985-03-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIFROY
+_database_code_depnum_ccdc_archive 'CCDC 1125031'
+_chemical_formula_sum 'C2 H2 N4 O2'
+_chemical_formula_moiety
+;
+C2 H2 N4 O2
+;
+_journal_coden_Cambridge 54
+_journal_volume 93
+_journal_year 1984
+_journal_page_first 233
+_journal_name_full 'Bull.Soc.Chim.Belg. '
+loop_
+_publ_author_name
+"G.Evrard"
+"F.Durant"
+"A.Michel"
+"J.G.Fripiat"
+"J.L.Closset"
+"A.Copin"
+_chemical_name_systematic
+;
+3-Nitro-1,2,4-triazole
+;
+_cell_volume    907.917
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.66
+_exptl_special_details
+;
+P41212 polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_symmetry_Int_Tables_number 92
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-y,1/2+x,1/4+z
+3 -x,-y,1/2+z
+4 1/2+y,1/2-x,3/4+z
+5 y,x,-z
+6 1/2+x,1/2-y,3/4-z
+7 -y,-x,1/2-z
+8 1/2-x,1/2+y,1/4-z
+_cell_length_a 6.873(8)
+_cell_length_b 6.873(8)
+_cell_length_c 19.220(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 1.47193 1.01900 0.01985
+N2 N 1.34565 1.06287 0.07172
+C1 C 1.20485 0.94059 0.05853
+N3 N 1.22647 0.82414 0.00321
+C2 C 1.39927 0.87895 -0.01955
+N4 N 1.03122 0.93572 0.10123
+O1 O 0.90152 0.82544 0.08406
+O2 O 1.02492 1.04420 0.15133
+H1 H 1.59000 1.09590 0.01200
+H2 H 1.46580 0.81140 -0.06230
+#END

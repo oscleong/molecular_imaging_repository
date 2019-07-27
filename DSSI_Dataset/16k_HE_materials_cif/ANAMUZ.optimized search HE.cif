@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ANAMUZ
+_audit_creation_date 2016-05-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ANAMUZ
+_database_code_depnum_ccdc_archive 'CCDC 1430176'
+_chemical_formula_sum 'C16 H17 N1 O4'
+_chemical_formula_moiety
+;
+C16 H17 N1 O4
+;
+_journal_coden_Cambridge 151
+_journal_volume 59
+_journal_year 2016
+_journal_page_first 4221
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"G.Mariaule"
+"S.De Cesco"
+"F.Airaghi"
+"J.Kurian"
+"P.Schiavini"
+"S.Rocheleau"
+"I.Huskic"
+"K.Auclair"
+"A.Mittermaier"
+"N.Moitessier"
+_chemical_name_systematic
+;
+rac-(3aS*,4R*,7aR*)-2-Benzyloxy-3-oxo-2,3,3a,4,5,7a-hexahydro-1H-isoindole-4-c
+arboxylic acid
+;
+_cell_volume   1387.410
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.375
+_exptl_special_details
+;
+prolyl oligopeptidase inhibitor activity
+Study temperature given as 373 K in CIF
+;
+_exptl_crystal_description 'Prism'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0369
+_refine_ls_wR_factor_gt 0.0369
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.8567(2)
+_cell_length_b 12.6883(3)
+_cell_length_c 9.4310(2)
+_cell_angle_alpha 90
+_cell_angle_beta 102.077(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.52022(8) 0.32529(7) 0.10577(10)
+N1 N 0.45255(9) 0.47892(9) 0.18314(12)
+C1 C 0.49114(12) 0.57926(10) 0.25477(14)
+H1 H 0.4348(13) 0.6079(12) 0.3055(16)
+H2 H 0.5058(14) 0.6323(14) 0.1845(18)
+O2 O 0.76289(9) 0.34677(10) 0.59691(11)
+C2 C 0.60282(11) 0.54058(10) 0.35320(13)
+H3 H 0.5790(13) 0.5006(13) 0.4383(16)
+O3 O 0.61799(10) 0.28405(9) 0.43173(11)
+C3 C 0.69809(12) 0.61531(10) 0.41324(13)
+H4 H 0.6771(13) 0.6850(14) 0.4404(17)
+H5 H 0.6027(19) 0.2478(19) 0.511(3)
+O4 O 0.34249(7) 0.46850(7) 0.09750(9)
+C4 C 0.80692(12) 0.58308(11) 0.43444(14)
+H6 H 0.8722(15) 0.6339(14) 0.4744(18)
+C5 C 0.84518(12) 0.47477(11) 0.39685(15)
+H7 H 0.8980(14) 0.4449(14) 0.4831(19)
+H8 H 0.8923(14) 0.4818(13) 0.3194(18)
+C6 C 0.74584(11) 0.39629(10) 0.34566(13)
+H9 H 0.7682(13) 0.3430(12) 0.2863(17)
+C7 C 0.64576(11) 0.45862(10) 0.25701(13)
+H10 H 0.6724(12) 0.4945(12) 0.1819(16)
+C8 C 0.53578(11) 0.40832(10) 0.17476(13)
+C9 C 0.71229(11) 0.34016(10) 0.47310(14)
+C10 C 0.27060(11) 0.41435(11) 0.18132(14)
+H11 H 0.3141(13) 0.3478(13) 0.2224(17)
+H12 H 0.2608(13) 0.4619(12) 0.2629(16)
+C11 C 0.15759(11) 0.38863(10) 0.08278(13)
+C12 C 0.15120(12) 0.35581(10) -0.05955(14)
+H13 H 0.2207(14) 0.3509(13) -0.0982(17)
+C13 C 0.04469(13) 0.33204(10) -0.14748(15)
+H14 H 0.0439(14) 0.3109(14) -0.2470(19)
+C14 C -0.05502(13) 0.33849(11) -0.09313(16)
+H15 H -0.1283(15) 0.3233(14) -0.1546(19)
+C15 C -0.04881(13) 0.36956(11) 0.04919(16)
+H16 H -0.1177(14) 0.3742(13) 0.0866(17)
+C16 C 0.05674(12) 0.3954(1) 0.13585(14)
+H17 H 0.0610(13) 0.4184(13) 0.2354(17)
+#END

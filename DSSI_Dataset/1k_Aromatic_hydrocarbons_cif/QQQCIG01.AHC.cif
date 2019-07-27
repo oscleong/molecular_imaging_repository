@@ -1,0 +1,252 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QQQCIG01
+_audit_creation_date 1985-02-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QQQCIG01
+_database_code_depnum_ccdc_archive 'CCDC 1244265'
+_chemical_formula_sum 'C42 H28'
+_chemical_formula_moiety
+;
+C42 H28
+;
+_journal_coden_Cambridge 292
+_journal_year 1983
+_journal_page_first 53
+_journal_name_full 'Latv.PSR Zinat.Akad.Vestis,Khim.Ser. '
+loop_
+_publ_author_name
+"I.Bulgarovskaya"
+"V.Vozzhennikov"
+"S.Aleksandrov"
+"V.Belsky"
+_chemical_name_systematic
+;
+5,6,11,12-Tetraphenylnaphthacene
+;
+_chemical_name_common
+;
+Rubrene
+;
+_cell_volume   2788.860
+_exptl_special_details
+;
+orthorhombic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'B b a m'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,y,1/2+z
+4 1/2-x,-y,1/2+z
+5 1/2+x,1/2-y,-z
+6 1/2-x,1/2+y,-z
+7 x,1/2-y,1/2-z
+8 -x,1/2+y,1/2-z
+9 -x,-y,-z
+10 x,y,-z
+11 -1/2-x,-y,-1/2-z
+12 -1/2+x,y,-1/2-z
+13 -1/2-x,-1/2+y,z
+14 -1/2+x,-1/2-y,z
+15 -x,-1/2+y,-1/2+z
+16 x,-1/2-y,-1/2+z
+_cell_length_a 7.184(1)
+_cell_length_b 14.433(3)
+_cell_length_c 26.897(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.00000 0.00000 0.02730
+C2 C 0.14280 0.04900 0.05270
+C3 C 0.29260 0.08750 0.02680
+C4 C 0.44300 0.13360 0.05150
+C5 C 0.58310 0.17450 0.02630
+C6 C 0.13210 0.07260 0.10720
+C7 C 0.02220 0.14640 0.12190
+C8 C 0.02230 0.17640 0.17110
+C9 C 0.13500 0.13350 0.20540
+C10 C 0.24510 0.06100 0.19100
+C11 C 0.24430 0.03010 0.14230
+H1 H 0.43700 0.13800 0.08800
+H2 H 0.68600 0.20700 0.04500
+H3 H -0.05800 0.17800 0.09700
+H4 H -0.06000 0.23200 0.18000
+H5 H 0.13700 0.15600 0.24100
+H6 H 0.33100 0.02900 0.21500
+H7 H 0.32300 -0.02600 0.13200
+C1H C 0.00000 0.00000 -0.02730
+C2H C -0.14280 -0.04900 -0.05270
+C3H C -0.29260 -0.08750 -0.02680
+C3A C -0.29260 -0.08750 0.02680
+C2A C -0.14280 -0.04900 0.05270
+C3I C 0.29260 0.08750 -0.02680
+C2I C 0.14280 0.04900 -0.05270
+C6I C 0.13210 0.07260 -0.10720
+C7I C 0.02220 0.14640 -0.12190
+C8I C 0.02230 0.17640 -0.17110
+C9I C 0.13500 0.13350 -0.20540
+C10I C 0.24510 0.06100 -0.19100
+C11I C 0.24430 0.03010 -0.14230
+H7I H 0.32300 -0.02600 -0.13200
+H6I H 0.33100 0.02900 -0.21500
+H5I H 0.13700 0.15600 -0.24100
+H4I H -0.06000 0.23200 -0.18000
+H3I H -0.05800 0.17800 -0.09700
+C4I C 0.44300 0.13360 -0.05150
+C5I C 0.58310 0.17450 -0.02630
+H2I H 0.68600 0.20700 -0.04500
+H1I H 0.43700 0.13800 -0.08800
+C6A C -0.13210 -0.07260 0.10720
+C7A C -0.02220 -0.14640 0.12190
+C8A C -0.02230 -0.17640 0.17110
+C9A C -0.13500 -0.13350 0.20540
+C10A C -0.24510 -0.06100 0.19100
+C11A C -0.24430 -0.03010 0.14230
+H7A H -0.32300 0.02600 0.13200
+H6A H -0.33100 -0.02900 0.21500
+H5A H -0.13700 -0.15600 0.24100
+H4A H 0.06000 -0.23200 0.18000
+H3A H 0.05800 -0.17800 0.09700
+C4A C -0.44300 -0.13360 0.05150
+C5A C -0.58310 -0.17450 0.02630
+C5H C -0.58310 -0.17450 -0.02630
+C4H C -0.44300 -0.13360 -0.05150
+H1H H -0.43700 -0.13800 -0.08800
+H2H H -0.68600 -0.20700 -0.04500
+H2A H -0.68600 -0.20700 0.04500
+H1A H -0.43700 -0.13800 0.08800
+C6H C -0.13210 -0.07260 -0.10720
+C7H C -0.02220 -0.14640 -0.12190
+C8H C -0.02230 -0.17640 -0.17110
+C9H C -0.13500 -0.13350 -0.20540
+C10H C -0.24510 -0.06100 -0.19100
+C11H C -0.24430 -0.03010 -0.14230
+H7H H -0.32300 0.02600 -0.13200
+H6H H -0.33100 -0.02900 -0.21500
+H5H H -0.13700 -0.15600 -0.24100
+H4H H 0.06000 -0.23200 -0.18000
+H3H H 0.05800 -0.17800 -0.09700
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1.421 1_555 1_555
+C2 C3 1.397 1_555 1_555
+C3 C4 1.432 1_555 1_555
+C4 C5 1.349 1_555 1_555
+C5 H2 1.010 1_555 1_555
+C6 C2 1.507 1_555 1_555
+C7 C6 1.384 1_555 1_555
+C8 C7 1.392 1_555 1_555
+C9 C8 1.375 1_555 1_555
+C10 C9 1.368 1_555 1_555
+C11 C6 1.385 1_555 1_555
+H1 C4 0.985 1_555 1_555
+H3 C7 0.994 1_555 1_555
+H4 C8 1.025 1_555 1_555
+H5 C9 1.011 1_555 1_555
+H6 C10 1.005 1_555 1_555
+H7 C11 1.026 1_555 1_555
+C1H C1 1.469 1_555 1_555
+C2H C1H 1.421 1_555 1_555
+C3H C2H 1.397 1_555 1_555
+C3A C3H 1.442 1_555 1_555
+C2A C1 1.421 1_555 1_555
+C3I C3 1.442 1_555 1_555
+C2I C1H 1.421 1_555 1_555
+C6I C2I 1.507 1_555 1_555
+C7I C6I 1.384 1_555 1_555
+C8I C7I 1.392 1_555 1_555
+C9I C8I 1.375 1_555 1_555
+C10I C9I 1.368 1_555 1_555
+C11I C6I 1.385 1_555 1_555
+H7I C11I 1.026 1_555 1_555
+H6I C10I 1.005 1_555 1_555
+H5I C9I 1.011 1_555 1_555
+H4I C8I 1.025 1_555 1_555
+H3I C7I 0.994 1_555 1_555
+C4I C3I 1.432 1_555 1_555
+C5I C5 1.415 1_555 1_555
+H2I C5I 1.010 1_555 1_555
+H1I C4I 0.985 1_555 1_555
+C6A C2A 1.507 1_555 1_555
+C7A C6A 1.384 1_555 1_555
+C8A C7A 1.392 1_555 1_555
+C9A C8A 1.375 1_555 1_555
+C10A C9A 1.368 1_555 1_555
+C11A C6A 1.385 1_555 1_555
+H7A C11A 1.026 1_555 1_555
+H6A C10A 1.005 1_555 1_555
+H5A C9A 1.011 1_555 1_555
+H4A C8A 1.025 1_555 1_555
+H3A C7A 0.994 1_555 1_555
+C4A C3A 1.432 1_555 1_555
+C5A C4A 1.349 1_555 1_555
+C5H C5A 1.415 1_555 1_555
+C4H C3H 1.432 1_555 1_555
+H1H C4H 0.985 1_555 1_555
+H2H C5H 1.010 1_555 1_555
+H2A C5A 1.010 1_555 1_555
+H1A C4A 0.985 1_555 1_555
+C6H C2H 1.507 1_555 1_555
+C7H C6H 1.384 1_555 1_555
+C8H C7H 1.392 1_555 1_555
+C9H C8H 1.375 1_555 1_555
+C10H C9H 1.368 1_555 1_555
+C11H C6H 1.385 1_555 1_555
+H7H C11H 1.026 1_555 1_555
+H6H C10H 1.005 1_555 1_555
+H5H C9H 1.011 1_555 1_555
+H4H C8H 1.025 1_555 1_555
+H3H C7H 0.994 1_555 1_555
+C10 C11 1.384 1_555 1_555
+C3A C2A 1.397 1_555 1_555
+C3I C2I 1.397 1_555 1_555
+C10I C11I 1.384 1_555 1_555
+C4I C5I 1.349 1_555 1_555
+C10A C11A 1.384 1_555 1_555
+C5H C4H 1.349 1_555 1_555
+C10H C11H 1.384 1_555 1_555
+#END

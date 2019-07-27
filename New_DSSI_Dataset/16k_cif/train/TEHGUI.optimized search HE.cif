@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TEHGUI
+_audit_creation_date 1996-10-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TEHGUI
+_database_code_depnum_ccdc_archive 'CCDC 127129'
+_chemical_formula_sum 'C7 H8 N2 O2'
+_chemical_formula_moiety
+;
+C7 H8 N2 O2
+;
+_journal_coeditor_code "IUCr PA1210"
+_journal_coden_Cambridge 591
+_journal_volume 52
+_journal_year 1996
+_journal_page_first 2074
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.Ellena"
+"G.Punte"
+"B.E.Rivero"
+_chemical_name_systematic
+;
+4-Methyl-2-nitroaniline
+;
+_cell_volume   1465.790
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.379
+_exptl_special_details
+;
+monoclinic polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0533
+_refine_ls_wR_factor_gt 0.0533
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.401(4)
+_cell_length_b 9.103(2)
+_cell_length_c 12.375(8)
+_cell_angle_alpha 90
+_cell_angle_beta 103.84(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.1015(2) 0.1897(3) 1.1253(2)
+O2 O 0.1164(2) -0.0065(3) 1.0340(2)
+N1 N 0.1118(2) 0.1286(3) 1.0397(2)
+N2 N 0.1303(3) 0.0084(4) 0.8276(3)
+C1 C 0.1190(2) 0.2184(3) 0.9467(2)
+C2 C 0.1270(2) 0.1545(3) 0.8469(2)
+C3 C 0.1358(3) 0.2548(5) 0.7637(3)
+C4 C 0.1361(3) 0.4010(5) 0.7782(3)
+C5 C 0.1275(2) 0.4630(3) 0.8797(3)
+C6 C 0.1183(2) 0.3694(3) 0.9615(2)
+C7 C 0.1301(3) 0.6265(4) 0.8942(3)
+H1 H 0.1933(3) 0.6781(4) 0.8797(3)
+H2 H 0.1227(3) 0.6530(4) 0.9670(3)
+H3 H 0.0690(3) 0.6833(4) 0.8600(3)
+H4 H 0.1471(22) 0.4752(36) 0.7207(25)
+H5 H 0.1224(31) -0.0576(45) 0.8860(32)
+H6 H 0.1141(23) 0.4020(34) 1.0344(25)
+H7 H 0.1206(31) -0.0145(49) 0.7609(32)
+H8 H 0.1360(24) 0.2104(36) 0.6965(26)
+#END

@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LIPKOL
+_audit_creation_date 2008-01-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LIPKOL
+_database_code_depnum_ccdc_archive 'CCDC 637298'
+_chemical_formula_sum 'C18 H22 N4 O2'
+_chemical_formula_moiety
+;
+C18 H22 N4 O2
+;
+_journal_coden_Cambridge 154
+_journal_volume 60
+_journal_year 2007
+_journal_page_first 685
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"J.E.Johnson"
+"C.Carvallo"
+"D.D.Dolliver"
+"N.Sanchez"
+"V.Garza"
+"D.C.Canseco"
+"G.L.Eggleton"
+"F.R.Fronczek"
+_chemical_name_systematic
+;
+1,2-bis(N'-(Z)-4-methylbenzene-N-hydroxycarboximidamido)ethane
+;
+_chemical_melting_point 477.15
+_cell_volume    857.056
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.265
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'ethanol/water'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 5.6466(5)
+_cell_length_b 8.576(1)
+_cell_length_c 17.919(2)
+_cell_angle_alpha 90
+_cell_angle_beta 98.997(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.98569(15) 0.17312(10) 0.46700(5)
+H1 H 1.052(3) 0.078(2) 0.4574(9)
+N1 N 0.79590(17) 0.39813(11) 0.53088(6)
+H2 H 0.863(3) 0.4017(18) 0.4886(9)
+N2 N 0.87190(17) 0.12921(11) 0.52974(5)
+C1 C 0.6064(2) 0.51447(12) 0.53134(6)
+H3 H 0.67280 0.61950 0.52480
+H4 H 0.54990 0.51200 0.58090
+C2 C 0.77494(19) 0.24875(12) 0.55687(6)
+C3 C 0.64831(19) 0.21726(12) 0.62211(6)
+C4 C 0.7126(2) 0.29523(14) 0.69082(7)
+H5 H 0.83560 0.37180 0.69580
+C5 C 0.5968(2) 0.26092(14) 0.75187(6)
+H6 H 0.64380 0.31330 0.79850
+C6 C 0.4129(2) 0.15086(13) 0.74572(6)
+C7 C 0.3516(2) 0.07405(15) 0.67713(7)
+H7 H 0.22740 -0.00170 0.67190
+C8 C 0.4683(2) 0.10557(14) 0.61591(6)
+H8 H 0.42460 0.05060 0.56980
+C9 C 0.2826(2) 0.11540(16) 0.81112(7)
+H9 H 0.10930 0.12330 0.79440
+H10 H 0.33140 0.19030 0.85190
+H11 H 0.32250 0.00950 0.82950
+O1B O 0.01431(15) 0.82688(10) 0.53300(5)
+H1B H -0.052(3) 0.922(2) 0.5426(9)
+N1B N 0.20410(17) 0.60187(11) 0.46912(6)
+H2B H 0.137(3) 0.5983(18) 0.5114(9)
+N2B N 0.12810(17) 0.87079(11) 0.47026(5)
+C1B C 0.3936(2) 0.48553(12) 0.46866(6)
+H3B H 0.32720 0.38050 0.47520
+H4B H 0.45010 0.48800 0.41910
+C2B C 0.22506(19) 0.75125(12) 0.44313(6)
+C3B C 0.35169(19) 0.78274(12) 0.37789(6)
+C4B C 0.2874(2) 0.70477(14) 0.30918(7)
+H5B H 0.16440 0.62820 0.30420
+C5B C 0.4032(2) 0.73908(14) 0.24813(6)
+H6B H 0.35620 0.68670 0.20150
+C6B C 0.5871(2) 0.84914(13) 0.25428(6)
+C7B C 0.6484(2) 0.92595(15) 0.32287(7)
+H7B H 0.77260 1.00170 0.32810
+C8B C 0.5317(2) 0.89443(14) 0.38409(6)
+H8B H 0.57540 0.94940 0.43020
+C9B C 0.7174(2) 0.88460(16) 0.18888(7)
+H9B H 0.89070 0.87670 0.20560
+H10B H 0.66860 0.80970 0.14810
+H11B H 0.67750 0.99050 0.17050
+#END

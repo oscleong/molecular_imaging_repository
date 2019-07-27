@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEYRAG
+_audit_creation_date 2018-04-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEYRAG
+_database_code_depnum_ccdc_archive 'CCDC 1818130'
+_chemical_formula_sum 'C6 H4 N8 O4'
+_chemical_formula_moiety
+;
+C6 H4 N8 O4
+;
+_journal_coden_Cambridge 1699
+_journal_volume 6
+_journal_year 2018
+_journal_page_first 8382
+_journal_name_full 'J.Mater.Chem.A '
+loop_
+_publ_author_name
+"Yongxing Tang"
+"Chunlin He"
+"G.H.Imler"
+"D.A.Parrish"
+"J.M.Shreeve"
+_chemical_name_systematic
+;
+2,9-dinitro-5,6-dihydrobis[1,2,4]triazolo[1,5-a:5',1'-c]pyrazine
+;
+_cell_volume    966.261
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.733
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+C7A and C7B disordered over two sites with occupancies 0.766:0.234.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0456
+_refine_ls_wR_factor_gt 0.0456
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.326(5)
+_cell_length_b 6.678(3)
+_cell_length_c 12.126(5)
+_cell_angle_alpha 90
+_cell_angle_beta 104.517(11)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.67125(15) 0.6625(2) 0.57926(14)
+O2 O 0.71023(16) 0.3749(3) 0.66325(13)
+N1 N 0.67042(13) 0.4813(3) 0.58037(13)
+C1 C 0.61494(14) 0.3805(3) 0.47485(13)
+N2 N 0.60473(14) 0.1836(2) 0.47173(12)
+N3 N 0.54975(13) 0.15730(18) 0.36261(12)
+C2 C 0.4983(6) -0.0337(5) 0.3120(3)
+H1 H 0.42150 -0.04300 0.31810
+H2 H 0.53990 -0.14700 0.35150
+C3 C 0.52995(14) 0.33456(19) 0.30915(14)
+N4 N 0.57093(11) 0.48306(18) 0.37965(11)
+C4? C 0.550(2) -0.0334(17) 0.3013(14)
+H3? H 0.54570 -0.14530 0.35080
+H4? H 0.61900 -0.04580 0.27660
+O1A O 0.32875(15) 0.6625(2) -0.07926(14)
+O2A O 0.28977(16) 0.3749(3) -0.16325(13)
+N1A N 0.32958(13) 0.4813(3) -0.08037(13)
+C1A C 0.38506(14) 0.3805(3) 0.02515(13)
+N2A N 0.39527(14) 0.1836(2) 0.02827(12)
+N3A N 0.45025(13) 0.15730(18) 0.13739(12)
+C2A C 0.5017(6) -0.0337(5) 0.1880(3)
+H1A H 0.57850 -0.04300 0.18190
+H2A H 0.46010 -0.14700 0.14850
+C3A C 0.47005(14) 0.33456(19) 0.19085(14)
+N4A N 0.42907(11) 0.48306(18) 0.12035(11)
+#END

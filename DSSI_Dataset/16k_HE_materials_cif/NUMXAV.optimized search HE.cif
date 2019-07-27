@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NUMXAV
+_audit_creation_date 2010-05-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NUMXAV
+_database_code_depnum_ccdc_archive 'CCDC 689818'
+_chemical_formula_sum 'C3 H6 N4 O4'
+_chemical_formula_moiety
+;
+C3 H6 N4 O4
+;
+_journal_coden_Cambridge 661
+_journal_volume 56
+_journal_year 2009
+_journal_page_first 524
+_journal_name_full 'J.Chin.Chem.Soc.(Taipei) '
+loop_
+_publ_author_name
+"Kang-Zhen Xu"
+"Ji-Rong Song"
+"Feng-Qi Zhao"
+"Shu-Yun Heng"
+"Li Ding"
+"Yao-Yu Wang"
+"Rong-Zu Hu"
+_chemical_name_systematic
+;
+1-Amino-1-methylamino-2,2-dinitroethylene
+;
+_chemical_name_common
+;
+N-Methyl-2,2-dinitroethene-1,1-diamine; AMFOX-7
+;
+_cell_volume    307.510
+_exptl_crystal_density_diffrn 1.751
+_exptl_special_details
+;
+explosive
+
+;
+_diffrn_ambient_temperature 273
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0463
+_refine_ls_wR_factor_gt 0.0463
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.361(3)
+_cell_length_b 7.462(4)
+_cell_length_c 6.788(3)
+_cell_angle_alpha 90
+_cell_angle_beta 107.367(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3264(17) -0.0802(9) 1.3074(10)
+O2 O 0.3277(14) 0.2729(8) 1.3113(11)
+N1 N 0.2728(16) 0.2590(11) 1.1155(11)
+N2 N 0.2789(17) -0.0665(11) 1.1207(14)
+O3 O 0.2453(14) -0.2075(7) 1.0063(12)
+O4 O 0.2473(17) 0.3909(7) 1.0035(13)
+C1 C 0.1871(7) 0.0969(18) 0.7907(5)
+N3 N -0.0213(5) 0.0933(15) 0.6882(4)
+H1 H -0.11300 0.09560 0.75920
+C2 C 0.2487(6) 0.090(2) 1.0175(5)
+N4 N 0.3435(5) 0.0916(19) 0.7035(4)
+H2 H 0.31130 0.08540 0.57130
+H3 H 0.47910 0.09440 0.77800
+C3 C -0.1145(7) 0.086(2) 0.4636(5)
+H4 H -0.27230 0.08790 0.42740
+H5 H -0.06810 -0.02300 0.41310
+H6 H -0.06420 0.18680 0.40290
+#END

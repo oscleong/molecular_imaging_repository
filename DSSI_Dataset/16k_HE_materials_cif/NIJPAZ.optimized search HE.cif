@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIJPAZ
+_audit_creation_date 2013-09-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIJPAZ
+_database_code_depnum_ccdc_archive 'CCDC 932098'
+_chemical_formula_sum 'C11 H9 N1 O3'
+_chemical_formula_moiety
+;
+C11 H9 N1 O3
+;
+_journal_coden_Cambridge 1336
+_journal_volume 15
+_journal_year 2013
+_journal_page_first 3384
+_journal_name_full 'Org.Lett. '
+loop_
+_publ_author_name
+"S.Maity"
+"T.Naveen"
+"U.Sharma"
+"D.Maiti"
+_chemical_name_systematic
+;
+2-(1-Nitroprop-1-en-2-yl)-1-benzofuran
+;
+_cell_volume    927.696
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.455
+_exptl_crystal_description 'Prism'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0828
+_refine_ls_wR_factor_gt 0.0828
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.2107(19)
+_cell_length_b 11.437(3)
+_cell_length_c 11.361(3)
+_cell_angle_alpha 90
+_cell_angle_beta 98.050(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3100(3) 0.96392(17) 0.07037(17)
+O2 O 0.1649(3) 0.6159(2) -0.1839(2)
+N1 N 0.2207(4) 0.6381(2) -0.0792(2)
+O3 O 0.2639(4) 0.5616(2) -0.0041(2)
+C1 C 0.2212(4) 0.9641(2) -0.0462(3)
+C2 C 0.2481(3) 1.1514(2) 0.0101(2)
+C3 C 0.2418(4) 0.7570(2) -0.0384(3)
+H1 H 0.29770 0.76910 0.03950
+C4 C 0.4022(4) 1.2408(3) 0.2291(3)
+H2 H 0.45080 1.27280 0.30220
+C5 C 0.4037(4) 1.1202(3) 0.2150(2)
+H3 H 0.45440 1.07010 0.27560
+C6 C 0.1811(4) 1.0747(2) -0.0845(2)
+H4 H 0.12070 1.09630 -0.15910
+C7 C 0.1873(4) 0.8515(2) -0.1037(3)
+C8 C 0.3293(4) 1.3158(2) 0.1361(3)
+H5 H 0.33470 1.39620 0.14840
+C9 C 0.3239(4) 1.0798(2) 0.1041(3)
+C10 C 0.2504(4) 1.2736(3) 0.0273(3)
+H6 H 0.20010 1.32400 -0.03310
+C11 C 0.0933(4) 0.8531(3) -0.2305(3)
+H7 H 0.07820 0.77440 -0.25970
+H8 H 0.16900 0.89640 -0.27840
+H9 H -0.02730 0.88960 -0.23440
+#END

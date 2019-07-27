@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUYFED
+_audit_creation_date 1995-10-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUYFED
+_database_code_depnum_ccdc_archive 'CCDC 1022253'
+_chemical_formula_sum 'C10 H15 N1 O3'
+_chemical_formula_moiety
+;
+C10 H15 N1 O3
+;
+_journal_coeditor_code "IUCr NA1129"
+_journal_coden_Cambridge 591
+_journal_volume 51
+_journal_year 1995
+_journal_page_first 1314
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"A.Alvarez-Larena"
+"J.F.Piniella"
+"P.Cid"
+"P.de March"
+"M.Figueredo"
+"J.Font"
+"S.Milan"
+"A.Soria"
+_chemical_name_systematic
+;
+Octahydro-1H,3H-pyrano(3',4':4,5)isoxazolo(2,3-a)pyridin-1-one
+;
+_cell_volume    976.612
+_exptl_crystal_colour 'Colorless'
+_exptl_crystal_density_diffrn 1.341
+_exptl_special_details
+;
+one enantiomer of (4aRS,10aRS,10bRS)
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0281
+_refine_ls_wR_factor_gt 0.0281
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 6.765(3)
+_cell_length_b 8.930(2)
+_cell_length_c 16.166(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.0217(3) 0.4251(3) 0.69251(14)
+H1 H 0.9429(3) 0.5171(3) 0.69152(14)
+O1 O 0.9926(2) 0.3477(2) 0.77030(9)
+N1 N 1.1418(3) 0.4166(2) 0.82334(10)
+C2 C 1.1550(4) 0.3327(3) 0.90031(13)
+H2 H 1.1798(4) 0.2277(3) 0.88908(13)
+H3 H 1.0327(4) 0.3411(3) 0.93127(13)
+C3 C 1.3242(4) 0.3996(3) 0.94871(13)
+H4 H 1.3397(4) 0.3455(3) 1.00032(13)
+H5 H 1.2938(4) 0.5030(3) 0.96191(13)
+C4 C 1.5166(4) 0.3932(3) 0.90044(14)
+H6 H 1.5563(4) 0.2897(3) 0.89319(14)
+H7 H 1.6197(4) 0.4442(3) 0.93120(14)
+C5 C 1.4916(3) 0.4673(3) 0.81588(14)
+H8 H 1.4694(3) 0.5739(3) 0.82268(14)
+H9 H 1.6105(3) 0.4535(3) 0.78321(14)
+C6 C 1.3179(3) 0.3972(2) 0.77246(12)
+H10 H 1.3431(3) 0.2900(2) 0.76485(12)
+C7 C 1.2452(3) 0.4642(2) 0.69079(13)
+H11 H 1.2596(3) 0.5733(2) 0.69336(13)
+C8 C 1.3622(3) 0.4068(3) 0.61850(12)
+O2 O 1.5132(2) 0.4656(2) 0.59598(11)
+O3 O 1.3015(3) 0.2834(2) 0.57936(9)
+C9 C 1.1174(4) 0.2108(3) 0.60451(14)
+H12 H 1.1411(4) 0.1503(3) 0.65336(14)
+H13 H 1.0724(4) 0.1450(3) 0.56065(14)
+C10 C 0.9605(4) 0.3245(3) 0.62289(15)
+H14 H 0.9358(4) 0.3841(3) 0.57383(15)
+H15 H 0.8387(4) 0.2736(3) 0.63749(15)
+#END

@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAHBAP
+_audit_creation_date 1986-03-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAHBAP
+_database_code_depnum_ccdc_archive 'CCDC 1135520'
+_chemical_formula_sum 'C8 H10 N2 O3'
+_chemical_formula_moiety
+;
+C8 H10 N2 O3
+;
+_journal_coden_Cambridge 9
+_journal_volume 24
+_journal_year 1985
+_journal_page_first 954
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"R.C.Scarrow"
+"P.E.Riley"
+"K.Abu-Dari"
+"D.L.White"
+"K.N.Raymond"
+_chemical_name_systematic
+;
+N,N-Dimethyl-1-hydroxy-2(1H)-pyridinone-6-carboxamide
+;
+_chemical_melting_point 438.15
+_cell_volume    861.583
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.4
+_exptl_special_details
+;
+Melting point range 438.15-440.15K
+The labelling of C2-C6 is different for the coordinate list and for the bond 
+list and diagram. The coordinates have been relabelled to fit the bonds and 
+the diagram
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 18.803(2)
+_cell_length_b 9.274(1)
+_cell_length_c 4.969(1)
+_cell_angle_alpha 90
+_cell_angle_beta 96.10(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.40818(6) 0.1138(2) 0.8317(3)
+O2 O 0.54436(7) 0.0643(2) 0.7811(3)
+O3 O 0.32449(9) 0.4302(2) 0.7309(4)
+N1 N 0.44422(7) 0.1933(2) 0.6552(3)
+N2 N 0.27749(8) 0.2433(2) 0.4781(3)
+C1 C 0.40508(10) 0.2938(2) 0.5067(4)
+C2 C 0.43640(12) 0.3702(2) 0.3186(4)
+C3 C 0.50791(11) 0.3420(2) 0.2844(4)
+C4 C 0.5459(1) 0.2422(2) 0.4370(4)
+C5 C 0.51512(9) 0.1600(2) 0.6340(4)
+C6 C 0.3311(1) 0.3258(2) 0.5829(4)
+C7 C 0.20528(11) 0.2714(3) 0.5468(5)
+C8 C 0.28598(12) 0.1177(3) 0.3106(5)
+H1 H 0.41050 0.44090 0.20870
+H2 H 0.52990 0.39260 0.14690
+H3 H 0.59530 0.22840 0.41530
+H4 H 0.44920 0.05470 0.91600
+H5 H 0.18160 0.19340 0.62500
+H6 H 0.19920 0.35940 0.66600
+H7 H 0.18160 0.33200 0.37500
+H8 H 0.33200 0.08200 0.29100
+H9 H 0.26560 0.02730 0.41600
+H10 H 0.26560 0.13870 0.12500
+#END

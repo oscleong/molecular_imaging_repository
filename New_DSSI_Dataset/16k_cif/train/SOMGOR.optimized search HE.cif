@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOMGOR
+_audit_creation_date 2009-07-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOMGOR
+_database_code_depnum_ccdc_archive 'CCDC 715596'
+_database_code_depnum_ccdc_journal 1267/2404
+_chemical_formula_sum 'C18 H26 N2 O6'
+_chemical_formula_moiety
+;
+C18 H26 N2 O6
+;
+_journal_coden_Cambridge 1267
+_journal_volume 223
+_journal_year 2008
+_journal_page_first 451
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"W.Frey"
+"M.Ibrahim"
+"V.Jager"
+_chemical_name_systematic
+;
+3,4-(R/R)-bis(2',2'-dicyclohexyl-1',3'-dioxolan-4'-yl)-1,2,5-oxadiazole-2-oxid
+e
+;
+_chemical_melting_point 344
+_cell_volume    922.986
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.318
+_exptl_special_details
+;
+Melting point range 344-345K
+
+;
+_exptl_crystal_description 'plates'
+_exptl_crystal_preparation 'petroleum ether'
+_diffrn_ambient_temperature 293
+_refine_special_details
+;
+Two oxygen atoms of the dioxalan rings are disordered over two sites with 
+occupancies of 0.66:0.34 and 0.75:0.25.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0634
+_refine_ls_wR_factor_gt 0.0634
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 9.2215(8)
+_cell_length_b 7.6012(5)
+_cell_length_c 13.2943(9)
+_cell_angle_alpha 90
+_cell_angle_beta 97.912(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.8472(3) 1.1132(5) 1.0335(3)
+O1 O 0.7464(3) 1.1424(4) 0.9441(2)
+C1 C 0.8587(4) 0.9418(6) 1.0485(3)
+C2 C 0.7669(4) 0.8633(6) 0.9677(3)
+N2 N 0.7003(4) 0.9798(5) 0.9068(3)
+O2 O 0.9041(4) 1.2450(5) 1.0776(3)
+O3 O 0.9281(5) 0.6923(4) 1.1493(2)
+C3 C 0.9635(5) 0.8730(6) 1.1348(3)
+H1 H 1.06390 0.88270 1.11910
+C4 C 0.9522(6) 0.9577(7) 1.2369(4)
+H2 H 1.01710 1.05820 1.24890
+H3 H 0.85270 0.99440 1.24190
+O4 O 0.9977(8) 0.8157(9) 1.3061(5)
+O5 O 0.7077(3) 0.6305(4) 0.8446(2)
+C5 C 0.9485(5) 0.6581(6) 1.2558(3)
+O6 O 0.4914(4) 0.6290(9) 0.9127(3)
+C6 C 0.8172(7) 0.5687(12) 1.2832(5)
+H4 H 0.79990 0.46130 1.24400
+H5 H 0.73250 0.64430 1.26680
+C7 C 0.8369(11) 0.5254(15) 1.3954(6)
+H6 H 0.84730 0.63350 1.43440
+H7 H 0.75060 0.46450 1.41160
+C8 C 0.966(2) 0.4149(12) 1.4235(6)
+H8 H 0.95130 0.30220 1.38940
+H9 H 0.97860 0.39400 1.49620
+C9 C 1.0984(11) 0.4996(17) 1.3953(5)
+H10 H 1.18090 0.42020 1.41000
+H11 H 1.11980 0.60500 1.43580
+C10 C 1.0788(6) 0.5482(11) 1.2831(4)
+H12 H 1.16470 0.61120 1.26800
+H13 H 1.06950 0.44170 1.24250
+C11 C 0.7396(4) 0.6680(6) 0.9492(3)
+H14 H 0.82660 0.60150 0.97810
+C12 C 0.6066(4) 0.5997(7) 0.9935(3)
+H15 H 0.61660 0.47570 1.01030
+H16 H 0.59090 0.66520 1.05370
+C13 C 0.5525(4) 0.5909(7) 0.8211(3)
+C14 C 0.5322(8) 0.4121(9) 0.7773(6)
+H17 H 0.42970 0.37970 0.77180
+H18 H 0.58800 0.32840 0.82230
+C15 C 0.5825(11) 0.4033(15) 0.6716(8)
+H19 H 0.68650 0.42830 0.67780
+H20 H 0.56650 0.28560 0.64420
+C16 C 0.5011(12) 0.532(2) 0.6011(6)
+H21 H 0.39730 0.50470 0.59190
+H22 H 0.53540 0.52700 0.53540
+C17 C 0.5265(10) 0.7118(15) 0.6462(6)
+H23 H 0.47370 0.79770 0.60120
+H24 H 0.63000 0.73960 0.65200
+C18 C 0.4775(5) 0.7251(8) 0.7492(4)
+H25 H 0.49900 0.84200 0.77650
+H26 H 0.37240 0.70770 0.74260
+O7? O 0.9161(13) 0.8280(19) 1.3015(10)
+O8? O 0.5291(17) 0.4996(16) 0.9115(4)
+#END

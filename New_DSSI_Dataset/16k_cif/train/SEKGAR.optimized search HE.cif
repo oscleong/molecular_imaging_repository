@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEKGAR
+_audit_creation_date 2006-10-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEKGAR
+_database_code_depnum_ccdc_archive 'CCDC 294869'
+_chemical_formula_sum 'C9 H17 N2 O2'
+_chemical_formula_moiety
+;
+C9 H17 N2 O2
+;
+_journal_coden_Cambridge 1220
+_journal_volume 12
+_journal_year 2006
+_journal_page_first 5134
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"P.Brough"
+"J.Pecaut"
+"A.Rassat"
+"P.Rey"
+_chemical_name_systematic
+;
+2,4,4,6,6-Pentamethyl-1,4,5,6-tetrahydropyrimidine-3-oxide-1-oxyl
+;
+_chemical_melting_point 377.15
+_cell_volume   1037.307
+_exptl_crystal_density_diffrn 1.186
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+A C atom from the pyrimidine ring is disordered over two sites with 
+occupancies 0.925:0.075.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0676
+_refine_ls_wR_factor_gt 0.0676
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 5.9211(7)
+_cell_length_b 11.3364(12)
+_cell_length_c 15.4592(18)
+_cell_angle_alpha 90
+_cell_angle_beta 91.541(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.0489(3) -0.03210(17) 0.76622(13)
+O2 O 0.2713(3) 0.18020(16) 0.98682(13)
+N1 N -0.0140(3) 0.06999(18) 0.80240(13)
+N2 N 0.1448(3) 0.17875(18) 0.91743(12)
+C1 C 0.1132(4) 0.0758(2) 0.87468(15)
+C2 C -0.1245(4) 0.1723(2) 0.75838(15)
+C3 C -0.0169(4) 0.2849(2) 0.79509(18)
+H1 H -0.107(4) 0.347(2) 0.7795(16)
+H2 H 0.134(4) 0.2964(19) 0.7633(16)
+C4? C -0.221(4) 0.255(3) 0.8338(18)
+C5 C 0.0285(4) 0.2913(2) 0.89261(15)
+C6 C -0.3778(5) 0.1621(4) 0.7707(4)
+H3 H -0.417(5) 0.100(3) 0.726(2)
+H4 H -0.457(7) 0.221(4) 0.737(3)
+H5 H -0.422(9) 0.148(5) 0.839(4)
+C7 C -0.0654(9) 0.1638(4) 0.6629(2)
+H6 H -0.129(5) 0.228(3) 0.640(2)
+H7 H 0.107(8) 0.165(4) 0.653(3)
+H8 H -0.140(11) 0.067(7) 0.635(5)
+C8 C 0.1920(6) 0.3927(3) 0.9093(3)
+H9 H 0.249(7) 0.405(4) 0.975(3)
+H10 H 0.323(6) 0.388(3) 0.875(2)
+H11 H 0.104(6) 0.465(3) 0.899(2)
+C9 C -0.1713(6) 0.3052(3) 0.9501(3)
+H12 H -0.119(5) 0.323(3) 1.008(2)
+H13 H -0.263(5) 0.381(3) 0.930(2)
+H14 H -0.282(5) 0.240(3) 0.9474(18)
+C10 C 0.2186(7) -0.0334(3) 0.9104(3)
+H15 H 0.265(9) -0.029(4) 0.962(4)
+H16 H 0.344(8) -0.054(4) 0.877(3)
+H17 H 0.130(9) -0.102(5) 0.906(3)
+#END

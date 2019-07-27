@@ -1,0 +1,96 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IMUWIX
+_audit_creation_date 2011-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IMUWIX
+_database_code_depnum_ccdc_archive 'CCDC 783532'
+_chemical_formula_sum 'C1 H1 N5 O3'
+_chemical_formula_moiety
+;
+C1 H1 N5 O3
+;
+_journal_coden_Cambridge 4
+_journal_volume 132
+_journal_year 2010
+_journal_page_first 17216
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"M.Gobel"
+"K.Karaghiosoff"
+"T.M.Klapotke"
+"D.G.Piercey"
+"J.Stierstorfer"
+_chemical_name_systematic
+;
+5-Nitro-2H-tetrazol-2-ol
+;
+_cell_volume    448.663
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.94
+_exptl_special_details
+;
+deliquescent
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ether/toluene'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.022
+_refine_ls_wR_factor_gt 0.022
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 7.9946(6)
+_cell_length_b 9.1402(6)
+_cell_length_c 6.2269(4)
+_cell_angle_alpha 90
+_cell_angle_beta 99.584(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.0952(2) 0.14111(15) 0.0983(2)
+N1 N 0.98235(17) 0.04959(14) -0.00530(19)
+N2 N 0.84539(16) 0.10402(15) 0.05533(18)
+N3 N 0.86724(18) 0.21798(15) 0.1865(2)
+N4 N 1.03228(17) 0.24423(14) 0.2142(2)
+N5 N 1.27404(17) 0.13064(15) 0.08392(19)
+O1 O 0.69205(15) 0.04334(13) -0.00866(18)
+O2 O 1.36778(15) 0.22314(13) 0.18115(18)
+O3 O 1.31714(15) 0.03005(12) -0.02413(18)
+H1 H 0.637(4) 0.105(3) -0.097(3)
+#END

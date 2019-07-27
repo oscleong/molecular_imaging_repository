@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HIFXUR
+_audit_creation_date 2013-07-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HIFXUR
+_database_code_depnum_ccdc_archive 'CCDC 906049'
+_chemical_formula_sum 'C14 H12 N2 O3'
+_chemical_formula_moiety
+;
+C14 H12 N2 O3
+;
+_journal_coden_Cambridge 35
+_journal_volume 78
+_journal_year 2013
+_journal_page_first 3676
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"D.D.Dolliver"
+"B.T.Bhattarai"
+"A.Pandey"
+"M.L.Lanier"
+"A.S.Bordelon"
+"S.Adhikari"
+"J.A.Dinser"
+"P.F.Flowers"
+"V.S.Wills"
+"C.L.Schneider"
+"K.H.Shaughnessy"
+"J.N.Moore"
+"S.M.Raders"
+"T.Snowden"
+"A.S.McKim"
+"F.R.Fronczek"
+_chemical_name_systematic
+;
+(Z)-N-Methoxy-1-(3-nitrophenyl)-1-phenylmethanimine
+;
+_chemical_name_common
+;
+(Z)-3-Nitrobenzophenone O-methyl oxime
+;
+_cell_volume   1239.905
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.373
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 90
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0392
+_refine_ls_wR_factor_gt 0.0392
+loop_
+_citation_database_id_CSD
+_citation_special_details
+HIFYOM "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.774(1)
+_cell_length_b 8.8629(10)
+_cell_length_c 16.001(2)
+_cell_angle_alpha 90
+_cell_angle_beta 94.810(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.28988(6) 0.57846(7) 0.17013(3)
+O2 O 0.91166(7) 0.31311(9) 0.11170(4)
+O3 O 0.67852(7) 0.25694(8) 0.06771(4)
+N1 N 0.23688(7) 0.50600(8) 0.24019(4)
+N2 N 0.77295(8) 0.31721(8) 0.11783(4)
+C1 C 0.34731(8) 0.44959(8) 0.28879(4)
+C2 C 0.30331(8) 0.37214(8) 0.36501(4)
+C3 C 0.16946(8) 0.41277(9) 0.40149(4)
+H1 H 0.10890 0.49420 0.37880
+C4 C 0.12497(8) 0.33460(9) 0.47050(4)
+H2 H 0.03360 0.36220 0.49460
+C5 C 0.21368(9) 0.21584(9) 0.50457(5)
+H3 H 0.18280 0.16210 0.55170
+C6 C 0.34750(9) 0.17643(9) 0.46938(5)
+H4 H 0.40860 0.09600 0.49280
+C7 C 0.39282(8) 0.25408(9) 0.39989(5)
+H5 H 0.48470 0.22670 0.37620
+C8 C 0.51192(8) 0.45768(8) 0.27223(4)
+C9 C 0.56326(8) 0.38976(8) 0.20133(4)
+H6 H 0.49400 0.33980 0.16170
+C10 C 0.71806(8) 0.39690(8) 0.18999(4)
+C11 C 0.82323(8) 0.47458(9) 0.24342(5)
+H7 H 0.92800 0.48000 0.23280
+C12 C 0.76957(8) 0.54409(9) 0.31301(5)
+H8 H 0.83810 0.60010 0.35020
+C13 C 0.61611(8) 0.53239(9) 0.32877(5)
+H9 H 0.58210 0.57550 0.37830
+C14 C 0.16099(9) 0.64539(10) 0.12315(5)
+H10 H 0.09090 0.56590 0.10130
+H11 H 0.19620 0.70350 0.07630
+H12 H 0.10770 0.71260 0.15970
+#END

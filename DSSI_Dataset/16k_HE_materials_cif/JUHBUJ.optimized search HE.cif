@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JUHBUJ
+_audit_creation_date 1993-05-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JUHBUJ
+_chemical_formula_sum 'C20 H26 N1 O1'
+_chemical_formula_moiety
+;
+C20 H26 N1 O1
+;
+_journal_coden_Cambridge 41
+_journal_volume 37
+_journal_year 1992
+_journal_page_first 129
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"A.E.Obodovskaya"
+"Z.A.Starikova"
+"Yu.A.Ivanov"
+"I.E.Pokrovskaya"
+_chemical_name_systematic
+;
+4,4'-Di-t-butyldiphenyl-N-oxyl radical
+;
+_cell_volume   3437.085
+_exptl_crystal_colour 'ruby'
+_exptl_crystal_density_diffrn 1.15
+_exptl_special_details
+;
+z(C7) is 0.8239, not 0.8329
+
+;
+_diffrn_ambient_temperature 208.15
+_refine_special_details
+;
+Terminal methyl groups C(18)-C(20) are disordered over three sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n a a'
+_symmetry_Int_Tables_number 56
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2+z
+3 1/2+x,1/2-y,z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 x,-1/2-y,-1/2-z
+7 -1/2-x,-1/2+y,-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 8.507(9)
+_cell_length_b 15.986(6)
+_cell_length_c 25.274(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.7851(7) 0.6884(4) 0.7869(3)
+N1 N 0.7861(5) 0.6332(3) 0.8240(2)
+C1 C 0.9078(5) 0.6381(3) 0.8607(2)
+C2 C 0.8816(6) 0.6138(4) 0.9122(2)
+C3 C 1.0019(6) 0.6147(3) 0.9488(2)
+C4 C 1.1543(5) 0.6396(3) 0.9352(2)
+C5 C 1.1758(6) 0.6669(4) 0.8843(2)
+C6 C 1.0548(7) 0.6676(4) 0.8471(3)
+C7 C 0.6629(6) 0.5751(4) 0.8239(2)
+C8 C 0.6888(7) 0.4966(4) 0.8449(2)
+C9 C 0.5663(7) 0.4401(4) 0.8463(3)
+C10 C 0.4180(6) 0.4573(4) 0.8266(2)
+C11 C 0.3992(6) 0.5352(4) 0.8039(2)
+C12 C 0.5182(6) 0.5936(4) 0.8020(2)
+C13 C 1.2869(5) 0.6361(3) 0.9764(2)
+C14 C 1.4477(7) 0.6446(5) 0.9509(3)
+C15 C 1.2650(8) 0.7072(5) 1.0163(3)
+C16 C 1.2821(8) 0.5540(5) 1.0068(3)
+C17 C 0.2828(7) 0.3942(4) 0.8309(2)
+C18 C 0.137(2) 0.425(2) 0.802(1)
+C19 C 0.330(5) 0.311(3) 0.818(1)
+C20 C 0.226(4) 0.395(2) 0.891(1)
+C21? C 0.113(4) 0.442(2) 0.828(2)
+C22? C 0.293(4) 0.340(2) 0.781(1)
+C23? C 0.290(4) 0.348(2) 0.878(2)
+C24? C 0.175(4) 0.417(2) 0.874(1)
+C25? C 0.191(3) 0.386(1) 0.782(1)
+C26? C 0.340(3) 0.300(1) 0.844(1)
+#END

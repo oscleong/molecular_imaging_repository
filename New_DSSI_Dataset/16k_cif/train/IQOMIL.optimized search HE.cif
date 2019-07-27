@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IQOMIL
+_audit_creation_date 2011-06-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IQOMIL
+_database_code_depnum_ccdc_archive 'CCDC 752367'
+_chemical_formula_sum 'C17 H13 N3 O4'
+_chemical_formula_moiety
+;
+C17 H13 N3 O4
+;
+_journal_coden_Cambridge 1078
+_journal_year 2009
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"H.Reinke"
+"Q.A.Cedeno"
+"L.Goetze"
+"J.Q.Suarez"
+"K.Peseke"
+_chemical_name_systematic
+;
+[3RS-(3\a,4\b,5\b)]-(3,5-bis(2-furyl)-4-nitro-cyclohexylidene)malononitrile
+;
+_cell_volume   1550.141
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.385
+_exptl_special_details
+;
+contribution from Institut fur Chemie, Universitat Rostock, 
+Albert-Einstein-Str. 3a, D-18059 Rostock, Germany
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0354
+_refine_ls_wR_factor_gt 0.0354
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 10.856(3)
+_cell_length_b 10.061(1)
+_cell_length_c 14.500(2)
+_cell_angle_alpha 90
+_cell_angle_beta 101.82(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.03339(13) 0.17960(15) 0.87466(11)
+O2 O -0.05714(14) -0.00257(17) 0.89915(12)
+O3 O 0.33560(15) 0.27696(13) 0.93591(10)
+O4 O 0.12256(12) 0.05915(14) 0.65372(9)
+N1 N 0.34706(18) -0.2688(2) 0.55499(14)
+N2 N 0.60856(19) 0.0205(2) 0.71287(14)
+N3 N 0.03189(14) 0.05965(17) 0.88301(10)
+C1 C 0.33255(16) -0.10691(17) 0.76587(12)
+C2 C 0.21462(16) -0.18563(18) 0.76002(14)
+H1 H 0.23020 -0.25650 0.80630
+H2 H 0.19230 -0.22620 0.69820
+C3 C 0.10281(16) -0.10118(17) 0.77712(12)
+H3 H 0.03790 -0.16340 0.78810
+C4 C 0.14472(15) -0.02000(17) 0.86908(12)
+H4 H 0.16750 -0.08230 0.92180
+C5 C 0.25752(15) 0.06868(17) 0.86663(12)
+H5 H 0.23520 0.12860 0.81250
+C6 C 0.36784(16) -0.02037(18) 0.85116(13)
+H6 H 0.43820 0.03560 0.84440
+H7 H 0.39490 -0.07600 0.90620
+C7 C 0.40493(16) -0.11663(17) 0.70101(12)
+C8 C 0.37250(17) -0.2021(2) 0.62004(14)
+C9 C 0.51881(19) -0.0412(2) 0.70803(13)
+C10 C 0.04433(16) -0.01655(17) 0.69547(12)
+C11 C 0.0469(2) 0.1312(2) 0.58430(14)
+H8 H 0.07540 0.19130 0.54470
+C12 C -0.0729(2) 0.1028(2) 0.58185(14)
+H9 H -0.14220 0.13880 0.54100
+C13 C -0.07539(19) 0.0070(2) 0.65339(14)
+H10 H -0.14660 -0.03190 0.66820
+C14 C 0.29846(15) 0.15136(17) 0.95281(12)
+C15 C 0.3725(2) 0.3355(2) 1.02226(17)
+H11 H 0.40270 0.42200 1.03170
+C16 C 0.35952(19) 0.2528(2) 1.09046(15)
+H12 H 0.37840 0.26990 1.15480
+C17 C 0.31104(18) 0.1328(2) 1.04596(13)
+H13 H 0.29170 0.05590 1.07560
+#END

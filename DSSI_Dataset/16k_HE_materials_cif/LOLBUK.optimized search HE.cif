@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LOLBUK
+_audit_creation_date 2009-06-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LOLBUK
+_database_code_depnum_ccdc_archive 'CCDC 694399'
+_chemical_formula_sum 'C25 H15 N1 O1'
+_chemical_formula_moiety
+;
+C25 H15 N1 O1
+;
+_journal_coden_Cambridge 179
+_journal_volume 47
+_journal_year 2008
+_journal_page_first 9708
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"N.Takenaka"
+"R.S.Sarangthem"
+"B.Captain"
+_chemical_name_systematic
+;
+(+)-(P)-1-Aza[6]helicene N-oxide
+;
+_chemical_name_common
+;
+(+)-(P)-Benzo[5,6]phenanthro[3,4-h]quinoline 1-oxide
+;
+_cell_volume   1682.719
+_exptl_crystal_colour 'bright yellow'
+_exptl_crystal_density_diffrn 1.363
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'isopropanol'
+_diffrn_ambient_temperature 296
+_refine_special_details
+;
+The N-oxide group is disordered over the 1 and 16 positions of the helicene 
+with occupancies 0.863:0.137.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0484
+_refine_ls_wR_factor_gt 0.0484
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.0282(4)
+_cell_length_b 10.0812(4)
+_cell_length_c 15.5534(6)
+_cell_angle_alpha 90
+_cell_angle_beta 103.313(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.44457(16) 0.15652(17) 0.78482(13)
+H1 H 0.46690 0.11520 0.73730
+C2 C 0.45188(19) 0.08645(19) 0.86190(14)
+H2 H 0.47590 -0.00220 0.86530
+C3 C 0.42390(19) 0.1472(2) 0.93282(14)
+H3 H 0.43150 0.10100 0.98560
+C4 C 0.36822(19) 0.3517(3) 1.00254(13)
+H4 H 0.37200 0.30770 1.05570
+C5 C 0.34843(19) 0.4827(3) 0.99701(15)
+H5 H 0.35180 0.53090 1.04850
+C6 C 0.3075(2) 0.6902(3) 0.9111(2)
+H6 H 0.31590 0.73800 0.96330
+C7 C 0.2816(2) 0.7543(2) 0.8343(2)
+H7 H 0.28290 0.84660 0.83370
+C8 C 0.2205(2) 0.7536(2) 0.6726(2)
+H8 H 0.21840 0.84580 0.67250
+C9 C 0.1936(2) 0.6884(3) 0.5967(2)
+H9 H 0.18270 0.73570 0.54410
+C10 C 0.1501(2) 0.4795(3) 0.51163(15)
+H10 H 0.14580 0.52640 0.45950
+C11 C 0.1269(2) 0.3492(3) 0.50774(14)
+H11 H 0.11760 0.30470 0.45420
+C12 C 0.0701(2) 0.1473(2) 0.58002(16)
+H12 H 0.05560 0.10260 0.52630
+C13 C 0.0460(2) 0.0855(2) 0.65157(17)
+H13 H 0.01670 -0.00130 0.64710
+C14 C 0.06532(17) 0.15241(19) 0.73198(14)
+H14 H 0.04500 0.11170 0.78050
+C15 C 0.38362(16) 0.27915(19) 0.92662(12)
+C16 C 0.36405(14) 0.34573(16) 0.84490(11)
+C17 C 0.32256(17) 0.5499(2) 0.91506(14)
+C18 C 0.31219(15) 0.47842(16) 0.83543(12)
+C19 C 0.25241(16) 0.6842(2) 0.75387(16)
+C20 C 0.25399(13) 0.54303(18) 0.75397(12)
+C21 C 0.18099(18) 0.5474(2) 0.59331(15)
+C22 C 0.19657(15) 0.47603(17) 0.67325(12)
+C23 C 0.11640(17) 0.2774(2) 0.58520(12)
+C24 C 0.14619(15) 0.34209(17) 0.66812(11)
+C25 C 0.11398(15) 0.27758(17) 0.73977(12)
+H15 H 0.12610 0.32110 0.79380
+N1 N 0.40566(12) 0.28403(14) 0.77683(9)
+O1 O 0.41482(13) 0.35027(14) 0.70775(9)
+C26? C 0.40566(12) 0.28403(14) 0.77683(9)
+H16? H 0.40660 0.33090 0.72520
+N2? N 0.11398(15) 0.27758(17) 0.73977(12)
+O2? O 0.0873(10) 0.3521(10) 0.7962(7)
+#END

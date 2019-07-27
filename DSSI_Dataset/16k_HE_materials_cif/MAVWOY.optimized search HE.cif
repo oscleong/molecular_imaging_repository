@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAVWOY
+_audit_creation_date 2017-04-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAVWOY
+_database_code_depnum_ccdc_archive 'CCDC 1515606'
+_chemical_formula_sum 'C16 H13 N1 O2'
+_chemical_formula_moiety
+;
+C16 H13 N1 O2
+;
+_journal_coden_Cambridge 182
+_journal_volume 53
+_journal_year 2017
+_journal_page_first 5279
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"Dong Ding"
+"Tao Mou"
+"Jiahui Xue"
+"Xuefeng Jiang"
+_chemical_name_systematic
+;
+3-benzylidene-N-methoxy-2-benzofuran-1(3H)-imine
+;
+_cell_volume   2537.823
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.315
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0342
+_refine_ls_wR_factor_gt 0.0342
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 30.495(3)
+_cell_length_b 4.1711(4)
+_cell_length_c 20.4558(19)
+_cell_angle_alpha 90
+_cell_angle_beta 102.745(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.15858(3) 0.8179(3) 0.05782(5)
+O2 O 0.23967(3) 0.9759(3) 0.06337(5)
+N1 N 0.23315(4) 0.7939(3) 0.11820(6)
+C1 C 0.12574(5) 0.5372(3) 0.13091(7)
+C2 C 0.09672(5) 0.3858(4) 0.16490(8)
+H1 H 0.06590 0.38070 0.14720
+C3 C 0.11505(6) 0.2439(4) 0.22543(8)
+H2 H 0.09630 0.14130 0.24900
+C4 C 0.16094(6) 0.2506(4) 0.25208(8)
+H3 H 0.17240 0.15090 0.29290
+C5 C 0.18982(6) 0.4021(4) 0.21919(8)
+H4 H 0.22060 0.40860 0.23730
+C6 C 0.17145(5) 0.5445(3) 0.15816(7)
+C7 C 0.19182(5) 0.7246(4) 0.11167(7)
+C8 C 0.11713(5) 0.7087(3) 0.06753(7)
+C9 C 0.07874(5) 0.7636(3) 0.02330(7)
+H5 H 0.05330 0.67980 0.03520
+C10 C 0.06985(5) 0.9330(3) -0.04060(7)
+C11 C 0.10279(5) 1.0862(4) -0.06705(7)
+H6 H 0.13250 1.08540 -0.04300
+C12 C 0.09191(5) 1.2384(4) -0.12820(7)
+H7 H 0.11430 1.33870 -0.14510
+C13 C 0.04824(5) 1.2436(4) -0.16462(8)
+H8 H 0.04110 1.34660 -0.20590
+C14 C 0.01536(5) 1.0954(4) -0.13936(8)
+H9 H -0.01420 1.09740 -0.16370
+C15 C 0.02595(5) 0.9438(4) -0.07820(7)
+H10 H 0.00320 0.84630 -0.06160
+C16 C 0.28603(5) 1.0534(5) 0.07300(9)
+H11 H 0.29080 1.17720 0.03560
+H12 H 0.30340 0.85960 0.07640
+H13 H 0.29520 1.17580 0.11350
+#END

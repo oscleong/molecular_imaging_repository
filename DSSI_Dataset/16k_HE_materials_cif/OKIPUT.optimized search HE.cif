@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OKIPUT
+_audit_creation_date 2003-12-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OKIPUT
+_database_code_depnum_ccdc_archive 'CCDC 191235'
+_chemical_formula_sum 'C13 H18 N2 O2'
+_chemical_formula_moiety
+;
+C13 H18 N2 O2
+;
+_journal_coden_Cambridge 1086
+_journal_volume 15
+_journal_year 2003
+_journal_page_first 101
+_journal_name_full 'Chirality '
+loop_
+_publ_author_name
+"M.A.Arai"
+"M.Kuraishi"
+"T.Arai"
+"H.Sasai"
+_chemical_name_systematic
+;
+(M*,3aS*,3a'R*)-3a,3a',4,4',5,5',6,6'-octahydro-3H,3'H-7,7'-spirobi((2,1)benzi
+soxazole)
+;
+_cell_volume   2313.553
+_exptl_crystal_colour 'colorless'
+_exptl_special_details
+;
+chair conformer
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 198.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0503
+_refine_ls_wR_factor_gt 0.0503
+loop_
+_citation_database_id_CSD
+_citation_special_details
+OKIPON "is a stereoisomer of this entry"
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,1/2-y,1/2+z
+4 1/2+x,y,1/2-z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,-1/2+y,-1/2-z
+8 -1/2-x,-y,-1/2+z
+_cell_length_a 11.553(3)
+_cell_length_b 20.873(4)
+_cell_length_c 9.594(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.2700(2) -0.0205(1) -0.7841(2)
+O2 O -0.2261(2) -0.2375(1) -0.3890(2)
+N1 N -0.2877(2) -0.0662(1) -0.6745(2)
+N2 N -0.3014(2) -0.2282(1) -0.5043(3)
+C1 C -0.4302(2) -0.1480(1) -0.6047(3)
+C2 C -0.4697(3) -0.2032(1) -0.7020(3)
+C3 C -0.5495(3) -0.1810(1) -0.8195(3)
+C4 C -0.4882(3) -0.1322(2) -0.9119(3)
+C5 C -0.4471(3) -0.0747(1) -0.8263(3)
+C6 C -0.3537(4) -0.0334(2) -0.8929(4)
+C7 C -0.3827(2) -0.0955(1) -0.6960(3)
+C8 C -0.5335(3) -0.1217(2) -0.5171(3)
+C9 C -0.4962(3) -0.0774(2) -0.3981(3)
+C10 C -0.4116(3) -0.1101(2) -0.2979(3)
+C11 C -0.3039(3) -0.1320(1) -0.3780(3)
+C12 C -0.2252(3) -0.1797(2) -0.3047(3)
+C13 C -0.3408(2) -0.1714(1) -0.5018(3)
+H1 H -0.382(3) 0.009(2) -0.928(4)
+H2 H -0.312(4) -0.054(2) -0.968(5)
+H3 H -0.514(3) -0.050(1) -0.799(3)
+H4 H -0.543(3) -0.118(2) -0.988(4)
+H5 H -0.416(3) -0.154(2) -0.954(3)
+H6 H -0.579(3) -0.220(2) -0.882(3)
+H7 H -0.621(3) -0.166(1) -0.788(3)
+H8 H -0.400(2) -0.221(1) -0.741(3)
+H9 H -0.509(2) -0.233(1) -0.646(3)
+H10 H -0.145(3) -0.167(1) -0.301(3)
+H11 H -0.257(3) -0.191(2) -0.217(4)
+H12 H -0.259(3) -0.095(2) -0.411(3)
+H13 H -0.447(3) -0.147(1) -0.255(3)
+H14 H -0.389(3) -0.079(2) -0.226(4)
+H15 H -0.567(3) -0.062(2) -0.346(3)
+H16 H -0.457(3) -0.040(2) -0.433(4)
+H17 H -0.579(3) -0.158(1) -0.484(3)
+H18 H -0.590(3) -0.101(2) -0.582(4)
+#END

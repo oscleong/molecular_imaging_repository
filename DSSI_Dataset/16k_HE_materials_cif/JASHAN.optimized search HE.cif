@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JASHAN
+_audit_creation_date 2005-10-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JASHAN
+_database_code_depnum_ccdc_archive 'CCDC 269440'
+_chemical_formula_sum 'C11 H17 N1 O3'
+_chemical_formula_moiety
+;
+C11 H17 N1 O3
+;
+_journal_coden_Cambridge 1090
+_journal_volume 16
+_journal_year 2005
+_journal_page_first 2187
+_journal_name_full 'Tetrahedron:Asymm. '
+loop_
+_publ_author_name
+"U.Groselj"
+"D.Bevk"
+"R.Jakse"
+"A.Meden"
+"B.Stanovnik"
+"J.Svete"
+_chemical_name_systematic
+;
+(1R,4E,5S)-1,8,8-trimethyl-2-oxabicyclo(3.2.1)octan-3,4-dione 
+4-(O-methyloxime)
+;
+_chemical_melting_point 413.15
+_cell_volume   1142.255
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.214
+_exptl_special_details
+;
+Melting point range 413.15-418.15K
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloromethane/n-heptane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+_cell_length_a 7.2926(2)
+_cell_length_b 11.8526(3)
+_cell_length_c 13.2150(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2729(5) 0.41635(16) 0.15176(15)
+O2 O 0.2312(3) 0.25216(14) 0.08137(11)
+O3 O 0.2243(4) 0.26600(16) 0.42991(14)
+N1 N 0.2443(4) 0.32513(15) 0.33953(16)
+C1 C 0.1899(5) 0.1294(2) 0.0886(2)
+C2 C 0.2459(4) 0.31697(18) 0.16300(19)
+C3 C 0.2276(4) 0.2603(2) 0.26272(18)
+C4 C 0.1863(4) 0.1366(2) 0.26323(18)
+C5 C -0.0169(5) 0.1232(3) 0.2311(3)
+C6 C -0.0109(5) 0.1187(3) 0.1173(3)
+C7 C 0.2951(4) 0.0801(2) 0.1777(2)
+C8 C 0.2359(9) 0.0859(3) -0.0159(3)
+C9 C 0.2725(6) -0.0490(2) 0.1831(3)
+C10 C 0.5007(5) 0.1074(3) 0.1790(4)
+C11 C 0.2488(10) 0.3395(3) 0.5135(2)
+H1 H 0.20877 0.10244 0.33573
+H2 H -0.09534 0.19112 0.25683
+H3 H -0.07423 0.04856 0.26235
+H4 H -0.08642 0.18474 0.08660
+H5 H -0.06375 0.04225 0.09171
+H6 H 0.16014 0.12915 -0.07008
+H7 H 0.20948 -0.00015 -0.02186
+H8 H 0.37650 0.09919 -0.03086
+H9 H 0.13304 -0.07000 0.18301
+H10 H 0.33299 -0.08120 0.24814
+H11 H 0.33383 -0.08700 0.11973
+H12 H 0.51888 0.19437 0.18088
+H13 H 0.56232 0.07467 0.11443
+H14 H 0.56058 0.07154 0.24291
+H15 H 0.23317 0.29880 0.58147
+H16 H 0.15072 0.40600 0.50936
+H17 H 0.37891 0.37741 0.51022
+#END

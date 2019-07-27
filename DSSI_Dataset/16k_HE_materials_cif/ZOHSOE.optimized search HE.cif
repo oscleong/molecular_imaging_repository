@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZOHSOE
+_audit_creation_date 1996-05-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZOHSOE
+_chemical_formula_sum 'C6 H8 N4 O2'
+_chemical_formula_moiety
+;
+C6 H8 N4 O2
+;
+_journal_coden_Cambridge 1078
+_journal_year 1996
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"H.Adolph"
+"A.L.Rheingold"
+"M.B.Allen"
+_chemical_name_systematic
+;
+bis(2-Cyanoethyl)nitrosamine
+;
+_cell_volume    822.701
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.358
+_exptl_special_details
+;
+contribution from Department of Chemistry, University of Delaware, Newark DE 
+19716, USA
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.046
+_refine_ls_wR_factor_gt 0.046
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 7.517(2)
+_cell_length_b 10.840(3)
+_cell_length_c 10.181(3)
+_cell_angle_alpha 90
+_cell_angle_beta 97.39(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.6015(2) -0.0375(2) 0.1288(2)
+O2 O 0.3898(2) 0.0703(2) 0.2011(2)
+N1 N 0.5323(3) 0.0606(2) 0.1535(2)
+N2 N 0.6185(3) 0.1651(2) 0.1284(2)
+N3 N 0.2502(4) 0.5275(3) 0.0552(3)
+N4 N 1.0291(4) 0.2906(3) 0.3229(3)
+C1 C 0.5303(4) 0.2827(3) 0.1464(3)
+C2 C 0.3896(4) 0.312(3) 0.0298(3)
+C3 C 0.3087(4) 0.4326(3) 0.0439(3)
+C4 C 0.7739(4) 0.1546(3) 0.0579(3)
+C5 C 0.9433(4) 0.1211(3) 0.1475(3)
+C6 C 0.9936(4) 0.2153(3) 0.2474(3)
+H1 H 0.6196(38) 0.3448(26) 0.1528(25)
+H2 H 0.4808(31) 0.2786(23) 0.2278(24)
+H3 H 0.3002(39) 0.2543(29) 0.0236(29)
+H4 H 0.4487(38) 0.318(24) -0.0471(28)
+H5 H 0.7485(34) 0.0933(24) -0.0128(26)
+H6 H 0.7875(34) 0.2309(26) 0.0167(27)
+H7 H 1.0418(31) 0.1127(23) 0.094(24)
+H8 H 0.9293(37) 0.0499(26) 0.1921(26)
+#END

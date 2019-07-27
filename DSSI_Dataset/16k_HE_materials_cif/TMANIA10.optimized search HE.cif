@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TMANIA10
+_audit_creation_date 1972-11-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMANIA10
+_chemical_formula_sum 'C3 H9 N3 O2'
+_chemical_formula_moiety
+;
+C3 H9 N3 O2
+;
+_journal_coden_Cambridge 188
+_journal_year 1972
+_journal_page_first 1071
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.2 '
+loop_
+_publ_author_name
+"A.F.Cameron"
+"N.J.Hair"
+"D.G.Morris"
+_chemical_name_systematic
+;
+Trimethylammonionitramidate
+;
+_chemical_name_common
+;
+Trimethylamine nitroimide
+;
+_cell_volume    583.977
+_exptl_crystal_density_diffrn 1.38
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.078
+_refine_ls_wR_factor_gt 0.078
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2+z
+3 x,1/2-y,z
+4 1/2-x,-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-1/2-z
+7 -x,-1/2+y,-z
+8 -1/2+x,y,-1/2-z
+_cell_length_a 12.245(6)
+_cell_length_b 6.718(3)
+_cell_length_c 7.099(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.22237 0.25000 -0.15463
+C2 C 0.39067 0.06268 -0.18090
+H1 H 0.23530 0.25000 -0.00240
+H2 H 0.17850 0.13280 -0.20410
+H3 H 0.45980 0.05940 -0.23900
+H4 H 0.40010 0.04810 -0.02680
+H5 H 0.33160 -0.05730 -0.22520
+N1 N 0.33316 0.25000 -0.24272
+N2 N 0.30833 0.25000 -0.44536
+N3 N 0.39474 0.25000 -0.55719
+O1 O 0.49169 0.25000 -0.49585
+O2 O 0.37461 0.25000 -0.73004
+H2B H 0.17850 0.36720 -0.20410
+C2B C 0.39067 0.43732 -0.18090
+H3B H 0.45980 0.44060 -0.23900
+H4B H 0.40010 0.45190 -0.02680
+H5B H 0.33160 0.55730 -0.22520
+#END

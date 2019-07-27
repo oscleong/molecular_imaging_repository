@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAYDIB
+_audit_creation_date 2012-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAYDIB
+_database_code_depnum_ccdc_archive 'CCDC 742694'
+_chemical_formula_sum 'C14 H22 N2 O6'
+_chemical_formula_moiety
+;
+C14 H22 N2 O6
+;
+_journal_coden_Cambridge 392
+_journal_volume 78
+_journal_year 2009
+_journal_page_first 3091
+_journal_name_full 'Heterocycles '
+loop_
+_publ_author_name
+"K.Suzuki"
+"D.G.Mazhukin"
+"H.Takahashi"
+"Y.Uchida"
+"R.Tamura"
+"I.A.Grigor'ev"
+_chemical_name_systematic
+;
+trans-1,4-bis(3-Oxobutyl)-1,4-dinitrocyclohexane
+;
+_chemical_name_common
+;
+trans-4,4'-(1,4-Dinitrocyclohexane-1,4-diyl)dibutan-2-one
+;
+_chemical_melting_point 468.75
+_cell_volume    386.346
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.351
+_exptl_special_details
+;
+Melting point range 468.75-470.05K
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 113
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0501
+_refine_ls_wR_factor_gt 0.0501
+loop_
+_citation_database_id_CSD
+_citation_special_details
+MAYDOH "is a stereoisomer of this entry"
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.1523(11)
+_cell_length_b 7.6063(15)
+_cell_length_c 9.4013(13)
+_cell_angle_alpha 64.602(5)
+_cell_angle_beta 82.665(5)
+_cell_angle_gamma 76.561(5)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.46236(16) 0.30914(14) 0.35174(11)
+O2 O 0.24795(16) 0.18700(16) 0.27033(13)
+O3 O 1.00741(17) -0.28337(14) 0.20970(12)
+N1 N 0.41112(16) 0.26164(15) 0.25390(13)
+C1 C 0.56467(17) 0.28277(16) 0.10681(13)
+C2 C 0.71233(18) 0.43011(17) 0.08170(14)
+C3 C 0.41800(19) 0.35610(17) -0.03464(15)
+C4 C 0.69858(19) 0.07132(17) 0.14200(14)
+C5 C 0.8273(2) -0.02824(18) 0.29283(15)
+C6 C 0.99564(19) -0.21346(17) 0.30484(14)
+C7 C 1.1477(2) -0.3032(2) 0.44192(18)
+H1 H 0.817(2) 0.424(2) -0.0015(19)
+H2 H 0.797(2) 0.393(2) 0.1753(19)
+H3 H 0.313(2) 0.271(2) -0.0121(19)
+H4 H 0.518(2) 0.348(2) -0.1234(18)
+H5 H 0.796(2) 0.083(2) 0.052(2)
+H6 H 0.602(2) -0.009(2) 0.142(2)
+H7 H 0.910(3) 0.055(2) 0.303(2)
+H8 H 0.734(2) -0.067(2) 0.386(2)
+H9 H 1.057(3) -0.335(3) 0.544(2)
+H10 H 1.237(3) -0.210(3) 0.431(2)
+H11 H 1.242(3) -0.425(2) 0.446(2)
+O1A O 0.53764(16) 0.69086(14) -0.35174(11)
+O2A O 0.75205(16) 0.81300(16) -0.27033(13)
+O3A O -0.00741(17) 1.28337(14) -0.20970(12)
+N1A N 0.58888(16) 0.73836(15) -0.25390(13)
+C1A C 0.43533(17) 0.71723(16) -0.10681(13)
+C2A C 0.28767(18) 0.56989(17) -0.08170(14)
+C3A C 0.58200(19) 0.64390(17) 0.03464(15)
+C4A C 0.30142(19) 0.92868(17) -0.14200(14)
+C5A C 0.1727(2) 1.02824(18) -0.29283(15)
+C6A C 0.00436(19) 1.21346(17) -0.30484(14)
+C7A C -0.1477(2) 1.3032(2) -0.44192(18)
+H1A H 0.183(2) 0.576(2) 0.0015(19)
+H2A H 0.203(2) 0.607(2) -0.1753(19)
+H3A H 0.687(2) 0.729(2) 0.0121(19)
+H4A H 0.482(2) 0.652(2) 0.1234(18)
+H5A H 0.204(2) 0.917(2) -0.052(2)
+H6A H 0.398(2) 1.009(2) -0.142(2)
+H7A H 0.090(3) 0.945(2) -0.303(2)
+H8A H 0.266(2) 1.067(2) -0.386(2)
+H9A H -0.057(3) 1.335(3) -0.544(2)
+H10A H -0.237(3) 1.210(3) -0.431(2)
+H11A H -0.242(3) 1.425(2) -0.446(2)
+#END

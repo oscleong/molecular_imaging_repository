@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIWMAW01
+_audit_creation_date 2001-11-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIWMAW01
+_database_code_depnum_ccdc_archive 'CCDC 170911'
+_chemical_formula_sum 'C4 H4 N6 O4'
+_chemical_formula_moiety
+;
+C4 H4 N6 O4
+;
+_journal_coeditor_code "IUCr WN6029"
+_journal_coden_Cambridge 1370
+_journal_volume 57
+_journal_year 2001
+_journal_page_first o738
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"R.D.Gilardi"
+"R.J.Butcher"
+_chemical_name_systematic
+;
+2,6-Diamino-3,5-dinitropyrazine
+;
+_cell_volume    733.720
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.812
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 294
+_diffrn_special_details
+;
+the crystals were twinned, the fraction of the minor component being 0.067
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0642
+_refine_ls_wR_factor_gt 0.0642
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -x,-1/2+y,-1/2-z
+_cell_length_a 9.0136(18)
+_cell_length_b 12.960(6)
+_cell_length_c 6.3936(13)
+_cell_angle_alpha 90
+_cell_angle_beta 100.77(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.7327(2) -0.24279(14) 0.2573(4)
+N2 N 0.4980(3) -0.30646(18) 0.2548(4)
+C1 C 0.5874(3) -0.22459(18) 0.2559(4)
+O1 O 0.3445(2) -0.00087(14) 0.2488(4)
+O2 O 0.2907(2) -0.16227(15) 0.2565(5)
+C2 C 0.5366(2) -0.11883(18) 0.2551(4)
+N3 N 0.3822(2) -0.09156(16) 0.2531(4)
+N4 N 0.6293(2) -0.04153(15) 0.2522(4)
+O3 O 0.8104(2) 0.11422(15) 0.2378(5)
+C3 C 0.7718(3) -0.06090(18) 0.2528(5)
+N5 N 0.8674(3) 0.02843(16) 0.2493(4)
+O4 O 1.0021(2) 0.01563(16) 0.2560(5)
+C4 C 0.8293(3) -0.16459(19) 0.2571(4)
+N6 N 0.9713(3) -0.1890(2) 0.2588(5)
+H1 H 0.539(3) -0.375(2) 0.252(4)
+H2 H 0.400(4) -0.295(3) 0.253(6)
+H3 H 1.037(3) -0.146(2) 0.261(5)
+H4 H 0.997(4) -0.247(3) 0.262(6)
+#END

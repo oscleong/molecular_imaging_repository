@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOZNAK
+_audit_creation_date 1999-09-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOZNAK
+_database_code_depnum_ccdc_archive 'CCDC 132781'
+_database_code_depnum_ccdc_journal 207/334
+_chemical_formula_sum 'C12 H11 N5 O1'
+_chemical_formula_moiety
+;
+C12 H11 N5 O1
+;
+_journal_coden_Cambridge 207
+_journal_year 1999
+_journal_page_first 1853
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"B.L.Booth"
+"F.A.T.Costa"
+"Z.Mahmood"
+"R.G.Pritchard"
+"M.F.Proenca"
+_chemical_name_systematic
+;
+(Z)-N-(2-Amino-1,2-dicyanovinyl)formamide O-benzyloxime
+;
+_chemical_melting_point 416.15
+_cell_volume   2539.522
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.262
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0468
+_refine_ls_wR_factor_gt 0.0468
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P -4 21 c'
+_symmetry_Int_Tables_number 114
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2+x,1/2-y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 1/2+y,1/2+x,1/2+z
+6 1/2-y,1/2-x,1/2+z
+7 -y,x,-z
+8 y,-x,-z
+_cell_length_a 19.028(4)
+_cell_length_b 19.028(4)
+_cell_length_c 7.014(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.2002(2) 0.1606(3) 0.3644(7)
+N1 N 0.2379(3) 0.1995(4) 0.2213(9)
+N2 N 0.1284(3) 0.2535(3) 0.1953(9)
+N3 N 0.0869(4) 0.2842(4) -0.2814(11)
+N4 N -0.0477(4) 0.4124(4) -0.0411(12)
+N5 N 0.0335(5) 0.3529(4) 0.3575(12)
+C1 C 0.0831(4) 0.2959(4) 0.082(1)
+C2 C 0.0392(4) 0.3405(4) 0.1680(11)
+C3 C 0.2029(4) 0.0726(4) 0.6002(13)
+C4 C 0.2064(5) 0.0962(5) 0.7841(14)
+H1 H 0.23580 0.13340 0.81610
+C5 C 0.1656(5) 0.0640(5) 0.9216(14)
+H2 H 0.16710 0.08030 1.04650
+C6 C 0.1238(6) 0.0094(6) 0.8778(19)
+H3 H 0.09650 -0.01180 0.97160
+C7 C 0.1217(5) -0.0144(6) 0.699(2)
+H4 H 0.09360 -0.05280 0.66910
+C8 C 0.1601(5) 0.0170(4) 0.5582(16)
+H5 H 0.15710 0.00050 0.43360
+C9 C 0.2444(5) 0.1102(5) 0.4493(14)
+H6 H 0.28500 0.13300 0.50560
+H7 H 0.26070 0.07700 0.35400
+C10 C 0.1974(4) 0.2421(4) 0.1433(10)
+H8 H 0.21500 0.26830 0.04210
+C11 C 0.0836(4) 0.2887(4) -0.1193(13)
+C12 C -0.0104(5) 0.3800(5) 0.0495(13)
+H9 H 0.094(4) 0.213(4) 0.284(11)
+H10 H 0.001(6) 0.359(6) 0.388(16)
+H11 H 0.072(3) 0.318(3) 0.459(8)
+#END

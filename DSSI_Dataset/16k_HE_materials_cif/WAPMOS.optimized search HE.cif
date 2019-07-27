@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAPMOS
+_audit_creation_date 2017-04-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAPMOS
+_database_code_depnum_ccdc_archive 'CCDC 1498264'
+_chemical_formula_sum 'C11 H13 N1 O6'
+_chemical_formula_moiety
+;
+C11 H13 N1 O6
+;
+_journal_coden_Cambridge 469
+_journal_volume 80
+_journal_year 2017
+_journal_page_first 676
+_journal_name_full 'J.Nat.Prod. '
+loop_
+_publ_author_name
+"P.E.Jans"
+"A.M.Mfuh"
+"H.D.Arman"
+"C.V.Shaffer"
+"O.V.Larionov"
+"S.L.Mooberry"
+_chemical_name_systematic
+;
+Ethyl 
+(1aR*,3aS*,7aS*,7bS*)-7a-hydroxy-2-oxo-2,3,3a,7,7a,7b-hexahydro-1aH-oxireno[2'
+,3':5,6]benzo[1,2-e][1,2]oxazine-6-carboxylate
+;
+_chemical_melting_point 339.15
+_cell_volume   1109.320
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.528
+_exptl_special_details
+;
+Melting point range 339.15-343.15K
+antiproliferative and cytotoxic activity
+
+;
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 98
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0458
+_refine_ls_wR_factor_gt 0.0458
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.178(6)
+_cell_length_b 9.854(5)
+_cell_length_c 10.197(5)
+_cell_angle_alpha 90
+_cell_angle_beta 99.010(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.40684(11) 0.86471(12) 0.04160(11)
+O2 O 0.76468(11) 0.86091(12) 0.14791(12)
+N1 N 0.53177(13) 0.86369(14) 0.08799(14)
+O3 O 0.16183(11) 1.02778(13) 0.26681(12)
+O4 O 0.39360(12) 1.13001(12) 0.16944(13)
+C1 C 0.32346(15) 0.89619(18) 0.13406(17)
+O5 O 0.75432(11) 0.93230(13) 0.35616(12)
+C2 C 0.37593(16) 1.00443(17) 0.23307(17)
+C3 C 0.70727(16) 0.90012(17) 0.24587(17)
+C4 C 0.28718(16) 1.03293(18) 0.32750(17)
+C5 C 0.29147(16) 0.76624(18) 0.20176(18)
+O6 O 0.16679(12) 0.69141(13) 0.35743(13)
+C6 C 0.89751(16) 0.8584(2) 0.17907(19)
+C7 C 0.57124(16) 0.90306(17) 0.20646(17)
+C8 C 0.21506(15) 0.78574(18) 0.31123(17)
+C9 C 0.20701(16) 0.92579(18) 0.36529(18)
+C10 C 0.49728(16) 0.95397(18) 0.30713(17)
+C11 C 0.94234(18) 0.8137(2) 0.0547(2)
+H1 H 0.303(2) 1.109(2) 0.388(2)
+H2 H 0.541(2) 1.028(2) 0.361(2)
+H3 H 0.251(2) 0.703(2) 0.135(2)
+H4 H 0.257(2) 0.931(2) 0.072(2)
+H5 H 0.921(2) 0.796(2) 0.254(2)
+H6 H 0.924(2) 0.948(2) 0.205(2)
+H7 H 0.176(2) 0.935(2) 0.448(2)
+H8 H 0.485(2) 0.881(2) 0.368(2)
+H9 H 0.920(2) 0.877(3) -0.018(2)
+H10 H 1.033(2) 0.812(2) 0.070(2)
+H11 H 0.916(2) 0.718(3) 0.028(2)
+H12 H 0.367(2) 0.721(2) 0.246(2)
+H13 H 0.396(2) 1.118(3) 0.087(3)
+#END

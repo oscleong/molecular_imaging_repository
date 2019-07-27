@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CADDIU
+_audit_creation_date 2000-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CADDIU
+_database_code_depnum_ccdc_archive 'CCDC 142783'
+_chemical_formula_sum 'C23 H16 N4 O4'
+_chemical_formula_moiety
+;
+C23 H16 N4 O4
+;
+_journal_coeditor_code "IUCr NA1439"
+_journal_coden_Cambridge 591
+_journal_volume 56
+_journal_year 2000
+_journal_page_first 254
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"G.Bruno"
+"F.Nicolo"
+"M.Panzalorto"
+"M.Gattuso"
+"G.L.La Torre"
+_chemical_name_systematic
+;
+(E)-5-((4-Nitrophenylhydrazono)phenylacetyl)-3-phenylisoxazole
+;
+_chemical_melting_point 422
+_cell_volume   1966.597
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.393
+_exptl_special_details
+;
+Melting point range 422-424K
+
+;
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation 'dichloromethane/methanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 5.787(1)
+_cell_length_b 29.089(3)
+_cell_length_c 11.881(1)
+_cell_angle_alpha 90
+_cell_angle_beta 100.49(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.8535(2) 0.07201(5) 0.88060(11)
+N1 N 0.8998(3) 0.05888(6) 0.99588(14)
+C1 C 0.6952(3) 0.05817(6) 1.02930(15)
+C2 C 0.5123(3) 0.07198(6) 0.93893(15)
+H1 H 0.35320 0.07490 0.94110
+C3 C 0.6201(3) 0.08003(6) 0.84946(16)
+C4 C 0.5523(3) 0.09232(6) 0.72602(16)
+O2 O 0.6775(2) 0.07956(5) 0.65995(11)
+C5 C 0.3423(3) 0.12078(6) 0.68579(15)
+C6 C 0.2777(3) 0.13099(6) 0.56121(14)
+C7 C 0.0650(3) 0.11653(7) 0.49840(17)
+H2 H -0.04070 0.10060 0.53420
+C8 C 0.0098(4) 0.12576(8) 0.38234(18)
+H3 H -0.13340 0.11620 0.34010
+C9 C 0.1674(5) 0.14915(8) 0.32957(18)
+H4 H 0.13040 0.15510 0.25140
+C10 C 0.3775(4) 0.16377(8) 0.39078(18)
+H5 H 0.48200 0.18000 0.35470
+C11 C 0.4334(3) 0.15449(7) 0.50557(17)
+H6 H 0.57750 0.16400 0.54690
+N2 N 0.2370(2) 0.13680(5) 0.76546(12)
+N3 N 0.0546(2) 0.16550(5) 0.73490(12)
+H7 H 0.00970 0.17270 0.66410
+C12 C 0.6840(3) 0.04363(6) 1.14708(15)
+C13 C 0.4950(3) 0.05505(7) 1.19838(17)
+H8 H 0.37070 0.07190 1.15770
+C14 C 0.4895(3) 0.04160(8) 1.30928(18)
+H9 H 0.36310 0.04980 1.34340
+C15 C 0.6713(4) 0.01607(8) 1.36954(18)
+H10 H 0.66810 0.00710 1.44440
+C16 C 0.8579(4) 0.00378(7) 1.31875(18)
+H11 H 0.97960 -0.01390 1.35890
+C17 C 0.8645(3) 0.01749(6) 1.20877(17)
+H12 H 0.99160 0.00920 1.17520
+C18 C -0.0614(3) 0.18357(6) 0.81716(14)
+C19 C -0.2554(3) 0.21144(6) 0.78165(15)
+H13 H -0.30130 0.21820 0.70430
+C20 C -0.3811(3) 0.22922(6) 0.85954(15)
+H14 H -0.51190 0.24770 0.83560
+C21 C -0.3090(3) 0.21899(6) 0.97339(16)
+N4 N -0.4360(4) 0.23844(7) 1.05652(16)
+O3 O -0.3765(4) 0.22739(7) 1.15683(14)
+O4 O -0.5933(3) 0.26640(6) 1.02438(13)
+C22 C -0.1163(4) 0.19186(8) 1.00953(17)
+H15 H -0.07050 0.18540 1.08700
+C23 C 0.0090(4) 0.17408(7) 0.93264(15)
+H16 H 0.14020 0.15580 0.95750
+#END

@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAYGEW
+_audit_creation_date 2006-01-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAYGEW
+_database_code_depnum_ccdc_archive 'CCDC 289813'
+_chemical_formula_sum 'C10 H8 N2 O5'
+_chemical_formula_moiety
+;
+C10 H8 N2 O5
+;
+_journal_coeditor_code "IUCr LH6526"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first o3849
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"J.L.Wardell"
+"J.M.S.Skakle"
+"J.N.Low"
+"C.Glidewell"
+_chemical_name_systematic
+;
+(E)-3-((4-Nitrophenylamino)carbonyl)prop-2-enoic acid
+;
+_chemical_melting_point 472
+_cell_volume   1021.406
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.536
+_exptl_special_details
+;
+Melting point range 472-474K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 291
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0464
+_refine_ls_wR_factor_gt 0.0464
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 9.6052(7)
+_cell_length_b 12.8416(10)
+_cell_length_c 9.0921(7)
+_cell_angle_alpha 90
+_cell_angle_beta 114.388(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.72801(13) 0.03077(9) 0.65778(16)
+O2 O 1.28952(17) 0.24682(13) 0.4548(2)
+O3 O 1.22748(17) 0.40730(12) 0.45950(19)
+O4 O 0.54851(15) -0.10562(9) 0.68397(18)
+O5 O 0.36370(16) -0.1033(1) 0.7637(2)
+N1 N 0.74726(15) 0.20691(11) 0.67282(18)
+N2 N 1.21330(18) 0.31419(15) 0.4797(2)
+C1 C 0.68626(19) 0.11613(13) 0.6895(2)
+C2 C 0.5665(2) 0.12856(14) 0.7505(2)
+C3 C 0.47741(19) 0.05686(14) 0.7728(2)
+C4 C 0.4612(2) -0.05654(14) 0.7397(2)
+C5 C 0.86599(18) 0.22698(13) 0.6247(2)
+C6 C 0.9471(2) 0.15067(14) 0.5844(2)
+C7 C 1.0627(2) 0.17921(15) 0.5391(2)
+C8 C 1.09543(19) 0.28272(14) 0.5340(2)
+C9 C 1.01897(19) 0.35913(14) 0.5764(2)
+C10 C 0.9034(2) 0.33121(13) 0.6206(2)
+H1 H 0.70740 0.26130 0.69510
+H2 H 0.55130 0.19630 0.77710
+H3 H 0.41310 0.08270 0.81750
+H4 H 0.92370 0.08070 0.58790
+H5 H 1.11760 0.12870 0.51240
+H6 H 1.04490 0.42880 0.57520
+H7 H 0.84990 0.38240 0.64800
+H8 H 0.60740 -0.06410 0.67110
+#END

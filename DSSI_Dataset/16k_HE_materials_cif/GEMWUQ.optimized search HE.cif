@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GEMWUQ
+_audit_creation_date 2001-04-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GEMWUQ
+_chemical_formula_sum 'C19 H10 N2 O3'
+_chemical_formula_moiety
+;
+C19 H10 N2 O3
+;
+_journal_coden_Cambridge 16
+_journal_volume 55
+_journal_year 1999
+_journal_page_first 13513
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"R.W.Rickards"
+"J.M.Rothschild"
+"A.C.Willis"
+"N.M.de Chazal"
+"J.Kirk"
+"K.Kirk"
+"K.J.Saliba"
+"G.D.Smith"
+_chemical_name_systematic
+;
+Calothrixin A
+;
+_chemical_melting_point 553.15
+_cell_volume   1367.278
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.527
+_exptl_special_details
+;
+Melts with decomposition.
+potent activity against malaria parasites and human cancer cells
+;
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'dimethylsulfoxide'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.055
+_refine_ls_wR_factor_gt 0.055
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.887(4)
+_cell_length_b 27.444(3)
+_cell_length_c 7.240(3)
+_cell_angle_alpha 90
+_cell_angle_beta 92.33(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.3028(7) 0.3634(2) 0.0497(9)
+O2 O 0.3524(7) 0.1867(2) 0.0911(9)
+O3 O 1.0513(7) 0.2486(2) 0.3708(9)
+N1 N 0.4380(8) 0.3344(2) 0.118(1)
+N2 N 0.9580(8) 0.1474(2) 0.3320(9)
+C1 C 0.933(1) 0.3470(3) 0.330(1)
+C2 C 0.946(1) 0.3964(3) 0.338(1)
+C3 C 0.793(1) 0.4257(3) 0.273(1)
+C4 C 0.626(1) 0.4054(3) 0.201(1)
+C5 C 0.612(1) 0.3547(3) 0.193(1)
+C6 C 0.413(1) 0.2860(3) 0.112(1)
+C7 C 0.559(1) 0.2541(3) 0.175(1)
+C8 C 0.510(1) 0.2009(3) 0.158(1)
+C9 C 0.660(1) 0.1677(3) 0.221(1)
+C10 C 0.670(1) 0.1155(3) 0.229(1)
+C11 C 0.543(1) 0.0771(3) 0.188(1)
+C12 C 0.606(1) 0.0306(3) 0.217(1)
+C13 C 0.796(1) 0.0205(3) 0.283(1)
+C14 C 0.926(1) 0.0569(3) 0.327(1)
+C15 C 0.862(1) 0.1043(3) 0.299(1)
+C16 C 0.837(1) 0.1855(3) 0.285(1)
+C17 C 0.893(1) 0.2364(3) 0.307(1)
+C18 C 0.739(1) 0.2717(3) 0.246(1)
+C19 C 0.764(1) 0.3230(3) 0.258(1)
+H1 H 1.04660 0.32700 0.37550
+H2 H 1.06680 0.41190 0.39210
+H3 H 0.80590 0.46200 0.28000
+H4 H 0.51630 0.42640 0.15460
+H5 H 0.28730 0.27240 0.06040
+H6 H 0.40780 0.08370 0.13740
+H7 H 0.51440 0.00290 0.19080
+H8 H 0.83760 -0.01420 0.29940
+H9 H 1.06040 0.04970 0.37600
+H10 H 1.08790 0.15040 0.37990
+#END

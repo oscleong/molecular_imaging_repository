@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KASVOR
+_audit_creation_date 2012-03-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KASVOR
+_database_code_depnum_ccdc_archive 'CCDC 822361'
+_chemical_formula_sum 'C4 H6 N6 O10'
+_chemical_formula_moiety
+;
+C4 H6 N6 O10
+;
+_journal_coden_Cambridge 1145
+_journal_volume 22
+_journal_year 2012
+_journal_page_first 3201
+_journal_name_full 'J.Mater.Chem. '
+loop_
+_publ_author_name
+"Jinhong Song"
+"Zhiming Zhou"
+"Xiao Dong"
+"Haifeng Huang"
+"Dan Cao"
+"Lixuan Liang"
+"Kai Wang"
+"Jun Zhang"
+"Fu-xue Chen"
+"Yukai Wu"
+_chemical_name_systematic
+;
+bis(2,2-Dinitroethyl)nitramine
+;
+_cell_volume   1099.538
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.801
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 113
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0507
+_refine_ls_wR_factor_gt 0.0507
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.363(13)
+_cell_length_b 5.876(5)
+_cell_length_c 15.136(16)
+_cell_angle_alpha 90
+_cell_angle_beta 90.31(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.9714(1) 1.0542(2) 0.68134(8)
+O2 O 0.86320(13) 0.6785(3) 0.48186(9)
+O3 O 0.87295(12) 0.3349(3) 0.52926(9)
+O4 O 0.70101(10) 0.4355(2) 0.64921(8)
+O5 O 0.81306(9) 0.4244(2) 0.75970(8)
+N1 N 1.00000 0.9594(4) 0.75000
+N2 N 1.00000 0.7274(3) 0.75000
+N3 N 0.86481(11) 0.5376(3) 0.53991(10)
+N4 N 0.78699(11) 0.4791(3) 0.68476(9)
+C1 C 0.98113(13) 0.6134(3) 0.66639(11)
+H1 H 1.00170 0.45130 0.67270
+H2 H 1.02890 0.68160 0.62130
+C2 C 0.86460(13) 0.6260(3) 0.63328(11)
+H3 H 0.83930 0.78760 0.63390
+O1A O 1.0286(1) 1.0542(2) 0.81866(8)
+O2A O 1.13680(13) 0.6785(3) 1.01814(9)
+O3A O 1.12705(12) 0.3349(3) 0.97074(9)
+O4A O 1.29899(10) 0.4355(2) 0.85079(8)
+O5A O 1.18694(9) 0.4244(2) 0.74030(8)
+N3A N 1.13519(11) 0.5376(3) 0.96009(10)
+N4A N 1.21301(11) 0.4791(3) 0.81524(9)
+C1A C 1.01887(13) 0.6134(3) 0.83361(11)
+H1A H 0.99830 0.45130 0.82730
+H2A H 0.97110 0.68160 0.87870
+C2A C 1.13540(13) 0.6260(3) 0.86672(11)
+H3A H 1.16070 0.78760 0.86610
+#END

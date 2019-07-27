@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UGARUS
+_audit_creation_date 2018-08-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UGARUS
+_database_code_depnum_ccdc_archive 'CCDC 1584461'
+_chemical_formula_sum 'C9 H9 N1 O3'
+_chemical_formula_moiety
+;
+C9 H9 N1 O3
+;
+_journal_coden_Cambridge 469
+_journal_volume 81
+_journal_year 2018
+_journal_page_first 1534
+_journal_name_full 'J.Nat.Prod. '
+loop_
+_publ_author_name
+"Fang-Rong Chang"
+"Pei-Shian Li"
+"Rosa Huang Liu"
+"Hao-Chun Hu"
+"Tsong-Long Hwang"
+"Jin-Ching Lee"
+"Shu-Li Chen"
+"Yang-Chang Wu"
+"Yuan-Bin Cheng"
+_chemical_name_systematic
+;
+1-(4-hydroxyphenyl)-2-(methoxyimino)ethan-1-one
+;
+_chemical_name_common
+;
+buxifoxime A
+;
+_cell_volume   1865.396
+_exptl_crystal_density_diffrn 1.276
+_exptl_special_details
+;
+anti-inflammatory activity
+
+;
+_exptl_crystal_preparation 'Re-crystallisation from solvent'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0447
+_refine_ls_wR_factor_gt 0.0447
+_chemical_compound_source
+;
+Atalantia buxifolia
+;
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 -x,-y,-z
+6 -1/2+x,y,-1/2-z
+7 x,-1/2-y,-1/2+z
+8 -1/2-x,-1/2+y,z
+_cell_length_a 8.7826(2)
+_cell_length_b 13.1341(4)
+_cell_length_c 16.1714(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.16093(17) 0.21562(12) 0.20663(7)
+O2 O 0.11885(17) 0.40182(12) 0.56503(8)
+H1 H 0.164(4) 0.378(2) 0.605(2)
+O3 O 0.48647(19) -0.00027(13) 0.19583(9)
+N1 N 0.37217(18) 0.07172(13) 0.19390(9)
+C1 C 0.20039(18) 0.24098(13) 0.34954(10)
+C2 C 0.1004(2) 0.32396(14) 0.35154(10)
+H2 H 0.05010 0.34430 0.30220
+C3 C 0.0739(2) 0.37623(14) 0.42325(10)
+H3 H 0.00570 0.43230 0.42340
+C4 C 0.14678(19) 0.34737(14) 0.49633(10)
+C5 C 0.2447(2) 0.26369(15) 0.49589(10)
+H4 H 0.29310 0.24270 0.54560
+C6 C 0.2713(2) 0.21135(15) 0.42331(10)
+H5 H 0.33840 0.15460 0.42340
+C7 C 0.2292(2) 0.19068(14) 0.26933(10)
+C8 C 0.3470(2) 0.10949(14) 0.26482(10)
+H6 H 0.40060 0.08710 0.31250
+C9 C 0.5050(3) -0.0440(2) 0.11588(15)
+H7 H 0.58630 -0.09510 0.11760
+H8 H 0.53180 0.00940 0.07620
+H9 H 0.40950 -0.07650 0.09880
+#END

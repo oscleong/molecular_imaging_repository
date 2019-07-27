@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BODFEF
+_audit_creation_date 1983-06-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BODFEF
+_database_code_depnum_ccdc_archive 'CCDC 1112953'
+_chemical_formula_sum 'C3 H8 N4 O2'
+_chemical_formula_moiety
+;
+C3 H8 N4 O2
+;
+_journal_coden_Cambridge 644
+_journal_volume 37
+_journal_year 1982
+_journal_page_first 1255
+_journal_name_full 'Z.Naturforsch.,B:Chem.Sci. '
+loop_
+_publ_author_name
+"H.Endres"
+"N.Kadkhodai-Elyaderani"
+_chemical_name_systematic
+;
+Malonenamide oxime
+;
+_cell_volume   1174.676
+_exptl_crystal_density_diffrn 1.49
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.686(4)
+_cell_length_b 9.520(6)
+_cell_length_c 14.306(8)
+_cell_angle_alpha 90
+_cell_angle_beta 96.79(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.36590 0.16430 0.39370
+C2 C 0.20570 0.16760 0.34000
+C3 C 0.21390 0.15480 0.23620
+N1 N 0.41470 0.27460 0.43740
+N2 N 0.44690 0.04420 0.38920
+N3 N 0.16830 0.03830 0.19820
+N4 N 0.26520 0.26780 0.19180
+O1 O 0.56990 0.24970 0.48150
+O2 O 0.18510 0.03830 0.09970
+H1 H 0.59000 0.32000 0.51800
+H2 H 0.55500 0.04100 0.41500
+H3 H 0.41100 -0.02800 0.36900
+H4 H 0.14900 0.24900 0.34500
+H5 H 0.12800 0.08400 0.35700
+H6 H 0.31400 0.34000 0.23600
+H7 H 0.30900 0.26400 0.13400
+H8 H 0.15200 -0.05500 0.08600
+#END

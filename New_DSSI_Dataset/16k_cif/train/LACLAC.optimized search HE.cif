@@ -1,0 +1,113 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LACLAC
+_audit_creation_date 1993-09-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LACLAC
+_chemical_formula_sum 'C8 H7 N3 O5'
+_chemical_formula_moiety
+;
+C8 H7 N3 O5
+;
+_journal_coden_Cambridge 41
+_journal_volume 37
+_journal_year 1992
+_journal_page_first 657
+_journal_name_full 'Kristallografiya(Russ.)(Crystallogr.Rep.) '
+loop_
+_publ_author_name
+"A.E.Obodovskaya"
+"Z.A.Starikova"
+_chemical_name_systematic
+;
+\a-3,5-Dinitro-2-methylbenzamide
+;
+_chemical_name_common
+;
+Coccidine
+;
+_chemical_melting_point 453.15
+_cell_volume    944.901
+_exptl_crystal_colour 'yellow'
+_exptl_special_details
+;
+Melting point range 453.15-454.15K
+Value for b is 6.289. According to the author N1 is correct. There may be a 
+discrepancy for C6-C8
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 13.499(3)
+_cell_length_b 6.289(1)
+_cell_length_c 11.151(6)
+_cell_angle_alpha 90
+_cell_angle_beta 93.5(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.0912(1) 0.2937(3) 0.1664(2)
+O2 O 0.2374(2) 0.4322(3) 0.1662(2)
+O3 O 0.5076(1) -0.2023(3) 0.4369(2)
+O4 O 0.5099(1) -0.0241(4) 0.2737(2)
+O5 O 0.1020(1) -0.5045(3) 0.4009(2)
+N1 N 0.1799(2) 0.2941(3) 0.1953(2)
+N2 N 0.4652(1) -0.1044(3) 0.3547(2)
+N3 N 0.0757(2) -0.2594(3) 0.5424(2)
+C1 C 0.3206(1) 0.0907(3) 0.2819(2)
+C2 C 0.1552(1) -0.0145(4) 0.3264(2)
+C3 C 0.1941(1) -0.1832(3) 0.3942(2)
+C4 C 0.2199(2) 0.1191(3) 0.2711(2)
+C5 C 0.3568(1) -0.0795(3) 0.3498(2)
+C6 C 0.2965(2) -0.2228(3) 0.4081(2)
+C7 C 0.1206(2) -0.3315(4) 0.4478(2)
+C8 C 0.3347(2) -0.4109(4) 0.4797(2)
+H1 H 0.088(2) -0.133(5) 0.573(3)
+H2 H 0.016(2) -0.339(4) 0.569(2)
+H3 H 0.363(2) 0.184(4) 0.245(2)
+H4 H 0.080(2) 0.007(4) 0.316(2)
+H5 H 0.388(2) -0.489(4) 0.443(2)
+H6 H 0.372(2) -0.338(4) 0.549(2)
+H7 H 0.282(2) -0.502(4) 0.494(2)
+#END
